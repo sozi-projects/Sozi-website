@@ -7,7 +7,7 @@ Status: hidden
 Zooming in or out
 -----------------
 
-The field ``Zoom (%)`` allows to set a zoom effect during
+The field `Zoom (%)` allows to set a zoom effect during
 a transition. Fill this field with:
 
 - a positive value to zoom in,

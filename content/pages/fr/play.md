@@ -52,7 +52,7 @@ Naviguer dans une présentation
 </table>
 
 Lorsque vous souhaitez passer d'une vue à l'autre en utilisant les touches du clavier,
-vous pouvez presser la touche ``Shift`` (``Maj.``) simultanément pour sauter à la vue
+vous pouvez presser la touche `Shift` (`Maj.`) simultanément pour sauter à la vue
 de destination sans animer la transition.
 
 Actions directes sur le canevas

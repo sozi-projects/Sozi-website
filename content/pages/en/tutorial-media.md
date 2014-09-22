@@ -8,7 +8,7 @@ You can insert video and audio into a Sozi presentation,
 or even into any SVG document, using the *Add video or audio* extension
 in the *Sozi extras* extensions submenu.
 
-Technically, this feature relies on the HTML5 &lt;video&gt; and &lt;audio&gt;
+Technically, this feature relies on the HTML5 `<video>` and `<audio>`
 elements that can be embedded into SVG documents.
 Web browsers do not support the same set of media formats.
 See the follwing page for more information:

@@ -18,7 +18,7 @@ Download the scripts
 and [sozi2pdf.js](https://github.com/senshu/Sozi/raw/dev/tools/sozi2pdf/sozi2pdf.js).
 You can install them wherever you want, but both scripts must be in the same folder.
 
-``sozi2pdf`` depends on the following software:
+`sozi2pdf` depends on the following software:
 
 * [Python 2.7](http://python.org/download/)
 * [PhantomJS](http://phantomjs.org/)
@@ -29,9 +29,9 @@ To convert a presentation to a PDF document using A4 page size, run the followin
     :::sh
     python /path/to/sozi2pdf.py my_sozi_presentation.svg
 
-This will create a new file named ``my_sozi_presentation.pdf``.
+This will create a new file named `my_sozi_presentation.pdf`.
 
-If you want to convert only some frames of your document, you can use the ``--include`` and ``--exclude`` options.
+If you want to convert only some frames of your document, you can use the `--include` and `--exclude` options.
 These options accept a comma-separated list of frame numbers:
 
     :::sh
@@ -46,8 +46,8 @@ Long lists of frame numbers can be shortened using ranges:
         --include=3,5:8,10:12:18 \
         my_sozi_presentation.svg
 
-* ``5:8`` will expand to ``5,6,7,8``
-* ``10:12:18`` will expand to ``10,12,14,16,18``
+* `5:8` will expand to `5,6,7,8`
+* `10:12:18` will expand to `10,12,14,16,18`
 
 A complete list of options can be displayed by running this command:
 
@@ -63,7 +63,7 @@ Download the scripts
 and [sozi2video.js](https://github.com/senshu/Sozi/raw/dev/tools/sozi2video/sozi2video.js).
 You can install them wherever you want, but both scripts must be in the same folder.
 
-``sozi2video`` depends on the following software:
+`sozi2video` depends on the following software:
 
 * [Python 2.7](http://python.org/download/)
 * [PhantomJS](http://phantomjs.org/)
@@ -75,7 +75,7 @@ run the following command:
     :::sh
     python /path/to/sozi2video.py my_sozi_presentation.svg
 
-This will create a new file named ``my_sozi_presentation.ogv``.
+This will create a new file named `my_sozi_presentation.ogv`.
 
 The tool provides options to control the video format and dimensions.
 This example will create a 720p MP4 video: 

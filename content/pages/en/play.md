@@ -50,7 +50,7 @@ Moving through the presentation
 </table>
 
 When using the keyboard to navigate through the presentation, you can
-hold the ``Shift`` key to jump to the destination frame with no transition animation.
+hold the `Shift` key to jump to the destination frame with no transition animation.
 
 Direct actions on the canvas
 ----------------------------

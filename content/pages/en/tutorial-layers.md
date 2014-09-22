@@ -34,19 +34,19 @@ You can open the layers dialog by clicking on the *View layers* button in the to
 
 In this example, the document contains three layers:
 
-* ``Text``: the foreground layer.
-* ``Landscape``: the intermediate layer.
-* ``Sky``: the background layer.
+* `Text`: the foreground layer.
+* `Landscape`: the intermediate layer.
+* `Sky`: the background layer.
 
 You can show or hide a layer by clicking on the corresponding "eye" icon in the *Layers* dialog.
-In the screenshot above, only the ``Text`` layer is visible.
+In the screenshot above, only the `Text` layer is visible.
 
 Create the frames of the Sozi presentation
 ------------------------------------------
 
 In the first place, we will proceed as if we were creating a presentation with no layers.
 
-1. Select the four rectangles in the ``Text`` layer, from right to left.
+1. Select the four rectangles in the `Text` layer, from right to left.
 2. Open the Sozi editor.
 3. Create four frames as shown below.
 4. Click the *Ok* button to close the Sozi editor.
@@ -57,9 +57,9 @@ In the first place, we will proceed as if we were creating a presentation with n
 Add a fixed layer
 -----------------
 
-Now, we will select a region of the ``Landscape`` layer containing the fixed elements of our presentation.
+Now, we will select a region of the `Landscape` layer containing the fixed elements of our presentation.
 
-1. Select the rectangle in the ``Landscape`` layer.
+1. Select the rectangle in the `Landscape` layer.
 2. Open the Sozi editor.
 3. Select the first frame.
 4. Below the frame list, click on the arrow button *Create a new frame or add a layer* and select *Add layer 'Landscape'*.
@@ -76,9 +76,9 @@ Click the *Ok* button to close the Sozi editor.
 Add an animated layer
 ---------------------
 
-Finally, the ``Sky`` layer will serve as an animated background.
+Finally, the `Sky` layer will serve as an animated background.
 
-1. Select the four rectangles in the ``Landscape`` layer, from the top-right to the bottom-left.
+1. Select the four rectangles in the `Landscape` layer, from the top-right to the bottom-left.
 2. Open the Sozi editor.
 3. Select the first frame.
 4. Below the frame list, click on the arrow button *Create a new frame or add a layer* and select *Add layer 'Sky'*.

@@ -18,7 +18,7 @@ Téléchargez les scripts
 et [sozi2pdf.js](https://github.com/senshu/Sozi/raw/dev/tools/sozi2pdf/sozi2pdf.js).
 Vous pouvez les installer où vous voulez, mais les deux scripts doivent être dans le même dossier.
 
-``sozi2pdf`` dépend des logiciels suivants :
+`sozi2pdf` dépend des logiciels suivants :
 
 * [Python 2.7](http://python.org/download/)
 * [PhantomJS](http://phantomjs.org/)
@@ -29,9 +29,9 @@ Pour convertir une présentation en un document PDF de format A4, lancez les com
     :::sh
     python /path/to/sozi2pdf.py my_sozi_presentation.svg
 
-Un nouveau document nommé ``my_sozi_presentation.pdf`` sera créé.
+Un nouveau document nommé `my_sozi_presentation.pdf` sera créé.
 
-Si vous ne voulez convertir que certains calques de votre document, vous pouvez utilier les options ``-include`` et ``--exclude``.
+Si vous ne voulez convertir que certains calques de votre document, vous pouvez utilier les options `-include` et `--exclude`.
 Ces options acceptent une liste de numéros de calques séparés par des virgules :
 
     :::sh
@@ -46,8 +46,8 @@ De longues listes de numéros de calques peuvent être raccourcies à l'aide de 
         --include=3,5:8,10:12:18 \
         my_sozi_presentation.svg
 
-* ``5:8`` correspont à ``5,6,7,8``
-* ``10:12:18`` correspond à ``10,12,14,16,18``
+* `5:8` correspont à `5,6,7,8`
+* `10:12:18` correspond à `10,12,14,16,18`
 
 Une liste complète des options est disponible via la commande suivante :
 
@@ -62,7 +62,7 @@ Téléchargez les scripts
 et [sozi2video.js](https://github.com/senshu/Sozi/raw/dev/tools/sozi2video/sozi2video.js).
 Vous pouvez les installer où vous voulez, mais les deux scripts doivent être dans le même dossier.
 
-``sozi2video`` dépend des logiciels suivants:
+`sozi2video` dépend des logiciels suivants:
 
 * [Python 2.7](http://python.org/download/)
 * [PhantomJS](http://phantomjs.org/)
@@ -74,7 +74,7 @@ utilisez la commande suivante:
     :::sh
     python /path/to/sozi2video.py my_sozi_presentation.svg
 
-Un nouveau fichier nommé ``my_sozi_presentation.ogv`` sera créé.
+Un nouveau fichier nommé `my_sozi_presentation.ogv` sera créé.
 
 L'outil propose des options pour contrôler le format et les dimensions de la vidéo.
 Cet exemple crée une vidéo 720p en MP4.

@@ -22,7 +22,7 @@ Create frames
 Select all five rectangles and open Sozi from the *Extensions* menu.
 Create a frame for each rectangle.
 To help you identify each rectangle easily, we have already set their Ids to match their colors
-(e.g the Id of the *blue* rectangle is ``blue-rect``).
+(e.g the Id of the *blue* rectangle is `blue-rect`).
 
 ![Create a frame for each rectangle](|filename|/images/tutorial-links/sozi-links-tutorial-screenshot-02.png)
 
@@ -76,9 +76,9 @@ In the example above the address bar shows the URL:
 
     file://.../sozi-links-tutorial-full.svg#green-frame
 
-If your document is served by a web server, the first element will be ``http`` or ``https`` instead of ``file``.
-The last elements of the URL are the SVG file name followed by a *hash* character (``#``)
-and the Id of the current frame (``green-frame``).
+If your document is served by a web server, the first element will be `http` or `https` instead of `file`.
+The last elements of the URL are the SVG file name followed by a *hash* character (`#`)
+and the Id of the current frame (`green-frame`).
 
 As a result, if you are sharing a presentation on the web, it will be possible to make a
 direct link to any frame with a given Id.
@@ -96,8 +96,8 @@ Now right-click on the red circle again and choose *Link Properties*.
 ![Editing a link in Inkscape](|filename|/images/tutorial-links/sozi-links-tutorial-screenshot-05.png)
 
 The following dialog allows to edit several attributes of the selected link.
-To create a link to the frame enclosed in the red rectangle, we only need to set the ``Href`` attribute to
-``#red-frame``. You can proceed similarly for the other three circles.
+To create a link to the frame enclosed in the red rectangle, we only need to set the `Href` attribute to
+`#red-frame`. You can proceed similarly for the other three circles.
 
 ![Setting the href attribute of a link](|filename|/images/tutorial-links/sozi-links-tutorial-screenshot-06.png)
 
