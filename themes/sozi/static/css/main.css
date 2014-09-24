@@ -165,6 +165,11 @@ ol {
     display: inline;
 }
 
+#menu a img {
+    display: inline;
+    box-shadow: none;
+}
+
 /*
  * Blog post list
  */

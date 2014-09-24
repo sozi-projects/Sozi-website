@@ -39,11 +39,14 @@
                     {% endfor %}
                 {% endif %}
             {% endfor %}
+            {% if BITCOIN_ADDRESS %}
+                <li>{% include 'bitcoin.html' %}</li>
+            {% endif %}
             {% if FLATTR_URL %}
                 <li>{% include 'flattr-button.html' %}</li>
             {% endif %}
             {% if PAYPAL_KEY %}
-                {% include 'paypal.html' %}
+                <li>{% include 'paypal.html' %}</li>
             {% endif %}
         </ul>
     </nav><!-- /#menu -->
