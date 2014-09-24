@@ -21,7 +21,7 @@ Vous pouvez les installer où vous voulez, mais les deux scripts doivent être d
 `sozi2pdf` dépend des logiciels suivants :
 
 * [Python 2.7](http://python.org/download/)
-* [PhantomJS](http://phantomjs.org/)
+* [PhantomJS 1.9](http://phantomjs.org/)
 * [PDFjam](http://www2.warwick.ac.uk/fac/sci/statistics/staff/academic-research/firth/software/pdfjam), disponible dans la plupart des distributions GNU/Linux.
 
 Pour convertir une présentation en un document PDF de format A4, lancez les commandes suivantes :
@@ -65,7 +65,7 @@ Vous pouvez les installer où vous voulez, mais les deux scripts doivent être d
 `sozi2video` dépend des logiciels suivants:
 
 * [Python 2.7](http://python.org/download/)
-* [PhantomJS](http://phantomjs.org/)
+* [PhantomJS 1.9](http://phantomjs.org/)
 * [FFmpeg](http://ffmpeg.org/) or [libav](https://libav.org/), disponible dans la plupart des distributions GNU/Linux.
 
 Pour convertir une présentation en un fichier vidéo [Ogg](https://en.wikipedia.org/wiki/Ogg) de dimension 1024x768,
