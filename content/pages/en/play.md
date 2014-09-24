@@ -82,3 +82,9 @@ Direct actions on the canvas
     </tr>
 </table>
 
+Getting help and reporting issues
+---------------------------------
+
+* [Frequently Asked Questions](|filename|faq.md)
+* [Join the Sozi users discussion group](http://groups.google.com/group/sozi-users)
+* [Report issues and propose new features](http://github.com/senshu/Sozi/issues)
