@@ -1,4 +1,4 @@
-Title: Frequently Asked Questions
+Title: Frequently Asked Questions and Troubleshooting
 Slug: faq
 Lang: en
 Author: Guillaume Savaton
@@ -25,3 +25,25 @@ the issue is likely to come from either your SVG editor or your web browser.
 Please do not send us bug reports on this topic unless you have strong
 reasons to believe that the bug is in Sozi.
 If unsure, you can ask for advice on [the Sozi users discussion group](http://groups.google.com/group/sozi-users).
+
+
+Inkscape reports a syntax error when running Sozi
+-------------------------------------------------
+
+This problem has been reported mainly by Windows users.
+When running Sozi from the Inkscape extensions menu, a dialog shows the following error:
+
+    :::pytb
+    Traceback (most recent call last):
+      File "sozi.py", line 30, in from sozi.document import *
+      File "C:\Program Files (x86)\Inkscape\share\extensions\sozi\document.py", line 96
+        self.layers = { l.attrib[group_attr] : SoziLayer(self, l) for l in self.xml.xpath("sozi:layer", namespaces=inkex.NSS) if group_attr in l.attrib }
+    SyntaxError: invalid syntax
+
+This error happens when Inkscape tries to run Sozi using Python 2.6 instead of Python 2.7.
+Usually, it means that Python 2.7 has not been installed, or not at the correct location.
+Check that you have followed the [installation instructions](http://sozi.baierouge.fr/pages/install-windows.html)
+correctly.
+
+Though this has not been confirmed, it seems that some users experience this problem when installing the
+*portable* version of Inkscape. Please use the *installer* instead.

@@ -1,4 +1,4 @@
-Title: Questions fréquentes
+Title: Questions fréquentes et résolution des problèmes
 Slug: faq
 Lang: fr
 Author: Guillaume Savaton

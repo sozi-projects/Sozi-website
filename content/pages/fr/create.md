@@ -23,7 +23,7 @@ Tutoriels
 Obtenir de l'aide et signaler un problème
 -----------------------------------------
 
-* [Foire Aux Questions](|filename|faq.md)
+* [Foire Aux Questions et résolution des problèmes](|filename|faq.md)
 * [Rejoindre le groupe de discussion des utilisateurs de Sozi](http://groups.google.com/group/sozi-users)
 * [Signaler un problème et proposer de nouvelles fonctionnalités](http://github.com/senshu/Sozi/issues)
 
