@@ -68,6 +68,10 @@ Notice that the field *SVG element* has been automatically filled with the Id of
 If you want to change the SVG element attached to a given frame, you can edit the *SVG element* field manually or,
 after selecting another rectangle in Inkscape, use the *Paste* icon on the left.
 
+> The *Id* field must contain a unique identifier for the current frame.
+> A frame cannot have the same Id as another frame or an SVG element in the same document.
+> Particularly, it is an error to give the same Id to a frame and to its corresponding SVG element.
+
 ![The frame editor](|filename|/images/tutorial-first/sozi-tutorial-screenshot-07.png)
 
 Close the presentation editor using the *OK* button.

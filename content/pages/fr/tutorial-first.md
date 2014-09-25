@@ -66,6 +66,10 @@ Remarquez que le champ *Élément SVG* a été automatiquement complété avec l
 (`rect3816` dans notre exemple).
 Pour lier la vue à un autre rectangle, vous pouvez modifier manuellement le champs *Élément SVG*, ou, après avoir sélectionné un autre rectangle dans Inkscape, utiliser l'iĉone *Coller* sur la gauche.
 
+> Le champ *Id* doit contenir un identifiant unique pour désigner la vue courante.
+> Une vue ne peut pas avoir le même Id qu'une autre vue ou qu'un élément SVG du même document.
+> En particulier, c'est une erreur de donner le même Id à une vue et à l'élément SVG qui lui est associé.
+
 ![L'éditeur de présentation](|filename|/images/tutorial-first/sozi-tutorial-screenshot-07.png)
 
 Fermez l'éditeur de présentation Sozi en cliquant sur le bouton *OK*.
