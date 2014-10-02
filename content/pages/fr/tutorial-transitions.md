@@ -16,7 +16,7 @@ une transition. Ce champ se remplit avec:
 
 La valeur de ce champ est relative 
 au niveau d'agrandissement de la source ou du cadre cible de la transition.
-Les diagrammes suivants illustrent cette propriété:
+Les diagrammes suivants illustrent cette fonction:
 
 
 Fonction délais
