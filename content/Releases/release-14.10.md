@@ -24,7 +24,7 @@ The editor for Sozi 14 has been developed with the following concerns:
 
 * It is no longer an Inkscape extension, and is not tied to a specific SVG editor.
 * Its user interface includes a preview of the presentation rather than only a form.
-* For a gien frame, you can select the visible area in each layer without drawing rectangles.
+* For a given frame, you can select the visible area in each layer without drawing rectangles.
 * It does not modify the original SVG document but saves the presentation in a separate file.
 * It is easier to install in Windows and OS X.
 * It is based on web technologies (HTML, JavaScript, SVG).
