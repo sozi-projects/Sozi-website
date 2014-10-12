@@ -206,14 +206,13 @@ section#content > header {
 }
 
 .highlight {
+    padding: 0.2em 1.5em 0.2em 1.5em;
     margin-left: 2em;
     margin-right: 2em;
-
+	box-shadow: rgb(230, 230, 230) 0px 5px 10px 3px;
 }
 
 pre {
-    padding: 0.2em 1.5em 0.2em 1.5em;
-	box-shadow: rgb(230, 230, 230) 0px 5px 10px 3px;
     white-space: pre;
     overflow-x: scroll;
 }
