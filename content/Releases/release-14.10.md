@@ -82,8 +82,10 @@ The current version of the new editor does not display linked images.
 SVG documents that contain embedded images are displayed correctly.
 
 The desktop editor is based on the official build of [node-webkit](https://github.com/rogerwang/node-webkit).
-It is known to [fail in GNU/Linux distributions with an old version
-of glibc](https://github.com/rogerwang/node-webkit/issues/1366).
+It is known to fail:
+
+* [in GNU/Linux distributions with an old version of glibc](https://github.com/rogerwang/node-webkit/issues/1366),
+* [in recent distributions that do not provide libudev.so.0](https://github.com/rogerwang/node-webkit/wiki/The-solution-of-lacking-libudev.so.0).
 
 Sozi 14 does not support localization yet.
 
@@ -102,7 +104,7 @@ It can be run either as a standalone desktop application, or as a hosted web app
 > Please note that this software is not ready for production use.
 > Use it at your own risk.
 
-* [Download the desktop version](https://drive.google.com/folderview?id=0ByRUreHgekjMVGdVNEhNSjVRVWs&usp=sharing) (choose the zip file corresponding
+* [Download the desktop version](https://drive.google.com/folderview?id=0ByRUreHgekjMemhONHd4TGY4V3M&usp=sharing) (choose the zip file corresponding
 to your platform and click the "Download" button at the top of the screen).
 * [Try the hosted web application](http://sozi.baierouge.fr/demo/) (requires a Google Drive account for saving documents).
 
