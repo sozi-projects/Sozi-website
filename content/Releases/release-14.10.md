@@ -87,6 +87,18 @@ It is known to fail:
 * [in GNU/Linux distributions with an old version of glibc](https://github.com/rogerwang/node-webkit/issues/1366),
 * [in recent distributions that do not provide libudev.so.0](https://github.com/rogerwang/node-webkit/wiki/The-solution-of-lacking-libudev.so.0).
 
+For the second issue, a quick fix consists in creating a symbolic link like this:
+
+    :::bash
+    # Debian, Ubuntu and their derivatives, 32-bit
+    sudo ln -sf /lib/i386-linux-gnu/libudev.so.1 /lib/i386-linux-gnu/libudev.so.0
+    # Debian, Ubuntu and their derivatives, 64-bit
+    sudo ln -sf /lib/x86_64-linux-gnu/libudev.so.1 /lib/x86_64-linux-gnu/libudev.so.0
+    # Others 32-bit
+    sudo ln -sf /usr/lib/libudev.so.1 /usr/lib/i386-linux-gnu/libudev.so.0
+    # Others 64-bit
+    sudo ln -sf /usr/lib64/libudev.so.1 /usr/lib64/i386-linux-gnu/libudev.so.0
+    
 Sozi 14 does not support localization yet.
 
 The following features will be added later, but they will be provided as optional extensions:
