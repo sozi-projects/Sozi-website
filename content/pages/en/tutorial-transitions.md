@@ -19,8 +19,8 @@ level of the source or target frame of the transition.
 This is illustrated by the following diagrams:
 
 
-Timing function
----------------
+Acceleration curve
+------------------
 
 
 Transition path
