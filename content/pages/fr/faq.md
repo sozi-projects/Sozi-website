@@ -31,7 +31,7 @@ et ajouter l'élément suivant en tant qu'enfant de l'élément `<svg>` racine:
         svg {
             background: rgb(255, 200, 255);
         }
-    <style>
+    </style>
 
 
 

@@ -28,7 +28,7 @@ element as a child of the root `<svg>` element:
         svg {
             background: rgb(255, 200, 255);
         }
-    <style>
+    </style>
 
 
 Some graphics do not render correctly when playing my Sozi presentation
