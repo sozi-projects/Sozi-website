@@ -43,11 +43,12 @@ RELATIVE_URLS = True
 
 THEME = 'themes/sozi'
 
-STATIC_PATHS = ['images', 'releases']
+ARTICLE_EXCLUDES = ['wiki']
 
-FILES_TO_COPY = (
-    ('extra/favicon.ico', 'favicon.ico'),
-    ('wiki/index.html', 'wiki/index.html'),
-)
+STATIC_PATHS = ['images', 'releases', 'extra/favicon.ico', 'wiki']
+
+EXTRA_PATH_METADATA = {
+    'extra/favicon.ico': {'path': 'favicon.ico'}
+}
 
 DEFAULT_DATE_FORMAT = "%Y-%m-%d"
