@@ -1,4 +1,5 @@
 output
+cache
 *.pid
 *.pyc
 

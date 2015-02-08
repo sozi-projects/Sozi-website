@@ -4,6 +4,33 @@ Lang: en
 Author: Guillaume Savaton
 Status: hidden
 
+How do I set a background color?
+--------------------------------
+
+Inkscape allows to set a background color in the *document properties* dialog.
+Unfortunately, the chosen color is only visible in Inkscape and in images exported from your document.
+It is ignored by web browsers.
+
+To set a background color that will show in a web browser, you can use the
+XML editor provided by Inkscape.
+Select the root `<svg:svg>` element, add an `<svg:style>` child element and a text node
+inside like in the following screenshot:
+
+![Setting a background color in Inkscape](|filename|/images/faq/background.png)
+
+> Replace `rgb(255, 200, 255)` with your preferred [CSS color](https://developer.mozilla.org/en/docs/Web/CSS/color_value).
+
+If you prefer to use a text editor, open your SVG document and add the following
+element as a child of the root `<svg>` element:
+
+    :::xml
+    <style>
+        svg {
+            background: rgb(255, 200, 255);
+        }
+    <style>
+
+
 Some graphics do not render correctly when playing my Sozi presentation
 -----------------------------------------------------------------------
 
