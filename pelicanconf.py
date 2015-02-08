@@ -23,7 +23,6 @@ TRANSLATION_FEED_ATOM = None
 # Blogroll
 LINKS =  (
     ('Inkscape', 'http://inkscape.org/'),
-    ('Awwation', 'http://awwation.com/'),
     ('Ext-Sozi', 'http://asyazwan.github.io/ext-sozi/'),
     ('luapresent', 'https://github.com/karottenreibe/luakit/tree/luapresent'),
 )
