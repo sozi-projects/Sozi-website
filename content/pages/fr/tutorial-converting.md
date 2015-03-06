@@ -57,6 +57,9 @@ Une liste complète des options est disponible via la commande suivante :
 Convertir une présentation Sozi en vidéo
 ----------------------------------------
 
+> L'outil de conversion ne prend pas en charge les
+> [vidéos ou les extraits audio inclus dans une présentation](|filename|tutorial-media.md).
+
 Téléchargez les scripts
 [sozi2video.py](https://github.com/senshu/Sozi/raw/dev/tools/sozi2video/sozi2video.py)
 et [sozi2video.js](https://github.com/senshu/Sozi/raw/dev/tools/sozi2video/sozi2video.js).

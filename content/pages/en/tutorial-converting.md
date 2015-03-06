@@ -58,6 +58,8 @@ A complete list of options can be displayed by running this command:
 Converting a Sozi presentation to video
 ---------------------------------------
 
+> The conversion tool does not support [embedded video or audio](|filename|tutorial-media.md).
+
 Download the scripts
 [sozi2video.py](https://github.com/senshu/Sozi/raw/dev/tools/sozi2video/sozi2video.py)
 and [sozi2video.js](https://github.com/senshu/Sozi/raw/dev/tools/sozi2video/sozi2video.js).
