@@ -3,33 +3,66 @@ Slug: 50-contribute
 Lang: en
 Author: Guillaume Savaton
 
-Translate the web site to your native language
-----------------------------------------------
+Even if you are not a programmer, there are several ways you can contribute to Sozi:
 
-The web site of Sozi is a static site generated with [Pelican](http://blog.getpelican.com/).
-It does not provide an online editor where you could edit, preview and publish your contributions.
+* [Translate the user interface of the editor to your native language](|filename|translate-editor.md)
+* [Translate the web site to your native language](|filename|translate-web-site.md)
 
-The source files of the site are text files using the [Markdown](http://daringfireball.net/projects/markdown/syntax) syntax.
-These files are hosted in the [repository Sozi-website at GitHub](https://github.com/senshu/Sozi-website), in the
-[content/](https://github.com/senshu/Sozi-website/tree/master/content) folder.
-The [content/pages/](https://github.com/senshu/Sozi-website/tree/master/content/pages) folder contains
-the documentation of Sozi.
-It is divided into language subfolders (`en` for English, `fr` for French, etc)
-containing Markdown files.
+List of contributors
+--------------------
 
-To start translating, we recommend following these steps:
+Sozi is mainly developed by [one person](http://guillaume.baierouge.fr)
+with the help of many regular or occasional contributors.
+There is currently no development team per se.
 
-1. [Fork the repository](https://github.com/senshu/Sozi-website/fork).
-2. Add a subfolder for your language in `content/pages/`, if it does not already exist.
-3. If you want to translate a page, find the original English version in the `en` folder and create a new file with the same name in your language folder.
-4. Edit the new file.
-5. Optionally, you can use Pelican to generate your own copy of the site and preview your modifications.
-6. When you are satisfied with the result, commit and push your changes to your GitHub repository and send a pull request to the official Sozi repository.
+The following list mentions the people that have participated in the development of Sozi
+in different ways: development of the software itself or additional tools, patches,
+translation of the software or the web site, documentation, promotion of Sozi.
 
-The header of a translated Markdown file should contain the following fields:
+If your name has been omitted, or if you do not wish your name to appear in this list,
+please contact us.
 
-* `Title`: the title of the original page, translated to your language.
-* `Author`: comma-separated list of original authors and translators.
-* `Slug`: same as the original file.
-* `Lang`: the language code of the translation.
-* `Translation`: must be set to `true`.
+[Olivier Banus](https://launchpad.net/~sunab),
+[Quentin Bérard](https://github.com/quent57),
+[Robin Berjon](https://github.com/darobin),
+[Camille Bissuel](http://nylnook.com),
+[Peter Bojtos](https://launchpad.net/~peter-bojtos),
+[Tobias Brunner](https://github.com/tobiasbrunner),
+[Anthony Carré](yeknan.free.fr),
+[Paul Chavent](http://paul.chavent.free.fr/),
+[Kan-Ru Chen](https://github.com/kanru),
+[Nigel Cunningham](https://github.com/NigelCunningham),
+[Desus](https://launchpad.net/~deesus),
+Dyblast,
+[Eduardo Javier Echeverria Alvarado](https://launchpad.net/~echevemaster),
+[Gianfranco Frisani](https://launchpad.net/~gfrisani),
+[Jurgen Gaeremyn](http://jurgen.gaeremyn.be/),
+[Vincent Garibal](https://github.com/VincentGaribal),
+[Maren Hachmann](https://launchpad.net/~marenhachmann),
+[Ejvind Hansen](https://launchpad.net/~ejvindh),
+[Amir Hosein](https://launchpad.net/~amirhosein),
+[Arthur Henrique Guimarães de Oliveira](https://launchpad.net/~warthur2),
+[IntraCherche](https://github.com/IntraCherche),
+[Aleksey Kabanov](https://launchpad.net/~ak099),
+André Lage,
+[Yngve Spjeld Landro](https://launchpad.net/~yslandro),
+[Lebendre](https://github.com/lebendre),
+[David Libralesso](https://github.com/Dvvd),
+[Angelo Raffaele Liso](https://launchpad.net/~angeloliso85),
+[Litty](https://launchpad.net/~litty),
+[Marlon Ramos Lopes](https://launchpad.net/~m-r-lopes),
+[Ed McDonagh](https://github.com/edmcdonagh),
+[Hubert Maciejewicz](https://launchpad.net/~hu2bert),
+[Hector A. Mantellini](https://launchpad.net/~xombra),
+[Jun Nogata](https://launchpad.net/~nogajun),
+[Julian Oster](https://github.com/jlnostr),
+[Jean Paldanius](https://launchpad.net/~9-human),
+[Jean Parpaillon](https://github.com/jeanparpaillon),
+[Emmanuel Peyrot](http://linkmauve.fr/),
+[Timotheus Pokorra](https://github.com/tpokorra),
+[Guillaume Savaton](http://guillaume.baierouge.fr),
+[Fabian Streitel](https://github.com/karottenreibe),
+[Ahmad Syazwan](https://github.com/asyazwan),
+[Kai Wegner](https://github.com/kai-wegner),
+Jean-François Witz,
+[Morten Juhl-Johansen Zölde-Fejér](https://launchpad.net/~mjjzf)
