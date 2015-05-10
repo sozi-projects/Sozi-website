@@ -4,9 +4,14 @@ Lang: en
 Status: hidden
 Author: Guillaume Savaton
 
+> This page is part of the documentation for Sozi 13.
+> As we are currently in the process of releasing Sozi 15,
+> the content of this page is considered obsolete and will
+> be updated soon.
+
 > If you are upgrading from version 13.01 or earlier,
-you should uninstall the previous version by removing all files whose names begin with `sozi`
-from `C:\Program Files\Inkscape\share\extensions`.
+> you should uninstall the previous version by removing all files whose names begin with `sozi`
+> from `C:\Program Files\Inkscape\share\extensions`.
 
 These instructions have been tested with Inkscape 0.48, Python 2.7 and PyGTK 2.24.
 If you are upgrading from an earlier version of Sozi, you can go directly to step 8.

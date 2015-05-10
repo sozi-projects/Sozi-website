@@ -5,6 +5,11 @@ Translation: true
 Author: Guillaume Savaton, David Libralesso
 
 
+> Cette page fait partie de la documentation de Sozi 13.
+> Avec la sortie imminente de Sozi 15, le contenu de cette page
+> est considéré comme obsolète.
+> Nous le mettrons à jour prochainement.
+
 Naviguer dans une présentation
 -------------------------------
 

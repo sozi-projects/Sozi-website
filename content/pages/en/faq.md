@@ -54,8 +54,8 @@ reasons to believe that the bug is in Sozi.
 If unsure, you can ask for advice on [the Sozi users discussion group](http://groups.google.com/group/sozi-users).
 
 
-Inkscape reports a syntax error when running Sozi
--------------------------------------------------
+Inkscape reports a syntax error when running Sozi 13
+----------------------------------------------------
 
 This problem has been reported mainly by Windows users.
 When running Sozi from the Inkscape extensions menu, a dialog shows the following error:

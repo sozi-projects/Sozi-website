@@ -5,6 +5,11 @@ Author: Guillaume Savaton, David Libralesso
 Translation: true
 Status: hidden
 
+> Cette page fait partie de la documentation de Sozi 13.
+> Avec la sortie imminente de Sozi 15, le contenu de cette page
+> est considéré comme obsolète.
+> Nous le mettrons à jour prochainement.
+
 Ce tutoriel est une introduction aux principes de base de Sozi.
 vous apprendrez à créer vos premières vues et à jouer la présentation dans un navigateur web.
 

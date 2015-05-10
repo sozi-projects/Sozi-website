@@ -4,6 +4,11 @@ Lang: en
 Author: Guillaume Savaton
 Status: hidden
 
+> This page is part of the documentation for Sozi 13.
+> As we are currently in the process of releasing Sozi 15,
+> the content of this page is considered obsolete and will
+> be updated soon.
+
 When playing a Sozi presentation based on a complex SVG document,
 you may observe that animations become jerky.
 This issue is generally related to the SVG rendering performance of your web browser.

@@ -3,6 +3,11 @@ Slug: 30-create
 Lang: en
 Author: Guillaume Savaton
 
+> This page is part of the documentation for Sozi 13.
+> As we are currently in the process of releasing Sozi 15,
+> the content of this page is considered obsolete and will
+> be updated soon.
+
 Tutorials
 ---------
 
