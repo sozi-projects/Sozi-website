@@ -26,7 +26,7 @@ Editing the PO files directly
 -----------------------------
 
 Fork the [source repository of Sozi at GitHub](https://github.com/senshu/Sozi)
-and switch to the `dev` branch.
+and switch to the `preview` branch.
 The *PO* files for Sozi 15 can be found in the `locales` folder.
 
 *PO* files can be edited using a general-purpose text editor or a translation editor such as

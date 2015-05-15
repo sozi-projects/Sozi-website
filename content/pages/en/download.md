@@ -10,3 +10,6 @@ The current stable release is 13.11 (November 2013):
   * [See the release notes](|filename|/Releases/release-13.11.md)
   * [Install Sozi](|filename|install.md)
 
+Sozi 15.05 is now available for testers and translators:
+
+  * [Download it](https://github.com/senshu/Sozi/releases/tag/15.05-preview)

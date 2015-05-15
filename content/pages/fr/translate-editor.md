@@ -26,7 +26,7 @@ En éditant les fichiers PO directement
 --------------------------------------
 
 Créez un fork du [dépôt de code source chez GitHub](https://github.com/senshu/Sozi)
-et placez-vous dans la branche `dev`.
+et placez-vous dans la branche `preview`.
 Les fichiers *PO* de Sozi 15 sont situés dans le dossier `locales`.
 
 Vous pouvez éditer les fichiers *PO* à l'aide d'un éditeur de texte généraliste
