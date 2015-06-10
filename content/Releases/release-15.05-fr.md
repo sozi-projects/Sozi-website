@@ -12,7 +12,7 @@ Un nouvel éditeur de présentation était en développement depuis le début de
 Le développement a été relativement lent et [un premier prototype a été officiellement
 annoncé en octobre 2014](|filename|release-14.10.md).
 En 2015, il a été suivi par une longue série de corrections et d'améliorations.
-Plusieurs utilisateurs on commencé à l'utiliser quotidiennement, ont rencontré des problèmes
+Plusieurs utilisateurs ont commencé à l'utiliser quotidiennement, ont rencontré des problèmes
 et m'ont aidé à les corriger.
 
 Sozi 15.05 est la version la plus récente de cette série.
