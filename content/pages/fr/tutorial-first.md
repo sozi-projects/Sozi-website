@@ -5,99 +5,80 @@ Author: Guillaume Savaton, David Libralesso
 Translation: true
 Status: hidden
 
-> Cette page fait partie de la documentation de Sozi 13.
-> Avec la sortie imminente de Sozi 15, le contenu de cette page
-> est considéré comme obsolète.
-> Nous le mettrons à jour prochainement.
+Cette page fait partie de la documentation de Sozi 15.
+[Suivez ce lien si vous utilisez encore Sozi 13](|filename|sozi-13-tutorial-first.md).
 
 Ce tutoriel est une introduction aux principes de base de Sozi.
-vous apprendrez à créer vos premières vues et à jouer la présentation dans un navigateur web.
+Vous apprendrez à créer vos premières vues et à jouer la présentation dans un navigateur web.
 
-Téléchargez et ouvrez le document d'exemple
--------------------------------------------
+
+Téléchargez et ouvrez le document de base
+-----------------------------------------
 
 Ce tutoriel se base sur un simple document SVG qui contient les éléments visuels nécessaires à notre présentation.
-[Téléchargez le document SVG de base](|filename|/images/tutorial-first/sozi-tutorial-base.svg) (Bouton droit sur le lien et choisissez *Enregistrer la cible du lien sous*)
-et ouvrez-le dans Inkscape.
+[Téléchargez le document SVG de base](https://github.com/senshu/Sozi/raw/preview/samples/first-presentation.svg)
+(Cliquez avec le bouton droit sur le lien et choisissez *Enregistrer la cible du lien sous*).
+Ouvrez-le avec l'éditeur de présentation Sozi.
 
-![Ouvrir le document SVG dans Inkscape](|filename|/images/tutorial-first/sozi-tutorial-screenshot-01.png)
+![Ouvrir le document SVG dans l'éditeur de présentation](|filename|/images/tutorial-first/first-presentation-screenshot-01.fr.png)
 
-Dessinez les cadres des vues
-----------------------------
 
-Dessinez un rectangle pour chaque vue de votre présentation.
-Redimensionnez-les ou tournez-les pour définir les cadres de chaque vue.
-
-![Dessinez les cadres des vues](|filename|/images/tutorial-first/sozi-tutorial-screenshot-02.png)
-
-Inkscape assigne un identifiant unique à chaque élement du document.
-Ces identifiants sont utilisés par Sozi pour associer les rectangles avec les vues de votre présentation.
-
-Sélectionnez un rectangle, cliquez avec le bouton droit sur un des bords et choisissez *Propriétés de l'object*.
-
-![Afficher les propriétés du rectangle](|filename|/images/tutorial-first/sozi-tutorial-screenshot-03.png)
-
-L'identifiant du rectangle est affiché dans le champs *Id*.
-Dans l'exemple suivant, Le champ indique `rect3816`, mais cela peut être différent pour vous.
-vous pouvez changer l'identifiant si vous le souhaitez, en faisant attention à ne pas donner le même identifiant à des éléments différents dans le même document.
-
-![L'identifiant d'un rectangle](|filename|/images/tutorial-first/sozi-tutorial-screenshot-04.png)
-
-Ouvrez l'éditeur de présentation
---------------------------------
-
-Selectionnez le premier rectangle.
-Puis, dans le menu *Extensions*, cliquez sur *Sozi*
-(voir aussi: [Démarrer Sozi avec un raccourci clavier dans Inkscape](|filename|tutorial-shortcut.md)).
-
-![Ouvrir l'éditeur de présentation](|filename|/images/tutorial-first/sozi-tutorial-screenshot-05.png)
-
-La fenêtre *Sozi* vous permet de créer, modifier et effacer les vues de votre présentation.
-La fenêtre principale d'Inkscape restera inactive tant que la fenêtre de l'éditeur de présentation sera active.
-
-![L'éditeur de présentation](|filename|/images/tutorial-first/sozi-tutorial-screenshot-06.png)
-
-Quand vous démarrez Sozi avec un nouveau document, Sozi est automatiquement installé dans votre document.
-Par la suite, chaque fois que vous réouvrirez Sozi dans le même document, Sozi sera mis à jour en utilisant la dernière version installée sur votre ordinateur.
-
-Ajoutez des vues et éditez leurs propriétés
+Créez la première vue de votre présentation
 -------------------------------------------
 
-Cliquez sur le bouton *+* en bas à gauche de la fenêtre.
-Ceci va créer une nouvelle vue sans titre.
-Dans la capture d'écran ci-dessous, nous avons changé le titre de la vue par *First*.
+Pressez le bouton *+* pour créer une nouvelle vue.
 
-Remarquez que le champ *Élément SVG* a été automatiquement complété avec l'identifiant du rectangle sélectionné
-(`rect3816` dans notre exemple).
-Pour lier la vue à un autre rectangle, vous pouvez modifier manuellement le champs *Élément SVG*, ou, après avoir sélectionné un autre rectangle dans Inkscape, utiliser l'iĉone *Coller* sur la gauche.
+La première vue sera centrée sur la forme violette avec le chiffre 1.
+Vous pouvez modifier son titre en éditant le champ *Titre* dans le panneau de droite.
+Ensuite, dans le panneau de prévisualisation&nbsp;:
 
-> Le champ *Id* doit contenir un identifiant unique pour désigner la vue courante.
-> Une vue ne peut pas avoir le même Id qu'une autre vue ou qu'un élément SVG du même document.
-> En particulier, c'est une erreur de donner le même Id à une vue et à l'élément SVG qui lui est associé.
+* Positionnez la caméra en déplaçant la souris et en maintenant le bouton gauche pressé.
+* Zoomez en déplaçant la souris et en maintenant pressés le bouton gauche et la touche *Alt* du clavier.
 
-![L'éditeur de présentation](|filename|/images/tutorial-first/sozi-tutorial-screenshot-07.png)
+![La première vue de la présentation](|filename|/images/tutorial-first/first-presentation-screenshot-02.fr.png)
 
-Fermez l'éditeur de présentation Sozi en cliquant sur le bouton *OK*.
-Dans la fenêtre principale de Inkscape, sélectionnez les trois autres rectangles (en maintenant enfoncé la touche Majuscule),
-en suivant l'ordre de la présentation.
 
-![L'éditeur de présentation](|filename|/images/tutorial-first/sozi-tutorial-screenshot-08.png)
+Créez trois autres vues
+-----------------------
 
-Ouvrez de nouveau l'éditeur de présentation, et appuyez trois fois sur le bouton *+*.
-Cela va créer trois nouvelles vues en utilisant les trois rectangles sélectionnés.
+Ajoutez trois nouvelles vues.
+Chacune est représentée par une colonne dans le panneau du bas.
+Vous pouvez cliquer sur le numéro ou le titre d'une vue pour la sélectionner.
 
-![L'éditeur de présentation](|filename|/images/tutorial-first/sozi-tutorial-screenshot-09.png)
+Donnez un titre à chaque vue et modifiez la position de la caméra de manière à afficher
+successivement les formes orange (2), jaune (3) et bleue (4).
+Pour effectuer une rotation, déplacez la souris en maintenant pressés le bouton gauche et la touche *Maj* (*Shift*)
+du clavier.
 
-Donnez un titre à chaque vue et fermez l'éditeur de présentation.
+![La première vue de la présentation](|filename|/images/tutorial-first/first-presentation-screenshot-03.fr.png)
+
+
+Enregistrer la présentation
+---------------------------
+
+En principe, votre présentation s'enregistre automatiquement.
+Si ce n'est pas le cas, vous pouvez presser le bouton *Enregistrer la présentation* de la barre d'outils.
+
+Sozi ne modifie pas le document SVG original.
+À chaque enregistrement, l'éditeur met à jour les deux fichiers suivants&nbsp;:
+
+* `first-presentation.sozi.json` contient les données de la présentation. Ce fichier est utilisé
+  par l'éditeur de présentation Sozi. Il doit toujours être dans le même dossier que le document SVG
+  et doit porter le même nom.
+* `first-presentation.sozi.html` contient votre présentation complète. Vous pouvez l'afficher dans
+  un navigateur web pour jouer votre présentation.
+
+Si vous souhaitez partager votre présentation avec d'autres personnes,
+il suffit de leur donner le fichier qui porte l'extension `.sozi.html`.
+
 
 Jouez la présentation dans un navigateur web
 --------------------------------------------
 
-Sauvez le document dans Inkscape.
-
-Ouvrez le document SVG dans votre navigateur préféré.
-La première vue sera automatiquement chargée.
+Ouvrez le fichier `first-presentation.sozi.html` dans un navigateur web.
+La caméra se place automatiquement sur la première vue.
 Cliquez à l'intérieur de la présentation pour passer à la vue suivante.
 (voir aussi&nbsp;: [Jouer une présentation](|filename|play.md)).
 
-[Télécharger ou jouer la présentation complète](|filename|/images/tutorial-first/sozi-tutorial-full.svg).
+[Téléchargez la présentation complète](https://github.com/senshu/Sozi/raw/preview/samples/first-presentation.sozi.html)
+(Cliquez avec le bouton droit sur le lien et choisissez *Enregistrer la cible du lien sous*).

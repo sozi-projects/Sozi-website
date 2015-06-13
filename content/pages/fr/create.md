@@ -5,11 +5,6 @@ Translation: true
 Author: Guillaume Savaton, David Libralesso
 
 
-> Cette page fait partie de la documentation de Sozi 13.
-> Avec la sortie imminente de Sozi 15, le contenu de cette page
-> est considéré comme obsolète.
-> Nous le mettrons à jour prochainement.
-
 Tutoriels
 ---------
 
@@ -21,7 +16,6 @@ Tutoriels
 * [Montrer et cacher des objets](|filename|tutorial-showing-hiding.md)
 * [Insérer de l'audio ou une vidéo](|filename|tutorial-media.md)
 * [Convertir les présentations Sozi en PDF ou en vidéo](|filename|tutorial-converting.md)
-* [Ouvrir Sozi avec un raccouci clavier dans Inkscape](|filename|tutorial-shortcut.md)
 * [Améliorer les performances](|filename|tutorial-performance.md)
 
 

@@ -1,13 +1,10 @@
 Title: Launching Sozi with a keyboard shortcut in Inkscape
-Slug: tutorial-shortcut
+Slug: sozi-13-tutorial-shortcut
 Lang: en
 Author: Guillaume Savaton
 Status: hidden
 
-> This page is part of the documentation for Sozi 13.
-> As we are currently in the process of releasing Sozi 15,
-> the content of this page is considered obsolete and will
-> be updated soon.
+This page is part of the documentation for Sozi 13.
 
 Inkscape supports the definition of custom keyboard shortcuts.
 You can edit or create the configuration file `default.xml` in one of the following locations:
