@@ -1,7 +1,7 @@
 Title: Votre première présentation
 Slug: tutorial-first
 Lang: fr
-Author: Guillaume Savaton, David Libralesso
+Author: Guillaume Savaton
 Translation: true
 Status: hidden
 
@@ -28,7 +28,7 @@ Créez la première vue de votre présentation
 
 Pressez le bouton *+* pour créer une nouvelle vue.
 
-La première vue sera centrée sur la forme violette avec le chiffre 1.
+Nous allons centrer la première vue sur la forme violette avec le chiffre 1.
 Vous pouvez modifier son titre en éditant le champ *Titre* dans le panneau de droite.
 Ensuite, dans le panneau de prévisualisation&nbsp;:
 
@@ -42,7 +42,7 @@ Créez trois autres vues
 -----------------------
 
 Ajoutez trois nouvelles vues.
-Chacune est représentée par une colonne dans le panneau du bas.
+Chacune est représentée par une colonne dans la chronologie (panneau du bas).
 Vous pouvez cliquer sur le numéro ou le titre d'une vue pour la sélectionner.
 
 Donnez un titre à chaque vue et modifiez la position de la caméra de manière à afficher
@@ -50,7 +50,7 @@ successivement les formes orange (2), jaune (3) et bleue (4).
 Pour effectuer une rotation, déplacez la souris en maintenant pressés le bouton gauche et la touche *Maj* (*Shift*)
 du clavier.
 
-![La première vue de la présentation](|filename|/images/tutorial-first/first-presentation-screenshot-03.fr.png)
+![La deuxième vue de la présentation](|filename|/images/tutorial-first/first-presentation-screenshot-03.fr.png)
 
 
 Enregistrer la présentation
