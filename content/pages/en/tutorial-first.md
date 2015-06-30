@@ -16,7 +16,7 @@ Download and open the base document
 -----------------------------------
 
 This tutorial is based on a simple SVG document that contains the drawing elements of our presentation.
-[Download the base SVG document](https://github.com/senshu/Sozi/raw/preview/samples/first-presentation.svg)
+[Download the base SVG document](https://github.com/senshu/Sozi/raw/master/samples/first-presentation.svg)
 (Right-click on the link and choose *Save link target as*).
 Open it with the Sozi presentation editor.
 
@@ -78,5 +78,5 @@ The camera is automatically set to the first frame of the presentation.
 Click inside the browser window to move to the next frame.
 (see also: [Play](|filename|play.md)).
 
-[Download the complete presentation](https://github.com/senshu/Sozi/raw/preview/samples/first-presentation.sozi.html)
+[Download the complete presentation](https://github.com/senshu/Sozi/raw/master/samples/first-presentation.sozi.html)
 (Right-click on the link and choose *Save link target as*).

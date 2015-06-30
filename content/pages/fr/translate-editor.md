@@ -25,8 +25,7 @@ pour demander à ce que la nouvelle traduction soit ajoutée à la version suiva
 En éditant les fichiers PO directement
 --------------------------------------
 
-Créez un fork du [dépôt de code source chez GitHub](https://github.com/senshu/Sozi)
-et placez-vous dans la branche `preview`.
+Créez un fork du [dépôt de code source chez GitHub](https://github.com/senshu/Sozi).
 Les fichiers *PO* de Sozi 15 sont situés dans le dossier `locales`.
 
 Vous pouvez éditer les fichiers *PO* à l'aide d'un éditeur de texte généraliste
