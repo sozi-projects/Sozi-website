@@ -16,7 +16,7 @@ SFTP_HOST=localhost
 SFTP_USER=anonymous
 SFTP_TARGET_DIR=/
 
-SSH_HOST=92.243.28.40
+SSH_HOST=baierouge.fr
 SSH_PORT=22
 SSH_USER=www-data
 SSH_TARGET_DIR=/var/www/sozi.baierouge.fr

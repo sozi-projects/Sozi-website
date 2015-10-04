@@ -12,7 +12,7 @@ Le déroulement de la présentation consiste en une succession de translations, 
 permettant de focaliser l'attention sur les éléments que vous voulez montrer.
 
 Sozi repose sur des standards ouverts.
-C'est un logiciel libre sous double licence MIT ou GPL 3.0.
+C'est un logiciel libre distribué selon les termes de la [licence publique Mozilla 2.0](http://www.mozilla.org/MPL/2.0/).
 
 <iframe class="sozi" src="|filename|/images/ceci-nest-pas-un-diaporama.fast.svg">
 </iframe>

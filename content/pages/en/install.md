@@ -3,17 +3,15 @@ Slug: 20-install
 Lang: en
 Author: Guillaume Savaton
 
-> This page is part of the documentation for Sozi 13.
-> As we are currently in the process of releasing Sozi 15,
-> the content of this page is considered obsolete and will
-> be updated soon.
+The current stable release is Sozi 15.06 (June 2015):
 
-The Sozi presentation editor is developed primarily for GNU/Linux,
-but it is also known to work on Windows and Mac OS X.
-It is installed as an extension for [Inkscape](http://inkscape.org/),
-a free vector graphics editor.
+  * [Download the stable release](https://github.com/senshu/Sozi/releases/tag/15.06)
+  * [Download a preview version of the next release](https://drive.google.com/open?id=0ByRUreHgekjMWG9teGM2dE8wck0) (for testers)
 
-* [Install Sozi on GNU/Linux](|filename|install-linux.md)
-* [Install Sozi on Windows](|filename|install-windows.md)
-* [Install Sozi on Mac OS X](|filename|install-osx.md)
+Sozi 13.11 is still available if you need it, but it is no longer maintained:
 
+  * [Download it](https://github.com/senshu/Sozi/releases/download/13.11/sozi-release-13.11-30213629.zip)
+  * [See the release notes](|filename|/Releases/release-13.11.md)
+  * [Install Sozi 13 on GNU/Linux](|filename|sozi-13-install-linux.md)
+  * [Install Sozi 13 on Windows](|filename|sozi-13-install-windows.md)
+  * [Install Sozi 13 on Mac OS X](|filename|sozi-13-install-osx.md)

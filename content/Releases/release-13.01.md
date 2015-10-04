@@ -7,7 +7,7 @@ Summary:
     Transition paths, PDF and video export, new translations, bug fixes.
 
 A release candidate of Sozi is available for testers and translators.
-See the instructions to [download](|filename|/pages/en/download.md) and [install](|filename|/pages/en/install.md) it.
+See the instructions to [download and install](|filename|/pages/en/install.md) it.
 
 This release comes with a few bug fixes, new features and translations.
 Sozi is now available in six languages!

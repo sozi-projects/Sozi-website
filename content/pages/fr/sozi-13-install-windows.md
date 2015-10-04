@@ -18,7 +18,7 @@ Ces instructions ont été testées avec Inkscape 0.48, Python 2.7 et PyGTK 2.24
 Si vous faites la mise à jour depuis une version précédente de Sozi,
 vous pouvez sauter directement à l'étape 8.
 
-1. Installez [Inkscape](http://inkscape.org/download/) en utilisant l'installeur Windows 32 bits. 
+1. Installez [Inkscape](http://inkscape.org/download/) en utilisant l'installeur Windows 32 bits.
 Le dossier d'installation par défaut est  `C:\Program Files\Inkscape`
 ou `C:\Program Files (x86)\Inkscape`
 2. Installez [Python](http://python.org/download/) 2.7.
@@ -30,7 +30,7 @@ Choisissez l'installeur tout en un  (*all-in-one*) pour Python 2.7 et Windows 32
 5. Copiez le dossier `C:\Python27` dans `C:\Program Files\Inkscape`
 6. Renommez le dossier `C:\Program Files\Inkscape\python` en `C:\Program Files\Inkscape\python26`
 7. Renommez le dossier `C:\Program Files\Inkscape\Python27` en `C:\Program Files\Inkscape\python`
-8. [Téléchargez Sozi](|filename|download.md)
+8. [Téléchargez Sozi](https://github.com/senshu/Sozi/releases/download/13.11/sozi-release-13.11-30213629.zip)
 9. Décompressez l'archive `sozi-release-[...].zip`.
 Vous devriez obtenir un dossier nommé `archive sozi-release-[...]`.
 Copiez le contenu de ce dossier dans `C:\Program Files\Inkscape\share\extensions`

@@ -13,7 +13,7 @@ When opening Sozi, an error dialog shows the following message:
 > glib.GError: Couldn't recognize the image file format for file 'sozi.py.svg'
 
 Sozi 12.05 fixes this bug.
-See the instructions to [download](|filename|/pages/en/download.md) and [install](|filename|/pages/en/install.md) it.
+See the instructions to [download and install](|filename|/pages/en/install.md) it.
 
 If Sozi 12.04 works correctly for you, you do not need to upgrade.
 

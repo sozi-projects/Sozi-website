@@ -37,7 +37,7 @@ Les extensions Inkscape peuvent être installées dans deux endroits différents
 > Si vous mettez à jour depuis la version 13.01 ou antérieure,
 vous devez désinstaller la version précédente en supprimant tous les fichiers dont le nom commence par `sozi`.
 
-1. [Télécharger Sozi](|filename|download.md)
+1. [Télécharger Sozi](https://github.com/senshu/Sozi/releases/download/13.11/sozi-release-13.11-30213629.zip)
 2. Décompresser l'archive `sozi-release-[...].zip`.
 Vous devriez obtenir un dossier nommé `archive sozi-release-[...]`.
 3. Copier le contenu de ce dossier dans le dossier des extensions Inkscape.

@@ -7,8 +7,7 @@ Summary:
     Après quatre mois, la version de test Sozi 13.11 a mérité de devenir la version stable officielle.
 
 Après quatre mois, la version de test Sozi 13.11 a mérité de devenir la version stable officielle.
-Suivez les instructions pour la [télécharger](|filename|/pages/en/download.md)
-et l'[installer](|filename|/pages/en/install.md).
+Suivez les instructions pour la [télécharger et l'installer](|filename|/pages/en/install.md).
 
 Comparée à la version 13.05, Sozi 13.11 corrige quelques problèmes et apporte quelques petites améliorations.
 

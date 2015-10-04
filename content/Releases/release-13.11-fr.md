@@ -7,8 +7,7 @@ Summary:
     Quelques corrections et améliorations.
 
 Une préversion de Sozi est disponible pour les testeurs et traducteurs.
-Suivez les instructions pour la [télécharger](|filename|/pages/en/download.md)
-et l'[installer](|filename|/pages/en/install.md).
+Suivez les instructions pour la [télécharger et l'installer](|filename|/pages/en/install.md).
 
 Vous avez peut-être remarqué que le développement de Sozi a beaucoup ralenti depuis la dernière version stable.
 Bien que je sois toujours décidé à faire vivre ce projet, j'ai eu très peu de temps à lui consacrer dernièrement.

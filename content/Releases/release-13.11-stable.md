@@ -7,7 +7,7 @@ Summary:
     After four months, the release candidate 13.11 has deserved to become the official stable release.
 
 After four months, the release candidate 13.11 has deserved to become the official stable release.
-See the instructions to [download](|filename|/pages/en/download.md) and [install](|filename|/pages/en/install.md) it.
+See the instructions to [download and install](|filename|/pages/en/install.md) it.
 
 Compared to the previous release 13.05, Sozi 13.11 fixes a few bug and comes with small improvements.
 

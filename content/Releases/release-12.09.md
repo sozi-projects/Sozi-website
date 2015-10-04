@@ -8,7 +8,7 @@ Summary:
 
 I am pleased to announce the release of Sozi 12.09.
 It provides support for layers, new translations and a few bug fixes.
-See the instructions to [download](|filename|/pages/en/download.md) and [install](|filename|/pages/en/install.md) it.
+See the instructions to [download and install](|filename|/pages/en/install.md) it.
 
 Player
 ------

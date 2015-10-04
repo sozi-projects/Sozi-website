@@ -7,7 +7,7 @@ Summary:
     Bug fixes and small improvements.
 
 A release candidate of Sozi is available for testers and translators.
-See the instructions to [download](|filename|/pages/en/download.md) and [install](|filename|/pages/en/install.md) it.
+See the instructions to [download and install](|filename|/pages/en/install.md) it.
 
 As you may have noticed, the development of Sozi has slowed down since the last stable release.
 While I am still willing to keep this project alive, I have had very little time to spend on it lately.
