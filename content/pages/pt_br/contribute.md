@@ -1,7 +1,7 @@
 Title: Contribua
-Slug: 50-contribua
+Slug: 50-contribute
 Lang: pt_br
-Author: Marcelo Vaz Pupo
+Author: Guillaume Savaton, Marcelo Vaz Pupo
 
 Você pode contribuir com o Sozi de diversas formas (mesmo não sendo um programador):
 
@@ -11,7 +11,7 @@ Você pode contribuir com o Sozi de diversas formas (mesmo não sendo um program
 Lista de contribuintes
 ----------------------
 
-Sozi é desenvolvido principalmente por [one person](http://guillaume.baierouge.fr)
+Sozi é desenvolvido principalmente por [uma pessoa](http://guillaume.baierouge.fr)
 com a ajuda de vários contribuintes ocasionais.
 Atualmente não existe uma equipe para essa tarefa.
 
