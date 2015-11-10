@@ -1,7 +1,7 @@
 Title: Criar
-Slug: 30-criar
+Slug: 30-create
 Lang: pt_br
-Author: Marcelo Vaz
+Author: Guillaume Savaton, Marcelo Vaz
 
 
 Tutoriais
