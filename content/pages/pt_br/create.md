@@ -1,7 +1,7 @@
-Title: Create
-Slug: 30-create
-Lang: en
-Author: Guillaume Savaton
+Title: Criar
+Slug: 30-criar
+Lang: pt_br
+Author: Marcelo Vaz
 
 
 Tutoriais
