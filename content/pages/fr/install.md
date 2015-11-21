@@ -4,9 +4,9 @@ Lang: fr
 Translation: true
 Author: Guillaume Savaton
 
-La version stable courante porte le numéro 15.06.
+La version stable courante porte le numéro 15.11 (novembre 2015).
 
-  * [Télécharger la version stable](https://github.com/senshu/Sozi/releases/tag/15.06)
+  * [Télécharger la version stable](https://github.com/senshu/Sozi/releases/tag/15.11)
   * [Télécharger un aperçu de la prochaine version](https://drive.google.com/open?id=0ByRUreHgekjMWG9teGM2dE8wck0) (pour les testeurs)
 
 Pour le moment, Sozi est distribué sous la forme d'une [archive zip](https://fr.wikipedia.org/wiki/ZIP_%28format_de_fichier%29).
