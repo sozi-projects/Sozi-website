@@ -13,7 +13,7 @@ The following improvements were introduced in this release:
 * The generated HTML no longer contains a reference to the Mozilla Public License.
 * When opening a presentation with a frame Id in the URL, the player starts at the corresponding frame.
 * Clicking on an external link no longer triggers a transition in the presentation.
-* The *Fit to element* button now unlinks the selected layers and fits the clipping rectangle.
+* In the editor, the *Fit to element* button now unlinks the selected layers and fits the clipping rectangle.
 * An issue that prevented saving some documents has been fixed.
 
 Thanks to the work of several translators, Sozi 15.11 is available in the following languages:
