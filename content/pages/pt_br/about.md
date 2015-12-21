@@ -10,7 +10,7 @@ aproxima-se mais de um pôster onde o conteúdo de sua apresentação pode ser l
 Uma apresentação em Sozi consiste em uma série de transições, zooms e rotações
 que permite exibir os elementos que você quer mostrar.
 
-Sozi é um programa feito em open source.
+Sozi é um programa feito em código aberto.
 É um Software Livre distribuído de acordo com os termos de
 [Mozilla Public License 2.0](http://www.mozilla.org/MPL/2.0/).
 
