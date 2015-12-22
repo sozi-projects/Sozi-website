@@ -12,8 +12,8 @@ Nessa versão as seguintes novidades podem ser encontradas:
 * Suporte para visualizar as apresentações no Internet Explorer 11.
 * O HTML gerado pelo programa não tem mais como referência a Licença Pública Mozilla.
 * Ao abrir uma apresentação na URL a partir do frame ID, ela se iniciará no respectivo quadro dessa ID.
-* Ao clicar em um link externo a apresentação não mais desencaderá em uma transição.
-* Agora, o botão *Ajuste tamanho ao elemento* do editor deslinka a camada selecionada e se ajusta ao retângulo recortado.
+* Ao clicar em um link externo a apresentação não mais realizará uma transição.
+* Agora, o botão *Ajuste tamanho ao elemento* do editor deslinka a camada selecionada e ajusta-se ao retângulo recortado.
 * Um problema que impedia salvar alguns documentos foi resolvido.
 
 Graças ao trabalho de diversos tradutores, Sozi 15.11 está disponbível nos seguintes idiomas:
