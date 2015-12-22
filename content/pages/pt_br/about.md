@@ -14,5 +14,5 @@ Sozi é um programa feito em código aberto.
 É um Software Livre distribuído de acordo com os termos de
 [Mozilla Public License 2.0](http://www.mozilla.org/MPL/2.0/).
 
-<iframe class="sozi" src="|filename|/images/this-is-not-a-slideshow.fast.svg">
+<iframe class="sozi" src="|filename|/images/isso-nao-e-um-slideshow.svg">
 </iframe>
