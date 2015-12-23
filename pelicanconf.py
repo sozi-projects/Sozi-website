@@ -43,9 +43,9 @@ RELATIVE_URLS = True
 
 THEME = 'themes/sozi'
 
-ARTICLE_EXCLUDES = ['wiki']
+ARTICLE_EXCLUDES = ['wiki', 'presentations']
 
-STATIC_PATHS = ['images', 'releases', 'extra/favicon.ico', 'wiki']
+STATIC_PATHS = ['images', 'releases', 'extra/favicon.ico', 'wiki', 'presentations']
 
 EXTRA_PATH_METADATA = {
     'extra/favicon.ico': {'path': 'favicon.ico'}
