@@ -64,8 +64,8 @@ Les listes de vues doivent respecter la syntaxe suivante&nbsp;:
 
 Par exemple&nbsp;: `-i 2,4:6,10:12:18` inclura les vues 2, 4, 5, 6, 10, 12, 14, 16, 18.
 
-Convert a Sozi presentation to video
-------------------------------------
+Convertir une présentation Sozi en vidéo
+----------------------------------------
 
     :::bash
     sozi-to-video [options] presentation.sozi.html
