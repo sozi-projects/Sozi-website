@@ -3,10 +3,6 @@ Slug: 40-play
 Lang: pt_br
 Author: Guillaume Savaton, Marcelo Vaz
 
-> Esta página faz parte da documentação do Sozi 13.
-> Como estamos no processo de lançar o Sozi 15,
-> consideramos o conteúdo dessa página desatualizado.
-> Em breve ela será atualizada.
 
 Movimentando-se pela apresentação
 ---------------------------------
@@ -66,24 +62,18 @@ Ações diretas na tela
         <th>Mover</th>
         <th>Mais / menos zoom</th>
         <th>Rotacionar esquerda / direita</th>
-        <th>Mostrar tudo</th>
-        <th>Reiniciar</th>
     </tr>
     <tr>
         <th>Mouse</th>
         <td>Arrastar com o botão esquerdo</td>
         <td>Roda do mouse pra frente / pra trás</td>
         <td>Shift + Roda do mouse pra frente / pra trás</td>
-        <td></td>
-        <td></td>
     </tr>
     <tr>
         <th>Teclado</th>
         <td></td>
         <td>+ / -</td>
         <td>r / R</td>
-        <td>f, F</td>
-        <td>=</td>
     </tr>
 </table>
 

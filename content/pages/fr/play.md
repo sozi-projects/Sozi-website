@@ -5,11 +5,6 @@ Translation: true
 Author: Guillaume Savaton, David Libralesso
 
 
-> Cette page fait partie de la documentation de Sozi 13.
-> Avec la sortie imminente de Sozi 15, le contenu de cette page
-> est considéré comme obsolète.
-> Nous le mettrons à jour prochainement.
-
 Naviguer dans une présentation
 -------------------------------
 
@@ -69,24 +64,18 @@ Actions directes sur le canevas
         <th>Déplacement</th>
         <th>Zoom avant / arrière</th>
         <th>Rotation gauche / droite</th>
-        <th>Tout voir</th>
-        <th>Réinitialiser</th>
     </tr>
     <tr>
         <th>Souris</th>
         <td>Glisser avec le bouton gauche</td>
         <td>Molette avant / arrière</td>
         <td>Majuscule + Molette avant / arrière</td>
-        <td></td>
-        <td></td>
     </tr>
     <tr>
         <th>Clavier</th>
         <td></td>
         <td>+ / -</td>
         <td>r / R</td>
-        <td>f, F</td>
-        <td>=</td>
     </tr>
 </table>
 
