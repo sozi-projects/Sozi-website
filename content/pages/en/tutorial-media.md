@@ -4,14 +4,38 @@ Lang: en
 Author: Guillaume Savaton
 Status: hidden
 
-> This page is part of the documentation for Sozi 13.
-> As we are currently in the process of releasing Sozi 15,
-> the content of this page is considered obsolete and will
-> be updated soon.
-
 You can insert video and audio into a Sozi presentation,
-or even into any SVG document, using the *Add video or audio* extension
-in the *Sozi extras* extensions submenu.
+or even into any SVG document, using the *Add video or audio* extension for Inkscape.
+
+Installing
+----------
+
+1. Download the `Sozi-extras-media-[...].zip`
+   from the [latest release of Sozi](https://github.com/senshu/Sozi/releases/).
+2. The zip archive contains two files: `sozi_extras_media.inx` and `sozi_extras_media.py`.
+   Extract them to the Inkscape extensions folder:
+    * for Linux and OS X: `~/.config/inkscape/extensions`,
+    * for Windows: `C:\Program Files\Inkscape\share\extensions`,
+3. Open Inkscape. In the *Extensions* menu, you should find a *Sozi extras* submenu with the item *Add video or audio*.
+
+Using
+-----
+
+When adding a new audio or video element to an SVG document, you are asked to provide the following
+information:
+
+* *Media element*: *video* or *audio*.
+* *Width*: the width of the element, in pixels.
+* *Height*: the height of the element, in pixels.
+* *MIME type*: the type of the media file (e.g. `video/mp4` or `audio/ogg`).
+* *File name or URL*: the location of the media file.
+* *Play automatically in Sozi frame*: check the box to start playing automatically when a Sozi presentation
+  enters a given frame.
+* *Start playing when entering frame (id)*: the Id of the frame where the media should start playing automatically.
+* *Stop playing when entering frame (id)*: the Id of the frame where the media should stop playing automatically.
+
+Browser support
+---------------
 
 Technically, this feature relies on the HTML5 `<video>` and `<audio>`
 elements that can be embedded into SVG documents.
