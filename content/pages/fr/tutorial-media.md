@@ -45,6 +45,6 @@ Consultez la page suivante pour plus d'informations&nbsp;:
 [Formats Media supportés par les éléments HTML audio et vidéo (Mozilla Developer Network)](https://developer.mozilla.org/fr/docs/Web/HTML/formats_media_support).
 
 > Actuellement, Chrome (version 33) n'applique pas les transformations géométriques
-> (rotation, échelle, translation) aux éléments vidéo présents dans un document SVG.
-> Les vidéos apparaîtront toujours dans le coin supérieur gauche de la fenêtre du navigateur.
-> Il semple que seul Firefox traite les vidéos correctement.
+> (rotation, échelle, translation) aux éléments vidéo et audio présents dans un document SVG.
+> Ils apparaîtront toujours dans le coin supérieur gauche de la fenêtre du navigateur.
+> Il semple que seul Firefox les affiche correctement.

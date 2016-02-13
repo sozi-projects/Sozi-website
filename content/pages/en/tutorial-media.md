@@ -44,6 +44,6 @@ See the follwing page for more information:
 [Media formats supported by the HTML audio and video elements (Mozilla Developer Network)](https://developer.mozilla.org/en-US/docs/HTML/Supported_media_formats).
 
 > Currently, Chrome (as of version 33) does not apply geometrical transformations
-> (rotation, scaling, translation) to video elements embedded in SVG documents.
-> Videos will always show in the top-left corner of the browser window.
-> As far as we know, only Firefox handles videos correctly.
+> (rotation, scaling, translation) to video and audio elements embedded in SVG documents.
+> Media will always show in the top-left corner of the browser window.
+> As far as we know, only Firefox handles them correctly.
