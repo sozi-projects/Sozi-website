@@ -5,7 +5,7 @@ Author: Guillaume Savaton, Marcelo Vaz
 
 A versão estável mais atual do Sozi é a 16.02 (Fevereiro 2016):
 
-  * [Baixar a versão estável](https://github.com/senshu/Sozi/releases/tag/16.02)
+  * [Baixar a versão estável](https://github.com/senshu/Sozi/releases/tag/16.02-fix344)
   * [Baixar a versão preliminar da próxima atualização](https://drive.google.com/open?id=0ByRUreHgekjMWG9teGM2dE8wck0) (para testes)
 
 Sozi 13

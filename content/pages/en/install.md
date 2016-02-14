@@ -5,7 +5,7 @@ Author: Guillaume Savaton
 
 The current stable release is Sozi 16.02 (February 2016):
 
-  * [Download the stable release](https://github.com/senshu/Sozi/releases/tag/16.02)
+  * [Download the stable release](https://github.com/senshu/Sozi/releases/tag/16.02-fix344)
   * [Download a preview version of the next release](https://drive.google.com/open?id=0ByRUreHgekjMWG9teGM2dE8wck0) (for testers)
 
 Sozi is currently provided in the form of a [zip archive](https://en.wikipedia.org/wiki/Zip_%28file_format%29).
