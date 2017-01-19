@@ -1,6 +1,6 @@
 Title: Helfen
 Slug: 50-contribute
-Lang: en
+Lang: de
 Author: Guillaume Savaton, Andrej Barth
 Translation: true
 
