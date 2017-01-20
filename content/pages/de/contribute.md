@@ -1,6 +1,6 @@
 Title: Helfen
 Slug: 50-contribute
-Lang: en
+Lang: de
 Author: Guillaume Savaton, Andrej Barth
 Translation: true
 
@@ -21,7 +21,7 @@ Die folgende List enthält die Namen von Unterstützern, die auf die eine oder a
 Wenn Dein Name hier fehlt oder Du möchtest, dass Dein Name hier nicht erscheint, dann kontaktiere uns bitte.
 
 [Olivier Banus](https://launchpad.net/~sunab),
-[Andrej Barth](https://github.com/Draussenduscher)
+[Andrej Barth](https://github.com/Draussenduscher),
 [Quentin Bérard](https://github.com/quent57),
 [Robin Berjon](https://github.com/darobin),
 [Camille Bissuel](http://nylnook.com),
