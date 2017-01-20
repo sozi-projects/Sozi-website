@@ -13,7 +13,7 @@ Zoomer ou dézoomer
 ------------------
 
 Le champ `Zoom (%)` permet de régler l'effet d'agrandissement pendant 
-une transition. Ce champ doit être rempli avec:
+une transition. Ce champ doit être rempli avec&nbsp;:
 
 - une valeur positive pour zoomer,
 - une valeur négative pour dézoomer,
