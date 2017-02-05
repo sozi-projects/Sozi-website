@@ -18,7 +18,7 @@ When your work is finished, please [open a new issue](https://github.com/senshu/
 to request the translation to be added to the next release.
 
 > Even when 100% of the strings are marked as translated in Launchpad, we cannot
-> infer that your translation it is ready to be published.
+> infer that your translation is ready to be published.
 > We will publish a translation only if you request it.
 
 
