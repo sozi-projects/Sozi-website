@@ -21,7 +21,7 @@ Diese Einführung nutzt eine einfache svg-Datei, die die Zeichnung zu unserer Pr
 (Rechts-Klick und *Ziel speichern unter…*).
 Öffne die Datei mit dem Sozi-Editor.
 
-![Öffne die svg-Datei mit dem Sozi-Editor](|filename|/images/tutorial-first/first-presentation-screenshot-01.en.png)
+![Öffne die svg-Datei mit dem Sozi-Editor](|filename|/images/tutorial-first/first-presentation-screenshot-01.de.png)
 
 
 Erstelle das erste Bild Deiner Präsentation
@@ -36,7 +36,7 @@ Dann, in der Vorschau links:
 * positioniere die Kamera, indem Du die Maus bei gedrückter primärer (linker) Maustaste bewegst.
 * zoome, indem Du die Maus bei gedrückter Maustaste und gedrückter *Alt*-Taste auf der Tastatur bewegst.
 
-![Das erste Bild der Präsentation](|filename|/images/tutorial-first/first-presentation-screenshot-02.en.png)
+![Das erste Bild der Präsentation](|filename|/images/tutorial-first/first-presentation-screenshot-02.de.png)
 
 
 Erstelle drei weitere Bilder
@@ -50,7 +50,7 @@ Gib jedem Bild einen Title und stelle die Kamera richtig ein,
 für die orangene (2), die gelbe (3), und die blaue Form (4).
 Zum Rotieren der Kamera bewegst Du die Mause bei gedrückter Maustaste und gedrückter *Shift*-Taste auf der Tastatur.
 
-![Das zweite Bild der Präsentation](|filename|/images/tutorial-first/first-presentation-screenshot-03.en.png)
+![Das zweite Bild der Präsentation](|filename|/images/tutorial-first/first-presentation-screenshot-03.de.png)
 
 
 Speichere die Präsentation
