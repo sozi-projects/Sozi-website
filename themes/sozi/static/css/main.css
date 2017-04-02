@@ -7,7 +7,7 @@
 /*
  * Fonts
  */
- 
+
 body {
     font-family: TeXGyreSchola, Georgia, "Times New Roman", serif;
     font-size: large;
@@ -32,7 +32,7 @@ body {
 
 #banner {
     height: 5em;
-    
+
     margin: 0 -50em 0 -50em;
     padding: 0 50em 0 50em;
 }
@@ -45,7 +45,7 @@ body {
 
 #sidebar {
     height: 10em;
-    
+
     margin: 2em -50em 0 -50em;
     padding: 0 50em 0 50em;
 }
@@ -142,10 +142,10 @@ ol {
  * Menu
  */
 #menu ul {
+    display: table;
     list-style: none;
     text-align: center;
     margin: 0 auto;
-    padding: 0.5em 1em 0.5em 1em;
 }
 
 #menu li:before {
@@ -153,8 +153,10 @@ ol {
 }
 
 #menu li {
-    display: inline;
+    display: table-cell;
+    vertical-align: middle;
     padding: 0 0.5em 0.2em 0.5em;
+    text-indent: 0;
 }
 
 #menu li.active {
@@ -184,12 +186,12 @@ ol#post-list {
 
 p {
     text-align: justify;
-    
+
     -moz-hyphens: auto;
     -ms-hyphens: auto;
     -webkit-hyphens: auto;
     hyphens: auto;
-    
+
     margin: 0.5em 0;
     text-indent: 1em;
 }
@@ -317,7 +319,7 @@ embed.sozi {
 /*
  * Social widget (from theme notmyidea)
  */
- 
+
 .social a {
     background-repeat: no-repeat;
     background-position: 3px 6px;
@@ -347,4 +349,3 @@ embed.sozi {
 .social a[href*='twitter.com'] {background-image: url('../images/icons/twitter.png');}
 .social a[href*='vimeo.com'] {background-image: url('../images/icons/vimeo.png');}
 .social a[href*='youtube.com'] {background-image: url('../images/icons/youtube.png');}
-
