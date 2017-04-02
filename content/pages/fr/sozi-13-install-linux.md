@@ -5,9 +5,7 @@ Status: hidden
 Author: Guillaume Savaton, Vincent Garibal
 
 > Cette page fait partie de la documentation de Sozi 13.
-> Avec la sortie imminente de Sozi 15, le contenu de cette page
-> est considéré comme obsolète.
-> Nous le mettrons à jour prochainement.
+> [Suivez ce lien si vous souhaitez installer une version plus récente](|filename|install.md).
 
 Distributions proposant Sozi
 ----------------------------

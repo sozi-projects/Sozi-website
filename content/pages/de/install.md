@@ -4,9 +4,9 @@ Lang: de
 Author: Guillaume Savaton, Andrej Barth
 Translation: true
 
-Das derzeit stabile Release ist Sozi 16.02 (Februar 2016):
+Das derzeit stabile Release ist Sozi 17.02 (Februar 2017):
 
-  * [Download stabiles Release](https://github.com/senshu/Sozi/releases/tag/16.02-fix344)
+  * [Download stabiles Release](https://github.com/senshu/Sozi/releases/tag/17.02)
   * [Download Vorschau des kommenden Releases](https://drive.google.com/open?id=0ByRUreHgekjMWG9teGM2dE8wck0) (für Tester)
 
 Sozi wird in Form eines [zip-Archives](https://en.wikipedia.org/wiki/Zip_%28file_format%29) bereitgestellt.

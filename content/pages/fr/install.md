@@ -4,9 +4,9 @@ Lang: fr
 Translation: true
 Author: Guillaume Savaton
 
-La version stable courante porte le numéro 16.02 (février 2016).
+La version stable courante porte le numéro 17.02 (février 2017).
 
-  * [Télécharger la version stable](https://github.com/senshu/Sozi/releases/tag/16.02-fix344)
+  * [Télécharger la version stable](https://github.com/senshu/Sozi/releases/tag/17.02)
   * [Télécharger un aperçu de la prochaine version](https://drive.google.com/open?id=0ByRUreHgekjMWG9teGM2dE8wck0) (pour les testeurs)
 
 Pour le moment, Sozi est distribué sous la forme d'une [archive zip](https://fr.wikipedia.org/wiki/ZIP_%28format_de_fichier%29).
@@ -27,4 +27,3 @@ Sozi 13.11 est toujours disponible en cas de besoin, mais cette version n'est pl
   * [Installer Sozi 13 sous GNU/Linux](|filename|sozi-13-install-linux.md)
   * [Installer Sozi 13 sous Windows](|filename|sozi-13-install-windows.md)
   * [Installer Sozi 13 sous Mac OS X](|filename|sozi-13-install-osx.md)
-

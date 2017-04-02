@@ -6,9 +6,6 @@ Translation: true
 Status: hidden
 
 
-Diese Seite gehört zur Dokumentation von Sozi 15.
-[Folge diesem Link, wenn Du noch Sozi 13 nutzt](|filename|sozi-13-tutorial-first.md).
-
 Dieses Tutorial beschreibt die wichtigsten Features von Sozi.
 Du wirst lernen, die einzelnen Bilder zu erstellen und die Präsentation in einem Browser abzuspielen.
 

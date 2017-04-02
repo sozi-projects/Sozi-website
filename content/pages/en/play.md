@@ -14,6 +14,7 @@ Moving through the presentation
         <th>First frame</th>
         <th>Last frame</th>
         <th>Frame list</th>
+        <th>Blank screen</th>
     </tr>
     <tr>
         <th>Mouse</th>
@@ -22,6 +23,7 @@ Moving through the presentation
         <td></td>
         <td></td>
         <td>Middle click</td>
+        <td></td>
     </tr>
     <tr>
         <th rowspan="5">Keyboard</th>
@@ -30,6 +32,7 @@ Moving through the presentation
         <td rowspan="5">Home</td>
         <td rowspan="5">End</td>
         <td rowspan="5">t, T</td>
+        <td rowspan="5">. (Dot)</td>
     </tr>
     <tr>
         <td>Down arrow</td>

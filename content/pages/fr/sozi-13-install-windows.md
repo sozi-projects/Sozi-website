@@ -5,9 +5,7 @@ Status: hidden
 Author: Guillaume Savaton, IntraCherche
 
 > Cette page fait partie de la documentation de Sozi 13.
-> Avec la sortie imminente de Sozi 15, le contenu de cette page
-> est considéré comme obsolète.
-> Nous le mettrons à jour prochainement.
+> [Suivez ce lien si vous souhaitez installer une version plus récente](|filename|install.md).
 
 > Si vous mettez à jour Sozi depuis la version 13.01 ou antérieure,
 > il est recommandé de désinstaller cette version précédente

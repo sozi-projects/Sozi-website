@@ -6,9 +6,7 @@ Status: hidden
 
 
 > This page is part of the documentation for Sozi 13.
-> As we are currently in the process of releasing Sozi 15,
-> the content of this page is considered obsolete and will
-> be updated soon.
+> It is not applicable to more recent versions.
 
 A Sozi presentation can be organized in one or more layers that will
 move independently.

@@ -5,9 +5,6 @@ Author: Guillaume Savaton
 Status: hidden
 
 
-This page is part of the documentation for Sozi 15.
-[Follow this link if you are still using Sozi 13](|filename|sozi-13-tutorial-first.md).
-
 This tutorial will introduce the basic features of Sozi.
 You will learn how to create frames and play the presentation in a web browser.
 

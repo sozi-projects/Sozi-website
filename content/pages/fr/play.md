@@ -16,6 +16,7 @@ Naviguer dans une présentation
         <th>Première vue</th>
         <th>Dernière vue</th>
         <th>Liste des vues</th>
+        <th>Écran noir</th>
     </tr>
     <tr>
         <th>Souris</th>
@@ -24,6 +25,7 @@ Naviguer dans une présentation
         <td></td>
         <td></td>
         <td>Clic milieu</td>
+        <td></td>
     </tr>
     <tr>
         <th rowspan="5">Clavier</th>
@@ -32,6 +34,7 @@ Naviguer dans une présentation
         <td rowspan="5">Début</td>
         <td rowspan="5">Fin</td>
         <td rowspan="5">t, T</td>
+        <td rowspan="5">. (Point)</td>
     </tr>
     <tr>
         <td>Flèche bas</td>
@@ -85,4 +88,3 @@ Obtenir de l'aide et signaler un problème
 * [Foire Aux Questions et résolution des problèmes](|filename|faq.md)
 * [Rejoindre le groupe de discussion des utilisateurs de Sozi](http://groups.google.com/group/sozi-users)
 * [Signaler un problème et proposer de nouvelles fonctionnalités](http://github.com/senshu/Sozi/issues)
-

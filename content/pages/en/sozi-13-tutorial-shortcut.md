@@ -4,7 +4,7 @@ Lang: en
 Author: Guillaume Savaton
 Status: hidden
 
-This page is part of the documentation for Sozi 13.
+> This page is part of the documentation for Sozi 13.
 
 Inkscape supports the definition of custom keyboard shortcuts.
 You can edit or create the configuration file `default.xml` in one of the following locations:

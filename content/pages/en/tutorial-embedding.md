@@ -5,9 +5,7 @@ Author: Guillaume Savaton
 Status: hidden
 
 > This page is part of the documentation for Sozi 13.
-> As we are currently in the process of releasing Sozi 15,
-> the content of this page is considered obsolete and will
-> be updated soon.
+> It is not applicable to more recent versions.
 
 There are three known techniques to embed a Sozi presentation in an HTML page.
 
@@ -52,7 +50,7 @@ Using the `<embed>` element
 
     :::html
     <embed src="url_of_my_presentation.svg" type="image/svg+xml">
-    
+
 The width and height of the viewport for the embedded document can be set either as attributes
 of the `<embed>` element, or using CSS.
 An example is shown below.
