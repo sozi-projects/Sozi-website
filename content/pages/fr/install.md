@@ -4,9 +4,9 @@ Lang: fr
 Translation: true
 Author: Guillaume Savaton
 
-La version stable courante porte le numéro 17.02 (février 2017).
+La version stable courante porte le numéro 17.06 (juin 2017).
 
-  * [Télécharger la version stable](https://github.com/senshu/Sozi/releases/tag/17.02)
+  * [Télécharger la version stable](https://github.com/senshu/Sozi/releases/tag/17.06)
   * [Télécharger un aperçu de la prochaine version](https://drive.google.com/open?id=0ByRUreHgekjMWG9teGM2dE8wck0) (pour les testeurs)
 
 Sozi est distribué sous la forme d'une [archive zip](https://fr.wikipedia.org/wiki/ZIP_%28format_de_fichier%29).
@@ -17,7 +17,7 @@ Les utilisateurs de Linux et Windows peuvent démarrer Sozi en ouvrant l'exécut
 Les utilisateurs d'OS X y trouveront un sous-dossier `Sozi.app` qu'ils pourront
 faire glisser dans leur dossier `Applications`.
 
-À partir de la version 17.05, un script d'installation pour Linux est fourni.
+Un script d'installation pour Linux est fourni.
 Après installation, Sozi peut être exécuté depuis le menu des applications de votre environnement de bureau
 ou en ligne de commande en tant que `sozi` (en minuscules).
 
