@@ -1,5 +1,5 @@
 Title: Sozi 17.11 is available
-Date: 2017-08-20
+Date: 2017-11-19
 Slug: release-17.11
 Lang: en
 Author: Guillaume Savaton
