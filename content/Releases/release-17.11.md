@@ -18,9 +18,9 @@ As seguintes ações pelo mouse ou pelo teclado podem ser ativadas ou desativada
 Sozi 17.11 está disponível em 16 idiomas.
 Traduções para o chinês, polonês, italiano e lituano foram atualizadas.
 No entanto, a maioria das traduções não estão em dia, então se você não fala inglês,
-francês ou esperanto, está convidado a ver textos traduzidos na interface do usuário.
+francês ou esperanto, pode ser que encontre textos não traduzidos na interface do usuário.
 
-Se quer ajudar a traduzir o Sozi para seu idioma, você encontrará [instruções para a tradução](|filename|/pages/pt_br/translate-editor.md) aqui no site.
+Se quiser ajudar a traduzir o Sozi para seu idioma, você encontrará [instruções para a tradução](|filename|/pages/pt_br/translate-editor.md) aqui no site.
 Por favor [abra um chamado](https://github.com/senshu/Sozi/issues) caso queira que adicionemos um arquivo com a tradução completa
 ou atualizar alguma já existente.
 
