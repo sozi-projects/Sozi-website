@@ -27,7 +27,7 @@ ou atualizar alguma já existente.
 Use Sozi 17.11 agora!
 -------------------
 
-Sozi 17 pode ser usado no desktop como um aplicativo independent ou também como um aplicativo hospedado diretamente na internet.
+Sozi 17 pode ser usado no desktop como um aplicativo independente ou também como um software hospedado diretamente na internet.
 
 * [Baixar a versão para desktop](https://github.com/senshu/Sozi/releases/tag/17.11).
   Escolha o arquivo zip correspondente a sua plataforma, extraia-o e clique no arquivo executável `Sozi`.
@@ -36,5 +36,5 @@ Sozi 17 pode ser usado no desktop como um aplicativo independent ou também como
 Contribua
 ----------
 
-[Abra um chamado](https://github.com/senshu/Sozi/issues) caso encontre problemas ou bugs
+[Abra um chamado](https://github.com/senshu/Sozi/issues) caso encontre problemas, bugs
 ou queira sugerir melhoramentos.
