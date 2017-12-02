@@ -24,7 +24,7 @@ Usuários de GNU/Linux podem instalá-lo usando um script de instalação.
 
 Sozi 17.06 está disponível em 16 idiomas, including holandês e lituano.
 Infelizmente, a maioria das traduções não estão em dia, então se você não fala inglês,
-francês ou esperanto, está convidado a ver textos traduzidos na interface do usuário.
+francês ou esperanto, pode ser que encontre textos não traduzidos na interface do usuário.
 
 Se quer ajudar a traduzir o Sozi para seu idioma, você encontrará [instruções para a tradução](|filename|/pages/pt_br/translate-editor.md) aqui no site.
 Por favor [abra um chamado](https://github.com/senshu/Sozi/issues) caso queira que adicionemos um arquivo com a tradução completa
