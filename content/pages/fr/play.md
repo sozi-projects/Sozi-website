@@ -5,11 +5,6 @@ Translation: true
 Author: Guillaume Savaton, David Libralesso
 
 
-> Cette page fait partie de la documentation de Sozi 13.
-> Avec la sortie imminente de Sozi 15, le contenu de cette page
-> est considéré comme obsolète.
-> Nous le mettrons à jour prochainement.
-
 Naviguer dans une présentation
 -------------------------------
 
@@ -21,6 +16,7 @@ Naviguer dans une présentation
         <th>Première vue</th>
         <th>Dernière vue</th>
         <th>Liste des vues</th>
+        <th>Écran noir</th>
     </tr>
     <tr>
         <th>Souris</th>
@@ -29,6 +25,7 @@ Naviguer dans une présentation
         <td></td>
         <td></td>
         <td>Clic milieu</td>
+        <td></td>
     </tr>
     <tr>
         <th rowspan="5">Clavier</th>
@@ -37,6 +34,7 @@ Naviguer dans une présentation
         <td rowspan="5">Début</td>
         <td rowspan="5">Fin</td>
         <td rowspan="5">t, T</td>
+        <td rowspan="5">. (Point)</td>
     </tr>
     <tr>
         <td>Flèche bas</td>
@@ -69,24 +67,18 @@ Actions directes sur le canevas
         <th>Déplacement</th>
         <th>Zoom avant / arrière</th>
         <th>Rotation gauche / droite</th>
-        <th>Tout voir</th>
-        <th>Réinitialiser</th>
     </tr>
     <tr>
         <th>Souris</th>
         <td>Glisser avec le bouton gauche</td>
         <td>Molette avant / arrière</td>
         <td>Majuscule + Molette avant / arrière</td>
-        <td></td>
-        <td></td>
     </tr>
     <tr>
         <th>Clavier</th>
         <td></td>
         <td>+ / -</td>
         <td>r / R</td>
-        <td>f, F</td>
-        <td>=</td>
     </tr>
 </table>
 
@@ -96,4 +88,3 @@ Obtenir de l'aide et signaler un problème
 * [Foire Aux Questions et résolution des problèmes](|filename|faq.md)
 * [Rejoindre le groupe de discussion des utilisateurs de Sozi](http://groups.google.com/group/sozi-users)
 * [Signaler un problème et proposer de nouvelles fonctionnalités](http://github.com/senshu/Sozi/issues)
-

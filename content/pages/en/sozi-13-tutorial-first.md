@@ -5,8 +5,8 @@ Author: Guillaume Savaton
 Status: hidden
 
 
-This page is part of the documentation for Sozi 13.
-[Follow this link if you are using Sozi 15](|filename|tutorial-first.md).
+> This page is part of the documentation for Sozi 13.
+> [Follow this link if you are using a more recent version of Sozi](|filename|tutorial-first.md).
 
 This tutorial will introduce the basic features of Sozi.
 You will learn how to create frames and play the presentation in a web browser.
@@ -25,7 +25,7 @@ Draw the frame boundaries
 -------------------------
 
 Draw a rectangle for each frame of your presentation.
-Scale or rotate it to define the boundaries of each frame. 
+Scale or rotate it to define the boundaries of each frame.
 
 ![Draw the frame boundaries](|filename|/images/sozi-13-tutorial-first/sozi-tutorial-screenshot-02.png)
 
@@ -57,7 +57,7 @@ The main window of Inkscape will not respond until the presentation editor is cl
 ![The frame editor](|filename|/images/sozi-13-tutorial-first/sozi-tutorial-screenshot-06.png)
 
 When you start Sozi with a new document, the Sozi player will be automatically installed into the document.
-Later, each time you reopen Sozi with the same document, the player will be updated using the latest version installed on your computer. 
+Later, each time you reopen Sozi with the same document, the player will be updated using the latest version installed on your computer.
 
 Add frames and edit their properties
 ------------------------------------
@@ -101,5 +101,3 @@ Click inside the browser window to move to the next frame
 (See also: [Playing a presentation](|filename|play.md)).
 
 [Download or play the full presentation](|filename|/images/sozi-13-tutorial-first/sozi-tutorial-full.svg).
-
-

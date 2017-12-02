@@ -4,97 +4,90 @@ Lang: fr
 Author: Guillaume Savaton
 Status: hidden
 
-> Cette page fait partie de la documentation de Sozi 13.
-> Avec la sortie imminente de Sozi 15, le contenu de cette page
-> est considéré comme obsolète.
-> Nous le mettrons à jour prochainement.
+`sozi-to-pdf` et `sozi-to-video` sont des outils en ligne de commande permettant d'exporter une présentation
+vers un document PDF ou une vidéo.
+Le code source de ces outils est disponible dans le dépôt [Sozi-export](https://github.com/senshu/Sozi-export).
+Ces outils sont développés indépendamment de l'éditeur de présentation.
+Ils ont été testés seulement sous GNU/Linux.
 
-Les outis de conversion en PDF ou vidéo sont disponibles dans le
-[dépôt de code source](https://github.com/senshu/Sozi/tree/dev/tools)
-du projet.
-Ces outils sont des scripts Python utilisables en ligne de commande.
-Ils n'ont été testés que sous GNU/Linux.
 
-Convertir une présentation Sozi en PDF
---------------------------------------
+Installation
+------------
 
-Téléchargez les scripts
-[sozi2pdf.py](https://github.com/senshu/Sozi/raw/dev/tools/sozi2pdf/sozi2pdf.py)
-et [sozi2pdf.js](https://github.com/senshu/Sozi/raw/dev/tools/sozi2pdf/sozi2pdf.js).
-Vous pouvez les installer où vous voulez, mais les deux scripts doivent être dans le même dossier.
+L'outil d'exportation en PDF dépend de [pdfjam](http://www2.warwick.ac.uk/fac/sci/statistics/staff/academic-research/firth/software/pdfjam), un script shell pour manipuler des documents PDF.
+L'outil d'exportation en vidéo repose sur [libav](https://libav.org).
+Les utilisateurs de distributions basées sur Debian peuvent installer les paquets
+*texlive-extra-utils* et *libav-tools* packages.
 
-`sozi2pdf` dépend des logiciels suivants :
+    :::bash
+    apt-get install texlive-extra-utils libav-tools
 
-* [Python 2.7](http://python.org/download/)
-* [PhantomJS 1.9](http://phantomjs.org/)
-* [PDFjam](http://www2.warwick.ac.uk/fac/sci/statistics/staff/academic-research/firth/software/pdfjam), disponible dans la plupart des distributions GNU/Linux.
+Les deux outils sont fournis dans un même paquet NPM.
+Installez [node.js](https://nodejs.org/) 0.10 ou une version ultérieure
+(les utilisateurs de Linux peuvent utiliser les [distributions NodeSource](https://github.com/nodesource/distributions)),
+puis&nbsp;:
 
-Pour convertir une présentation en un document PDF de format A4, lancez les commandes suivantes :
+    :::bash
+    npm install -g sozi-export
 
-    :::sh
-    python /path/to/sozi2pdf.py my_sozi_presentation.svg
 
-Un nouveau document nommé `my_sozi_presentation.pdf` sera créé.
+Convertir une présentation Sozi presentation en PDF
+---------------------------------------------------
 
-Si vous ne voulez convertir que certains calques de votre document, vous pouvez utilier les options `-include` et `--exclude`.
-Ces options acceptent une liste de numéros de calques séparés par des virgules :
+    :::bash
+    sozi-to-pdf [options] presentation.sozi.html
 
-    :::sh
-    python /path/to/sozi2pdf.py \
-        --include=3,5,6,7,8,10,12,14,16,18 \
-        my_sozi_presentation.svg
+Options:
 
-De longues listes de numéros de calques peuvent être raccourcies à l'aide de deux points :
+* `-h`, `--help` Afficher de l'aide
+* `-o`, `--output <file>` Le nom du fichier de sortie
+* `-W`, `--width <number>` La largeur de la page (29.7 par défaut)
+* `-H`, `--height <number>` La hauteur de la page (21 par défaut)
+* `-r`, `--resolution <number>` Pixels par unité de hauteur/largeur (72 par défaut)
+* `-p`, `--paper <size>` Un format de papier LaTeX ('a4paper' par défaut)
+* `-P`, `--portrait` Définir l'orientation du papier en portrait (désactivé par défaut)
+* `-i`, `--include <list>` Les vues à inclure ('all' par défaut)
+* `-x`, `--exclude <list>` Les vues à exclure ('none' par défaut)
 
-    :::sh
-    python /path/to/sozi2pdf.py \
-        --include=3,5:8,10:12:18 \
-        my_sozi_presentation.svg
+Les options de largeur, hauteur et résolution déterminent la géométrie de la fenêtre du
+navigateur où la présentation sera rendue.
+Le format et l'orientation du papier définissent le format de page du document PDF final.
 
-* `5:8` correspont à `5,6,7,8`
-* `10:12:18` correspond à `10,12,14,16,18`
+L'option `include` est toujours appliquée avant l'option `exclude`.
+Les listes de vues doivent respecter la syntaxe suivante&nbsp;:
 
-Une liste complète des options est disponible via la commande suivante :
+* `all` sélectionne toutes les vues de la présentation.
+* `none` ne sélectionne aucune vue.
+* Une liste de numéros de vues ou d'intervalles séparés par des virgules.
+  Un intervalle est de la forme `premier:dernier` ou `premier:deuxième:dernier`.
+  Ici, `premier`, `deuxième` et `dernier` sont des numéros de vues.
 
-    :::sh
-    python /path/to/sozi2pdf.py --help
+Par exemple&nbsp;: `-i 2,4:6,10:12:18` inclura les vues 2, 4, 5, 6, 10, 12, 14, 16, 18.
 
 Convertir une présentation Sozi en vidéo
 ----------------------------------------
 
-> L'outil de conversion ne prend pas en charge les
-> [vidéos ou les extraits audio inclus dans une présentation](|filename|tutorial-media.md).
+    :::bash
+    sozi-to-video [options] presentation.sozi.html
 
-Téléchargez les scripts
-[sozi2video.py](https://github.com/senshu/Sozi/raw/dev/tools/sozi2video/sozi2video.py)
-et [sozi2video.js](https://github.com/senshu/Sozi/raw/dev/tools/sozi2video/sozi2video.js).
-Vous pouvez les installer où vous voulez, mais les deux scripts doivent être dans le même dossier.
+Options:
 
-`sozi2video` dépend des logiciels suivants:
+* `-h`, `--help` Afficher de l'aide
+* `-o`, `--output <file>` Le nom du fichier de sortie
+* `-W`, `--width <number>` La largeur de la vidéo, en pixels (1024 par défaut)
+* `-H`, `--height <number>` La hauteur de la vidéo, en pixels (768 par défaut)
+* `-b`, `--bit-rate <number>` Le débit binaire de la vidéo (2M par défaut)
 
-* [Python 2.7](http://python.org/download/)
-* [PhantomJS 1.9](http://phantomjs.org/)
-* [FFmpeg](http://ffmpeg.org/) or [libav](https://libav.org/), disponible dans la plupart des distributions GNU/Linux.
+Problèmes connus et limitations
+-------------------------------
 
-Pour convertir une présentation en un fichier vidéo [Ogg](https://en.wikipedia.org/wiki/Ogg) de dimension 1024x768,
-utilisez la commande suivante:
+Ces outils utilisent un navigateur web *headless* pour le rendu.
+[PhantomJS](http://phantomjs.org) et [SlimerJS](https://slimerjs.org/) ont chacun des avantages
+et des inconvénients&nbsp;:
 
-    :::sh
-    python /path/to/sozi2video.py my_sozi_presentation.svg
+* PhantomJS peut exporter une page web vers un document PDF, ce qui préserve les graphismes vectoriels et le texte.
+  Cependant, PhantomJS 1.9.19 ne parvient pas à rendre le contenu SVG d'une présentation Sozi.
+* SlimerJS rends le contenu SVG correctement mais ne prend pas en charge le format PDF.
 
-Un nouveau fichier nommé `my_sozi_presentation.ogv` sera créé.
-
-L'outil propose des options pour contrôler le format et les dimensions de la vidéo.
-Cet exemple crée une vidéo 720p en MP4.
-
-    :::sh
-    python /path/to/sozi2video.py \
-        --output=my_sozi_presentation.mp4 \
-        --width=1280 --height=720 \
-        my_sozi_presentation.svg
-
-Une liste complète des options est disponible via la commande suivante :
-
-    :::sh
-    python /path/to/sozi2video.py --help
-
+Pour le moment, l'outil d'export en PDF effectue le rendu de chaque vue vers une image PNG
+puis les rassemble dans un document PDF.

@@ -31,19 +31,19 @@ element as a child of the root `<svg>` element:
     </style>
 
 
-Some graphics do not render correctly when playing my Sozi presentation
------------------------------------------------------------------------
+Some graphics do not render correctly in Sozi
+---------------------------------------------
 
 Several users have reported issues when their SVG document contains
 *flowed text*, i.e. text that fits automatically to a given shape (a rectangle in Inkscape).
 This feature is currently not stable in the SVG standard.
-The Inkscape wiki provides [explanations on this subject](http://wiki.inkscape.org/wiki/index.php/FAQ#What_about_flowed_text.3F)
+The Inkscape FAQ provides [explanations on this subject](https://inkscape.org/en/learn/faq/#Flowed_text_doesn%27t_show_up_in_exported_file)
 with the following warning:
 
 > [...] you should not use flowed text in documents that you intend to use outside of Inkscape.
 
 More generally, Sozi is not responsible for rendering your document on the screen.
-This is the job of your web browser.
+This is the job of web browsers &mdash; actually the Sozi editor itself is based on a web browser.
 Sozi only handles the *presentation* logic: applying geometric transformations to
 the layers of your document, controlling the animation, reacting to user input.
 If you find that some graphics are not rendered correctly,

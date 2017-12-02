@@ -3,11 +3,6 @@ Slug: 40-play
 Lang: en
 Author: Guillaume Savaton
 
-> This page is part of the documentation for Sozi 13.
-> As we are currently in the process of releasing Sozi 15,
-> the content of this page is considered obsolete and will
-> be updated soon.
-
 Moving through the presentation
 -------------------------------
 
@@ -19,6 +14,7 @@ Moving through the presentation
         <th>First frame</th>
         <th>Last frame</th>
         <th>Frame list</th>
+        <th>Blank screen</th>
     </tr>
     <tr>
         <th>Mouse</th>
@@ -27,6 +23,7 @@ Moving through the presentation
         <td></td>
         <td></td>
         <td>Middle click</td>
+        <td></td>
     </tr>
     <tr>
         <th rowspan="5">Keyboard</th>
@@ -35,6 +32,7 @@ Moving through the presentation
         <td rowspan="5">Home</td>
         <td rowspan="5">End</td>
         <td rowspan="5">t, T</td>
+        <td rowspan="5">. (Dot)</td>
     </tr>
     <tr>
         <td>Down arrow</td>
@@ -66,24 +64,18 @@ Direct actions on the canvas
         <th>Move</th>
         <th>Zoom in / out</th>
         <th>Rotate left / right</th>
-        <th>Show all</th>
-        <th>Reset</th>
     </tr>
     <tr>
         <th>Mouse</th>
         <td>Drag with left button</td>
         <td>Mouse wheel forward / backward</td>
         <td>Shift + Mouse wheel forward / backward</td>
-        <td></td>
-        <td></td>
     </tr>
     <tr>
         <th>Keyboard</th>
         <td></td>
         <td>+ / -</td>
         <td>r / R</td>
-        <td>f, F</td>
-        <td>=</td>
     </tr>
 </table>
 

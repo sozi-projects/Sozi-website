@@ -2,12 +2,25 @@
     {% if article.translations %}
         {% if article.lang == 'fr' %}
             Traductions&nbsp;:
+        {% elif article.lang == 'pt_br' %}
+            Traduções&nbsp;:
         {% else %}
             Translations:
         {% endif %}
-        {% for translation in article.translations %}
-            <a href="{{ SITEURL }}/{{ translation.url }}">{{ translation.lang }}</a>
-        {% endfor %}
+        {% set comma = joiner() %}
+        {% for translation in article.translations -%}
+            {{ comma() }}
+            <a href="{{ SITEURL }}/{{ translation.url }}">
+                {%- if translation.lang == 'fr' -%}
+                    Français
+                {%- elif translation.lang == 'pt_br' -%}
+                    Português do Brasil
+                {%- elif translation.lang == 'de' -%}
+                    Deutsch
+                {%- else -%}
+                    English
+                {%- endif -%}
+            </a>
+        {%- endfor %}
     {% endif %}
 {% endmacro %}
-

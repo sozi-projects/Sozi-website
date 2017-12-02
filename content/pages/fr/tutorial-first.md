@@ -5,9 +5,6 @@ Author: Guillaume Savaton
 Translation: true
 Status: hidden
 
-Cette page fait partie de la documentation de Sozi 15.
-[Suivez ce lien si vous utilisez encore Sozi 13](|filename|sozi-13-tutorial-first.md).
-
 Ce tutoriel est une introduction aux principes de base de Sozi.
 Vous apprendrez à créer vos premières vues et à jouer la présentation dans un navigateur web.
 

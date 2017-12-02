@@ -2,7 +2,7 @@ Title: Showing and hiding objects
 Slug: tutorial-showing-hiding
 Lang: en
 Author: Guillaume Savaton
-Status: hidden
+Status: draft
 
 > This page is part of the documentation for Sozi 13.
 > As we are currently in the process of releasing Sozi 15,
@@ -10,4 +10,3 @@ Status: hidden
 > be updated soon.
 
 <!-- TODO -->
-

@@ -4,10 +4,6 @@ Lang: en
 Status: hidden
 Author: Guillaume Savaton
 
-> Please note that the current translation effort is focused on Sozi 15.
-> The development of Sozi 13 is currently stopped.
-> New contributions to Sozi 13 will not be integrated to any official release.
-
 The localized text for the Sozi editor are defined in *PO* files compatible with
 [GNU gettext](https://www.gnu.org/software/gettext/).
 There are two ways to participate in the translation of Sozi:
@@ -21,12 +17,16 @@ You can start translating immediately.
 When your work is finished, please [open a new issue](https://github.com/senshu/Sozi/issues)
 to request the translation to be added to the next release.
 
+> Even when 100% of the strings are marked as translated in Launchpad, we cannot
+> infer that your translation is ready to be published.
+> We will publish a translation only if you request it.
+
 
 Editing the PO files directly
 -----------------------------
 
 Fork the [source repository of Sozi at GitHub](https://github.com/senshu/Sozi).
-The *PO* files for Sozi 15 can be found in the `locales` folder.
+The *PO* files for Sozi can be found in the `locales` folder.
 
 *PO* files can be edited using a general-purpose text editor or a translation editor such as
 [Poedit](http://poedit.net/).
