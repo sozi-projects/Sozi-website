@@ -1,4 +1,4 @@
-Title: Faça uma doação
+Title: Doar
 Slug: 60-contribute
 Lang: pt_br
 Author: Guillaume Savaton, Marcelo Vaz Pupo
