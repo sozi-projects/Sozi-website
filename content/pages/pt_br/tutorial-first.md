@@ -32,14 +32,14 @@ Depois, no painel de visualização:
 * Posicione a câmera usando o mouse enquanto pressiona seu botão da esquerda.
 * Dê um zoom usando pressionando o botão da esquerda do mouse enquanto mantém pressionada a tecla *Alt* do teclado.
 
-![The first frame of the presentation](|filename|/images/tutorial-first/first-presentation-screenshot-02.en.png)
+![O primeiro quadro da apresentação](|filename|/images/tutorial-first/first-presentation-screenshot-02.en.png)
 
 
-Create three other frames
--------------------------
+Crie os outros três quadros
+---------------------------
 
-Add three new frames.
-Each is represented by a column in the timeline (bottom pane).
+Adicione três quadros novos.
+Cada quadro está representado Each is represented by a column in the timeline (bottom pane).
 You can click on the number or the title of a frame to select it.
 
 Set a title for each frame and move the camera in order to show successively:
