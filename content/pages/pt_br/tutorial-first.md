@@ -9,7 +9,7 @@ Esse tutorial apresenta as principais características do Sozi.
 Você irá aprender como criar os quadros da sua apresentação e efetivamente usá-la em um navegador de internet.
 
 
-Baixe o documento de exemplo e abra-o
+Baixar e abrir o documento de exemplo
 -------------------------------------
 
 Esse tutorial utiliza um documento SVG (desenho vetorial) que contém alguns elementos para nossa apresentação.
@@ -20,8 +20,8 @@ Abra o arquivo com o editor de apresentação Sozi.
 ![Abra o arquivo SVG com o editor de apresentação](|filename|/images/tutorial-first/first-presentation-screenshot-01.en.png)
 
 
-Crie o primeiro quadro (slide) da apresentação
-----------------------------------------------
+Criar o primeiro quadro da apresentação
+---------------------------------------
 
 Pressione o botão *+* para criar um novo quadro.
 
@@ -35,8 +35,8 @@ Depois, no painel de visualização:
 ![O primeiro quadro da apresentação](|filename|/images/tutorial-first/first-presentation-screenshot-02.en.png)
 
 
-Crie os outros três quadros
----------------------------
+Criar os outros três quadros
+----------------------------
 
 Adicione três quadros novos.
 O painel inferior representa cada quadro inserido por uma coluna na linha do tempo.
@@ -50,8 +50,8 @@ Para rotacionar, pressione a tecla *Shift* e segure o botão esquerdo do mouse e
 ![O segundo quadro da apresentação](|filename|/images/tutorial-first/first-presentation-screenshot-03.en.png)
 
 
-Salve a apresentação
---------------------
+Salvar a apresentação
+---------------------
 
 O editor salva a apresentação automaticamente.
 Ainda assim, é possível clicar no botão *Salvar* na barra de ferramentoas.
@@ -64,18 +64,17 @@ Ao salvar a apresentação, o editor atualiza os seguintes arquivos:
 * `first-presentation.sozi.html` contém a apresentação completa. É possível exibí-la em um navegador de internet 
 para realizar a apresentação.
 
-If you want to share a presentation with other people, you only need to give them
-the file with the extension `.sozi.html`.
+Caso queira compartilhar sua apresentação com outras pessoas basta enviar o 
+arquivo que tem a extensão `.sozi.html`.
 
 
-Play the presentation in a web browser
---------------------------------------
+Exibir a apresentação em um navegador de internet
+-------------------------------------------------
 
-Open the file `first-presentation.sozi.html` in a web browser.
-The camera is automatically set to the first frame of the presentation.
-Click inside the browser window to move to the next frame.
-(see also: [Play](|filename|play.md)).
+Abra o arquivo `first-presentation.sozi.html` em um navegador (browser) de internet.
+Automaticamente a câmera estará posicionada no primeiro quadro da apresentação.
+Clique na janela do navegador para movimentar para o próximo quadro.
+(veja também: [Apresentar](|filename|play.md)).
 
-[Download the complete presentation](https://github.com/senshu/Sozi/raw/master/samples/first-presentation.sozi.html)
-(Right-click on the link and choose *Save link target as*).
-
+[Baixe a apresentação completa](https://github.com/senshu/Sozi/raw/master/samples/first-presentation.sozi.html)
+(Clique com o botão da direita no link e escolha *Salvar link como...*).
