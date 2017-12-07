@@ -21,7 +21,7 @@ Abra o arquivo com o editor de apresentação Sozi.
 
 
 Crie o primeiro quadro (slide) da apresentação
------------------------------------------------
+----------------------------------------------
 
 Pressione o botão *+* para criar um novo quadro.
 
@@ -39,29 +39,30 @@ Crie os outros três quadros
 ---------------------------
 
 Adicione três quadros novos.
-Cada quadro está representado Each is represented by a column in the timeline (bottom pane).
-You can click on the number or the title of a frame to select it.
+O painel inferior representa cada quadro inserido por uma coluna na linha do tempo.
+É possível selecionar o quadro clicando no seu respectivo número ou título.
 
-Set a title for each frame and move the camera in order to show successively:
-the orange shape (2), the yellow shape (3), and the blue shape (4).
-To rotate, move the mouse while holding the left button and the *Shift* key.
-
-![The second frame of the presentation](|filename|/images/tutorial-first/first-presentation-screenshot-03.en.png)
+Defina um título para cada quadro e movimente a câmera para que sejam exibidos em sequência:
+o objeto laranja (2), o objeto amarelo (3) e o objeto azul (4).
+Para rotacionar, pressione a tecla *Shift* e segure o botão esquerdo do mouse e movimente-o.
 
 
-Save the presentation
----------------------
+![O segundo quadro da apresentação](|filename|/images/tutorial-first/first-presentation-screenshot-03.en.png)
 
-The editor should save your presentation automatically.
-If it does not, you can still press the *Save* button in the tool bar.
 
-Sozi does not alter the original SVG document.
-When saving, the editor updates the following two files:
+Salve a apresentação
+--------------------
 
-* `first-presentation.sozi.json` contains the presentation data. This file is used
-  by the presentation editor. It must reside in the same folder as the SVG document and must have the same name.
-* `first-presentation.sozi.html` contains the complete presentation. You can display it in a web browser
-  to play the presentation.
+O editor salva a apresentação automaticamente.
+Ainda assim, é possível clicar no botão *Salvar* na barra de ferramentoas.
+
+Sozi não realiza modificação alguma no documento SVG de origem.
+Ao salvar a apresentação, o editor atualiza os seguintes arquivos:
+
+* `first-presentation.sozi.json` contém dos dados da apresentação. Esse arquivo é utilizado
+  pelo editor de apresentação. Ele deve permanecer na mesma pasta do arquivo SVG e ter, necessariamente, o mesmo nome.
+* `first-presentation.sozi.html` contém a apresentação completa. É possível exibí-la em um navegador de internet 
+para realizar a apresentação.
 
 If you want to share a presentation with other people, you only need to give them
 the file with the extension `.sozi.html`.
