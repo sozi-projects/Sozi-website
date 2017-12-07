@@ -10,19 +10,18 @@ Um exemplo bem comum de uso de camadas é inserir um fundo, fixo, para os quadro
 mas existem muitas outras possibilidades.
 Com algum trabalho e engenhosidade, é possível criar animações bem sofisticadas.
 Mas lembre-se: como o objetivo do Sozi é editar apresentações,
-ele não it will not provide the facilities that you would expect from a general-purpose
-animation editor.
+ele não tem recursos que outros programas, dedicados às animações, geralmente têm.
 
-Download and open the base document
------------------------------------
+Baixar e abrir o documento de exemplo
+-------------------------------------
 
-This tutorial is based on an SVG document that contains the drawing elements of our presentation.
-[Download the base SVG document](https://github.com/senshu/Sozi/raw/master/samples/tutorial-layers.svg)
-(Right-click on the link and choose *Save link target as*).
+Esse tutorial utiliza um documento SVG (desenho vetorial) que contém alguns elementos para nossa apresentação.
+[Baixe o arquivo SVG](https://github.com/senshu/Sozi/raw/master/samples/tutorial-layers.svg)
+(Clique com o botão da direita no link e escolha *Salvar link como...*).
 
-This SVG document has been created with [Inkscape](https://inkscape.org).
-We recommend to install Inkscape before proceeding.
-Before starting creating the presentation, we will have a look at the organization
+Esse documento SVG foi criado no [Inkscape](https://inkscape.org).
+Recomendamos sua instalação antes de seguir no tutorial.
+Antes de criar a apresentação, Before starting creating the presentation, we will have a look at the organization
 of the graphics.
 
 Open `tutorial-layers.svg` in Inkscape.
