@@ -134,7 +134,7 @@ Adicionar uma camada animada (Sky)
 --------------------------------
 
 A essa altura do campeonato, todos os desenhos que não pertencem às camadas *Landscape* ou *Captions*
-estão representadas are represented by the *Default* row of the timeline.
+estão inseridos na linha *Padrão* da linha do tempo.
 Generally, *Default* is not really a layer: it groups all layers that have not been added to the timeline
 and all the elements that do not belong to a layer (you should take care to avoid this, but it can happen).
 If you add a new layer to the SVG document in Inkscape, it will fall automatically into
