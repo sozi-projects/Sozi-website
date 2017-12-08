@@ -21,57 +21,56 @@ Esse tutorial utiliza um documento SVG (desenho vetorial) que contém alguns ele
 
 Esse documento SVG foi criado no [Inkscape](https://inkscape.org).
 Recomendamos sua instalação antes de seguir no tutorial.
-Antes de criar a apresentação, Before starting creating the presentation, we will have a look at the organization
-of the graphics.
+Antes de criar a apresentação, veremos como os desenhos estão organizados.
 
-Open `tutorial-layers.svg` in Inkscape.
+Abra `tutorial-layers.svg` pelo Inkscape.
 
-![Base document in Inkscape](|filename|/images/tutorial-layers/sozi-layers-tutorial-screenshot-01.png)
+![Documento de exemplo no Inkscape](|filename|/images/tutorial-layers/sozi-layers-tutorial-screenshot-01.png)
 
-Layer organization
-------------------
+Organização de camada
+---------------------
 
-Inkscape allows to organize a document in layers.
-You can open the layers panel by clicking on the *View layers* button in the toolbar,
-or by choosing *Layers&hellip;* item from the *Layer* menu.
+É possível organizar um documento no Inkscape em camadas.
+Você pode abrir o painel de camadas clicando em *Organize, adicione, exclua camadas* na barra de ferramenta,
+ou clicando no item *Gerenciador de camadas;* no menu *Camada* menu.
 
-![Show layers](|filename|/images/tutorial-layers/sozi-layers-tutorial-screenshot-02.png)
+![Mostrar camadas](|filename|/images/tutorial-layers/sozi-layers-tutorial-screenshot-02.png)
 
-In this example, the document contains three layers:
+Nesse exemplo, o documento contém três camadas:
 
-* *Captions*: the foreground layer with text elements.
-* *Landscape*: the intermediate layer contains a drawing of a tree.
-* *Sky*: the background layer contains a big blue circle with sun, moon and stars.
+* *Captions*: é a camada de primeiro plano com os elementos de texto.
+* *Landscape*: camada intermediária com o desenho da árvore.
+* *Sky*: camada de fundo com um grande círculo azul e o sol, a lua e as estrelas.
 
-Each layer has a sublayer named *Frames*. These sublayers contain rectangles
-that will help align the graphics when creating the Sozi presentation.
+Cada camada tem uma subcamada chamada *Frames*. Essas subcamadas contém retângulos
+que ajudam no alinhamento dos desenhos quando formos criar a apresentação no Sozi.
 
-> You can show or hide a layer by clicking on the corresponding "eye" icon in the *Layers* dialog.
-> Try showing and hiding each layer and sublayer to identify which elements belong to which layer.
+> É possível mostrar ou esconder uma camada clicando no ícone de olho correspondente, na caixa de diálogo *Gerenciador de camada*.
+> Experimente mostrar e esconder cada camada e subcamada para identificar quais elementos pertencem a qual camada.
 >
-> Make sure that all layers are visible before proceeding to the next section.
+> Tenha certeza de que todas as camadas estão visíveis antes de seguir para o próximo passo.
 
-Create the frames of the Sozi presentation
-------------------------------------------
+Criar os quadros da apresentação do Sozi
+----------------------------------------
 
-Open `tutorial-layers.svg` in the Sozi presentation editor.
+Abra `tutorial-layers.svg` no editor de apresentação do Sozi.
 
-![Base document in Sozi](|filename|/images/tutorial-layers/sozi-layers-tutorial-screenshot-03.png)
+![Documento de exemplo no Sozi](|filename|/images/tutorial-layers/sozi-layers-tutorial-screenshot-03.png)
 
-Create four frames using the *+* button in the timeline pane.
-For each frame, fill the *Title* field with the following titles:
+Adicione quatro quadros usando o botão *+* no painel da linha do tempo.
+Para cada quadro, preencha o campo *Título* com os seguintes títulos:
 
 1. "Morning",
 2. "Noon",
 3. "Evening",
 4. "Night".
 
-The timeline should look like this:
+A linha do tempo deve ficar assim:
 
-![Timeline with 4 frames](|filename|/images/tutorial-layers/sozi-layers-tutorial-screenshot-04.png)
+![Linha do tempo com quatro quadros](|filename|/images/tutorial-layers/sozi-layers-tutorial-screenshot-04.png)
 
-Add a fixed layer (Landscape)
------------------------------
+Adicione uma camada fixa (Landscape)
+------------------------------------
 
 Press the *Add layer* button and choose *Landscape*.
 In the timeline, select the cell that corresponds to the first frame and the
