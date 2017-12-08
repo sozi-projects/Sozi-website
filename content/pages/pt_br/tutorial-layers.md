@@ -86,40 +86,40 @@ Tenha certeza de que apenas os elementos da camada *Landcape* sejam movidos.
 No painel de propriedades do lado direito, no campo *Exposição do elemento Id* deve estar escrito
 "rect-landscape".
 Esse é o identificador SVG do grande retângulo vermelho que envolve o desenho da árvore.
-Se o botão *selecionar elemento automaticamente* estiver acionado, o Sozi alinha automaticamente
+Se o botão *Selecionar elemento automaticamente* estiver acionado, o Sozi alinha automaticamente
 esse retângulo como o contorno do quadro corrente.
 
 * Pressione o botão *Ajuste tamanho ao elemento* a direita: agora a camada *Landscape* foi
-  ajudatada de forma que o retângulo adjusted so that the rectangle fills the preview area.
-* Press the *Hide element* button to hide the rectangle.
+  ajustada de forma que o retângulo ocupe a área de visualização.
+* Pressione o botão *Ocultar elemento* para ocultar o retângulo.
 
-![Outline element selection](|filename|/images/tutorial-layers/sozi-layers-tutorial-screenshot-07.png)
+![Exposição do elemento selecionado](|filename|/images/tutorial-layers/sozi-layers-tutorial-screenshot-07.png)
 
-If the presentation is played in a web browser window that has a different aspect
-ratio, we want to hide the graphics outside the currently visible area.
-At the top right of the properties pane, press the *Clip* button.
+Caso a apresentação seja exibida na janela de um navegador de internet com uma proporção de tela diferente,
+será preciso esconder as partes do desenho que ficarem de fora da área visível.
+Para isso, pressione o botão *Cortar* no painel de propriedades.
 
-We have set up a layer that will not move during the presentation.
-Now let us create an animated layer.
+Nós configuramos uma camada que não será movimentada ao longo da apresentação.
+Agora, vamos criar a camada que será animada.
 
-![Fitted Landscape layer](|filename|/images/tutorial-layers/sozi-layers-tutorial-screenshot-08.png)
+![Camada Landscape ajustada](|filename|/images/tutorial-layers/sozi-layers-tutorial-screenshot-08.png)
 
-Add an animated layer (Captions)
---------------------------------
+Adicione a camada de animação (Captions)
+----------------------------------------
 
-Press the *Add layer* button and choose *Captions*.
-In the timeline, select the cell that corresponds to the first frame and the
-*Captions* layer as shown below.
+Pressione o botão *Adicionar camada* e escolha *Captions*.
+Na linha do tempo, selecione a célula que corresponde ao primeiro quadro
+e a camada *Captions* como mostra a figura abaixo.
 
-![Select layer Captions for frame 1](|filename|/images/tutorial-layers/sozi-layers-tutorial-screenshot-09.png)
+![Selecione a camada Captions no quadro 1](|filename|/images/tutorial-layers/sozi-layers-tutorial-screenshot-09.png)
 
-In the preview area, zoom in (mouse wheel) and move the *Captions* layer
-until the rectangle containing the text "Morning" almost fills the area.
-Make sure that only the elements from the *Captions* layer are affected.
+Na área de visualização, dê um zoom (rodinha do mouse) e movimente a camada *Captions*
+até que o retângulo com o texto "Morning" ocupe quase toda a área.
+Certifique-se de que apenas os elementos da camada *Captions* sejam movimentados.
 
-![Zoom in the Captions layer](|filename|/images/tutorial-layers/sozi-layers-tutorial-screenshot-10.png)
+![Zoom na camada Captions](|filename|/images/tutorial-layers/sozi-layers-tutorial-screenshot-10.png)
 
-The field *Outline element Id* should read "rect-text-morning".
+No campo *Exposição do elemento Id* deve estar escrito "rect-text-morning".
 Press the *Fit to element*, *Hide element* and *Clip* buttons.
 
 Apply the same process to the frames "Noon", "Evening" and "Night".
