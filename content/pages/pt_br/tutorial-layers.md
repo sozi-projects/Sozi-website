@@ -47,7 +47,6 @@ que ajudam no alinhamento dos desenhos quando formos criar a apresentação no S
 
 > É possível mostrar ou esconder uma camada clicando no ícone de olho correspondente, na caixa de diálogo *Gerenciador de camada*.
 > Experimente mostrar e esconder cada camada e subcamada para identificar quais elementos pertencem a qual camada.
->
 > Tenha certeza de que todas as camadas estão visíveis antes de seguir para o próximo passo.
 
 Criar os quadros da apresentação do Sozi
@@ -72,27 +71,26 @@ A linha do tempo deve ficar assim:
 Adicione uma camada fixa (Landscape)
 ------------------------------------
 
-Press the *Add layer* button and choose *Landscape*.
-In the timeline, select the cell that corresponds to the first frame and the
-*Landscape* layer as shown below.
+Pressione o botão *Adicionar camada* e escolha *Landscape*.
+Na linha do tempo, selecione a célula que corresponde ao primeiro quadro
+e a camada *Landscape* como mostra a figura abaixo.
 
-![Select layer Landscape for frame 1](|filename|/images/tutorial-layers/sozi-layers-tutorial-screenshot-05.png)
+![Selecione a camada Landscape para o quadro 1](|filename|/images/tutorial-layers/sozi-layers-tutorial-screenshot-05.png)
 
-In the preview area, zoom in (mouse wheel) and move the *Landscape* layer
-until the rectangle containing the tree almost fills the area.
-Make sure that only the elements from the *Landcape* layer are affected.
+Na área de visualização, use a rodinha do mouse para dar um zoom e ampliar a camada *Landscape*
+até que o retângulo com a árvore quase preencha toda a área.
+Tenha certeza de que apenas os elementos da camada *Landcape* sejam movidos.
 
-![Zoom in the Landcape layer](|filename|/images/tutorial-layers/sozi-layers-tutorial-screenshot-06.png)
+![Zoom na camada Landcape](|filename|/images/tutorial-layers/sozi-layers-tutorial-screenshot-06.png)
 
-In the properties pane on the right, the field *Outline element Id* should read
+No painel de propriedades do lado direito, no campo *Exposição do elemento Id* deve estar escrito
 "rect-landscape".
-This is the SVG identifier of the big red rectangle that encloses the drawing of
-the tree.
-Since the *Autoselect element* button is active, Sozi automatically proposes this
-rectangle as a candidate to be used as an outline for the current frame.
+Esse é o identificador SVG do grande retângulo vermelho que envolve o desenho da árvore.
+Se o botão *selecionar elemento automaticamente* estiver acionado, o Sozi alinha automaticamente
+esse retângulo como o contorno do quadro corrente.
 
-* Press the *Fit to element* button on the right: now the *Landscape* layer has been
-  adjusted so that the rectangle fills the preview area.
+* Pressione o botão *Ajuste tamanho ao elemento* a direita: agora a camada *Landscape* foi
+  ajudatada de forma que o retângulo adjusted so that the rectangle fills the preview area.
 * Press the *Hide element* button to hide the rectangle.
 
 ![Outline element selection](|filename|/images/tutorial-layers/sozi-layers-tutorial-screenshot-07.png)
