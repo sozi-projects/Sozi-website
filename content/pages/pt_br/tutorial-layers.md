@@ -68,7 +68,7 @@ A linha do tempo deve ficar assim:
 
 ![Linha do tempo com quatro quadros](|filename|/images/tutorial-layers/sozi-layers-tutorial-screenshot-04.png)
 
-Adicione uma camada fixa (Landscape)
+Adicionar uma camada fixa (Landscape)
 ------------------------------------
 
 Pressione o botão *Adicionar camada* e escolha *Landscape*.
@@ -104,7 +104,7 @@ Agora, vamos criar a camada que será animada.
 
 ![Camada Landscape ajustada](|filename|/images/tutorial-layers/sozi-layers-tutorial-screenshot-08.png)
 
-Adicione a camada de animação (Captions)
+Adicionar a camada de animação (Captions)
 ----------------------------------------
 
 Pressione o botão *Adicionar camada* e escolha *Captions*.
@@ -120,21 +120,21 @@ Certifique-se de que apenas os elementos da camada *Captions* sejam movimentados
 ![Zoom na camada Captions](|filename|/images/tutorial-layers/sozi-layers-tutorial-screenshot-10.png)
 
 No campo *Exposição do elemento Id* deve estar escrito "rect-text-morning".
-Press the *Fit to element*, *Hide element* and *Clip* buttons.
+Pressione os botões *Ajuste tamanho ao elemento*, *Ocultar elemento* e *Cortar*.
 
-Apply the same process to the frames "Noon", "Evening" and "Night".
-The preview area for each frame should look like this:
+Repita os mesmos procedimentos aos quadros "Noon", "Evening" e "Night".
+A área de visualização de cada quadro deve ser vista assim:
 
 ![Adjusted frame 1 in Captions layer](|filename|/images/tutorial-layers/sozi-layers-tutorial-screenshot-11.png)
 ![Adjusted frame 2 in Captions layer](|filename|/images/tutorial-layers/sozi-layers-tutorial-screenshot-12.png)
 ![Adjusted frame 3 in Captions layer](|filename|/images/tutorial-layers/sozi-layers-tutorial-screenshot-13.png)
 ![Adjusted frame 4 in Captions layer](|filename|/images/tutorial-layers/sozi-layers-tutorial-screenshot-14.png)
 
-Add an animated layer (Sky)
+Adicionar uma camada animada (Sky)
 --------------------------------
 
-At this stage, all the graphics that do not belong to the *Landscape* or *Captions* layers
-are represented by the *Default* row of the timeline.
+A essa altura do campeonato, todos os desenhos que não pertencem às camadas *Landscape* ou *Captions*
+estão representadas are represented by the *Default* row of the timeline.
 Generally, *Default* is not really a layer: it groups all layers that have not been added to the timeline
 and all the elements that do not belong to a layer (you should take care to avoid this, but it can happen).
 If you add a new layer to the SVG document in Inkscape, it will fall automatically into
