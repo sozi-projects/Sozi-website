@@ -19,8 +19,8 @@ Instalando
     * No Windows: `C:\Program Files\Inkscape\share\extensions`,
 3. Abra o Inkscape. No menu *Extensões*, você verá o submenu *Sozi extras* com o item *Add video or audio*.
 
-Usar extensão
--------------
+Usar a extensão
+---------------
 
 Ao incluir um novo elemento de áudio ou vídeo em um documento SVG, as seguintes informações
 serão solicitadas:
@@ -33,14 +33,14 @@ serão solicitadas:
 * *Play automatically in Sozi frame*: marque essa caixa para que o Sozi execute automaticamente a mídia
 quando determinado quadro da apresentação é exibido.
 * *Start playing when entering frame (id)*: a Id do quadro no qual a mídia deverá ser executada automaticamente.
-* *Stop playing when entering frame (id)*: a Id do quadro no qual a mídia deverá of the frame where the media should stop playing automatically.
+* *Stop playing when entering frame (id)*: a Id do quadro no qual a execução da mídia deverá ser interrompida automaticamente.
 
-Browser support
----------------
+Suporte de navegador
+--------------------
 
-Technically, this feature relies on the HTML5 `<video>` and `<audio>`
-elements that can be embedded into SVG documents.
-Web browsers do not support the same set of media formats.
+Tecnicamente esse recurso está baseado nos elementos HTML5 `<video>` e `<audio>`
+que podem ser inseridos em documentos SVG.
+Navegadores de internet não têm a mesma configuração de formatos de mídia.
 See the follwing page for more information:
 [Media formats supported by the HTML audio and video elements (Mozilla Developer Network)](https://developer.mozilla.org/en-US/docs/HTML/Supported_media_formats).
 
