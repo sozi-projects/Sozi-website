@@ -54,7 +54,7 @@ Salvar a apresentação
 ---------------------
 
 O editor salva a apresentação automaticamente.
-Ainda assim, é possível clicar no botão *Salvar* na barra de ferramentoas.
+Ainda assim, é possível clicar no botão *Salvar* na barra de ferramentas.
 
 Sozi não realiza modificação alguma no documento SVG de origem.
 Ao salvar a apresentação, o editor atualiza os seguintes arquivos:
@@ -72,7 +72,7 @@ Exibir a apresentação em um navegador de internet
 -------------------------------------------------
 
 Abra o arquivo `first-presentation.sozi.html` em um navegador (browser) de internet.
-Automaticamente a câmera estará posicionada no primeiro quadro da apresentação.
+A câmera estára posicionada automaticamente no primeiro quadro da apresentação.
 Clique na janela do navegador para movimentar para o próximo quadro.
 (veja também: [Apresentar](|filename|play.md)).
 
