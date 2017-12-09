@@ -158,26 +158,26 @@ Para cada quadro:
 1. Na linha *Sky* da linha do tempo, selecione a célula correspondente ao quadro que quer editar.
 2. Na área de visualização, dê um zoom (rodinha do mouse), movimente, rotacione (Shift + rodinha do mouse) a camada até que
 o retângulo em questão quase ocupe toda a área.
-3. Confira o campo *Exposição do elemento Id* e pressione os botões *Ajustar ao elemento*, *Ocultar elemento* e *Cortar* buttons.
+3. Confira o campo *Exposição do elemento Id* e pressione os botões *Ajustar ao elemento*, *Ocultar elemento* e *Cortar*.
 
-Show the *Landscape* and *Captions* layers again.
-The preview area should look like this:
+Tire do modo oculto as camadas *Landscape* e *Captions*.
+A área de visualização deve ficar assim:
 
 ![Adjusted frame 1 in Sky layer](|filename|/images/tutorial-layers/sozi-layers-tutorial-screenshot-16.png)
 ![Adjusted frame 2 in Sky layer](|filename|/images/tutorial-layers/sozi-layers-tutorial-screenshot-17.png)
 ![Adjusted frame 3 in Sky layer](|filename|/images/tutorial-layers/sozi-layers-tutorial-screenshot-18.png)
 ![Adjusted frame 4 in Sky layer](|filename|/images/tutorial-layers/sozi-layers-tutorial-screenshot-19.png)
 
-Save and play the presentation
+Salvar e exibir a apresentação
 ------------------------------
 
-The editor should save your presentation automatically.
-If it does not, you can still press the *Save* button in the tool bar.
+O editor salva a apresentação automaticamente.
+Ainda assim, é possível clicar no botão *Salvar* na barra de ferramentas.
 
-Open the file `tutorial-layers.sozi.html` in a web browser.
-The camera is automatically set to the first frame of the presentation.
-Click inside the browser window to move to the next frame.
-(see also: [Play](|filename|play.md)).
+Abra o arquivo `tutorial-layers.sozi.html` em um navegador (browser) de internet.
+A câmera estára posicionada automaticamente no primeiro quadro da apresentação.
+Clique na janela do navegador para movimentar para o próximo quadro.
+(veja também: [Apresentar](|filename|play.md)).
 
-[Download the full presentation](https://github.com/senshu/Sozi/raw/master/samples/tutorial-layers.sozi.html)
-(Right-click on the link and choose *Save link target as*).
+[Baixe a apresentação completa](https://github.com/senshu/Sozi/raw/master/samples/tutorial-layers.sozi.html)
+(Clique com o botão da direita no link e escolha *Salvar link como...*).
