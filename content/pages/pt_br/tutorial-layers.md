@@ -156,8 +156,9 @@ Repita os procedimentos feitos com a camdada *Captions*.
 Para cada quadro:
 
 1. Na linha *Sky* da linha do tempo, selecione a célula correspondente ao quadro que quer editar.
-2. Na área de visualização, dê um zoom (rodinha do mouse), move, and rotate (Shift + mouse wheel) the layer until the desired rectangle almost fills the area.
-3. Check the field *Outline element Id*, then press the *Fit to element*, *Hide element* and *Clip* buttons.
+2. Na área de visualização, dê um zoom (rodinha do mouse), movimente, rotacione (Shift + rodinha do mouse) a camada até que
+o retângulo em questão quase ocupe toda a área.
+3. Confira o campo *Exposição do elemento Id* e pressione os botões *Ajustar ao elemento*, *Ocultar elemento* e *Cortar* buttons.
 
 Show the *Landscape* and *Captions* layers again.
 The preview area should look like this:
