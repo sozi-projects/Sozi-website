@@ -135,30 +135,28 @@ Adicionar uma camada animada (Sky)
 
 A essa altura do campeonato, todos os desenhos que não pertencem às camadas *Landscape* ou *Captions*
 estão inseridos na linha *Padrão* da linha do tempo.
-Generally, *Default* is not really a layer: it groups all layers that have not been added to the timeline
-and all the elements that do not belong to a layer (you should take care to avoid this, but it can happen).
-If you add a new layer to the SVG document in Inkscape, it will fall automatically into
-the *Default* category in Sozi.
+De fato, *Padrão* não é exatamente uma camada: é um grupo de camadas que não foram ativadas na linha do tempo
+e também contém elementos que não pertencem a nenhuma camada (pode acontecer, mas sugerimos que evite que isso aconteça).
+Toda vez que uma nova camada é criada no documento SVG do Inkscape, ela automaticamente fica inserida
+na categoria *Padrão* no Sozi.
 
-Press the *Add layer* button and choose *Sky*.
-The *Default* row should disappear.
+Pressione o botão *Adicionar camada* e escolha *Sky*.
+A linha *Padrão* irá desaparecer.
 
-For convenience, we will hide layers *Landscape* and *Captions*.
-Click on the "eye" icons on the left in the rows corresponding to these layers.
+Para facilitar, iremos ocultar as camadas *Landscape* e *Captions*.
+Clique no ícone do "olho" que fica a esquerda da linha dessas camadas.
 
 ![Select layer Captions for frame 1](|filename|/images/tutorial-layers/sozi-layers-tutorial-screenshot-15.png)
 
-> The "eye" icon allows to hide a layer in the editor while you want to work on other layers.
-> The hidden layers are still visible when playing the presentation.
->
-> If you want to hide a layer when playing the presentation, set its *Layer opacity*
-> to zero.
+> O ícone do "olho" permite esconder uma camada no editor para facilitar o trabalho com outras camadas.
+> As camadas ocultadas no editor permanecem visíveis quando se exibe a apresentação.
+> Caso queira que determinada camada fique oculta durante a apresentação, altere sua *Opacidade da camada*.
 
-Proceed like you did for the *Captions* layer.
-For each frame:
+Repita os procedimentos feitos com a camdada *Captions*.
+Para cada quadro:
 
-1. In the *Sky* row of the timeline, select the cell that corresponds to the frame you want to edit.
-2. In the preview area, zoom (mouse wheel), move, and rotate (Shift + mouse wheel) the layer until the desired rectangle almost fills the area.
+1. Na linha *Sky* da linha do tempo, selecione a célula correspondente ao quadro que quer editar.
+2. Na área de visualização, dê um zoom (rodinha do mouse), move, and rotate (Shift + mouse wheel) the layer until the desired rectangle almost fills the area.
 3. Check the field *Outline element Id*, then press the *Fit to element*, *Hide element* and *Clip* buttons.
 
 Show the *Landscape* and *Captions* layers again.
