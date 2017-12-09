@@ -38,14 +38,14 @@ quando determinado quadro da apresentação é exibido.
 Suporte de navegador
 --------------------
 
-Tecnicamente esse recurso está baseado nos elementos HTML5 `<video>` e `<audio>`
+Tecnicamente esse recurso está baseado nos elementos HTML5 de `<video>` e `<audio>`
 que podem ser inseridos em documentos SVG.
 Navegadores de internet não têm a mesma configuração de formatos de mídia.
-See the follwing page for more information:
-[Media formats supported by the HTML audio and video elements (Mozilla Developer Network)](https://developer.mozilla.org/en-US/docs/HTML/Supported_media_formats).
+Para mais informações confira a página abaixo:
+[Formatos de mídia suportados pelos elementos HTML de áudio e vídeo (Mozilla Developer Network)](https://developer.mozilla.org/en-US/docs/HTML/Supported_media_formats).
 
-> Currently, Chrome (as of version 33) does not apply geometrical transformations
-> (rotation, scaling, translation) to video and audio elements embedded in SVG documents.
-> Media will always show in the top-left corner of the browser window.
-> As far as we know, only Firefox handles them correctly.
+> Atualmente o Chrome (como a versão 33) não realiza transformações geométricas
+> (rotação, escala, translação) para elementos de vídeo e áudio inseridos em documentos SVG.
+> As mídias sempre serão mostradas no canto superior esquerdo da janela do navegador.
+> Até onde sabemos, apenas o Firefox lida corretamente com estas transformações.
 
