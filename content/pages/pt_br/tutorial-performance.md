@@ -33,25 +33,23 @@ No Inkscape, selecione todos os textos (menu *Editar* / *Encontrar*, ou Ctrl-F).
 
 A partir do menu *Caminho*, selecione *Converter em caminho* (Shift-Ctrl-C).
 
-Optimize your document
-----------------------
+Otimizar o documento
+--------------------
 
-[Scour](http://www.codedread.com/scour/) is a tool that performs optimizations on
-SVG documents.
-While the primary goal is to reduce file size, some
-[operations](http://www.codedread.com/scour/ops.php) can help reduce the
-rendering time:
+[Scour](http://www.codedread.com/scour/) é uma ferramenta que otimiza a performance em
+documentos SVG.
+Apesar do objetivo principal dessa ferramenta seja a redução do tamanho do arquivo,
+algumas [operações](http://www.codedread.com/scour/ops.php) auxiliam a reduzir o
+tempo de renderização:
 
-* removing empty and unused elements,
-* merging nested groups,
-* reducing path and gradient data,
-* removing useless style properties.
+* remoção de elementos vazios e não utilizados,
+* união de grupos aninhados,
+* redução de caminhos e informação de gradientes,
+* remoção de estilos de propriedades desnecessários.
 
-Scour can be run as a standalone Python script or as an Inkscape extension.
+Scour pode ser rodado como um script Python independente ou como uma extensão do Inkscape.
 
-> Do not run Scour on your original document.
-> Always save a copy of your document before.
->
-> We have not thoroughly tested the use of Scour with Sozi presentations.
-> Some optimizations may also remove information needed by the presentation engine.
-
+> Não utilize Scour em seu documento original.
+> Mantenha sempre uma cópia backup de seu documento antes de utilizar essa ferramenta.
+> Não testamos completamente o Scour com apresentações do Sozi.
+> Algumas otimizações podem remover informações ncessárias para o funcionamento da apresentação.
