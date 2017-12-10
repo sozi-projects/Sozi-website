@@ -67,22 +67,22 @@ Converter uma apresentação do Sozi para vídeo
     :::bash
     sozi-to-video [options] presentation.sozi.html
 
-Options:
+Opções:
 
-* `-h`, `--help` output usage information
-* `-o`, `--output <file>` Output file
-* `-W`, `--width <number>` Video width, in pixels (defaults to 1024)
-* `-H`, `--height <number>` Video height (defaults to 768)
-* `-b`, `--bit-rate <number>` Video bit rate (defaults to 2M)
+* `-h`, `--help` informações de uso
+* `-o`, `--output <file>` arquivo de saída
+* `-W`, `--width <number>` largura do vídeo, em pixels (padrão é 1024)
+* `-H`, `--height <number>` altura do vídeo (padrão é 768)
+* `-b`, `--bit-rate <number>` taxa de bit (bit rate) do vídeo (padrão é 2M)
 
-Known issues and limitations
-----------------------------
+Problemas e limitações
+----------------------
 
-These tools uses a *headless* web browser for rendering.
-[PhantomJS](http://phantomjs.org) and [SlimerJS](https://slimerjs.org/) both have benefits and limitations:
+Essas ferramentas utilizam  um navegador de internet *headless* para renderização.
+[PhantomJS](http://phantomjs.org) e [SlimerJS](https://slimerjs.org/) têm vantagens e limitações:
 
-* PhantomJS can render a web page to a PDF document, which preserves the vector graphics and text.
-  However, PhantomJS 1.9.19 fails to render the SVG content of a Sozi presentation.
-* SlimerJS renders SVG content correctly but it does not support the PDF format.
+* PhantomJS pode renderizar uma página da internet em um documento PDF, preservando os desenhos vetoriais e o texto.
+  Porém, PhantomJS 1.9.19 não é capaz de renderizar o conteúdo SVG de uma apresentação do Sozi.
+* SlimerJS renderiza conteúdo SVG corretamente, mas não tem suporte para o formato PDF.
 
-Currently, the PDF export tool renders each frame to a PNG image and joins them into a PDF document.
+Atualmente a ferramenta de exportação de PDF renderiza cada quadro como uma imagem PNG e as reúne em um documento PDF.
