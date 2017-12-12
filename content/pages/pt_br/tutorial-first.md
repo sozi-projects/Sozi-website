@@ -47,7 +47,7 @@ o objeto laranja (2), o objeto amarelo (3) e o objeto azul (4).
 Para rotacionar, pressione a tecla *Shift* e segure o botão esquerdo do mouse e movimente-o.
 
 
-![O segundo quadro da apresentação](|filename|/images/tutorial-first/first-presentation-screenshot-03.en.png)
+![O segundo quadro da apresentação](|filename|/images/tutorial-first/first-presentation-screenshot-03.pt_br.png)
 
 
 Salvar a apresentação
