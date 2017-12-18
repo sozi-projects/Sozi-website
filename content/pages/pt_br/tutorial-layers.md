@@ -25,7 +25,7 @@ Antes de criar a apresentação, veremos como os desenhos estão organizados.
 
 Abra `tutorial-layers.svg` pelo Inkscape.
 
-![Documento de exemplo no Inkscape](|filename|/images/tutorial-layers/sozi-layers-tutorial-screenshot-01.png)
+![Documento de exemplo no Inkscape](|filename|/images/tutorial-layers/sozi-layers-tutorial-screenshot-01.pt_br.png)
 
 Organização de camada
 ---------------------
@@ -34,15 +34,15 @@ Organização de camada
 Você pode abrir o painel de camadas clicando em *Organize, adicione, exclua camadas* na barra de ferramenta,
 ou clicando no item *Gerenciador de camadas;* no menu *Camada* menu.
 
-![Mostrar camadas](|filename|/images/tutorial-layers/sozi-layers-tutorial-screenshot-02.png)
+![Mostrar camadas](|filename|/images/tutorial-layers/sozi-layers-tutorial-screenshot-02.pt_br.png)
 
 Nesse exemplo, o documento contém três camadas:
 
-* *Captions*: é a camada de primeiro plano com os elementos de texto.
-* *Landscape*: camada intermediária com o desenho da árvore.
-* *Sky*: camada de fundo com um grande círculo azul e o sol, a lua e as estrelas.
+* *Legendas*: é a camada de primeiro plano com os elementos de texto.
+* *Paisagem*: camada intermediária com o desenho da árvore.
+* *Céu*: camada de fundo com um grande círculo azul e o sol, a lua e as estrelas.
 
-Cada camada tem uma subcamada chamada *Frames*. Essas subcamadas contém retângulos
+Cada camada tem uma subcamada chamada *Quadros*. Essas subcamadas contém retângulos
 que ajudam no alinhamento dos desenhos quando formos criar a apresentação no Sozi.
 
 > É possível mostrar ou esconder uma camada clicando no ícone de olho correspondente, na caixa de diálogo *Gerenciador de camada*.
@@ -59,10 +59,10 @@ Abra `tutorial-layers.svg` no editor de apresentação do Sozi.
 Adicione quatro quadros usando o botão *+* no painel da linha do tempo.
 Para cada quadro, preencha o campo *Título* com os seguintes títulos:
 
-1. "Morning",
-2. "Noon",
-3. "Evening",
-4. "Night".
+1. "Manhã",
+2. "Meio dia",
+3. "Tarde",
+4. "Noite".
 
 A linha do tempo deve ficar assim:
 
