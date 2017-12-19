@@ -27,7 +27,7 @@ Abra `tutorial-layers.svg` pelo Inkscape.
 
 ![Documento de exemplo no Inkscape](|filename|/images/tutorial-layers/sozi-layers-tutorial-screenshot-01.pt_br.png)
 
-Organização de camada
+Organização em camadas
 ---------------------
 
 É possível organizar um documento no Inkscape em camadas.
