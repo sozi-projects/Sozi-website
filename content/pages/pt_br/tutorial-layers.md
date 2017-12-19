@@ -104,7 +104,7 @@ Agora, vamos criar a camada que será animada.
 
 ![Camada Paisagem ajustada](|filename|/images/tutorial-layers/sozi-layers-tutorial-screenshot-08.pt_br.png)
 
-Adicionar a camada de animação (Legendas)
+Adição de uma camada de animação (Legendas)
 ----------------------------------------
 
 Pressione o botão *Adicionar camada* e escolha *Legendas*.
@@ -130,7 +130,7 @@ A área de visualização de cada quadro deve ser vista assim:
 ![Adjusted frame 3 in Captions layer](|filename|/images/tutorial-layers/sozi-layers-tutorial-screenshot-13.pt_br.png)
 ![Adjusted frame 4 in Captions layer](|filename|/images/tutorial-layers/sozi-layers-tutorial-screenshot-14.pt_br.png)
 
-Adicionar uma camada animada (Céu)
+Adição de uma camada animada (Céu)
 --------------------------------
 
 A essa altura do campeonato, todos os desenhos que não pertencem às camadas *Paisagem* ou *Legendas*
