@@ -134,9 +134,9 @@ Adição de uma camada animada (Céu)
 --------------------------------
 
 A essa altura do campeonato, todos os desenhos que não pertencem às camadas *Paisagem* ou *Legendas*
-estão inseridos na linha *Padrão* da linha do tempo.
-De fato, *Padrão* não é exatamente uma camada: é um grupo de camadas que não foram ativadas na linha do tempo
-e também contém elementos que não pertencem a nenhuma camada (pode acontecer, mas sugerimos que evite que isso aconteça).
+estão inseridos na linha *Padrão* do painel.
+De fato, *Padrão* não é exatamente uma camada: é um aglomerado de camadas que não foram ativadas na linha do tempo. Esse
+aglomerado pode conter também elementos que não pertencem a nenhuma camada (pode acontecer, mas sugerimos que evite isso).
 Toda vez que uma nova camada é criada no documento SVG do Inkscape, ela automaticamente fica inserida
 na categoria *Padrão* no Sozi.
 
