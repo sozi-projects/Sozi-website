@@ -49,7 +49,7 @@ que ajudam no alinhamento dos desenhos quando formos criar a apresentação no S
 > Experimente mostrar e esconder cada camada e subcamada para identificar quais elementos pertencem a qual camada.
 > Tenha certeza de que todas as camadas estão visíveis antes de seguir para o próximo passo.
 
-Criação dos quadros da apresentação do Sozi
+Criação dos quadros da apresentação no Sozi
 ----------------------------------------
 
 Abra `tutorial-layers.svg` no editor de apresentação do Sozi.
@@ -137,8 +137,8 @@ A essa altura do campeonato, todos os desenhos que não pertencem às camadas *P
 estão inseridos na linha *Padrão* do painel.
 De fato, *Padrão* não é exatamente uma camada: é um aglomerado de camadas que não foram ativadas na linha do tempo. Esse
 aglomerado pode conter também elementos que não pertencem a nenhuma camada (pode acontecer, mas sugerimos que evite isso).
-Toda vez que uma nova camada é criada no documento SVG do Inkscape, ela automaticamente fica inserida
-na categoria *Padrão* no Sozi.
+Toda vez que uma nova camada é criada no documento SVG do Inkscape, ela automaticamente fica inserida no Sozi
+através da linha *Padrão*.
 
 Pressione o botão *Adicionar camada* e escolha *Céu*.
 A linha *Padrão* irá desaparecer.
