@@ -150,7 +150,7 @@ Clique no ícone do "olho" que fica a esquerda da linha dessas camadas.
 
 > O ícone do "olho" permite esconder uma camada no editor para facilitar o trabalho com outras camadas.
 > As camadas ocultadas no editor permanecem visíveis quando se exibe a apresentação.
-> Caso queira que determinada camada fique oculta durante a apresentação, altere sua *Opacidade da camada*.
+> Caso queira que determinada camada fique oculta durante a apresentação, altere a *Opacidade da camada*.
 
 Repita os procedimentos feitos com a camdada *Legendas*.
 Para cada quadro:
