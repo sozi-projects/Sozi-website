@@ -18,7 +18,7 @@ SFTP_TARGET_DIR=/
 
 SSH_HOST=baierouge.fr
 SSH_PORT=22
-SSH_USER=www-data
+SSH_USER=sozi
 SSH_TARGET_DIR=/var/www/sozi.baierouge.fr
 
 S3_BUCKET=my_s3_bucket
@@ -74,7 +74,7 @@ ssh_upload: publish
 	scp -P $(SSH_PORT) -r $(OUTPUTDIR)/* $(SSH_USER)@$(SSH_HOST):$(SSH_TARGET_DIR)
 
 rsync_upload: publish
-	rsync -e "ssh -p $(SSH_PORT)" -P -rvz $(OUTPUTDIR)/ $(SSH_USER)@$(SSH_HOST):$(SSH_TARGET_DIR) --cvs-exclude
+	rsync -e "ssh -p $(SSH_PORT)" -P -rvzog $(OUTPUTDIR)/ $(SSH_USER)@$(SSH_HOST):$(SSH_TARGET_DIR) --cvs-exclude --chown=www-data:www-data
 
 dropbox_upload: publish
 	cp -r $(OUTPUTDIR)/* $(DROPBOX_DIR)
