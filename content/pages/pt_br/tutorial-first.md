@@ -17,7 +17,7 @@ Esse tutorial utiliza um documento SVG (desenho vetorial) que contém alguns ele
 (Clique com o botão da direita no link e escolha *Salvar link como...*).
 Abra o arquivo com o editor de apresentação Sozi.
 
-![Abra o arquivo SVG com o editor de apresentação](|filename|/images/tutorial-first/first-presentation-screenshot-01.en.png)
+![Abra o arquivo SVG com o editor de apresentação](|filename|/images/tutorial-first/first-presentation-screenshot-01.pt_br.png)
 
 
 Criar o primeiro quadro da apresentação
@@ -29,10 +29,10 @@ Queremos centralizar o primeiro quadro no objeto roxo com o número 1.
 Você pode modificar seu título editando o campo *Título* no painel da direita.
 Depois, no painel de visualização:
 
-* Posicione a câmera usando o mouse enquanto pressiona seu botão da esquerda.
-* Dê um zoom usando pressionando o botão da esquerda do mouse enquanto mantém pressionada a tecla *Alt* do teclado.
+* Posicione a câmera pressionando o botão esquerdo do mouse e movimentando-o.
+* Dê um zoom pressionando o botão esquerdo do mouse enquanto mantém pressionada a tecla *Alt* do teclado.
 
-![O primeiro quadro da apresentação](|filename|/images/tutorial-first/first-presentation-screenshot-02.en.png)
+![O primeiro quadro da apresentação](|filename|/images/tutorial-first/first-presentation-screenshot-02.pt_br.png)
 
 
 Criar os outros três quadros
@@ -47,7 +47,7 @@ o objeto laranja (2), o objeto amarelo (3) e o objeto azul (4).
 Para rotacionar, pressione a tecla *Shift* e segure o botão esquerdo do mouse e movimente-o.
 
 
-![O segundo quadro da apresentação](|filename|/images/tutorial-first/first-presentation-screenshot-03.en.png)
+![O segundo quadro da apresentação](|filename|/images/tutorial-first/first-presentation-screenshot-03.pt_br.png)
 
 
 Salvar a apresentação
