@@ -9,7 +9,17 @@ La version stable courante porte le numéro 17.11 (novembre 2017).
   * [Télécharger la version stable](https://github.com/senshu/Sozi/releases/tag/17.11)
   * [Télécharger un aperçu de la prochaine version](https://drive.google.com/open?id=0ByRUreHgekjMWG9teGM2dE8wck0) (pour les testeurs)
 
-Sozi est distribué sous la forme d'une [archive zip](https://fr.wikipedia.org/wiki/ZIP_%28format_de_fichier%29).
+Sozi est distribué sous la forme d'une [archive zip](https://fr.wikipedia.org/wiki/ZIP_%28format_de_fichier%29)
+portant l'extension `.zip` ou `.tgz`.
+Dans le nom du fichier à télécharger, le système d'exploitation est indiqué de
+la manière suivante&nbsp;:
+
+* `darwin-x64` pour OS X, 64 bits.
+* `linux-ia32` pour Linux, 32 bits.
+* `linux-x64` pour Linux, 64 bits.
+* `win32-ia32` pour Windows, 32 bits.
+* `win32-ia64` pour Windows, 64 bits.
+
 En procédant à l'extraction de cette archive, vous verrez apparaître un dossier
 portant le même nom.
 Les utilisateurs de Linux et Windows peuvent démarrer Sozi en ouvrant l'exécutable

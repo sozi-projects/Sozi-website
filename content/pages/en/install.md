@@ -8,7 +8,16 @@ The current stable release is Sozi 17.11 (November 2017):
   * [Download the stable release](https://github.com/senshu/Sozi/releases/tag/17.11)
   * [Download a preview version of the next release](https://drive.google.com/open?id=0ByRUreHgekjMWG9teGM2dE8wck0) (for testers)
 
-Sozi is distributed in the form of a [zip archive](https://en.wikipedia.org/wiki/Zip_%28file_format%29).
+Sozi is distributed in the form of a [zip archive](https://en.wikipedia.org/wiki/Zip_%28file_format%29)
+with the extension `.zip` or `.tgz`.
+In the file name, the operating system is identified as:
+
+* `darwin-x64` for OS X, 64 bits.
+* `linux-ia32` for Linux, 32 bits.
+* `linux-x64` for Linux, 64 bits.
+* `win32-ia32` for Windows, 32 bits.
+* `win32-ia64` for Windows, 64 bits.
+
 Unzipping the archive will create a folder with the same name.
 Linux and Windows users will run Sozi by launching the `Sozi` executable inside that folder.
 OS X users will find a `Sozi.app` subfolder that they can drag into their `Applications` folder.
