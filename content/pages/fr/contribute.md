@@ -67,6 +67,7 @@ André Lage,
 [Guillaume Savaton](http://guillaume.baierouge.fr),
 [Fabian Streitel](https://github.com/karottenreibe),
 [Ahmad Syazwan](https://github.com/asyazwan),
+[Marcelo Vaz Pupo](https://github.com/guripreto),
 [Kai Wegner](https://github.com/kai-wegner),
 Jean-François Witz,
 [Morten Juhl-Johansen Zölde-Fejér](https://launchpad.net/~mjjzf)
