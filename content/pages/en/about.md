@@ -14,6 +14,5 @@ Sozi is based on open standards.
 It is free software distributed according to the terms of the
 [Mozilla Public License 2.0](http://www.mozilla.org/MPL/2.0/).
 
-<iframe class="sozi" src="|filename|/images/this-is-not-a-slideshow.fast.svg">
+<iframe class="sozi" src="|filename|/presentations/this-is-not-a-slideshow.sozi.html">
 </iframe>
-

@@ -1,0 +1,588 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:ns1="http://sozi.baierouge.fr"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1062.9921"
+   height="1062.9921"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="ceci-nest-pas-un-diaporama.svg">
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.9899495"
+     inkscape:cx="639.28"
+     inkscape:cy="466.89887"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="0"
+     inkscape:window-y="30"
+     inkscape:window-maximized="1"
+     units="cm">
+    <inkscape:grid
+       id="grid3763"
+       type="xygrid"
+       empspacing="5"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true" />
+  </sodipodi:namedview>
+  <defs
+     id="defs4">
+    <inkscape:path-effect
+       tgtlength_rdm="0.3;1"
+       tgtlength="100"
+       tgtscale="10"
+       tgt_places_rdmness="1;1"
+       nbtangents="5"
+       tremble_frequency="1"
+       tremble_size="5;1"
+       parallel_offset="5;1"
+       ends_tolerance="0.1;1"
+       strokeoverlap_rdm="0.3;1"
+       strokeoverlap="0.3"
+       strokelength_rdm="0.3;1"
+       strokelength="100"
+       nbiter_approxstrokes="5"
+       is_visible="true"
+       id="path-effect3765"
+       effect="sketch" />
+    <inkscape:path-effect
+       bendpath4="m 167.14286,514.73163 0,367.83084"
+       bendpath3="m 167.14286,882.56247 157.07266,0"
+       bendpath2="m 324.21552,514.73163 0,367.83084"
+       bendpath1="m 167.14286,514.73163 157.07266,0"
+       xx="true"
+       yy="true"
+       is_visible="true"
+       id="path-effect3767"
+       effect="envelope" />
+    <inkscape:path-effect
+       phi="5"
+       teeth="10"
+       is_visible="true"
+       id="path-effect3769"
+       effect="gears" />
+    <inkscape:path-effect
+       crossing_points_vector=""
+       switcher_size="15"
+       add_other_stroke_width="true"
+       add_stroke_width="true"
+       prop_to_stroke_width="true"
+       interruption_width="3"
+       is_visible="true"
+       id="path-effect3771"
+       effect="knot" />
+    <inkscape:path-effect
+       nr_y="5"
+       nr_x="5"
+       is_visible="true"
+       id="path-effect3773"
+       effect="construct_grid" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect3775"
+       effect="spiro" />
+    <inkscape:path-effect
+       maxComplexity="1000"
+       drawall="true"
+       nbgenerations="1"
+       similar_only="false"
+       generator="m 167.14286,882.56247 52.35755,0 m 52.35756,0 52.35755,0"
+       ref_path="m 167.14286,698.64705 157.07266,0"
+       is_visible="true"
+       id="path-effect3777"
+       effect="vonkoch" />
+    <inkscape:path-effect
+       vertical="false"
+       scale_y_rel="false"
+       prop_scale="1"
+       bendpath="m 167.14286,698.64705 157.07266,0"
+       is_visible="true"
+       id="path-effect3779"
+       effect="bend_path" />
+  </defs>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="Calque 1"
+     transform="translate(0,10.631225)">
+    <g
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:33.79266739px;line-height:125%;font-family:Iwona;-inkscape-font-specification:Iwona;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       id="text2985">
+      <path
+         d="m 283.09232,529.79484 1.38817,-0.83511 c 1.17002,-2.59442 0.97616,-5.59371 -0.47753,-8.01014 -3.13937,-5.21848 -8.6451,-5.75743 -14.09494,-2.47888 -5.44984,3.27855 -7.55331,8.39509 -4.41394,13.61357 1.20626,2.00513 2.98831,3.62886 5.11438,4.66052 l 1.18251,-0.71139 c -2.12607,-1.03165 -3.90812,-2.65538 -5.11438,-4.66051 -2.42798,-4.03597 0.2483,-7.67657 4.74699,-10.38292 4.49868,-2.70635 8.96889,-3.36497 11.39687,0.67099 1.48462,2.46785 1.59112,5.5547 0.27187,8.13387 z"
+         style="font-size:30px"
+         id="path3388" />
+      <path
+         d="m 282.07767,546.52379 0.25692,-0.1549 c 3.62259,-2.18397 4.84498,-5.61825 3.04823,-8.59854 -1.81223,-3.00597 -5.41996,-3.52828 -9.04255,-1.34431 -3.62258,2.18398 -4.84498,5.61826 -3.03274,8.62424 0.77446,1.2846 1.9445,2.29569 3.32463,2.89988 l 1.07907,-0.65055 c -1.49875,-0.74285 -2.36996,-1.54877 -3.22186,-2.96184 -1.31658,-2.18383 0.4392,-3.97799 2.95703,-5.49593 l 4.63127,7.68195 z m -0.28398,-2.91146 -3.26822,-5.42103 c 2.05537,-1.23914 4.66306,-1.62023 5.77829,0.2296 1.09973,1.82414 -0.4547,3.9523 -2.51007,5.19143 z"
+         style="font-size:30px"
+         id="path3390" />
+      <path
+         d="m 292.47733,556.16625 1.07925,-0.65024 c 0.66093,-1.51897 0.54969,-3.2732 -0.3173,-4.71221 -1.93522,-3.21207 -5.65117,-3.91529 -9.27439,-1.73236 -3.62321,2.18294 -4.73822,5.79674 -2.80299,9.00881 0.80505,1.33622 2.23177,2.19283 3.7857,2.27231 l 1.07925,-0.65024 c -1.8369,-0.0841 -2.84131,-0.70481 -3.7857,-2.2723 -1.11469,-1.85016 0.10534,-4.30139 3.08614,-6.09728 2.9808,-1.79589 5.71805,-1.72886 6.83274,0.1213 0.95987,1.59318 1.04478,3.01304 0.3173,4.71221 z"
+         style="font-size:30px"
+         id="path3392" />
+      <path
+         d="m 288.95437,568.41013 0.77125,-0.46388 c -0.70512,-0.24105 -1.3795,-0.60562 -1.76607,-1.24832 -0.57211,-0.95121 0.50223,-1.84244 1.60768,-2.50733 l 8.35516,-5.02531 -1.20607,-2.00524 -8.35516,5.02531 c -1.72245,1.03599 -3.06858,2.75586 -2.1563,4.27264 0.58758,0.97691 1.63269,1.60862 2.74951,1.95213 z m 13.13313,-11.39991 c 0.69412,-0.41749 0.91952,-1.32324 0.50203,-2.01737 -0.41748,-0.69412 -1.32324,-0.91952 -2.01736,-0.50203 -0.69412,0.41748 -0.91953,1.32324 -0.50204,2.01736 0.41749,0.69412 1.32324,0.91953 2.01737,0.50204 z"
+         style="font-size:30px"
+         id="path3394" />
+      <path
+         d="m 300.34095,589.4643 8.36959,-5.00126 c 1.87993,-1.12335 2.61484,-3.51958 1.50687,-5.37377 -0.92331,-1.54515 -2.61449,-2.38683 -4.3578,-2.84787 l 1.69967,-1.01564 -1.2003,-2.0087 -11.58866,6.92481 1.20031,2.0087 9.09065,-5.43213 c 1.3988,0.35238 2.74043,1.0185 3.46369,2.22887 0.72326,1.21037 0.22139,2.76839 -1.01473,3.50703 l -8.36959,5.00126 1.2003,2.0087 z"
+         style="font-size:30px"
+         id="path3396" />
+      <path
+         d="m 314.80076,586.42605 6.03221,-3.59065 -0.70585,-1.18582 -6.03222,3.59065 0.70586,1.18582 z"
+         style="font-size:30px"
+         id="path3398" />
+      <path
+         d="m 315.67315,602.65277 0.25809,-0.15294 c 3.63902,-2.1565 4.88737,-5.58142 3.11323,-8.57522 -1.78943,-3.01961 -5.3931,-3.56921 -9.03212,-1.41272 -3.63901,2.15649 -4.88736,5.58142 -3.09793,8.60103 0.76471,1.29043 1.92707,2.31035 3.30258,2.92496 l 1.08397,-0.64236 c -1.49309,-0.75417 -2.35817,-1.56666 -3.19936,-2.98614 -1.30001,-2.19373 0.46931,-3.97455 2.99855,-5.47339 l 4.57299,7.71678 z m -0.26193,-2.91352 -3.22709,-5.44562 c 2.06469,-1.22354 4.67519,-1.58488 5.77638,0.27334 1.08589,1.83241 -0.4846,3.94874 -2.54929,5.17228 z"
+         style="font-size:30px"
+         id="path3400" />
+      <path
+         d="m 320.04055,615.2196 c 2.04295,-1.20136 1.82581,-3.9971 1.09603,-6.42177 -0.41962,-1.42377 -0.69319,-3.07263 0.52224,-3.78737 1.11198,-0.6539 2.50518,0.0581 3.23512,1.29943 0.80597,1.37058 1.19819,2.98448 1.11736,4.56333 l 1.08612,-0.6387 c 0.0808,-1.57885 -0.31138,-3.19275 -1.11736,-4.56333 -1.32302,-2.24983 -3.91017,-3.51266 -6.00484,-2.28088 -1.88778,1.11012 -1.53525,3.72182 -0.85564,6.00198 0.46979,1.56828 0.5821,3.41639 -0.73676,4.19195 -1.21543,0.71473 -2.69531,-0.0856 -3.47087,-1.40441 -0.94285,-1.60333 -1.46737,-3.38304 -1.49754,-5.20983 l -1.08613,0.63869 c 0.0302,1.8268 0.5547,3.60651 1.49754,5.20984 1.36864,2.32741 4.04248,3.67847 6.21473,2.40107 z"
+         style="font-size:30px"
+         id="path3402" />
+      <path
+         d="m 322.74695,625.38481 0.77725,-0.45374 c -0.65653,-0.17254 -1.28071,-0.46818 -1.62857,-1.06407 -0.5445,-0.9327 0.64295,-1.69538 1.7311,-2.33062 l 7.33206,-4.2803 1.45197,2.4872 1.08815,-0.63524 -1.45197,-2.4872 3.88625,-2.26871 -0.71086,-1.21769 c -2.07267,1.20998 -4.71153,1.15255 -5.81564,-0.73876 l -0.95861,0.55962 1.33098,2.27993 -7.33206,4.2803 c -1.70995,0.99823 -3.18001,2.58592 -2.3179,4.06269 0.55962,0.95861 1.56178,1.48518 2.61785,1.80659 z"
+         style="font-size:30px"
+         id="path3404" />
+      <path
+         d="m 340.08071,644.02841 c 3.4611,-1.98517 5.36917,-4.80879 3.56312,-7.95761 -0.76123,-1.32719 -2.06129,-2.20699 -3.49108,-2.77028 l 1.17105,-0.67168 -1.16424,-2.02982 -17.69584,10.14974 1.16423,2.02982 6.42776,-3.68674 c 0.13972,1.26865 0.50638,2.51089 1.13328,3.60387 1.86576,3.25291 5.37858,3.34772 8.89172,1.3327 z m -1.31349,-2.29005 c -2.44619,1.40305 -5.45536,2.12606 -6.67929,-0.008 -0.5672,-0.98889 -0.87415,-2.12703 -0.93924,-3.26557 l 7.91108,-4.53753 c 1.22848,0.33292 2.43133,0.92263 3.07315,2.04163 1.35827,2.36812 -0.63326,4.20208 -3.3657,5.76932 z"
+         style="font-size:30px"
+         id="path3406" />
+      <path
+         d="m 341.43477,660.11539 7.31241,-4.13383 c 2.45489,-1.38779 3.84455,-4.17218 2.56011,-6.44425 -0.94488,-1.67141 -2.40525,-2.91356 -4.09042,-3.82185 l -0.80959,0.45768 c 1.31726,0.80612 2.4733,1.87569 3.24101,3.23371 0.91535,1.61917 -0.2768,3.53374 -2.05267,4.53768 l -0.47009,0.26574 c -0.13181,-1.2695 -0.49073,-2.514 -1.11081,-3.61086 -1.57971,-2.79439 -4.02571,-4.13411 -6.66341,-2.64298 -2.50711,1.41732 -2.85779,4.02789 -1.36666,6.66559 0.75295,1.3319 2.04751,2.21978 3.47376,2.79197 l -1.17521,0.66437 1.15157,2.03703 z m 1.1205,-3.32147 c -1.22638,-0.34057 -2.42553,-0.93776 -3.06037,-2.06074 -0.98917,-1.74975 -0.56802,-3.50416 1.15562,-4.47856 1.59306,-0.90059 3.55868,-0.28869 4.45927,1.30437 0.56102,0.9924 0.86088,2.13244 0.91888,3.27136 l -3.4734,1.96357 z"
+         style="font-size:30px"
+         id="path3408" />
+      <path
+         d="m 351.56833,670.39541 c 2.07069,-1.1529 1.91948,-3.95298 1.24702,-6.39417 -0.38596,-1.43326 -0.6206,-3.08811 0.61132,-3.77401 1.12708,-0.62753 2.50311,0.11714 3.20361,1.37528 0.77346,1.38919 1.12755,3.01188 1.00954,4.58839 l 1.10087,-0.61294 c 0.11801,-1.5765 -0.23608,-3.1992 -1.00954,-4.58839 -1.26965,-2.28037 -3.82633,-3.6038 -5.94944,-2.42171 -1.91341,1.06533 -1.62251,3.68462 -0.99681,5.98016 0.43272,1.57891 0.50146,3.42915 -0.83531,4.17342 -1.23193,0.6859 -2.69255,-0.14902 -3.43682,-1.48579 -0.90481,-1.62509 -1.38726,-3.41666 -1.37439,-5.24367 l -1.10087,0.61294 c -0.0129,1.827 0.46958,3.61857 1.37439,5.24367 1.31343,2.359 3.9547,3.77268 6.15643,2.54682 z"
+         style="font-size:30px"
+         id="path3410" />
+      <path
+         d="m 359.93424,693.77828 11.88134,-6.40966 -1.11101,-2.05943 -9.32025,5.02802 c -1.38199,-0.41342 -2.6931,-1.13777 -3.36256,-2.37871 -0.66945,-1.24094 -0.0997,-2.77543 1.16764,-3.45913 l 8.58097,-4.6292 -1.111,-2.05943 -8.58097,4.6292 c -1.92742,1.03979 -2.76676,3.40146 -1.74121,5.30248 0.85462,1.58417 2.50723,2.49925 4.22864,3.03634 l -1.7426,0.94008 1.11101,2.05944 z"
+         style="font-size:30px"
+         id="path3412" />
+      <path
+         d="m 367.26108,707.63873 8.62777,-4.54137 c 1.93793,-1.02006 2.80133,-3.37305 1.79524,-5.28443 -0.83841,-1.59282 -2.4816,-2.52471 -4.19743,-3.07935 l 1.7521,-0.92225 -1.08993,-2.07066 -11.94614,6.28806 1.08993,2.07066 9.37108,-4.93263 c 1.3777,0.4275 2.68135,1.16519 3.3381,2.4129 0.65676,1.2477 0.0714,2.77631 -1.20288,3.44703 l -8.62777,4.54138 1.08993,2.07066 z"
+         style="font-size:30px"
+         id="path3414" />
+      <path
+         d="m 378.83878,730.41184 18.78033,-9.39675 -1.04707,-2.09267 -7.16335,3.58419 c -0.0674,-1.27454 -0.36296,-2.5356 -0.92676,-3.66242 -1.678,-3.35363 -5.17976,-3.64781 -8.80168,-1.83557 -3.56827,1.78538 -5.63363,4.49608 -4.00933,7.74239 0.68462,1.36828 1.93261,2.3205 3.3281,2.96409 l -1.20731,0.60408 1.04707,2.09266 z m 1.28706,-3.26054 c -1.20759,-0.40216 -2.375,-1.05923 -2.95223,-2.21288 -1.22158,-2.44145 0.87089,-4.15933 3.68794,-5.56885 2.52194,-1.26185 5.56731,-1.81278 6.66807,0.38721 0.51011,1.0195 0.75193,2.17324 0.75225,3.31364 l -8.15603,4.08088 z"
+         style="font-size:30px"
+         id="path3416" />
+      <path
+         d="m 384.2814,739.1909 0.80953,-0.39328 c -0.68082,-0.30295 -1.32002,-0.72619 -1.64774,-1.40079 -0.48504,-0.99842 0.66447,-1.79033 1.82479,-2.35402 l 8.76989,-4.26047 -1.02251,-2.10478 -8.76989,4.26047 c -1.80795,0.87832 -3.30204,2.47133 -2.5286,4.0634 0.49815,1.0254 1.48278,1.74776 2.56453,2.18947 z m 14.09711,-10.18374 c 0.72857,-0.35395 1.03382,-1.23601 0.67988,-1.96458 -0.35395,-0.72858 -1.236,-1.03383 -1.96458,-0.67988 -0.72858,0.35394 -1.03383,1.236 -0.67988,1.96457 0.35395,0.72858 1.236,1.03383 1.96458,0.67989 z"
+         style="font-size:30px"
+         id="path3418" />
+      <path
+         d="m 389.13158,751.91598 7.60413,-3.56892 c 2.55282,-1.19814 4.14909,-3.86945 3.04018,-6.23216 -0.81575,-1.73809 -2.17799,-3.08713 -3.78964,-4.12027 l -0.84189,0.39513 c 1.25252,0.90344 2.32435,2.05738 2.98715,3.46958 0.79026,1.68377 -0.54328,3.50269 -2.39,4.36943 l -0.48883,0.22943 c -0.0354,-1.27583 -0.29919,-2.54391 -0.83453,-3.68453 -1.36383,-2.90587 -3.7015,-4.42676 -6.44442,-3.13939 -2.60713,1.22363 -3.15425,3.80021 -1.86689,6.54312 0.65005,1.38504 1.87375,2.36829 3.25264,3.04671 l -1.2221,0.57358 0.9942,2.11829 z m 1.36851,-3.2272 c -1.19711,-0.43235 -2.34766,-1.11853 -2.89574,-2.2863 -0.85399,-1.81956 -0.30136,-3.53709 1.49104,-4.37834 1.65661,-0.77751 3.57033,-0.0187 4.34784,1.63791 0.48436,1.03199 0.69714,2.19144 0.66883,3.33149 l -3.61197,1.69524 z"
+         style="font-size:30px"
+         id="path3420" />
+      <path
+         d="m 401.95511,764.00029 c 3.64581,-1.62115 5.8324,-4.23505 4.35751,-7.55192 -0.62164,-1.39802 -1.82501,-2.40604 -3.18976,-3.11247 l 1.23354,-0.54851 -0.95075,-2.13815 -18.64025,8.2886 0.95075,2.13814 6.7708,-3.01071 c 0.009,1.27629 0.24719,2.54949 0.75913,3.7008 1.52364,3.42652 5.00839,3.87975 8.70903,2.23422 z m -1.07264,-2.41227 c -2.57674,1.14578 -5.64403,1.55755 -6.64354,-0.69025 -0.46318,-1.04166 -0.65225,-2.20521 -0.60067,-3.34444 l 8.33329,-3.70549 c 1.18804,0.45669 2.32434,1.16621 2.84847,2.34493 1.10921,2.49451 -1.05928,4.11539 -3.93755,5.39525 z"
+         style="font-size:30px"
+         id="path3422" />
+      <path
+         d="m 407.79036,777.91882 c 4.23882,-1.76081 5.72803,-4.58844 4.28946,-8.05153 -1.45008,-3.4908 -4.50446,-4.43102 -8.74328,-2.6702 -4.23883,1.76081 -5.72803,4.58844 -4.27795,8.07923 1.43857,3.46309 4.49294,4.40331 8.73177,2.6425 z m -1.01276,-2.43802 c -3.46309,1.43858 -5.77283,1.19608 -6.55541,-0.68784 -0.79409,-1.91162 0.66401,-3.71928 4.1271,-5.15786 3.4631,-1.43857 5.77284,-1.19608 6.56693,0.71555 0.78258,1.88392 -0.67552,3.69158 -4.13862,5.13015 z"
+         style="font-size:30px"
+         id="path3424" />
+      <path
+         d="m 416.5761,787.02748 1.7349,-0.67061 c -0.007,-0.35107 -0.0529,-0.71931 -0.17189,-1.02711 -0.60571,-1.56701 -2.18376,-2.40437 -3.77638,-2.94663 l 2.09867,-0.81123 -0.84368,-2.18261 -12.59201,4.86736 0.84367,2.18261 9.31809,-3.60184 c 1.30387,0.46089 2.55436,1.19973 3.05192,2.48691 0.20551,0.53166 0.3099,1.13457 0.33671,1.70315 z"
+         style="font-size:30px"
+         id="path3426" />
+      <path
+         d="m 410.151,803.68692 7.92757,-2.77733 c 2.6614,-0.93239 4.52099,-3.42757 3.65803,-5.89078 -0.63481,-1.81202 -1.85284,-3.29256 -3.3511,-4.48421 l -0.8777,0.3075 c 1.15418,1.02609 2.10314,2.28303 2.61893,3.75529 0.61498,1.75539 -0.89658,3.42931 -2.82185,4.1038 l -0.50963,0.17855 c 0.0945,-1.27282 -0.039,-2.56115 -0.45559,-3.75029 -1.06134,-3.02946 -3.23227,-4.78014 -6.09186,-3.77831 -2.71803,0.95223 -3.52427,3.45983 -2.52245,6.31942 0.50588,1.44395 1.62326,2.54651 2.92604,3.36161 l -1.27408,0.44636 0.77369,2.20839 z m 1.68952,-3.07135 c -1.14695,-0.55181 -2.22178,-1.35141 -2.6483,-2.56886 -0.66457,-1.89695 0.0598,-3.54939 1.92845,-4.20405 1.72708,-0.60506 3.55374,0.34438 4.1588,2.07146 0.37692,1.07588 0.47072,2.25096 0.32665,3.38222 l -3.7656,1.31923 z"
+         style="font-size:30px"
+         id="path3428" />
+      <path
+         d="m 416.17041,823.98057 9.38541,-2.64134 c 2.02147,-0.5689 3.56534,-2.28117 3.03707,-4.15825 -0.45512,-1.61718 -1.7152,-2.88316 -3.31629,-3.36752 1.1406,-0.81965 1.78838,-2.06158 1.41453,-3.38997 -0.42262,-1.50167 -1.80357,-2.42197 -3.23502,-3.07874 l 1.90596,-0.5364 -0.63392,-2.2525 -12.99518,3.65724 0.63392,2.25249 10.22287,-2.87702 c 1.09028,0.44113 2.17156,1.07179 2.48852,2.19804 0.33322,1.18401 -0.75863,2.17692 -2.05814,2.54264 l -9.38541,2.64134 0.63392,2.2525 9.38541,-2.64134 c 0.34653,-0.0975 0.65607,-0.2158 0.98635,-0.37108 1.09028,0.44113 2.02267,1.20718 2.33963,2.33343 0.33322,1.18401 -0.75863,2.17692 -2.05814,2.54265 l -9.38541,2.64133 0.63392,2.2525 z"
+         style="font-size:30px"
+         id="path3430" />
+      <path
+         d="m 419.05506,838.9259 8.26693,-1.48923 c 2.77533,-0.49996 5.00598,-2.6698 4.54325,-5.23846 -0.3404,-1.88958 -1.30906,-3.54406 -2.60011,-4.95756 l -0.91527,0.16488 c 0.97746,1.19565 1.71579,2.58679 1.99236,4.12208 0.32976,1.83053 -1.4274,3.24446 -3.43509,3.60613 l -0.53144,0.0957 c 0.29449,-1.24188 0.36635,-2.53511 0.14297,-3.77515 -0.5691,-3.15915 -2.43599,-5.23099 -5.41799,-4.6938 -2.83438,0.51059 -4.02688,2.85922 -3.4897,5.84122 0.27126,1.50576 1.20031,2.7711 2.35785,3.78189 l -1.32862,0.23934 0.41486,2.30293 z m 2.1538,-2.76566 c -1.04531,-0.72618 -1.98022,-1.68563 -2.20892,-2.95519 -0.35635,-1.97816 0.62014,-3.49532 2.56877,-3.84635 1.80101,-0.32444 3.45461,0.90182 3.77905,2.70283 0.20211,1.12194 0.10897,2.29707 -0.21211,3.39133 l -3.92679,0.70738 z"
+         style="font-size:30px"
+         id="path3432" />
+    </g>
+    <rect
+       ry="0"
+       rx="0"
+       y="-7.1704459"
+       x="574.76184"
+       height="65"
+       width="70"
+       id="rect2993"
+       style="fill:none;stroke:#008080;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:3.99999991, 1.99999991, 1, 1.99999991;stroke-dashoffset:0"
+       transform="matrix(0.503761,0.86384307,-0.86384307,0.503761,0,0)" />
+    <rect
+       style="fill:none;stroke:#008080;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:4.00000006, 2.00000003, 1.00000003, 2.00000003;stroke-dashoffset:0"
+       id="rect3765"
+       width="70"
+       height="65"
+       x="641.15967"
+       y="-6.2654901"
+       rx="0"
+       ry="0"
+       transform="matrix(0.49851537,0.86688086,-0.86688086,0.49851537,0,0)" />
+    <rect
+       ry="0"
+       rx="0"
+       y="5.6747155"
+       x="706.10358"
+       height="65"
+       width="60"
+       id="rect3767"
+       style="fill:none;stroke:#008080;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:3.99999994, 1.99999999, 0.99999998, 1.99999999;stroke-dashoffset:0"
+       transform="matrix(0.50891928,0.86081425,-0.86081425,0.50891928,0,0)" />
+    <rect
+       style="fill:none;stroke:#008080;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:3.99999997, 2, 1, 2;stroke-dashoffset:0"
+       id="rect3769"
+       width="50"
+       height="65"
+       x="758.71515"
+       y="-22.586481"
+       rx="0"
+       ry="0"
+       transform="matrix(0.47623607,0.87931747,-0.87931747,0.47623607,0,0)" />
+    <rect
+       ry="0"
+       rx="0"
+       y="-128.2869"
+       x="795.65741"
+       height="62.057087"
+       width="152.75591"
+       id="rect3771"
+       style="fill:none;stroke:#008080;stroke-width:0.91965157;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:3.6786068, 1.83930334, 0.91965167, 1.83930334;stroke-dashoffset:0"
+       transform="matrix(0.35715668,0.93404449,-0.93404449,0.35715668,0,0)" />
+    <g
+       transform="matrix(0.82918963,-0.55896741,0.55896741,0.82918963,0,0)"
+       inkscape:transform-center-x="4.4962412"
+       inkscape:transform-center-y="-4.4554741"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:45px;line-height:125%;font-family:Iwona;-inkscape-font-specification:Iwona;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       id="text2989">
+      <path
+         d="m 237.7414,850.25476 0,-2.43 c -2.43,-3.51 -6.435,-5.58 -10.665,-5.58 -9.135,0 -14.085,6.66 -14.085,16.2 0,9.54 4.95,16.2 14.085,16.2 3.51,0 6.975,-1.035 9.945,-2.97 l 0,-2.07 c -2.97,1.935 -6.435,2.97 -9.945,2.97 -7.065,0 -9.675,-6.255 -9.675,-14.13 0,-7.875 2.61,-14.13 9.675,-14.13 4.32,0 8.37,2.25 10.665,5.94 z"
+         style=""
+         id="path3379" />
+      <path
+         d="m 258.48218,864.51976 0,-0.45 c 0,-6.345 -3.465,-10.575 -8.685,-10.575 -5.265,0 -8.73,4.23 -8.73,10.575 0,6.345 3.465,10.575 8.73,10.575 2.25,0 4.455,-0.72 6.3,-2.025 l 0,-1.89 c -2.115,1.35 -3.825,1.845 -6.3,1.845 -3.825,0 -4.77,-3.645 -4.77,-8.055 l 13.455,0 z m -3.96,-1.89 -9.495,0 c 0,-3.6 1.53,-7.245 4.77,-7.245 3.195,0 4.725,3.645 4.725,7.245 z"
+         style=""
+         id="path3381" />
+      <path
+         d="m 278.92062,858.62476 0,-1.89 c -1.44,-2.025 -3.78,-3.24 -6.3,-3.24 -5.625,0 -9.405,4.23 -9.405,10.575 0,6.345 3.78,10.575 9.405,10.575 2.34,0 4.545,-1.17 5.85,-3.105 l 0,-1.89 c -1.53,2.295 -3.105,3.105 -5.85,3.105 -3.24,0 -5.445,-3.465 -5.445,-8.685 0,-5.22 2.205,-8.685 5.445,-8.685 2.79,0 4.68,0.99 6.3,3.24 z"
+         style=""
+         id="path3383" />
+      <path
+         d="m 291.91155,872.61976 0,-1.35 c -0.855,0.72 -1.845,1.305 -2.97,1.305 -1.665,0 -1.98,-2.07 -1.98,-4.005 l 0,-14.625 -3.51,0 0,14.625 c 0,3.015 1.17,6.075 3.825,6.075 1.71,0 3.33,-0.855 4.635,-2.025 z m -4.5,-25.695 c 0,-1.215 -0.99,-2.205 -2.205,-2.205 -1.215,0 -2.205,0.99 -2.205,2.205 0,1.215 0.99,2.205 2.205,2.205 1.215,0 2.205,-0.99 2.205,-2.205 z"
+         style=""
+         id="path3385" />
+    </g>
+    <rect
+       transform="matrix(0.82734714,-0.56169094,0.56169094,0.82734714,0,0)"
+       style="fill:none;stroke:#008080;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:3.99999978, 1.9999999, 0.99999996, 1.9999999;stroke-dashoffset:0"
+       id="rect3773"
+       width="194.01286"
+       height="113.17416"
+       x="175.06706"
+       y="809.41803"
+       rx="0"
+       ry="0" />
+    <rect
+       style="fill:none;stroke:#008080;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:3.99999997, 1.99999998, 1, 1.99999998;stroke-dashoffset:0"
+       id="rect3787"
+       width="1060.0001"
+       height="1020"
+       x="-6.1035153e-05"
+       y="12.360841"
+       rx="0"
+       ry="0" />
+    <rect
+       style="fill:none;stroke:#008080;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:4.00000001, 2, 1, 2;stroke-dashoffset:0"
+       id="rect4308"
+       width="460"
+       height="155"
+       x="527.84229"
+       y="-26.204351"
+       rx="0"
+       ry="0"
+       transform="matrix(0.48292513,0.87566164,-0.87566164,0.48292513,0,0)" />
+    <g
+       transform="matrix(2.3185398,0,0,2.3185398,-683.9555,-1044.6717)"
+       id="layer1-8"
+       inkscape:label="Calque 1">
+      <path
+         inkscape:connector-curvature="0"
+         id="path3007"
+         d="m 664.99729,654.7941 c -0.97165,-3.16732 -3.59682,-16.13813 -5.08854,-25.14219 -2.99137,-18.05589 -4.38349,-32.97732 -5.10094,-54.67451 -0.28238,-8.53959 -2.51004,-11.24649 -1.8298,-11.24649 2.82778,0 19.15374,7.91109 25.29911,11.99238 12.37658,8.21958 18.92606,18.74124 19.57856,31.45273 0.2441,4.75551 0.13785,5.72066 -1.02871,9.34391 -2.68567,8.34152 -7.54548,18.74304 -17.97061,29.1591 -3.61501,3.61186 -9.34922,9.59398 -10.78264,10.78265 -2.2368,1.85487 -2.83986,-0.89642 -3.07643,-1.66758 z"
+         style="fill:#ffcc00;fill-opacity:1;stroke:#ffcc00;stroke-width:0.99921262;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         sodipodi:nodetypes="csssssssscc" />
+      <path
+         sodipodi:nodetypes="ssssssss"
+         inkscape:connector-curvature="0"
+         id="path3792"
+         d="m 392.34969,654.33945 c -21.01871,-49.20118 -27.20832,-97.82124 -15.39989,-120.96768 6.89705,-13.51934 20.88367,-19.67638 38.80994,-17.08451 8.17657,1.18221 23.92626,4.34053 25.37483,5.7121 0.38519,0.36471 -3.38434,3.52038 -5.32117,6.57609 -4.77582,7.53471 -13.59934,25.79204 -17.81905,36.87057 -11.0807,29.09149 -18.25056,66.19899 -20.59074,101.76543 -0.20638,3.13669 -0.45967,-2.11765 -5.05392,-12.872 z"
+         style="fill:#ff6600;fill-opacity:1;stroke:#ff6600;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path3800"
+         d="m 659.6783,501.37697 c -2.32457,0.18254 -4.63554,0.7783 -6.73004,1.81127 -1.19619,0.62935 -2.55003,1.56007 -2.64453,3.03612 -0.0533,2.06356 1.38811,3.95547 3.28485,4.67629 2.24586,0.88314 4.80077,0.66421 7.04242,-0.11235 3.30401,-1.2278 5.79168,-4.03779 7.27879,-7.16473 0.17924,-0.50913 0.93604,-1.39354 -0.0862,-1.2817 -2.66099,-0.42607 -5.33029,-0.91746 -8.03145,-0.96818 l -0.11381,0.003 z"
+         style="fill:#ddafe9;fill-opacity:1;stroke:#ddafe9;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="csssssccc"
+         inkscape:connector-curvature="0"
+         id="path3794"
+         d="m 578.80989,789.72063 c -23.32273,-8.15737 -33.49713,-20.50991 -31.22416,-32.62588 1.49377,-7.96247 12.51465,-20.8437 29.78472,-34.67555 9.8613,-7.89806 35.84172,-26.23573 40.58446,-29.12029 1.14694,-0.69758 0.1926,2.99527 -0.37919,10.86886 -2.19579,30.23646 -6.65443,51.981 -15.23634,71.45272 -3.72069,8.44198 -8.50455,18.89224 -9.62408,18.76319 -0.35877,-0.0413 -6.18317,-1.67097 -9.88755,-2.96662 z"
+         style="fill:#00ccff;fill-opacity:1;stroke:#00ccff;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="zcsscsz"
+         inkscape:connector-curvature="0"
+         id="path2985"
+         d="m 411.31698,699.86309 c -49.8102,-78.02369 -78.30419,-243.65316 58.48655,-165.26508 1.43718,0.61504 -2.0856,0.67762 -2.72898,0.30382 -135.87891,-78.94554 -100.53198,90.20404 -56.68196,158.17157 28.57143,44.28572 168.57142,262.85714 -94.28572,162.85714 -1.50165,-0.5424 -0.69994,-8.16718 0.90478,-7.547 239.71544,92.64396 144.11553,-70.49676 94.30533,-148.52045 z"
+         style="fill:#000000;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <path
+         sodipodi:nodetypes="scssscsss"
+         inkscape:connector-curvature="0"
+         id="path2989"
+         d="m 699.18299,605.89916 c -3.85252,-54.40181 -114.73182,-53.82168 -156.29061,-54.25384 -1.32856,-0.022 -0.36044,1.50984 0.18681,1.50222 48.39981,-0.67368 152.45649,0.0865 156.59911,52.55961 4.28572,54.28589 -160.71429,118.79483 -152.14286,157.36626 8.57143,38.57142 111.42857,42.85714 151.42857,42.85714 3.57143,0.35714 4.41833,-4.40812 -0.55003,-4.74693 -58.31047,-3.97642 -206.02141,-8.74237 -128.51312,-71.45528 44.36713,-35.89799 132.98622,-71.52329 129.28213,-123.82918 z"
+         style="fill:#000000;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <path
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         id="path2991"
+         d="m 733.91622,734.95854 c -73.61365,8.33242 -88.58771,-155.09604 -76.90831,-207.20046 -19.51736,87.16418 20.40332,220.49231 77.34839,211.95055 4.16688,-0.75761 3.09545,-5.5077 -0.44008,-4.75009 z"
+         style="fill:#000000;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <path
+         sodipodi:nodetypes="zsccscsz"
+         inkscape:connector-curvature="0"
+         id="path3763"
+         d="m 665.67537,508.00792 c 4.13445,-4.23376 5.65909,-16.14927 5.62971,-15.91986 -0.68185,5.32365 -2.02371,10.79795 -5.42022,15.06936 -2.26421,2.88157 -5.8962,3.59134 -7.48624,3.23957 -4.66074,-0.50154 -4.91608,-4.18437 -5.65193,-8.23608 -0.10462,-0.57606 -0.55251,-2.23088 -2.40042,-0.71228 -2.28916,2.55542 -2.32441,6.5932 -0.85636,8.03346 5.2342,5.13508 12.05102,2.75959 16.18546,-1.47417 z"
+         style="fill:#000000;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <path
+         d="m 493.65967,486.07849 c 117.77719,-29.78972 182.70067,302.04509 48.13304,341.8111 -193.81862,57.27524 -172.17339,-310.43722 -48.13304,-341.8111 z m 13.68655,-7.29079 c -115.06127,1.20709 -170.54197,344.38926 -2.66791,357.14286 182.47821,13.8631 117.72918,-358.34995 2.66791,-357.14286 z"
+         style="fill:#000000;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         id="path3846"
+         inkscape:connector-curvature="0" />
+    </g>
+    <path
+       style="fill:none;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 260,532.99207 c 60,100 160,260 160,330"
+       id="path3153"
+       inkscape:connector-curvature="0"
+       transform="translate(0,-10.631225)"
+       sodipodi:nodetypes="cc" />
+    <g
+       transform="matrix(-0.40176277,-0.91574378,0.91574378,-0.40176277,0,0)"
+       inkscape:transform-center-x="1.425589"
+       inkscape:transform-center-y="2.2692019"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:45px;line-height:125%;font-family:Iwona;-inkscape-font-specification:Iwona;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       id="text3183">
+      <path
+         d="m -759.30965,565.75518 0,-0.45 c 0,-6.345 -3.465,-10.575 -8.685,-10.575 -5.265,0 -8.73,4.23 -8.73,10.575 0,6.345 3.465,10.575 8.73,10.575 2.25,0 4.455,-0.72 6.3,-2.025 l 0,-1.89 c -2.115,1.35 -3.825,1.845 -6.3,1.845 -3.825,0 -4.77,-3.645 -4.77,-8.055 l 13.455,0 z m -3.96,-1.89 -9.495,0 c 0,-3.6 1.53,-7.245 4.77,-7.245 3.195,0 4.725,3.645 4.725,7.245 z"
+         style=""
+         id="path3372" />
+      <path
+         d="m -739.77121,569.67018 c 0,-3.555 -3.78,-5.4 -7.47,-6.3 -2.16,-0.54 -4.5,-1.44 -4.5,-3.555 0,-1.935 1.98,-3.195 4.14,-3.195 2.385,0 4.77,0.72 6.75,2.025 l 0,-1.89 c -1.98,-1.305 -4.365,-2.025 -6.75,-2.025 -3.915,0 -7.515,2.385 -7.515,6.03 0,3.285 3.645,4.815 7.11,5.67 2.385,0.585 4.86,1.845 4.86,4.14 0,2.115 -2.16,3.42 -4.455,3.42 -2.79,0 -5.49,-0.675 -7.875,-2.025 l 0,1.89 c 2.385,1.35 5.085,2.025 7.875,2.025 4.05,0 7.83,-2.43 7.83,-6.21 z"
+         style=""
+         id="path3374" />
+      <path
+         d="m -724.57527,573.85518 0,-1.35 c -0.72,0.72 -1.575,1.305 -2.61,1.305 -1.62,0 -1.71,-2.115 -1.71,-4.005 l 0,-12.735 4.32,0 0,-1.89 -4.32,0 0,-6.75 -2.115,0 c 0,3.6 -2.07,6.975 -5.355,6.975 l 0,1.665 3.96,0 0,12.735 c 0,2.97 0.945,6.075 3.51,6.075 1.665,0 3.105,-0.9 4.32,-2.025 z"
+         style=""
+         id="path3376" />
+    </g>
+    <rect
+       ry="0"
+       rx="0"
+       y="527.99518"
+       x="-844.39709"
+       height="109.72966"
+       width="188.108"
+       id="rect4875"
+       style="fill:none;stroke:#008080;stroke-width:0.99999994;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:3.99999977, 1.99999989, 0.99999997, 1.99999989;stroke-dashoffset:0"
+       transform="matrix(-0.38507619,-0.92288479,0.92288479,-0.38507619,0,0)" />
+  </g>
+  <ns1:frame
+     ns1:transition-profile="accelerate-decelerate"
+     ns1:transition-duration-ms="1000.0"
+     ns1:timeout-ms="1500.0"
+     ns1:timeout-enable="true"
+     ns1:hide="true"
+     ns1:sequence="1"
+     ns1:title="Ceci"
+     ns1:refid="rect2993"
+     id="frame1" />
+  <ns1:frame
+     ns1:transition-profile="linear"
+     ns1:transition-duration-ms="0.0"
+     ns1:timeout-ms="1500.0"
+     ns1:timeout-enable="true"
+     ns1:hide="true"
+     ns1:sequence="2"
+     ns1:title="n'est"
+     ns1:refid="rect3765"
+     id="frame2" />
+  <ns1:frame
+     ns1:transition-profile="linear"
+     ns1:transition-duration-ms="0.0"
+     ns1:timeout-ms="1500.0"
+     ns1:timeout-enable="true"
+     ns1:hide="true"
+     ns1:sequence="3"
+     ns1:title="pas"
+     ns1:refid="rect3767"
+     id="frame3" />
+  <ns1:frame
+     ns1:transition-profile="linear"
+     ns1:transition-duration-ms="0.0"
+     ns1:timeout-ms="1500.0"
+     ns1:timeout-enable="true"
+     ns1:hide="true"
+     ns1:sequence="4"
+     ns1:title="un"
+     ns1:refid="rect3769"
+     id="frame4" />
+  <ns1:frame
+     ns1:transition-profile="linear"
+     ns1:transition-duration-ms="0.0"
+     ns1:timeout-ms="2000.0"
+     ns1:timeout-enable="true"
+     ns1:hide="true"
+     ns1:sequence="5"
+     ns1:title="diaporama"
+     ns1:refid="rect3771"
+     id="frame5" />
+  <ns1:frame
+     ns1:transition-profile="accelerate-decelerate"
+     ns1:transition-duration-ms="1000.0"
+     ns1:timeout-ms="1500.0"
+     ns1:timeout-enable="true"
+     ns1:hide="true"
+     ns1:sequence="7"
+     ns1:title="Ceci"
+     ns1:refid="rect3773"
+     id="frame7" />
+  <ns1:frame
+     ns1:transition-profile="accelerate-decelerate"
+     ns1:transition-duration-ms="1000.0"
+     ns1:timeout-ms="5000.0"
+     ns1:timeout-enable="true"
+     ns1:hide="true"
+     ns1:sequence="9"
+     ns1:title="Sozi"
+     ns1:refid="rect3787"
+     id="frame9" />
+  <ns1:frame
+     ns1:transition-profile="accelerate-decelerate"
+     ns1:transition-duration-ms="1000.0"
+     ns1:timeout-ms="1000.0"
+     ns1:timeout-enable="true"
+     ns1:hide="true"
+     ns1:sequence="6"
+     ns1:title="Ceci n'est pas un diaporama"
+     ns1:refid="rect4308"
+     id="frame6" />
+  <ns1:frame
+     ns1:transition-profile="accelerate-decelerate"
+     ns1:transition-duration-ms="1000.0"
+     ns1:timeout-ms="1500.0"
+     ns1:timeout-enable="true"
+     ns1:hide="true"
+     ns1:sequence="8"
+     ns1:title="est"
+     ns1:refid="rect4875"
+     id="frame8" />
+  <script
+     ns1:version="13.11-11092117"
+     id="sozi-script">function namespace(a,b,c){&quot;use strict&quot;;var d=a;return b.split(&quot;.&quot;).forEach(function(a){typeof d[a]==&quot;undefined&quot;&amp;&amp;(d[a]={}),d=d[a]}),c&amp;&amp;c(d,a),d}namespace(this,&quot;sozi.events&quot;,function(a){&quot;use strict&quot;;var b={};a.listen=function(a,c){b.hasOwnProperty(a)||(b[a]=[]),b[a].push(c)},a.fire=function(a){var c=Array.prototype.slice.call(arguments,1);b.hasOwnProperty(a)&amp;&amp;b[a].forEach(function(a){a.apply(null,c)})}}),namespace(this,&quot;sozi.proto&quot;,function(a){&quot;use strict&quot;,a.Object={installConstructors:function(){function a(){}a.prototype=this,this.instance=function(){var b=new a;return b.construct.apply(b,arguments),b},this.subtype=function(b){var c=new a;return c.augment(b),c.installConstructors(),c}},construct:function(){},augment:function(a){for(var b in a)a.hasOwnProperty(b)&amp;&amp;(this[b]=a[b]);return this},bind:function(a){var b=this;return function(){return a.apply(b,arguments)}}},a.Object.installConstructors()}),namespace(this,&quot;sozi.actions&quot;,function(a,b){function n(a,b,e){c.stop(),d.viewPorts.player.zoom(a&gt;0?h:1/h,b,e)}function o(a){c.stop(),d.viewPorts.player.rotate(a&gt;0?i:-i)}function p(){sozi.framelist.isVisible()?(sozi.framelist.hide(),c.restart()):(c.stop(),sozi.framelist.show())}function q(a){return d.viewPorts.player.contains(a.clientX,a.clientY)}function r(a){if(!q(a))return;a.button===f?(e.documentElement.addEventListener(&quot;mousemove&quot;,s,!1),k=!1,l=a.clientX,m=a.clientY):a.button===g&amp;&amp;p(),a.stopPropagation(),a.preventDefault()}function s(a){if(!q(a))return;c.stop(),!k&amp;&amp;(Math.abs(a.clientX-l)&gt;j||Math.abs(a.clientY-m)&gt;j)&amp;&amp;(k=!0),k&amp;&amp;(sozi.events.fire(&quot;sozi.player.cleanup&quot;),d.viewPorts.player.drag(a.clientX-l,a.clientY-m),l=a.clientX,m=a.clientY),a.stopPropagation()}function t(a){if(!q(a))return;a.button===f&amp;&amp;e.documentElement.removeEventListener(&quot;mousemove&quot;,s,!1),a.stopPropagation(),a.preventDefault()}function u(a){if(!q(a))return;c.moveToPrevious(),a.stopPropagation(),a.preventDefault()}function v(a){if(!q(a))return;!k&amp;&amp;a.button!==g&amp;&amp;c.moveToNext(),a.stopPropagation(),a.preventDefault()}function w(a){if(!q(a))return;a||(a=b.event);var c=0;a.wheelDelta?c=a.wheelDelta:a.detail&amp;&amp;(c=-a.detail),c!==0&amp;&amp;(a.shiftKey?o(c):n(c,a.clientX,a.clientY)),a.stopPropagation(),a.preventDefault()}function x(a){if(a.altKey||a.ctrlKey||a.metaKey)return;switch(a.charCode||a.which){case 43:n(1,b.innerWidth/2,b.innerHeight/2);break;case 45:n(-1,b.innerWidth/2,b.innerHeight/2);break;case 61:c.moveToCurrent();break;case 70:case 102:c.showAll();break;case 84:case 116:p();break;case 82:o(-1);break;case 114:o(1);break;default:return}a.stopPropagation(),a.preventDefault()}function y(a){if(a.altKey||a.ctrlKey||a.metaKey)return;switch(a.keyCode){case 36:a.shiftKey?c.jumpToFirst():c.moveToFirst();break;case 35:a.shiftKey?c.jumpToLast():c.moveToLast();break;case 38:case 33:case 37:a.shiftKey?c.jumpToPrevious():c.moveToPrevious();break;case 40:case 34:case 39:case 13:case 32:a.shiftKey?c.jumpToNext():c.moveToNext();break;default:return}a.stopPropagation()}function z(a){a.stopPropagation()}function A(){var a=e.getElementsByTagName(&quot;a&quot;);for(var c=0;c&lt;a.length;c+=1)a[c].addEventListener(&quot;click&quot;,z,!1),a[c].addEventListener(&quot;contextmenu&quot;,z,!1);var d=e.documentElement;d.addEventListener(&quot;click&quot;,v,!1),d.addEventListener(&quot;mousedown&quot;,r,!1),d.addEventListener(&quot;mouseup&quot;,t,!1),d.addEventListener(&quot;contextmenu&quot;,u,!1),d.addEventListener(&quot;DOMMouseScroll&quot;,w,!1),b.onmousewheel=w,d.addEventListener(&quot;keypress&quot;,x,!1),d.addEventListener(&quot;keydown&quot;,y,!1)}&quot;use strict&quot;;var c=namespace(b,&quot;sozi.player&quot;),d=namespace(b,&quot;sozi.display&quot;),e=b.document,f=0,g=1,h=1.05,i=5,j=5,k=!1,l=0,m=0;sozi.events.listen(&quot;sozi.display.ready&quot;,A)}),namespace(this,&quot;sozi.animation&quot;,function(a,b){function h(){g.length&gt;0?(c&amp;&amp;c(h),g.forEach(function(a){a.step(d())})):c||b.clearInterval(f)}function i(){c?c(h):f=b.setInterval(function(){h(d())},e)}function j(a){g.push(a),g.length===1&amp;&amp;i()}function k(a){g.splice(g.indexOf(a),1)}&quot;use strict&quot;;var c=b.mozRequestAnimationFrame||b.webkitRequestAnimationFrame||b.msRequestAnimationFrame||b.oRequestAnimationFrame,d=function(){return b.performance&amp;&amp;b.performance.now?b.performance.now():Date.now()};a.setAnimationFrameHandlers=function(a,b){c=a,d=b};var e=40,f,g=[];a.Animator=sozi.proto.Object.subtype({construct:function(){this.durationMs=0,this.data=null,this.initialTime=0,this.started=!1},start:function(a,b){this.durationMs=a,this.data=b,this.initialTime=d(),this.onStep(0),this.started||(this.started=!0,j(this))},stop:function(){this.started&amp;&amp;(k(this),this.started=!1)},step:function(a){var b=a-this.initialTime;b&gt;=this.durationMs?(this.stop(),this.onStep(1),this.onDone()):this.onStep(b/this.durationMs)},onStep:function(a){},onDone:function(){}}),a.profiles={linear:function(a){return a},accelerate:function(a){return Math.pow(a,3)},&quot;strong-accelerate&quot;:function(a){return Math.pow(a,5)},decelerate:function(a){return 1-Math.pow(1-a,3)},&quot;strong-decelerate&quot;:function(a){return 1-Math.pow(1-a,5)},&quot;accelerate-decelerate&quot;:function(a){var b=a&lt;=.5?a:1-a,c=Math.pow(2*b,3)/2;return a&lt;=.5?c:1-c},&quot;strong-accelerate-decelerate&quot;:function(a){var b=a&lt;=.5?a:1-a,c=Math.pow(2*b,5)/2;return a&lt;=.5?c:1-c},&quot;decelerate-accelerate&quot;:function(a){var b=a&lt;=.5?a:1-a,c=(1-Math.pow(1-2*b,2))/2;return a&lt;=.5?c:1-c},&quot;strong-decelerate-accelerate&quot;:function(a){var b=a&lt;=.5?a:1-a,c=(1-Math.pow(1-2*b,3))/2;return a&lt;=.5?c:1-c},&quot;immediate-beginning&quot;:function(a){return 1},&quot;immediate-end&quot;:function(a){return a===1?1:0},&quot;immediate-middle&quot;:function(a){return a&gt;=.5?1:0}}}),namespace(this,&quot;sozi.display&quot;,function(a,b){function j(){var a=e.documentElement;f=a.getBBox(),g=b.innerWidth,h=b.innerHeight,a.setAttribute(&quot;width&quot;,g),a.setAttribute(&quot;height&quot;,h),sozi.events.fire(&quot;sozi.display.ready&quot;)}function k(){var c=e.documentElement;c.setAttribute(&quot;width&quot;,b.innerWidth),c.setAttribute(&quot;height&quot;,b.innerHeight);for(var d in a.viewPorts)a.viewPorts[d].onWindowResize(b.innerWidth/g,b.innerHeight/h);g=b.innerWidth,h=b.innerHeight}&quot;use strict&quot;;var c=&quot;http://www.w3.org/2000/svg&quot;,d=&quot;http://www.w3.org/1999/xlink&quot;,e=b.document,f,g,h;a.viewPorts={};var i;a.CameraState=sozi.proto.Object.subtype({construct:function(){this.cx=this.cy=0,this.width=this.height=1,this.angle=0,this.clipped=!0,this.transitionZoomPercent=0,this.transitionProfile=sozi.animation.profiles.linear,this.transitionPath=null},setCenter:function(a,b){return this.cx=a,this.cy=b,this},setSize:function(a,b){return this.width=a,this.height=b,this},setClipped:function(a){return this.clipped=a,this},setAngle:function(a){return this.angle=(a+180)%360-180,this},setRawAngle:function(a){return this.angle=a,this},setTransitionZoomPercent:function(a){return this.transitionZoomPercent=a,this},setTransitionProfile:function(a){return this.transitionProfile=a,this},setTransitionPath:function(a){return this.transitionPath=a,this},setAtElement:function(a){var b,c,d,f;if(a.nodeName===&quot;rect&quot;)b=a.x.baseVal.value,c=a.y.baseVal.value,d=a.width.baseVal.value,f=a.height.baseVal.value;else{var g=a.getBBox();b=g.x,c=g.y,d=g.width,f=g.height}var h=e.documentElement.createSVGPoint();h.x=b+d/2,h.y=c+f/2;var i=a.getCTM();h=h.matrixTransform(i);var j=Math.sqrt(i.a*i.a+i.b*i.b);return this.setCenter(h.x,h.y).setSize(d*j,f*j).setAngle(Math.atan2(i.b,i.a)*180/Math.PI)},setAtState:function(a){return this.setCenter(a.cx,a.cy).setSize(a.width,a.height).setAngle(a.angle).setClipped(a.clipped).setTransitionZoomPercent(a.transitionZoomPercent).setTransitionProfile(a.transitionProfile).setTransitionPath(a.transitionPath)},interpolatableAttributes:[&quot;width&quot;,&quot;height&quot;,&quot;angle&quot;],interpolate:function(a,b,c,d,e){var f=1-c;for(var g=0;g&lt;this.interpolatableAttributes.length;g+=1){var h=this.interpolatableAttributes[g];this[h]=b[h]*c+a[h]*f}var i=e?a.transitionPath:b.transitionPath;if(d&amp;&amp;i){var j=i.getTotalLength();if(e)var k=i.getPointAtLength(j),l=i.getPointAtLength(0),m=i.getPointAtLength(j*f);else var k=i.getPointAtLength(0),l=i.getPointAtLength(j),m=i.getPointAtLength(j*c);this.cx=m.x+(b.cx-l.x)*c+(a.cx-k.x)*f,this.cy=m.y+(b.cy-l.y)*c+(a.cy-k.y)*f}else this.cx=b.cx*c+a.cx*f,this.cy=b.cy*c+a.cy*f}}),a.Camera=a.CameraState.subtype({construct:function(b,f){a.CameraState.construct.call(this),this.viewPort=b,this.svgClipRect=e.createElementNS(c,&quot;rect&quot;);var g=e.createElementNS(c,&quot;clipPath&quot;);g.setAttribute(&quot;id&quot;,&quot;sozi-clip-path-&quot;+b.id+&quot;-&quot;+f),g.appendChild(this.svgClipRect),b.svgGroup.appendChild(g);var h=e.createElementNS(c,&quot;g&quot;);h.setAttribute(&quot;clip-path&quot;,&quot;url(#sozi-clip-path-&quot;+b.id+&quot;-&quot;+f+&quot;)&quot;),b.svgGroup.appendChild(h),b.isPrimary?(this.svgLayer=e.createElementNS(c,&quot;g&quot;),this.svgLayer.appendChild(e.getElementById(f))):(this.svgLayer=e.createElementNS(c,&quot;use&quot;),this.svgLayer.setAttributeNS(d,&quot;href&quot;,&quot;#&quot;+f)),h.appendChild(this.svgLayer)},setAtState:function(b){return a.CameraState.setAtState.call(this,b).update()},getScale:function(){return Math.min(this.viewPort.width/this.width,this.viewPort.height/this.height)},rotate:function(a){return this.setAngle(this.angle+a).update()},zoom:function(a,b,c){return this.setSize(this.width/a,this.height/a).drag((1-a)*(b-this.viewPort.width/2),(1-a)*(c-this.viewPort.height/2))},drag:function(a,b){var c=this.getScale(),d=this.angle*Math.PI/180,e=Math.sin(d),f=Math.cos(d);return this.setCenter(this.cx-(a*f-b*e)/c,this.cy-(a*e+b*f)/c).setClipped(!1).update()},update:function(){var a=this.getScale(),b=this.width*a,c=this.height*a,d=(this.viewPort.width-b)/2,e=(this.viewPort.height-c)/2;this.svgClipRect.setAttribute(&quot;x&quot;,this.clipped?d:0),this.svgClipRect.setAttribute(&quot;y&quot;,this.clipped?e:0),this.svgClipRect.setAttribute(&quot;width&quot;,this.clipped?b:this.viewPort.width),this.svgClipRect.setAttribute(&quot;height&quot;,this.clipped?c:this.viewPort.height);var f=-this.cx+this.width/2+d/a,g=-this.cy+this.height/2+e/a;return this.svgLayer.setAttribute(&quot;transform&quot;,&quot;scale(&quot;+a+&quot;)&quot;+&quot;translate(&quot;+f+&quot;,&quot;+g+&quot;)&quot;+&quot;rotate(&quot;+ -this.angle+&quot;,&quot;+this.cx+&quot;,&quot;+this.cy+&quot;)&quot;),this}}),a.ViewPort=sozi.proto.Object.subtype({construct:function(d,f,g){this.id=d,a.viewPorts[d]=this,this.isPrimary=!!g;if(this.isPrimary){if(i)throw&quot;Failed to create a primary viewport. A primary viewport already exists.&quot;;i=this}this.svgGroup=e.createElementNS(c,&quot;g&quot;),this.svgGroup.setAttribute(&quot;class&quot;,&quot;sozi-viewport&quot;),this.svgGroup.setAttribute(&quot;id&quot;,&quot;sozi-viewport-&quot;+d),e.documentElement.appendChild(this.svgGroup),this.setLocation(0,0).setSize(b.innerWidth,b.innerHeight),this.cameras={},f.forEach(function(b){this.cameras[b]=a.Camera.instance(this,b)},this)},setSize:function(a,b){return this.width=a,this.height=b,this},setLocation:function(a,b){return this.x=a,this.y=b,this},contains:function(a,b){return a&gt;=this.x&amp;&amp;a&lt;this.x+this.width&amp;&amp;b&gt;=this.y&amp;&amp;b&lt;this.y+this.height},getDocumentState:function(){var b=a.CameraState.instance().setCenter(f.x+f.width/2,f.y+f.height/2).setSize(f.width,f.height).setClipped(!1),c={};for(var d in this.cameras)c[d]=b;return c},update:function(){this.svgGroup.setAttribute(&quot;transform&quot;,&quot;translate(&quot;+this.x+&quot;,&quot;+this.y+&quot;)&quot;);for(var a in this.cameras)this.cameras[a].update();return this},showFrame:function(a){for(var b in a.states)this.cameras[b].setAtState(a.states[b]);return this},drag:function(a,b){for(var c in this.cameras)this.cameras[c].drag(a,b);return this},zoom:function(a,b,c){for(var d in this.cameras)this.cameras[d].zoom(a,b,c);return this},rotate:function(a){for(var b in this.cameras)this.cameras[b].rotate(a);return this},onWindowResize:function(a,b){this.setLocation(this.x*a,this.y*b).setSize(this.width*a,this.height*b).update()}}),sozi.events.listen(&quot;sozi.document.ready&quot;,j),b.addEventListener(&quot;resize&quot;,k,!1)}),namespace(this,&quot;sozi.document&quot;,function(a,b){function g(a,b){return a.getAttributeNS(d,b)||e[b]}function h(a,b,e){var f=a.states[b]=a.states[b]||sozi.display.CameraState.instance();(typeof f.transitionZoomPercent==&quot;undefined&quot;||e.hasAttributeNS(d,&quot;transition-zoom-percent&quot;))&amp;&amp;f.setTransitionZoomPercent(parseInt(g(e,&quot;transition-zoom-percent&quot;),10)),(typeof f.transitionProfile==&quot;undefined&quot;||e.hasAttributeNS(d,&quot;transition-profile&quot;))&amp;&amp;f.setTransitionProfile(sozi.animation.profiles[g(e,&quot;transition-profile&quot;)]);if(typeof f.transitionPath==&quot;undefined&quot;||e.hasAttributeNS(d,&quot;transition-path&quot;)){var h=c.getElementById(e.getAttributeNS(d,&quot;transition-path&quot;));h&amp;&amp;h.nodeName===&quot;path&quot;&amp;&amp;(f.setTransitionPath(h),g(e,&quot;transition-path-hide&quot;)===&quot;true&quot;&amp;&amp;(h.style.visibility=&quot;hidden&quot;))}if(e.hasAttributeNS(d,&quot;refid&quot;)){var i=c.getElementById(e.getAttributeNS(d,&quot;refid&quot;));i&amp;&amp;(f.setAtElement(i),g(e,&quot;hide&quot;)===&quot;true&quot;&amp;&amp;(i.style.visibility=&quot;hidden&quot;))}e.hasAttributeNS(d,&quot;clip&quot;)&amp;&amp;f.setClipped(g(e,&quot;clip&quot;)===&quot;true&quot;)}function i(){var b=[],e=c.getElementsByTagNameNS(d,&quot;layer&quot;);for(var i=0;i&lt;e.length;i+=1){var j=e[i].getAttributeNS(d,&quot;group&quot;);j&amp;&amp;b.indexOf(j)===-1&amp;&amp;b.push(j)}var k=c.documentElement,l=&quot;http://www.w3.org/2000/svg&quot;,m=c.createElementNS(l,&quot;g&quot;),n=Array.prototype.slice.call(k.childNodes);n.forEach(function(d,e){d.getAttribute?b.indexOf(d.getAttribute(&quot;id&quot;))!==-1?(m.firstChild&amp;&amp;(m.setAttribute(&quot;id&quot;,&quot;sozi-wrapper-&quot;+e),a.idLayerList.push(&quot;sozi-wrapper-&quot;+e),k.insertBefore(m,d),m=c.createElementNS(l,&quot;g&quot;)),a.idLayerList.push(d.getAttribute(&quot;id&quot;))):f.indexOf(d.localName.toLowerCase())!==-1&amp;&amp;(k.removeChild(d),m.appendChild(d)):k.removeChild(d)}),m.firstChild&amp;&amp;(m.setAttribute(&quot;id&quot;,&quot;sozi-wrapper-&quot;+n.length),a.idLayerList.push(&quot;sozi-wrapper-&quot;+n.length),k.appendChild(m));var o=Array.prototype.slice.call(c.getElementsByTagNameNS(d,&quot;frame&quot;));o.sort(function(a,b){var c=parseInt(g(a,&quot;sequence&quot;),10),d=parseInt(g(b,&quot;sequence&quot;),10);return c-d}),o.forEach(function(b,c){var e={id:b.getAttribute(&quot;id&quot;),title:g(b,&quot;title&quot;),sequence:parseInt(g(b,&quot;sequence&quot;),10),timeoutEnable:g(b,&quot;timeout-enable&quot;)===&quot;true&quot;,timeoutMs:parseInt(g(b,&quot;timeout-ms&quot;),10),transitionDurationMs:parseInt(g(b,&quot;transition-duration-ms&quot;),10),states:{}};a.idLayerList.forEach(function(d){if(c===0||d.search(&quot;sozi-wrapper-[0-9]+&quot;)!==-1)h(e,d,b);else{var f=e.states[d]=sozi.display.CameraState.instance(),g=a.frames[a.frames.length-1].states[d];f.setAtState(g)}});var f=Array.prototype.slice.call(b.getElementsByTagNameNS(d,&quot;layer&quot;));f.forEach(function(b){var c=b.getAttributeNS(d,&quot;group&quot;);c&amp;&amp;a.idLayerList.indexOf(c)!==-1&amp;&amp;h(e,c,b)});for(var i in e.states)if(e.states.hasOwnProperty(i)){a.frames.push(e);break}})}function j(){c.documentElement.removeAttribute(&quot;viewBox&quot;),i(),sozi.events.fire(&quot;sozi.document.ready&quot;)}&quot;use strict&quot;;var c=b.document,d=&quot;http://sozi.baierouge.fr&quot;,e={title:&quot;Untitled&quot;,sequence:&quot;0&quot;,hide:&quot;true&quot;,clip:&quot;true&quot;,&quot;timeout-enable&quot;:&quot;false&quot;,&quot;timeout-ms&quot;:&quot;5000&quot;,&quot;transition-duration-ms&quot;:&quot;1000&quot;,&quot;transition-zoom-percent&quot;:&quot;0&quot;,&quot;transition-profile&quot;:&quot;linear&quot;,&quot;transition-path-hide&quot;:&quot;true&quot;},f=[&quot;g&quot;,&quot;image&quot;,&quot;path&quot;,&quot;rect&quot;,&quot;circle&quot;,&quot;ellipse&quot;,&quot;line&quot;,&quot;polyline&quot;,&quot;polygon&quot;,&quot;text&quot;,&quot;clippath&quot;];a.frames=[],a.idLayerList=[],a.getFrameIndexForId=function(b){for(var c=0;c&lt;a.frames.length;c+=1)if(a.frames[c].id===b)return c;return-1},b.addEventListener(&quot;load&quot;,j,!1)}),namespace(this,&quot;sozi.framelist&quot;,function(a,b){function q(b){var d=b.relatedTarget,f=c.documentElement;while(d&amp;&amp;d!==e&amp;&amp;d!==f)d=d.parentNode;d!==e&amp;&amp;(a.hide(),sozi.player.restart(),b.stopPropagation())}function r(a){var c=f.getCTM().f;c&lt;=-b.innerHeight/2?c+=b.innerHeight/2:c&lt;0&amp;&amp;(c=0),f.setAttribute(&quot;transform&quot;,&quot;translate(0,&quot;+c+&quot;)&quot;),a.stopPropagation()}function s(a){var c=f.getCTM().f;c+g&gt;=b.innerHeight*3/2?c-=b.innerHeight/2:c+g&gt;b.innerHeight+2*d&amp;&amp;(c=b.innerHeight-g-4*d),f.setAttribute(&quot;transform&quot;,&quot;translate(0,&quot;+c+&quot;)&quot;),a.stopPropagation()}function t(a){return function(b){sozi.player.previewFrame(a),b.stopPropagation()}}function u(a){a.stopPropagation()}function v(){e=c.createElementNS(p,&quot;g&quot;),e.setAttribute(&quot;id&quot;,&quot;sozi-toc&quot;),c.documentElement.appendChild(e),f=c.createElementNS(p,&quot;g&quot;),e.appendChild(f);var a=c.createElementNS(p,&quot;rect&quot;);a.setAttribute(&quot;id&quot;,&quot;sozi-toc-background&quot;),a.setAttribute(&quot;x&quot;,d),a.setAttribute(&quot;y&quot;,d),a.setAttribute(&quot;rx&quot;,d),a.setAttribute(&quot;ry&quot;,d),a.addEventListener(&quot;click&quot;,u,!1),a.addEventListener(&quot;mousedown&quot;,u,!1),a.addEventListener(&quot;mouseout&quot;,q,!1),f.appendChild(a);var b=0;sozi.document.frames.forEach(function(a,e){var h=c.createElementNS(p,&quot;text&quot;);h.appendChild(c.createTextNode(a.title)),f.appendChild(h),e===sozi.player.currentFrameIndex&amp;&amp;h.setAttribute(&quot;class&quot;,&quot;sozi-toc-current&quot;);var i=h.getBBox().width;g+=h.getBBox().height,i&gt;b&amp;&amp;(b=i),h.setAttribute(&quot;x&quot;,2*d),h.setAttribute(&quot;y&quot;,g+d),h.addEventListener(&quot;click&quot;,t(e),!1),h.addEventListener(&quot;mousedown&quot;,u,!1)});var n=c.createElementNS(p,&quot;path&quot;);n.setAttribute(&quot;class&quot;,&quot;sozi-toc-arrow&quot;),n.setAttribute(&quot;d&quot;,&quot;M&quot;+(b+3*d)+&quot;,&quot;+5*d+&quot; l&quot;+4*d+&quot;,0&quot;+&quot; l-&quot;+2*d+&quot;,-&quot;+3*d+&quot; z&quot;),n.addEventListener(&quot;click&quot;,r,!1),n.addEventListener(&quot;mousedown&quot;,u,!1),e.appendChild(n);var v=c.createElementNS(p,&quot;path&quot;);v.setAttribute(&quot;class&quot;,&quot;sozi-toc-arrow&quot;),v.setAttribute(&quot;d&quot;,&quot;M&quot;+(b+3*d)+&quot;,&quot;+7*d+&quot; l&quot;+4*d+&quot;,0&quot;+&quot; l-&quot;+2*d+&quot;,&quot;+3*d+&quot; z&quot;),v.addEventListener(&quot;click&quot;,s,!1),v.addEventListener(&quot;mousedown&quot;,u,!1),e.appendChild(v),a.setAttribute(&quot;width&quot;,b+7*d),a.setAttribute(&quot;height&quot;,g+2*d),h=-b-9*d,i=0,l=k=h,e.setAttribute(&quot;transform&quot;,&quot;translate(&quot;+h+&quot;,0)&quot;),m=sozi.animation.Animator.instance().augment({onStep:function(a){var b=sozi.animation.profiles[o](a),c=1-b;l=k*b+j*c,e.setAttribute(&quot;transform&quot;,&quot;translate(&quot;+l+&quot;,0)&quot;)}})}function w(a){var b=Array.prototype.slice.call(c.getElementsByClassName(&quot;sozi-toc-current&quot;));b.forEach(function(a){a.removeAttribute(&quot;class&quot;)});var d=f.getElementsByTagName(&quot;text&quot;);d[a].setAttribute(&quot;class&quot;,&quot;sozi-toc-current&quot;)}&quot;use strict&quot;;var c=b.document,d=5,e,f,g=0,h,i,j,k,l,m,n=300,o=&quot;decelerate&quot;,p=&quot;http://www.w3.org/2000/svg&quot;;a.show=function(){c.documentElement.appendChild(e),j=l,k=i,m.start(n)},a.hide=function(){j=l,k=h,m.start(n)},a.isVisible=function(){return k===i},sozi.events.listen(&quot;sozi.player.ready&quot;,v),sozi.events.listen(&quot;sozi.player.cleanup&quot;,a.hide),sozi.events.listen(&quot;sozi.player.framechange&quot;,w)}),namespace(this,&quot;sozi.framenumber&quot;,function(a,b){function i(){var a=e.getBBox(),b=Math.max(a.width,a.height)*.75,c=b*1.25;g.setAttribute(&quot;r&quot;,b),d.setAttribute(&quot;transform&quot;,&quot;translate(&quot;+c+&quot;,&quot;+c+&quot;)&quot;)}function j(){d=c.createElementNS(h,&quot;g&quot;),e=c.createElementNS(h,&quot;text&quot;),g=c.createElementNS(h,&quot;circle&quot;),d.setAttribute(&quot;id&quot;,&quot;sozi-framenumber&quot;),g.setAttribute(&quot;cx&quot;,0),g.setAttribute(&quot;cy&quot;,0),d.appendChild(g),f=c.createTextNode(sozi.player.currentFrameIndex+1),e.setAttribute(&quot;text-anchor&quot;,&quot;middle&quot;),e.setAttribute(&quot;dominant-baseline&quot;,&quot;central&quot;),e.setAttribute(&quot;x&quot;,0),e.setAttribute(&quot;y&quot;,0),e.appendChild(f),d.appendChild(e),c.documentElement.appendChild(d),i()}function k(a){f.nodeValue=a+1}&quot;use strict&quot;;var c=b.document,d,e,f,g,h=&quot;http://www.w3.org/2000/svg&quot;;sozi.events.listen(&quot;sozi.player.ready&quot;,j),sozi.events.listen(&quot;sozi.player.framechange&quot;,k)}),namespace(this,&quot;sozi.links&quot;,function(a,b){function e(a){return function(b){sozi.player.moveToFrame(a),b.preventDefault(),b.stopPropagation()}}function f(){var a=b.document.getElementsByTagNameNS(c,&quot;a&quot;);for(var f=0;f&lt;a.length;f+=1){var g=a[f].getAttributeNS(d,&quot;href&quot;);g&amp;&amp;g[0]===&quot;#&quot;&amp;&amp;a[f].addEventListener(&quot;click&quot;,e(sozi.location.getFrameIndexForHash(g)),!1)}}&quot;use strict&quot;;var c=&quot;http://www.w3.org/2000/svg&quot;,d=&quot;http://www.w3.org/1999/xlink&quot;;sozi.events.listen(&quot;sozi.document.ready&quot;,f)}),namespace(this,&quot;sozi.location&quot;,function(a,b){function d(){var b=a.getFrameIndex();c||sozi.player.moveToFrame(b),c=!1}function e(a){c=!0,b.location.hash=&quot;#&quot;+sozi.document.frames[a].id}&quot;use strict&quot;;var c=!1;a.getFrameIndex=function(){return a.getFrameIndexForHash(b.location.hash)},a.getFrameIndexForHash=function(a){var b=a?a.slice(1):&quot;1&quot;,c;return/^[0-9]+$/.test(b)?c=parseInt(b,10)-1:c=sozi.document.getFrameIndexForId(b),c&lt;0?0:c&gt;=sozi.document.frames.length?sozi.document.frames.length-1:c},b.addEventListener(&quot;hashchange&quot;,d,!1),sozi.events.listen(&quot;sozi.player.framechange&quot;,e)}),namespace(this,&quot;sozi.player&quot;,function(a,b){function l(){if(sozi.document.frames[a.currentFrameIndex].timeoutEnable){k=!0;var c=(a.currentFrameIndex+1)%sozi.document.frames.length;e=b.setTimeout(function(){a.moveToFrame(c)},sozi.document.frames[a.currentFrameIndex].timeoutMs)}}function m(a,b,c){var d={ss:(a&lt;0?Math.max(b,c):Math.min(b,c))*(100-a)/100,ts:.5,k:0};if(a!==0){var e=b-c,f=b-d.ss,g=c-d.ss;if(e!==0){var h=Math.sqrt(f*g),i=(f-h)/e,j=(f+h)/e;d.ts=i&gt;0&amp;&amp;i&lt;=1?i:j}d.k=f/d.ts/d.ts}return d}function n(){c=sozi.display.ViewPort.instance(&quot;player&quot;,sozi.document.idLayerList,!0),a.startFromIndex(sozi.location.getFrameIndex()),b.setTimeout(c.bind(c.update),1),sozi.events.fire(&quot;sozi.player.ready&quot;)}&quot;use strict&quot;;var c,d,e,f=500,g=-10,h=&quot;linear&quot;,i=0;a.currentFrameIndex=0;var j=!1,k=!1;a.startFromIndex=function(b){j=!0,k=!1,i=b,a.currentFrameIndex=b,c.showFrame(sozi.document.frames[b]),l()},a.restart=function(){a.startFromIndex(a.currentFrameIndex)},a.stop=function(){d.stop(),k&amp;&amp;(b.clearTimeout(e),k=!1),j=!1,i=a.currentFrameIndex},a.jumpToFrame=function(b){a.stop(),sozi.events.fire(&quot;sozi.player.cleanup&quot;),i=b,a.currentFrameIndex=b,c.showFrame(sozi.document.frames[b]),sozi.events.fire(&quot;sozi.player.framechange&quot;,b)},a.getAnimationData=function(a,b,c,d,e,f){var g={};for(var h in a){g[h]={initialState:sozi.display.CameraState.instance(),finalState:sozi.display.CameraState.instance(),useTransitionPath:e,reverseTransitionPath:f},g[h].profile=d||b[h].transitionProfile,g[h].initialState.setAtState(a[h]),b.hasOwnProperty(h)?g[h].finalState.setAtState(b[h]):g[h].finalState.setAtState(a[h]),g[h].finalState.angle-g[h].initialState.angle&gt;180?g[h].finalState.setRawAngle(g[h].finalState.angle-360):g[h].finalState.angle-g[h].initialState.angle&lt;-180&amp;&amp;g[h].initialState.setRawAngle(g[h].initialState.angle-360);var i=c||b[h].transitionZoomPercent;i&amp;&amp;b.hasOwnProperty(h)&amp;&amp;(g[h].zoomWidth=m(i,a[h].width,b[h].width),g[h].zoomHeight=m(i,a[h].height,b[h].height))}return g},a.previewFrame=function(b){a.currentFrameIndex=b,d.start(f,a.getAnimationData(c.cameras,sozi.document.frames[b].states,g,sozi.animation.profiles[h]),!1,!1),sozi.events.fire(&quot;sozi.player.framechange&quot;,b)},a.moveToFrame=function(i){k&amp;&amp;(b.clearTimeout(e),k=!1);var l,m,n,o,p;i===(a.currentFrameIndex-1)%sozi.document.frames.length?(l=sozi.document.frames[a.currentFrameIndex].transitionDurationMs,m=undefined,n=undefined,o=!0,p=!0):i===(a.currentFrameIndex+1)%sozi.document.frames.length?(l=sozi.document.frames[i].transitionDurationMs,m=undefined,n=undefined,o=!0,p=!1):(l=f,m=g,n=sozi.animation.profiles[h],o=!1,p=!1),sozi.events.fire(&quot;sozi.player.cleanup&quot;),j=!0,a.currentFrameIndex=i,d.start(l,a.getAnimationData(c.cameras,sozi.document.frames[i].states,m,n,o,p)),sozi.events.fire(&quot;sozi.player.framechange&quot;,i)},a.jumpToFirst=function(){a.jumpToFrame(0)},a.moveToFirst=function(){a.moveToFrame(0)},a.jumpToPrevious=function(){var b=a.currentFrameIndex;if(!d.started||i&lt;=a.currentFrameIndex)b-=1;b&gt;=0&amp;&amp;a.jumpToFrame(b)},a.moveToPrevious=function(){for(var b=a.currentFrameIndex-1;b&gt;=0;b-=1){var c=sozi.document.frames[b];if(!c.timeoutEnable||c.timeoutMs!==0){a.moveToFrame(b);break}}},a.jumpToNext=function(){var b=a.currentFrameIndex;if(!d.started||i&gt;=a.currentFrameIndex)b+=1;b&lt;sozi.document.frames.length&amp;&amp;a.jumpToFrame(b)},a.moveToNext=function(){(a.currentFrameIndex&lt;sozi.document.frames.length-1||sozi.document.frames[a.currentFrameIndex].timeoutEnable)&amp;&amp;a.moveToFrame((a.currentFrameIndex+1)%sozi.document.frames.length)},a.jumpToLast=function(){a.jumpToFrame(sozi.document.frames.length-1)},a.moveToLast=function(){a.moveToFrame(sozi.document.frames.length-1)},a.moveToCurrent=function(){a.moveToFrame(a.currentFrameIndex)},a.showAll=function(){a.stop(),sozi.events.fire(&quot;sozi.player.cleanup&quot;),d.start(f,a.getAnimationData(c.cameras,c.getDocumentState(),g,sozi.animation.profiles[h],!1,!1))},a.onAnimationStep=function(a,b){for(var d in b){var e=c.cameras[d];e.interpolate(b[d].initialState,b[d].finalState,b[d].profile(a),b[d].useTransitionPath,b[d].reverseTransitionPath);var f;b[d].zoomWidth&amp;&amp;b[d].zoomWidth.k!==0&amp;&amp;(f=a-b[d].zoomWidth.ts,e.width=b[d].zoomWidth.k*f*f+b[d].zoomWidth.ss),b[d].zoomHeight&amp;&amp;b[d].zoomHeight.k!==0&amp;&amp;(f=a-b[d].zoomHeight.ts,e.height=b[d].zoomHeight.k*f*f+b[d].zoomHeight.ss),e.setClipped(b[d].finalState.clipped)}c.update()},d=sozi.animation.Animator.instance().augment({onStep:function(b){a.onAnimationStep(b,this.data)},onDone:function(){for(var b in this.data)c.cameras[b].setAtState(this.data[b].finalState);c.update(),i=a.currentFrameIndex,j&amp;&amp;l()}}),sozi.events.listen(&quot;sozi.display.ready&quot;,n)});</script>
+  <style
+     ns1:version="13.11-11092117"
+     id="sozi-style">/*
+ * Sozi - A presentation tool using the SVG standard
+ *
+ * Copyright (C) 2010-2013 Guillaume Savaton
+ *
+ * This program is dual licensed under the terms of the MIT license
+ * or the GNU General Public License (GPL) version 3.
+ * A copy of both licenses is provided in the doc/ folder of the
+ * official release of Sozi.
+ * 
+ * See http://sozi.baierouge.fr/wiki/en:license for details.
+ */
+
+#sozi-toc text {
+   fill: #eff;
+   font-family: Verdana, sans-serif;
+   font-size: 12pt;
+}
+
+#sozi-toc text:hover {
+   fill: #0cf;
+   cursor: pointer;
+}
+
+#sozi-toc text.sozi-toc-current {
+   fill: #fa4;
+}
+
+#sozi-toc-background {
+   stroke: #222;
+   stroke-opacity: 0.1;
+   stroke-width: 10;
+   fill: #222;
+   fill-opacity: 0.9;
+}
+
+.sozi-toc-arrow {
+   fill: #eff;
+   fill-opacity: 0.75;
+   stroke: none;
+}
+
+.sozi-toc-arrow:hover {
+   fill: #0cf;
+}
+
+#sozi-framenumber circle {
+   stroke: #222;
+   stroke-opacity: 0.1;
+   stroke-width: 4;
+   fill: #222;
+   fill-opacity: 0.9;
+}
+
+#sozi-framenumber text {
+   fill: #eff;
+   font-family: Verdana, sans-serif;
+   font-size: 12pt;
+}
+</style>
+  <script
+     ns1:version="13.11-11092117"
+     id="sozi-extras-media-script">this.addEventListener(&quot;load&quot;,function(){function p(a){a.stopPropagation()}function q(a,b,c){sozi.events.listen(&quot;sozi.player.framechange&quot;,function(d){var e=sozi.document.frames[d].id;e===b?a.play():e===c&amp;&amp;a.pause()})}var a=&quot;http://www.w3.org/2000/svg&quot;,b=&quot;http://sozi.baierouge.fr&quot;,c=&quot;http://www.w3.org/1999/xhtml&quot;,d=this,e=d.document,f=[],g,h,i,j,k,l,m,n,o;f.push(e.getElementsByTagNameNS(b,&quot;video&quot;)),f.push(e.getElementsByTagNameNS(b,&quot;audio&quot;)),g=[];for(j=0;j&lt;f.length;j+=1)for(h=0;h&lt;f[j].length;h+=1){k=f[j][h].parentNode,o=e.createElementNS(c,&quot;source&quot;),o.setAttribute(&quot;type&quot;,f[j][h].getAttributeNS(b,&quot;type&quot;)),o.setAttribute(&quot;src&quot;,f[j][h].getAttributeNS(b,&quot;src&quot;));for(i=0;i&lt;g.length;i+=1)if(g[i].rect===k)break;i===g.length&amp;&amp;(k.setAttribute(&quot;visibility&quot;,&quot;hidden&quot;),n=e.createElementNS(c,f[j][h].localName),n.setAttribute(&quot;controls&quot;,&quot;controls&quot;),f[j][h].localName===&quot;video&quot;&amp;&amp;(n.setAttribute(&quot;width&quot;,k.getAttribute(&quot;width&quot;)),n.setAttribute(&quot;height&quot;,k.getAttribute(&quot;height&quot;))),n.addEventListener(&quot;click&quot;,p,!1),n.addEventListener(&quot;contextmenu&quot;,p,!1),m=e.createElementNS(c,&quot;html&quot;),m.appendChild(n),l=e.createElementNS(a,&quot;foreignObject&quot;),l.setAttribute(&quot;x&quot;,k.getAttribute(&quot;x&quot;)),l.setAttribute(&quot;y&quot;,k.getAttribute(&quot;y&quot;)),l.setAttribute(&quot;width&quot;,k.getAttribute(&quot;width&quot;)),l.setAttribute(&quot;height&quot;,k.getAttribute(&quot;height&quot;)),l.appendChild(m),k.parentNode.insertBefore(l,k.nextSibling),f[j][h].hasAttributeNS(b,&quot;start-frame&quot;)&amp;&amp;q(n,f[j][h].getAttributeNS(b,&quot;start-frame&quot;),f[j][h].getAttributeNS(b,&quot;stop-frame&quot;)),g.push({rect:f[j][h].parentNode,htmlMedia:n})),g[i].htmlMedia.appendChild(o)}},!1);</script>
+</svg>
