@@ -34,6 +34,7 @@ merci de nous le signaler.
 [Paul Chavent](http://paul.chavent.free.fr/),
 [Kan-Ru Chen](https://github.com/kanru),
 [Nigel Cunningham](https://github.com/NigelCunningham),
+[Michael Demetriou](http://www.qwazix.com/),
 [Desus](https://launchpad.net/~deesus),
 Dyblast,
 [Eduardo Javier Echeverria Alvarado](https://launchpad.net/~echevemaster),

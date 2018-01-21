@@ -34,6 +34,7 @@ please contact us.
 [Kan-Ru Chen](https://github.com/kanru),
 [Nigel Cunningham](https://github.com/NigelCunningham),
 [Desus](https://launchpad.net/~deesus),
+[Michael Demetriou](http://www.qwazix.com/),
 Dyblast,
 [Eduardo Javier Echeverria Alvarado](https://launchpad.net/~echevemaster),
 [Gianfranco Frisani](https://launchpad.net/~gfrisani),

@@ -31,6 +31,7 @@ Caso seu nome não esteja abaixo, ou caso você não queira que ele apareça nes
 [Kan-Ru Chen](https://github.com/kanru),
 [Nigel Cunningham](https://github.com/NigelCunningham),
 [Desus](https://launchpad.net/~deesus),
+[Michael Demetriou](http://www.qwazix.com/),
 Dyblast,
 [Eduardo Javier Echeverria Alvarado](https://launchpad.net/~echevemaster),
 [Gianfranco Frisani](https://launchpad.net/~gfrisani),
