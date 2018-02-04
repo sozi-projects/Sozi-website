@@ -1,11 +1,13 @@
 Title: Instalação
-Slug: 20-install
+Slug: install
 Lang: pt_br
+Translation: true
+Status: hidden
 Author: Guillaume Savaton, Marcelo Vaz
 
-A versão estável mais atual do Sozi é a 17.11 (novembro 2017):
+> Read this page in English for an up-to-date version.
 
-  * [Baixar a versão estável](https://github.com/senshu/Sozi/releases/tag/17.11)
+  * [Baixar a última versão](https://github.com/senshu/Sozi/releases/latest)
   * [Baixar a versão preliminar da próxima atualização](https://drive.google.com/open?id=0ByRUreHgekjMWG9teGM2dE8wck0) (para testes)
 
 Sozi 13

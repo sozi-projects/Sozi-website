@@ -1,43 +1,82 @@
 Title: Installation
-Slug: 20-install
+Slug: install
 Lang: fr
 Translation: true
+Status: hidden
 Author: Guillaume Savaton
 
-La version stable courante porte le numéro 17.11 (novembre 2017).
-
-  * [Télécharger la version stable](https://github.com/senshu/Sozi/releases/tag/17.11)
+  * [Télécharger la dernière version](https://github.com/senshu/Sozi/releases/latest)
   * [Télécharger un aperçu de la prochaine version](https://drive.google.com/open?id=0ByRUreHgekjMWG9teGM2dE8wck0) (pour les testeurs)
 
-Sozi est distribué sous la forme d'une [archive zip](https://fr.wikipedia.org/wiki/ZIP_%28format_de_fichier%29)
-portant l'extension `.zip` ou `.tgz`.
-Dans le nom du fichier à télécharger, le système d'exploitation est indiqué de
-la manière suivante&nbsp;:
+Installation pour GNU/Linux
+---------------------------
 
-* `darwin-x64` pour OS X, 64 bits.
-* `linux-ia32` pour Linux, 32 bits.
-* `linux-x64` pour Linux, 64 bits.
-* `win32-ia32` pour Windows, 32 bits.
-* `win32-ia64` pour Windows, 64 bits.
+> À notre connaissance, les dépôts Debian, Ubuntu et Fedora proposent des versions
+> "périmées" de Sozi.
+> Vous pouvez toujours les installer, mais sachez que vous ne trouverez ni
+> assistance, ni documentation.
 
-En procédant à l'extraction de cette archive, vous verrez apparaître un dossier
-portant le même nom.
-Les utilisateurs de Linux et Windows peuvent démarrer Sozi en ouvrant l'exécutable
-`Sozi` situé dans ce dossier.
-Les utilisateurs d'OS X y trouveront un sous-dossier `Sozi.app` qu'ils pourront
-faire glisser dans leur dossier `Applications`.
-
-Un script d'installation pour Linux est fourni.
-Après installation, Sozi peut être exécuté depuis le menu des applications de votre environnement de bureau
-ou en ligne de commande en tant que `sozi` (en minuscules).
+Depuis la version 18, nous fournissons l'éditeur de présentations sous la forme
+de paquets pour Debian, Ubuntu et leurs dérivées.
+Téléchargez le fichier `.deb` correspondant à votre plate-forme (`i386` ou `amd64`),
+ouvrez un terminal et exécutez la commande suivante&nbsp;:
 
 ```
-tar xzf Sozi-{version}.tgz
-sudo ./Sozi-{version}/install/install.sh
-sozi
+sudo dpkg -i sozi_{version}_{arch}.deb
 ```
 
 Les utilisateurs d'Archlinux peuvent installer Sozi depuis l'[Archlinux User Repository](https://aur.archlinux.org/packages/sozi).
+
+### Installation à partir d'une archive zip
+
+Dans les autres cas, téléchargez le fichier `.tgz` correspondant à votre plate-forme
+(`linux-ia32` ou `linux-x64`).
+Dans un terminal, exécutez les commandes suivantes&nbsp;:
+
+```bash
+tar xzf Sozi-{version}.tgz
+
+# Installer Sozi globalement pour tous les utilisateurs
+sudo ./Sozi-{version}/install/install.sh
+
+# Ou installer Sozi localement, dans votre dossier personnel.
+# Tous les fichiers sont laissés à leur emplacement courant,
+# des liens symboliques sont créés dans $HOME/.local et $HOME/bin.
+# Ajoutez $HOME/bin à votre variable PATH si nécessaire.
+./Sozi-{version}/install/install-local.sh
+
+# Exécuter Sozi
+sozi
+```
+
+Après installation, Sozi peut être exécuté depuis le menu des applications de votre environnement de bureau ou en ligne de commande en tant que `sozi` (en minuscules).
+
+Installation pour Windows
+-------------------------
+
+Sozi pour Windows est distribué uniquement sous la forme d'une archive zip.
+Aucun programme d'installation n'est fourni.
+Téléchargez l'un des fichiers suivants&nbsp;:
+
+* `sozi-{version}-windows-ia32.zip` pour Windows, 32 bits.
+* `sozi-{version}-windows-ia64.zip` pour Windows, 64 bits.
+
+En procédant à l'extraction de cette archive, vous verrez apparaître un dossier
+portant le même nom.
+Vous pouvez alors démarrer Sozi en ouvrant l'exécutable `Sozi` situé dans ce dossier.
+
+Installation pour OS X
+----------------------
+
+Sozi pour OS X est distribué sous la forme d'une archive zip nommée
+`sozi-{version}-osx-ia64.tgz` (pour Sozi 17 et les versions précédentes, le
+fichier était nommé `sozi-{version}-darwin-ia64.tgz`).
+
+En procédant à l'extraction de cette archive, vous verrez apparaître un dossier
+portant le même nom.
+Vous y trouverez un sous-dossier `Sozi.app` que vous pourrez
+faire glisser dans votre dossier `Applications`.
+Vous pourrez ensuite l'exécuter comme n'importe quelle autre application pour OS X.
 
 Sozi 13
 -------

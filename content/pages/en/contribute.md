@@ -1,12 +1,23 @@
 Title: Contribute
-Slug: 50-contribute
+Slug: contribute
 Lang: en
+Status: hidden
 Author: Guillaume Savaton
 
-Even if you are not a programmer, there are several ways you can contribute to Sozi:
+The source code of Sozi is hosted in the following repositories:
 
+* [The presentation editor](https://github.com/senshu/Sozi)
+* [The PDF and video exporter](https://github.com/senshu/Sozi-export)
+* [This web site](https://github.com/senshu/Sozi-website)
+
+Even if you are not a programmer, there are several other ways you can contribute to Sozi:
+
+* [Report issues about the presentation editor](https://github.com/senshu/Sozi/issues)
+* [Report issues about the presentation exporter](https://github.com/senshu/Sozi-export/issues)
+* [Report issues about this web site](https://github.com/senshu/Sozi-website/issues)
 * [Translate the user interface of the editor to your native language](|filename|translate-editor.md)
 * [Translate the web site to your native language](|filename|translate-web-site.md)
+* [Help others at the Sozi community forum](/community)
 
 List of contributors
 --------------------

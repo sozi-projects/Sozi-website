@@ -1,12 +1,13 @@
 Title: Installation
-Slug: 20-install
+Slug: install
 Lang: de
-Author: Guillaume Savaton, Andrej Barth
 Translation: true
+Status: hidden
+Author: Guillaume Savaton, Andrej Barth
 
-Das derzeit stabile Release ist Sozi 17.11 (November 2017):
+> Read this page in English for an up-to-date version.
 
-  * [Download stabiles Release](https://github.com/senshu/Sozi/releases/tag/17.11)
+  * [Download neueste Release](https://github.com/senshu/Sozi/releases/latest)
   * [Download Vorschau des kommenden Releases](https://drive.google.com/open?id=0ByRUreHgekjMWG9teGM2dE8wck0) (für Tester)
 
 Sozi wird in Form eines [zip-Archives](https://en.wikipedia.org/wiki/Zip_%28file_format%29) bereitgestellt.

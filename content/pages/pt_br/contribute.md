@@ -1,7 +1,11 @@
 Title: Contribua
-Slug: 50-contribute
+Slug: contribute
 Lang: pt_br
+Translation: true
+Status: hidden
 Author: Guillaume Savaton, Marcelo Vaz Pupo
+
+> Read this page in English for an up-to-date version.
 
 Você pode contribuir com o Sozi de diversas formas (mesmo não sendo um programador):
 

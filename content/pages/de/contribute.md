@@ -1,9 +1,11 @@
 Title: Helfen
-Slug: 50-contribute
+Slug: contribute
 Lang: de
-Author: Guillaume Savaton, Andrej Barth
 Translation: true
+Status: hidden
+Author: Guillaume Savaton, Andrej Barth
 
+> Read this page in English for an up-to-date version.
 
 Auch wenn Du kein Programmierer bist, kannst Du Sozi unterstützen:
 

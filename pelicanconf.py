@@ -28,8 +28,6 @@ SOCIAL = (
     ('Twitter', 'https://twitter.com/senshua'),
     ('Facebook', 'https://www.facebook.com/sozi.project'),
     ('Google+', 'https://plus.google.com/u/0/+GuillaumeSavaton'),
-    ('Google group', 'http://groups.google.com/group/sozi-users'),
-    ('Ohloh', 'https://www.ohloh.net/p/sozi'),
     # TODO add YouTube
 )
 

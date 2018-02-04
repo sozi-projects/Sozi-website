@@ -1,7 +1,8 @@
 Title: Jouer
-Slug: 40-play
+Slug: play
 Lang: fr
 Translation: true
+Status: hidden
 Author: Guillaume Savaton, David Libralesso
 
 
@@ -81,10 +82,3 @@ Actions directes sur le canevas
         <td>r / R</td>
     </tr>
 </table>
-
-Obtenir de l'aide et signaler un problème
------------------------------------------
-
-* [Foire Aux Questions et résolution des problèmes](|filename|faq.md)
-* [Rejoindre le groupe de discussion des utilisateurs de Sozi](http://groups.google.com/group/sozi-users)
-* [Signaler un problème et proposer de nouvelles fonctionnalités](http://github.com/senshu/Sozi/issues)

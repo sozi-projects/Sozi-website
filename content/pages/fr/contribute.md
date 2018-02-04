@@ -1,12 +1,24 @@
 Title: Contribuer
-Slug: 50-contribute
+Slug: contribute
 Lang: fr
+Translation: true
+Status: hidden
 Author: Guillaume Savaton, Vincent Garibal
 
-Même si vous n'êtes pas un programmeur, il y a plusieurs manières de contribuer à Sozi&nbsp;:
+Le code source de Sozi est disponible dans les dépôts suivants&nbsp;:
 
+* [L'éditeur de présentations](https://github.com/senshu/Sozi)
+* [L'outil de conversion en PDF et en vidéo](https://github.com/senshu/Sozi-export)
+* [Ce site web](https://github.com/senshu/Sozi-website)
+
+Même si vous n'êtes pas un programmeur, il y a plusieurs autres manières de contribuer à Sozi&nbsp;:
+
+* [Signaler les problèmes relatifs à l'éditeur de présentations](https://github.com/senshu/Sozi/issues)
+* [Signaler les problèmes relatifs à l'outil de conversion](https://github.com/senshu/Sozi-export/issues)
+* [Signaler les problèmes relatifs à ce site site](https://github.com/senshu/Sozi-website/issues)
 * [Traduire l'interface utilisateur de l'éditeur dans votre langue](|filename|translate-editor.md)
 * [Traduire le site web dans votre langue](|filename|translate-web-site.md)
+* [Aider les autres utilisateurs via le forum de la communauté](/community)
 
 Liste des contributeurs
 -----------------------

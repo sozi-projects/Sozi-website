@@ -1,5 +1,5 @@
 Title: Faire un don
-Slug: 60-contribute
+Slug: 70-donate
 Lang: fr
 Author: Guillaume Savaton
 

@@ -1,5 +1,5 @@
 Title: Spenden
-Slug: 60-contribute
+Slug: 70-donate
 Lang: de
 Author: Guillaume Savaton
 

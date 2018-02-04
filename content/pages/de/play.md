@@ -1,8 +1,9 @@
 Title: Zeigen
-Slug: 40-play
+Slug: play
 Lang: de
-Author: Guillaume Savaton, Andrej Barth
 Translation: true
+Status: hidden
+Author: Guillaume Savaton, Andrej Barth
 
 Durch die Präsentation navigieren
 ---------------------------------
@@ -75,10 +76,3 @@ Direkte Möglichkeiten auf dem Bild
         <td>r / R</td>
     </tr>
 </table>
-
-Hilfe erhalten und Fehler melden
---------------------------------
-
-* [FAQ: Häufig gestellte Fragen und Antworten](|filename|faq.md)
-* [Beteilige Dich an der Sozi-Diskussions-Gruppe](http://groups.google.com/group/sozi-users)
-* [Melde Fehler and schlage neue Features vor](http://github.com/senshu/Sozi/issues)

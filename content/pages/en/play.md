@@ -1,6 +1,7 @@
 Title: Play
-Slug: 40-play
+Slug: play
 Lang: en
+Status: hidden
 Author: Guillaume Savaton
 
 Moving through the presentation
@@ -78,10 +79,3 @@ Direct actions on the canvas
         <td>r / R</td>
     </tr>
 </table>
-
-Getting help and reporting issues
----------------------------------
-
-* [Frequently Asked Questions and Troubleshooting](|filename|faq.md)
-* [Join the Sozi users discussion group](http://groups.google.com/group/sozi-users)
-* [Report issues and propose new features](http://github.com/senshu/Sozi/issues)

@@ -1,5 +1,5 @@
 Title: Donate
-Slug: 60-contribute
+Slug: 70-donate
 Lang: en
 Author: Guillaume Savaton
 

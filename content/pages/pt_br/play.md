@@ -1,6 +1,8 @@
 Title: Apresentar
-Slug: 40-play
+Slug: play
 Lang: pt_br
+Translation: true
+Status: hidden
 Author: Guillaume Savaton, Marcelo Vaz
 
 
@@ -76,10 +78,3 @@ Ações diretas na tela
         <td>r / R</td>
     </tr>
 </table>
-
-Pedindo ajuda e informando problemas
-------------------------------------
-
-* [Questões frequêntes e Solução de problemas](|filename|faq.md)
-* [Junte-se ao grupo de discussão dos usuários do Sozi](http://groups.google.com/group/sozi-users)
-* [Informe problemas e proponha novas funcionalidades](http://github.com/senshu/Sozi/issues)

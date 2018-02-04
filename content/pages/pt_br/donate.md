@@ -1,5 +1,5 @@
 Title: Doar
-Slug: 60-contribute
+Slug: 70-donate
 Lang: pt_br
 Author: Guillaume Savaton, Marcelo Vaz Pupo
 
