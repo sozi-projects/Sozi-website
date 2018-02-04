@@ -41,7 +41,7 @@ Sozi 15 est utilisable sous deux formes&nbsp;:
 
 * [Une application native que vous pouvez installer sur votre ordinateur](https://github.com/senshu/Sozi/releases/tag/15.11).
   Choisissez le fichier zip correspondant à votre plate-forme, décompressez-le et lancez l'exécutable `Sozi`.
-* [Une application web que vous pouvez exécuter dans votre navigateur](http://sozi.baierouge.fr/demo/)
+* [Une application web que vous pouvez exécuter dans votre navigateur](/demo)
   (nécessite un compte Google Drive pour enregistrer vos présentations).
 
 Contribuez

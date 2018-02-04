@@ -32,7 +32,7 @@ Sozi 17 pode ser usado no desktop como um aplicativo independente ou também com
 
 * [Baixar a versão para desktop](https://github.com/senshu/Sozi/releases/tag/17.02).
   Escolha o arquivo zip correspondente a sua plataforma, extraia-o e clique no arquivo executável `Sozi`.
-* [Experimente Sozi via internet](http://sozi.baierouge.fr/demo/) (é preciso uma conta no Google Drive para salvar os arquivos).
+* [Experimente Sozi via internet](/demo) (é preciso uma conta no Google Drive para salvar os arquivos).
 
 Contribua
 ----------

@@ -32,7 +32,7 @@ Sozi 17 can be run either as a standalone desktop application, or as a hosted we
 
 * [Download the desktop version](https://github.com/senshu/Sozi/releases/tag/17.02).
   Choose the zip file corresponding to your platform, extract it and run the `Sozi` executable.
-* [Try the hosted web application](http://sozi.baierouge.fr/demo/) (requires a Google Drive account for saving documents).
+* [Try the hosted web application](/demo) (requires a Google Drive account for saving documents).
 
 Contribute
 ----------

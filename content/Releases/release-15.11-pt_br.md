@@ -41,7 +41,7 @@ Sozi 15 pode rodar como uma aplicação de desktop autônoma ou como uma aplica�
 
 * [Baixe a versão para desktop](https://github.com/senshu/Sozi/releases/tag/15.11).
   Escolha o arquivo zip correspondente a sua plataforma, extraia ele e rode o arquivo `Sozi` executável.
-* [Conheça a versão para web](http://sozi.baierouge.fr/demo/) (É preciso uma conta do Google Drive para salvar documentos).
+* [Conheça a versão para web](/demo) (É preciso uma conta do Google Drive para salvar documentos).
 
 Contribua
 ----------

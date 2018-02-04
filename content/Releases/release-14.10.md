@@ -118,7 +118,7 @@ It can be run either as a standalone desktop application, or as a hosted web app
 
 * [Download the desktop version](https://drive.google.com/folderview?id=0ByRUreHgekjMemhONHd4TGY4V3M&usp=sharing) (choose the zip file corresponding
 to your platform and click the "Download" button at the top of the screen).
-* [Try the hosted web application](http://sozi.baierouge.fr/demo/) (requires a Google Drive account for saving documents).
+* [Try the hosted web application](/demo) (requires a Google Drive account for saving documents).
 
 Contribute
 ----------
