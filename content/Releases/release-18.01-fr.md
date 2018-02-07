@@ -17,9 +17,6 @@ Les archives disponibles en téléchargement on été renommées en utilisant le
 usuels des systèmes d'exploitation ("osx" au lieu de "darwin", "windows" au lieu de "win32").
 Des paquets Debian sont fournis pour les distributions Linux qui les prennent en charge.
 
-Use Sozi 18.01 now!
--------------------
-
 Utilisez Sozi 18.01 dès maintenant&nbsp;!
 -----------------------------------------
 
