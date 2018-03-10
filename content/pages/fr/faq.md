@@ -52,4 +52,4 @@ piloter les animations, réagir aux actions de l'utilisateur.
 Si vous observez que des éléments du document ne sont pas affichés correctement, le problème se trouve probablement dans votre logiciel de dessin ou dans votre navigateur web.
 
 Merci de ne pas signaler ce type de problèmes, à moins que vous n'ayez de très bonnes raisons de croire qu'il s'agit d'un bug dans Sozi.
-En cas de doute, vous pouvez demander de l'aide au [groupe de discussion des utilisateurs de Sozi](http://groups.google.com/group/sozi-users).
+En cas de doute, vous pouvez demander de l'aide au [forum de la communauté Sozi](/community).

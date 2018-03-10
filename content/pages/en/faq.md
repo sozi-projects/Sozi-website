@@ -51,7 +51,7 @@ the issue is likely to come from either your SVG editor or your web browser.
 
 Please do not send us bug reports on this topic unless you have strong
 reasons to believe that the bug is in Sozi.
-If unsure, you can ask for advice on [the Sozi users discussion group](http://groups.google.com/group/sozi-users).
+If unsure, you can ask for advice on the [Sozi community forum](/community).
 
 
 Inkscape reports a syntax error when running Sozi 13
