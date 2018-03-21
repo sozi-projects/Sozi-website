@@ -47,7 +47,7 @@ Dans cet exemple, le document contient trois calques :
 Chaque calque a un sous-calque nommé *Vues*. Ces sous-calques contiennent des rectangles
 qui aideront à aligner le graphique lors de la création de la présentation Sozi.
 
-> Vous pouvez afficher ou masquer un calque en cliquant sur l'icône "œil" correspondante dans la boîte de dialogue *Calques*.
+> Vous pouvez afficher ou masquer un calque en cliquant sur l'icône correspondante "œil" dans la boîte de dialogue *Calques*.
 > Essayez d'afficher puis masquer chaque calque et sous-calque pour identifier quels éléments appartiennent à quel calque.
 >
 > Assurez-vous que tous les calques sont visibles avant de passer à la section suivante.
