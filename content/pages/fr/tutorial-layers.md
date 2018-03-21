@@ -161,7 +161,7 @@ Cliquez sur les icônes "œil" à gauche dans les lignes qui correspondent à ce
 Procédez comme vous l'avez fait pour le calque *Légendes*.
 Pour chaque vue :
 
-1. Dans la ligne *Ciel* du scénario, sélectionnez la cellule correspondant à la vue que vous souhaitez modifier.
+1. Dans la ligne *Ciel* de la chronologie, sélectionnez la cellule correspondant à la vue que vous souhaitez modifier.
 2. Dans la zone d'aperçu, effectuez un zoom (molette de la souris), déplacez et faites pivoter (Maj + molette de la souris) le calque jusqu'à ce que le rectangle souhaité remplisse presque la zone.
 3. Cochez la case *Id de l'élément à utiliser comme contour*, puis appuyez sur les boutons *Ajuster à l'élément*, *Cacher l'élément* et *Rogner*.
 
@@ -182,15 +182,7 @@ Si ce n'est pas le cas, vous pouvez toujours appuyer sur le bouton *Enregistrer 
 Ouvrez le fichier `tutorial-layers.sozi.html` dans un navigateur Web.
 La caméra est automatiquement définie sur la première vue de la présentation.
 Cliquez dans la fenêtre du navigateur web pour passer à la vue suivante.
-(voir aussi: [Play] (| filename | play.md)).
+(voir aussi: [Jouer une présentation] (|filename|play.md)).
 
-[Télécharger la présentation complète] (https://github.com/senshu/Sozi/raw/master/samples/tutorial-layers.sozi.html)
-(Cliquez avec le bouton droit sur le lien et choisissez * Enregistrer la cible du lien sous *).
-
-
-
-Click inside the browser window to move to the next frame.
-(see also: [Jouer une présentation](|filename|play.md)).
-
-[Téléchargez la présentation complète](https://github.com/senshu/Sozi/raw/master/samples/tutorial-layers.sozi.html)
+[Téléchargez la présentation complète] (https://github.com/senshu/Sozi/raw/master/samples/tutorial-layers.sozi.html)
 (Cliquez avec le bouton droit sur le lien et choisissez *Enregistrer la cible du lien sous*).
