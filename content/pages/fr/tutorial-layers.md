@@ -100,7 +100,7 @@ rectangle comme contour pour la vue actuelle.
 ![Sélection de l'élément de contour](|filename|/images/tutorial-layers/sozi-layers-tutorial-screenshot-07.fr.png)
 
 Si la présentation est lue dans un navigateur web qui a des dimensions avec un
-ratio différent, nous voulons cacher les éléments graphiques qui sont en dehors de la zone actuellement visible.
+ratio différent, alors nous voulons cacher les éléments graphiques qui sont en dehors de la zone actuellement visible.
 En haut à droite du volet des propriétés, appuyez sur le bouton *Rogner*.
 
 Nous avons mis en place un calque qui ne bougera pas pendant la présentation.
