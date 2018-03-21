@@ -27,75 +27,75 @@ des éléments graphiques.
 
 Ouvrez `tutorial-layers.svg` dans Inkscape.
 
-![Base document in Inkscape](|filename|/images/tutorial-layers/sozi-layers-tutorial-screenshot-01.png)
+![Document de base dans Inkscape](|filename|/images/tutorial-layers/sozi-layers-tutorial-screenshot-01.fr.png)
 
-Layer organization
-------------------
+Organisation des calques
+------------------------
 
-Inkscape allows to organize a document in layers.
-You can open the layers panel by clicking on the *View layers* button in the toolbar,
-or by choosing *Layers&hellip;* item from the *Layer* menu.
+Inkscape permet d'organiser un document en calques.
+Vous pouvez ouvrir le panneau des calques en cliquant sur le bouton *Afficher les calques* dans la barre d'outils,
+ou en choisissant l'item *Calques&hellip;* dans le menu *Calques*.
 
-![Show layers](|filename|/images/tutorial-layers/sozi-layers-tutorial-screenshot-02.png)
+![Montrer les calques](|filename|/images/tutorial-layers/sozi-layers-tutorial-screenshot-02.fr.png)
 
-In this example, the document contains three layers:
+Dans cet exemple, le document contient trois calques :
 
-* *Captions*: the foreground layer with text elements.
-* *Landscape*: the intermediate layer contains a drawing of a tree.
-* *Sky*: the background layer contains a big blue circle with sun, moon and stars.
+* *Sous-titres*: le calque de premier plan avec des éléments de texte.
+* *Paysage*: le calque intermédiaire contient un dessin d'un arbre.
+* *Ciel*: le calque de fond contient un grand cercle bleu avec le soleil, la lune et les étoiles.
 
-Each layer has a sublayer named *Frames*. These sublayers contain rectangles
-that will help align the graphics when creating the Sozi presentation.
+Chaque calque a un sous-calque nommé *Vues*. Ces sous-calques contiennent des rectangles
+qui aideront à aligner le graphique lors de la création de la présentation Sozi.
 
-> You can show or hide a layer by clicking on the corresponding "eye" icon in the *Layers* dialog.
-> Try showing and hiding each layer and sublayer to identify which elements belong to which layer.
+> Vous pouvez afficher ou masquer un calque en cliquant sur l'icône "œil" correspondante dans la boîte de dialogue *Calques*.
+> Essayez d'afficher puis masquer chaque calque et sous-calque pour identifier quels éléments appartiennent à quel calque.
 >
-> Make sure that all layers are visible before proceeding to the next section.
+> Assurez-vous que tous les calques sont visibles avant de passer à la section suivante.
 
-Create the frames of the Sozi presentation
-------------------------------------------
+Créez les vues de la présentation Sozi
+--------------------------------------
 
-Open `tutorial-layers.svg` in the Sozi presentation editor.
+Ouvrez `tutorial-layers.svg` dans l'éditeur de présentation Sozi.
 
-![Base document in Sozi](|filename|/images/tutorial-layers/sozi-layers-tutorial-screenshot-03.png)
+![Document de base dans Sozi](|filename|/images/tutorial-layers/sozi-layers-tutorial-screenshot-03.fr.png)
 
-Create four frames using the *+* button in the timeline pane.
-For each frame, fill the *Title* field with the following titles:
+Créez quatre vues à l'aide du bouton *+* dans le panneau du bas représentant une chronologie.
+Pour chaque vue, remplissez le champ *Titre* avec les titres suivants :
 
-1. "Morning",
-2. "Noon",
-3. "Evening",
-4. "Night".
+1. "Matin",
+2. "Midi",
+3. "Soir",
+4. "Nuit".
 
-The timeline should look like this:
+La chronologie devrait ressembler à ceci :
 
-![Timeline with 4 frames](|filename|/images/tutorial-layers/sozi-layers-tutorial-screenshot-04.png)
+![Chronologie avec 4 vues](|filename|/images/tutorial-layers/sozi-layers-tutorial-screenshot-04.fr.png)
 
-Add a fixed layer (Landscape)
------------------------------
+Ajoutez un calque fixe (Paysage)
+--------------------------------
 
-Press the *Add layer* button and choose *Landscape*.
-In the timeline, select the cell that corresponds to the first frame and the
-*Landscape* layer as shown below.
+Appuyez sur le bouton *Ajouter un calque* et choisissez *Paysage*.
+Dans la chronologie, sélectionnez la cellule correspondant à la première vue et à la
+vue *Paysage* comme indiqué ci-dessous.
 
-![Select layer Landscape for frame 1](|filename|/images/tutorial-layers/sozi-layers-tutorial-screenshot-05.png)
+![Sélectionnez le calque Paysage pour la vue 1](|filename|/images/tutorial-layers/sozi-layers-tutorial-screenshot-05.fr.png)
 
-In the preview area, zoom in (mouse wheel) and move the *Landscape* layer
-until the rectangle containing the tree almost fills the area.
-Make sure that only the elements from the *Landcape* layer are affected.
+Dans la zone d'aperçu, effectuez un zoom avant (molette de la souris) et déplacez le calque *Paysage*
+jusqu'à ce que le rectangle contenant l'arbre remplisse presque la zone.
+Assurez-vous que seuls les éléments de la couche *Landcape* soient affectés.
 
-![Zoom in the Landcape layer](|filename|/images/tutorial-layers/sozi-layers-tutorial-screenshot-06.png)
+![Zoom dans le calque Paysage](|filename|/images/tutorial-layers/sozi-layers-tutorial-screenshot-06.fr.png)
 
-In the properties pane on the right, the field *Outline element Id* should read
-"rect-landscape".
-This is the SVG identifier of the big red rectangle that encloses the drawing of
-the tree.
-Since the *Autoselect element* button is active, Sozi automatically proposes this
-rectangle as a candidate to be used as an outline for the current frame.
+Dans le volet des propriétés à droite, le champ *Id de l'élément à utiliser comme contour* doit contenir
+"rect-paysage".
+C'est l'identifiant SVG du grand rectangle rouge qui entoure le dessin de
+l'arbre.
+Puisque le bouton *Sélectionner l'élément automatiquement* est activé, Sozi propose automatiquement d'utiliser ce
+rectangle comme contour pour la vue actuelle.
 
-* Press the *Fit to element* button on the right: now the *Landscape* layer has been
-  adjusted so that the rectangle fills the preview area.
-* Press the *Hide element* button to hide the rectangle.
+* Appuyez sur le bouton *Ajuster à l'élément* sur la droite : maintenant le calque *Paysage* a été
+  ajusté de sorte que le rectangle remplisse la zone d'aperçu.
+* Appuyez sur le bouton *Cacher l'élément* pour masquer le rectangle.
 
 ![Outline element selection](|filename|/images/tutorial-layers/sozi-layers-tutorial-screenshot-07.png)
 
