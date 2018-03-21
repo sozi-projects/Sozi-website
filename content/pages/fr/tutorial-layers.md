@@ -40,7 +40,7 @@ ou en choisissant l'item *Calques&hellip;* dans le menu *Calques*.
 
 Dans cet exemple, le document contient trois calques :
 
-* *Sous-titres*: le calque de premier plan avec des éléments de texte.
+* *Légendes*: le calque de premier plan avec des éléments de texte.
 * *Paysage*: le calque intermédiaire contient un dessin d'un arbre.
 * *Ciel*: le calque de fond contient un grand cercle bleu avec le soleil, la lune et les étoiles.
 
@@ -97,92 +97,100 @@ rectangle comme contour pour la vue actuelle.
   ajusté de sorte que le rectangle remplisse la zone d'aperçu.
 * Appuyez sur le bouton *Cacher l'élément* pour masquer le rectangle.
 
-![Outline element selection](|filename|/images/tutorial-layers/sozi-layers-tutorial-screenshot-07.png)
+![Sélection de l'élément de contour](|filename|/images/tutorial-layers/sozi-layers-tutorial-screenshot-07.fr.png)
 
-If the presentation is played in a web browser window that has a different aspect
-ratio, we want to hide the graphics outside the currently visible area.
-At the top right of the properties pane, press the *Clip* button.
+Si la présentation est lue dans un navigateur web qui a des dimensions avec un
+ratio différent, nous voulons cacher les éléments graphiques qui sont en dehors de la zone actuellement visible.
+En haut à droite du volet des propriétés, appuyez sur le bouton *Rogner*.
 
-We have set up a layer that will not move during the presentation.
-Now let us create an animated layer.
+Nous avons mis en place un calque qui ne bougera pas pendant la présentation.
+Maintenant, créons un calque animé.
 
-![Fitted Landscape layer](|filename|/images/tutorial-layers/sozi-layers-tutorial-screenshot-08.png)
+![Calque de paysage ajusté](|filename|/images/tutorial-layers/sozi-layers-tutorial-screenshot-08.fr.png)
 
-Add an animated layer (Captions)
---------------------------------
+Ajoutez un calque animé (légendes)
+----------------------------------
 
-Press the *Add layer* button and choose *Captions*.
-In the timeline, select the cell that corresponds to the first frame and the
-*Captions* layer as shown below.
+Appuyez sur le bouton *Ajouter un calque* et choisissez *Légendes*.
+Dans la chronologie, sélectionnez la cellule correspondant à la première vue et au calque
+*Légendes* comme indiqué ci-dessous.
 
-![Select layer Captions for frame 1](|filename|/images/tutorial-layers/sozi-layers-tutorial-screenshot-09.png)
+![Sélection du calque Légendes pour la vue 1](|filename|/images/tutorial-layers/sozi-layers-tutorial-screenshot-09.fr.png)
 
-In the preview area, zoom in (mouse wheel) and move the *Captions* layer
-until the rectangle containing the text "Morning" almost fills the area.
-Make sure that only the elements from the *Captions* layer are affected.
+Dans la zone d'aperçu, effectuez un zoom avant (molette de la souris) et déplacez le calque *Légendes*
+jusqu'à ce que le rectangle contenant le texte "Matin" remplisse presque la zone.
+Assurez-vous que seuls les éléments du calque *Légendes* soient affectés.
 
-![Zoom in the Captions layer](|filename|/images/tutorial-layers/sozi-layers-tutorial-screenshot-10.png)
+![Zoomez dans le calque Légendes](|filename|/images/tutorial-layers/sozi-layers-tutorial-screenshot-10.fr.png)
 
-The field *Outline element Id* should read "rect-text-morning".
-Press the *Fit to element*, *Hide element* and *Clip* buttons.
+Le champ *Id de l'élément à utiliser comme contour* doit contenir "rect-text-matin".
+Appuyez sur les boutons *Ajuster à l'élément*, *Cacher l'élément* et *Rogner*.
 
-Apply the same process to the frames "Noon", "Evening" and "Night".
-The preview area for each frame should look like this:
+Appliquez le même procédé aux vues "Midi", "Soir" et "Nuit".
+La zone d'aperçu pour chaque vue doit ressembler à ceci:
 
-![Adjusted frame 1 in Captions layer](|filename|/images/tutorial-layers/sozi-layers-tutorial-screenshot-11.png)
-![Adjusted frame 2 in Captions layer](|filename|/images/tutorial-layers/sozi-layers-tutorial-screenshot-12.png)
-![Adjusted frame 3 in Captions layer](|filename|/images/tutorial-layers/sozi-layers-tutorial-screenshot-13.png)
-![Adjusted frame 4 in Captions layer](|filename|/images/tutorial-layers/sozi-layers-tutorial-screenshot-14.png)
+![Vue ajustée 1 dans le calque Légendes](|filename|/images/tutorial-layers/sozi-layers-tutorial-screenshot-11.fr.png)
+![Vue ajustée 2 dans le calque Légendes](|filename|/images/tutorial-layers/sozi-layers-tutorial-screenshot-12.fr.png)
+![Vue ajustée 3 dans le calque Légendes](|filename|/images/tutorial-layers/sozi-layers-tutorial-screenshot-13.fr.png)
+![Vue ajustée 4 dans le calque Légendes](|filename|/images/tutorial-layers/sozi-layers-tutorial-screenshot-14.fr.png)
 
-Add an animated layer (Sky)
---------------------------------
-
-At this stage, all the graphics that do not belong to the *Landscape* or *Captions* layers
-are represented by the *Default* row of the timeline.
-Generally, *Default* is not really a layer: it groups all layers that have not been added to the timeline
-and all the elements that do not belong to a layer (you should take care to avoid this, but it can happen).
-If you add a new layer to the SVG document in Inkscape, it will fall automatically into
-the *Default* category in Sozi.
-
-Press the *Add layer* button and choose *Sky*.
-The *Default* row should disappear.
-
-For convenience, we will hide layers *Landscape* and *Captions*.
-Click on the "eye" icons on the left in the rows corresponding to these layers.
-
-![Select layer Captions for frame 1](|filename|/images/tutorial-layers/sozi-layers-tutorial-screenshot-15.png)
-
-> The "eye" icon allows to hide a layer in the editor while you want to work on other layers.
-> The hidden layers are still visible when playing the presentation.
->
-> If you want to hide a layer when playing the presentation, set its *Layer opacity*
-> to zero.
-
-Proceed like you did for the *Captions* layer.
-For each frame:
-
-1. In the *Sky* row of the timeline, select the cell that corresponds to the frame you want to edit.
-2. In the preview area, zoom (mouse wheel), move, and rotate (Shift + mouse wheel) the layer until the desired rectangle almost fills the area.
-3. Check the field *Outline element Id*, then press the *Fit to element*, *Hide element* and *Clip* buttons.
-
-Show the *Landscape* and *Captions* layers again.
-The preview area should look like this:
-
-![Adjusted frame 1 in Sky layer](|filename|/images/tutorial-layers/sozi-layers-tutorial-screenshot-16.png)
-![Adjusted frame 2 in Sky layer](|filename|/images/tutorial-layers/sozi-layers-tutorial-screenshot-17.png)
-![Adjusted frame 3 in Sky layer](|filename|/images/tutorial-layers/sozi-layers-tutorial-screenshot-18.png)
-![Adjusted frame 4 in Sky layer](|filename|/images/tutorial-layers/sozi-layers-tutorial-screenshot-19.png)
-
-Save and play the presentation
+Ajoutez un calque animé (Ciel)
 ------------------------------
 
-The editor should save your presentation automatically.
-If it does not, you can still press the *Save* button in the tool bar.
+À ce stade, tous les éléments graphiques qui n'appartiennent pas aux calques *Paysage* ou *Légendes*
+sont représentés par la ligne *Par défaut* de la chronologie.
+Généralement, *Par défaut* n'est pas vraiment un calque : il regroupe tous les calques qui n'ont pas été ajoutés à la chronologie
+et tous les éléments qui n'appartiennent pas à un calque (vous devriez éviter cela autant que possible, mais cela peut arriver).
+Si vous ajoutez un nouveau calque au document SVG dans Inkscape, il tombera automatiquement dans
+la catégorie *Par défaut* dans Sozi.
 
-Open the file `tutorial-layers.sozi.html` in a web browser.
-The camera is automatically set to the first frame of the presentation.
+Appuyez sur le bouton *Ajouter un calque* et choisissez *Ciel*.
+La ligne *Par défaut* devrait disparaître.
+
+Pour plus de facilité, nous allons cacher les calques *Paysage* et *Légendes*.
+Cliquez sur les icônes "œil" à gauche dans les lignes qui correspondent à ces calques.
+
+![Sélection du calque Ciel pour la vue 1](|filename|/images/tutorial-layers/sozi-layers-tutorial-screenshot-15.fr.png)
+
+> L'icône "œil" permet de masquer un calque dans l'éditeur pendant que vous voulez travailler sur d'autres calques.
+> Les calques cachés sont toujours visibles lors de la lecture de la présentation.
+>
+> Si vous souhaitez masquer un calque lors de la lecture de la présentation, définissez son *Opacité du calque*
+> à zéro.
+
+Procédez comme vous l'avez fait pour le calque *Légendes*.
+Pour chaque vue :
+
+1. Dans la ligne *Ciel* du scénario, sélectionnez la cellule correspondant à la vue que vous souhaitez modifier.
+2. Dans la zone d'aperçu, effectuez un zoom (molette de la souris), déplacez et faites pivoter (Maj + molette de la souris) le calque jusqu'à ce que le rectangle souhaité remplisse presque la zone.
+3. Cochez la case *Id de l'élément à utiliser comme contour*, puis appuyez sur les boutons *Ajuster à l'élément*, *Cacher l'élément* et *Rogner*.
+
+Affichez les calques *Paysage* et *Légendes* à nouveau.
+La zone d'aperçu devrait ressembler à ceci:
+
+![Vue ajustée 1 dans le calque Ciel](|filename|/images/tutorial-layers/sozi-layers-tutorial-screenshot-16.fr.png)
+![Vue ajustée 2 dans le calque Ciel](|filename|/images/tutorial-layers/sozi-layers-tutorial-screenshot-17.fr.png)
+![Vue ajustée 3 dans le calque Ciel](|filename|/images/tutorial-layers/sozi-layers-tutorial-screenshot-18.fr.png)
+![Vue ajustée 4 dans le calque Ciel](|filename|/images/tutorial-layers/sozi-layers-tutorial-screenshot-19.fr.png)
+
+Enregistrez et lisez la présentation
+------------------------------------
+
+L'éditeur devrait enregistrer votre présentation automatiquement.
+Si ce n'est pas le cas, vous pouvez toujours appuyer sur le bouton *Enregistrer la présentation* dans la barre d'outils.
+
+Ouvrez le fichier `tutorial-layers.sozi.html` dans un navigateur Web.
+La caméra est automatiquement définie sur la première vue de la présentation.
+Cliquez dans la fenêtre du navigateur web pour passer à la vue suivante.
+(voir aussi: [Play] (| filename | play.md)).
+
+[Télécharger la présentation complète] (https://github.com/senshu/Sozi/raw/master/samples/tutorial-layers.sozi.html)
+(Cliquez avec le bouton droit sur le lien et choisissez * Enregistrer la cible du lien sous *).
+
+
+
 Click inside the browser window to move to the next frame.
-(see also: [Play](|filename|play.md)).
+(see also: [Jouer une présentation](|filename|play.md)).
 
-[Download the full presentation](https://github.com/senshu/Sozi/raw/master/samples/tutorial-layers.sozi.html)
-(Right-click on the link and choose *Save link target as*).
+[Téléchargez la présentation complète](https://github.com/senshu/Sozi/raw/master/samples/tutorial-layers.sozi.html)
+(Cliquez avec le bouton droit sur le lien et choisissez *Enregistrer la cible du lien sous*).
