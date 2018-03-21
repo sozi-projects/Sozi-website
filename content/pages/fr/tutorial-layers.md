@@ -108,7 +108,7 @@ Maintenant, créons un calque animé.
 
 ![Calque de paysage ajusté](|filename|/images/tutorial-layers/sozi-layers-tutorial-screenshot-08.fr.png)
 
-Ajoutez un calque animé (légendes)
+Ajoutez un calque animé (Légendes)
 ----------------------------------
 
 Appuyez sur le bouton *Ajouter un calque* et choisissez *Légendes*.
