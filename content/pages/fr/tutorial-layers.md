@@ -82,7 +82,7 @@ vue *Paysage* comme indiqué ci-dessous.
 
 Dans la zone d'aperçu, effectuez un zoom avant (molette de la souris) et déplacez le calque *Paysage*
 jusqu'à ce que le rectangle contenant l'arbre remplisse presque la zone.
-Assurez-vous que seuls les éléments de la couche *Landcape* soient affectés.
+Assurez-vous que seuls les éléments du calque *Paysage* soient affectés.
 
 ![Zoom dans le calque Paysage](|filename|/images/tutorial-layers/sozi-layers-tutorial-screenshot-06.fr.png)
 
