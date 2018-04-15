@@ -8,19 +8,22 @@ The localized text for the Sozi editor are defined in *PO* files compatible with
 [GNU gettext](https://www.gnu.org/software/gettext/).
 There are two ways to participate in the translation of Sozi:
 
-Using the web front-end at Launchpad.net
+Using the web front-end at Weblate
 ----------------------------------------
 
-Create an account at [launchpad.net](https://launchpad.net/)
-and visit the [translation page for Sozi](https://translations.launchpad.net/sozi).
+Create an account at [Weblate](https://hosted.weblate.org)
+and visit the [translation page for Sozi](https://hosted.weblate.org/projects/sozi/translations/).
 You can start translating immediately.
 When your work is finished, please [open a new issue](https://github.com/senshu/Sozi/issues)
 to request the translation to be added to the next release.
 
-> Even when 100% of the strings are marked as translated in Launchpad, we cannot
+> Even when 100% of the strings are marked as translated, we cannot
 > infer that your translation is ready to be published.
 > We will publish a translation only if you request it.
 
+<a href="https://hosted.weblate.org/engage/sozi/?utm_source=widget">
+<img src="https://hosted.weblate.org/widgets/sozi/-/translations/multi-auto.svg" alt="État de la traduction" />
+</a>
 
 Editing the PO files directly
 -----------------------------

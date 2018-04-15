@@ -8,19 +8,22 @@ Les traductions du texte affiché dans l'éditeur de présentation sont définie
 fichiers *PO* compatibles avec [GNU gettext](https://www.gnu.org/software/gettext/).
 Vous pouvez participer à la traduction de Sozi de deux manières&nbsp;:
 
-En utilisant l'interface en ligne chez Launchpad.net
-----------------------------------------------------
+En utilisant l'interface en ligne chez Weblate
+----------------------------------------------
 
-Inscrivez-vous chez [launchpad.net](https://launchpad.net/)
-et visitez [la page de traduction de Sozi](https://translations.launchpad.net/sozi).
+Inscrivez-vous chez [Weblate](https://hosted.weblate.org)
+et visitez [la page de traduction de Sozi](https://hosted.weblate.org/projects/sozi/translations/).
 Vous pouvez commencer à traduire immédiatement.
 Quand votre travail est terminé, merci d'[ouvrir un ticket](https://github.com/senshu/Sozi/issues)
 pour demander à ce que la nouvelle traduction soit ajoutée à la version suivante de Sozi.
 
-> Même lorsque 100% des chaînes sont marquées comme traduites dans Launchpad, nous
+> Même lorsque 100% des chaînes sont marquées comme traduites, nous
 > ne pouvons pas savoir si cette version est prête à être publiée.
 > Nous ne publierons votre traduction que si vous en faites la demande.
 
+<a href="https://hosted.weblate.org/engage/sozi/?utm_source=widget">
+<img src="https://hosted.weblate.org/widgets/sozi/-/translations/multi-auto.svg" alt="État de la traduction" />
+</a>
 
 En éditant les fichiers PO directement
 --------------------------------------
