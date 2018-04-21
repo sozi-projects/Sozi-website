@@ -10,7 +10,7 @@ A typical use of layers is to add a fixed background to your frames,
 but there are many other possibilities.
 With some work and ingeniosity, you can make sophisticated animations.
 But remember: since the primary goal of Sozi is to make presentations,
-it will not provide the facilities that you would expect from a general-purpose
+it will not provide all the facilities that you would expect from a general-purpose
 animation editor.
 
 Download and open the base document
@@ -99,8 +99,8 @@ rectangle as a candidate to be used as an outline for the current frame.
 
 ![Outline element selection](|filename|/images/tutorial-layers/sozi-layers-tutorial-screenshot-07.png)
 
-If the presentation is played in a web browser window that has a different aspect
-ratio, we want to hide the graphics outside the currently visible area.
+We want to hide the elements outside this rectangle when playing the presentation,
+particularly if the web browser window has a different aspect ratio.
 At the top right of the properties pane, press the *Clip* button.
 
 We have set up a layer that will not move during the presentation.
@@ -152,10 +152,10 @@ Click on the "eye" icons on the left in the rows corresponding to these layers.
 
 ![Select layer Captions for frame 1](|filename|/images/tutorial-layers/sozi-layers-tutorial-screenshot-15.png)
 
-> The "eye" icon allows to hide a layer in the editor while you want to work on other layers.
+> The "eye" icon allows to hide a layer in the editor while you work on other layers.
 > The hidden layers are still visible when playing the presentation.
 >
-> If you want to hide a layer when playing the presentation, set its *Layer opacity*
+> If you want to hide a layer when playing the presentation, set the field *Layer opacity*
 > to zero.
 
 Proceed like you did for the *Captions* layer.
