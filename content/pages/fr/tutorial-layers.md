@@ -18,7 +18,7 @@ Téléchargez et ouvrez le document de base
 -----------------------------------------
 
 Ce tutoriel se base sur un document SVG qui contient les éléments visuels de notre présentation.
-[Téléchargez le document SVG de base](https://github.com/senshu/Sozi/raw/master/samples/tutorial-layers.svg)
+[Téléchargez le document SVG de base](|filename|/presentations/tutorial-layers/tutorial-layers.svg)
 (Cliquez avec le bouton droit sur le lien et choisissez *Enregistrer la cible du lien sous*).
 
 Ce document SVG a été créé avec [Inkscape](https://inkscape.org).
@@ -186,5 +186,5 @@ La caméra est automatiquement positionnée sur la première vue de la présenta
 Cliquez dans la fenêtre du navigateur web pour passer à la vue suivante.
 (voir aussi: [Jouer une présentation](|filename|play.md)).
 
-[Téléchargez la présentation complète](https://github.com/senshu/Sozi/raw/master/samples/tutorial-layers.sozi.html)
+[Téléchargez la présentation complète](|filename|/presentations/tutorial-layers/tutorial-layers.sozi.html)
 (Cliquez avec le bouton droit sur le lien et choisissez *Enregistrer la cible du lien sous*).

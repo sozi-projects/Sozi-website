@@ -13,7 +13,7 @@ Téléchargez et ouvrez le document de base
 -----------------------------------------
 
 Ce tutoriel se base sur un simple document SVG qui contient les éléments visuels nécessaires à notre présentation.
-[Téléchargez le document SVG de base](https://github.com/senshu/Sozi/raw/master/samples/first-presentation.svg)
+[Téléchargez le document SVG de base](|filename|/presentations/tutorial-first/first-presentation.svg)
 (Cliquez avec le bouton droit sur le lien et choisissez *Enregistrer la cible du lien sous*).
 Ouvrez-le avec l'éditeur de présentation Sozi.
 
@@ -77,5 +77,5 @@ La caméra se place automatiquement sur la première vue.
 Cliquez à l'intérieur de la présentation pour passer à la vue suivante.
 (voir aussi&nbsp;: [Jouer une présentation](|filename|play.md)).
 
-[Téléchargez la présentation complète](https://github.com/senshu/Sozi/raw/master/samples/first-presentation.sozi.html)
+[Téléchargez la présentation complète](|filename|/presentations/tutorial-first/first-presentation.sozi.html)
 (Cliquez avec le bouton droit sur le lien et choisissez *Enregistrer la cible du lien sous*).

@@ -13,7 +13,7 @@ Baixar e abrir o documento de exemplo
 -------------------------------------
 
 Esse tutorial utiliza um documento SVG (desenho vetorial) que contém alguns elementos para nossa apresentação.
-[Baixe o arquivo SVG](https://github.com/senshu/Sozi/raw/master/samples/first-presentation.svg)
+[Baixe o arquivo SVG](|filename|/presentations/tutorial-first/first-presentation.svg)
 (Clique com o botão da direita no link e escolha *Salvar link como...*).
 Abra o arquivo com o editor de apresentação Sozi.
 
@@ -76,5 +76,5 @@ A câmera estára posicionada automaticamente no primeiro quadro da apresentaç�
 Clique na janela do navegador para movimentar para o próximo quadro.
 (veja também: [Apresentar](|filename|play.md)).
 
-[Baixe a apresentação completa](https://github.com/senshu/Sozi/raw/master/samples/first-presentation.sozi.html)
+[Baixe a apresentação completa](|filename|/presentations/tutorial-first/first-presentation.sozi.html)
 (Clique com o botão da direita no link e escolha *Salvar link como...*).

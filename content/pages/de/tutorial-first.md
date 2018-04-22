@@ -14,7 +14,7 @@ Lade Deine erste Beispiel-Datei herunter
 ----------------------------------------
 
 Diese Einführung nutzt eine einfache svg-Datei, die die Zeichnung zu unserer Präsentation enthält.
-[Download first-presentation.svg](https://github.com/senshu/Sozi/raw/master/samples/first-presentation.svg)
+[Download first-presentation.svg](|filename|/presentations/tutorial-first/first-presentation.svg)
 (Rechts-Klick und *Ziel speichern unter…*).
 Öffne die Datei mit dem Sozi-Editor.
 
@@ -73,5 +73,5 @@ Die Kamera wird automatisch auf das erste Bild gerichtet sein.
 Klicke mit der Maus in das Fenster, um zum nächsten Bild weiterzugehen.
 (siehe auch: [Zeigen](|filename|play.md)).
 
-[Download der kompletten Präsentation](https://github.com/senshu/Sozi/raw/master/samples/first-presentation.sozi.html)
+[Download der kompletten Präsentation](|filename|/presentations/tutorial-first/first-presentation.sozi.html)
 (Rechts-Klick mit der Maus und *Ziel speichern unter…*).

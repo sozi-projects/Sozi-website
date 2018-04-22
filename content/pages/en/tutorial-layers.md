@@ -17,7 +17,7 @@ Download and open the base document
 -----------------------------------
 
 This tutorial is based on an SVG document that contains the drawing elements of our presentation.
-[Download the base SVG document](https://github.com/senshu/Sozi/raw/master/samples/tutorial-layers.svg)
+[Download the base SVG document](|filename|/presentations/tutorial-layers/tutorial-layers.svg)
 (Right-click on the link and choose *Save link target as*).
 
 This SVG document has been created with [Inkscape](https://inkscape.org).
@@ -184,5 +184,5 @@ The camera is automatically set to the first frame of the presentation.
 Click inside the browser window to move to the next frame.
 (see also: [Play](|filename|play.md)).
 
-[Download the full presentation](https://github.com/senshu/Sozi/raw/master/samples/tutorial-layers.sozi.html)
+[Download the full presentation](|filename|/presentations/tutorial-layers/tutorial-layers.sozi.html)
 (Right-click on the link and choose *Save link target as*).
