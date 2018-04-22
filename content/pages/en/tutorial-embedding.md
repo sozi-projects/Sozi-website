@@ -42,3 +42,81 @@ element in the page).
             document.querySelector("iframe").focus();
         }, false);
     </script>
+
+Controlling the presentation from the main HTML page
+----------------------------------------------------
+
+In the following example, we add two buttons to the main HTML page to
+move to the previous or next frame.
+Between the buttons, a `<span>` element will show the title of the current frame.
+
+    :::html
+    Press these buttons to move to the previous/next frame:
+    <input id="btn-prev" type="button" value="&larr;" title="Move to the previous frame">
+    <span  id="frame-title">Loading&hellip;</span>
+    <input id="btn-next" type="button" value="&rarr;" title="Move to the next frame">
+
+    <iframe src="my-presentation.sozi.html">
+        My Sozi presentation should play here.
+    </iframe>
+
+    <script>
+        window.addEventListener("load", function () {
+            var frame     = document.querySelector("iframe");
+            var btnPrev   = document.getElementById("btn-prev");
+            var btnNext   = document.getElementById("btn-next");
+            var spanTitle = document.getElementById("frame-title");
+
+            var player = frame.contentWindow.sozi.player;
+
+            spanTitle.innerHTML = player.currentFrame.title;
+
+            btnPrev.addEventListener("click", function () {
+                player.moveToPrevious();
+            }, false);
+
+            btnNext.addEventListener("click", function () {
+                player.moveToNext();
+            }, false);
+
+            player.addListener("frameChange", function () {
+                spanTitle.innerHTML = player.currentFrame.title;
+            });
+        }, false);
+    </script>
+
+Here is an overview of the result:
+
+Press these buttons to move to the previous/next frame:
+<input id="sozi-first-presentation-prev" title="Move to the previous frame" type="button" value="&larr;">
+<span  id="sozi-first-presentation-title">Loading&hellip;</span>
+<input id="sozi-first-presentation-next" title="Move to the next frame" type="button" value="&rarr;">
+
+<iframe class="sozi" id="sozi-first-presentation" src="|filename|/presentations/tutorial-first/first-presentation.sozi.html">
+    Your browser cannot display this content.
+</iframe>
+
+<script>
+    window.addEventListener("load", function () {
+        var frame      = document.getElementById("sozi-first-presentation");
+        var btnPrev    = document.getElementById("sozi-first-presentation-prev");
+        var btnNext    = document.getElementById("sozi-first-presentation-next");
+        var spanTitle = document.getElementById("sozi-first-presentation-title");
+
+        var player = frame.contentWindow.sozi.player;
+
+        spanTitle.innerHTML = player.currentFrame.title;
+
+        btnPrev.addEventListener("click", function () {
+            player.moveToPrevious();
+        }, false);
+
+        btnNext.addEventListener("click", function () {
+            player.moveToNext();
+        }, false);
+
+        player.addListener("frameChange", function () {
+            spanTitle.innerHTML = player.currentFrame.title;
+        });
+    }, false);
+</script>

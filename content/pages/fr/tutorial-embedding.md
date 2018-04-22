@@ -44,3 +44,81 @@ au chargement&nbsp;:
             document.querySelector("iframe").focus();
         }, false);
     </script>
+
+Agir sur la présentation depuis la page HTML principale
+-------------------------------------------------------
+
+Dans l'exemple ci-dessous, nous ajoutons deux boutons à la page HTML principale
+pour aller à la vue précédente ou suivante.
+Entre les boutons, un élément `<span>` affichera le titre de la vue courante.
+
+    :::html
+    Pressez ces boutons pour aller à la vue précédente/suivante&nbsp;:
+    <input id="btn-prec" type="button" value="&larr;" title="Aller à la vue précédente">
+    <span  id="titre-vue">Chargement&hellip;</span>
+    <input id="btn-suiv" type="button" value="&rarr;" title="Aller à la vue suivante">
+
+    <iframe src="ma-presentation.sozi.html">
+        Ma présentation Sozi devrait apparaître ici.
+    </iframe>
+
+    <script>
+        window.addEventListener("load", function () {
+            var frame     = document.querySelector("iframe");
+            var btnPrec   = document.getElementById("btn-prec");
+            var btnSuiv   = document.getElementById("btn-suiv");
+            var spanTitre = document.getElementById("titre-vue");
+
+            var player = frame.contentWindow.sozi.player;
+
+            spanTitre.innerHTML = player.currentFrame.title;
+
+            btnPrec.addEventListener("click", function () {
+                player.moveToPrevious();
+            }, false);
+
+            btnSuiv.addEventListener("click", function () {
+                player.moveToNext();
+            }, false);
+
+            player.addListener("frameChange", function () {
+                spanTitre.innerHTML = player.currentFrame.title;
+            });
+        }, false);
+    </script>
+
+Voici un aperçu du résultat&nbsp;:
+
+Pressez ces boutons pour aller à la vue précédente/suivante&nbsp;:
+<input id="sozi-first-presentation-prev" title="Move to the previous frame" type="button" value="&larr;">
+<span  id="sozi-first-presentation-title">Loading&hellip;</span>
+<input id="sozi-first-presentation-next" title="Move to the next frame" type="button" value="&rarr;">
+
+<iframe class="sozi" id="sozi-first-presentation" src="|filename|/presentations/tutorial-first/first-presentation.sozi.html">
+    Your browser cannot display this content.
+</iframe>
+
+<script>
+    window.addEventListener("load", function () {
+        var frame     = document.getElementById("sozi-first-presentation");
+        var btnPrec   = document.getElementById("sozi-first-presentation-prev");
+        var btnSuiv   = document.getElementById("sozi-first-presentation-next");
+        var spanTitre = document.getElementById("sozi-first-presentation-title");
+
+        var player = frame.contentWindow.sozi.player;
+
+        spanTitre.innerHTML = player.currentFrame.title;
+
+        btnPrec.addEventListener("click", function () {
+            player.moveToPrevious();
+        }, false);
+
+        btnSuiv.addEventListener("click", function () {
+            player.moveToNext();
+        }, false);
+
+        player.addListener("frameChange", function () {
+            spanTitre.innerHTML = player.currentFrame.title;
+        });
+    }, false);
+</script>

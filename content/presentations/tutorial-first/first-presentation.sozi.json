@@ -83,6 +83,79 @@
       }
     },
     {
+      "frameId": "frame5256",
+      "title": "Orange",
+      "timeoutMs": 0,
+      "timeoutEnable": false,
+      "transitionDurationMs": 1000,
+      "showInFrameList": true,
+      "showFrameNumber": true,
+      "layerProperties": {
+        "layer1": {
+          "link": false,
+          "referenceElementId": "path3771",
+          "outlineElementId": "path3771",
+          "outlineElementAuto": true,
+          "transitionTimingFunction": "linear",
+          "transitionRelativeZoom": 0,
+          "transitionPathId": ""
+        },
+        "__sozi_auto__": {
+          "link": false,
+          "referenceElementId": "path3775",
+          "outlineElementId": "path3771",
+          "outlineElementAuto": true,
+          "transitionTimingFunction": "linear",
+          "transitionRelativeZoom": 0,
+          "transitionPathId": ""
+        }
+      },
+      "cameraStates": {
+        "layer1": {
+          "cx": 264.0751814609583,
+          "cy": 340.9160595891401,
+          "width": 306.02844358930554,
+          "height": 229.6902225615097,
+          "opacity": 1,
+          "angle": 73.12193083694308,
+          "clipped": false,
+          "clipXOffset": 0,
+          "clipYOffset": 0,
+          "clipWidthFactor": 1,
+          "clipHeightFactor": 1
+        },
+        "__sozi_auto__": {
+          "cx": 264.0751814609583,
+          "cy": 340.9160595891401,
+          "width": 306.02844358930554,
+          "height": 229.6902225615097,
+          "opacity": 1,
+          "angle": 73.12193083694308,
+          "clipped": false,
+          "clipXOffset": 0,
+          "clipYOffset": 0,
+          "clipWidthFactor": 1,
+          "clipHeightFactor": 1
+        }
+      },
+      "cameraOffsets": {
+        "layer1": {
+          "deltaX": 1.7890181308801516,
+          "deltaY": -12.897539043672396,
+          "widthFactor": 1.4089612522146857,
+          "heightFactor": 1.2228303828571088,
+          "deltaAngle": 73.12193083694308
+        },
+        "__sozi_auto__": {
+          "deltaX": 34.67527911720828,
+          "deltaY": 178.70509157156198,
+          "widthFactor": 2.479682772675395,
+          "heightFactor": 2.0789281794113723,
+          "deltaAngle": 73.12193083694308
+        }
+      }
+    },
+    {
       "frameId": "frame9225",
       "title": "Yellow",
       "timeoutMs": 0,
