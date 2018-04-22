@@ -16,7 +16,7 @@ Baixar e abrir o documento de exemplo
 -------------------------------------
 
 Esse tutorial utiliza um documento SVG (desenho vetorial) que contém alguns elementos para nossa apresentação.
-[Baixe o arquivo SVG](|filename|/presentations/tutorial-layers/tutorial-layers.svg)
+[Baixe o arquivo SVG](|filename|/presentations/tutorial-layers/tutorial-layers.pt_br.svg)
 (Clique com o botão da direita no link e escolha *Salvar link como...*).
 
 Esse documento SVG foi criado no [Inkscape](https://inkscape.org).
@@ -179,5 +179,5 @@ A câmera estára posicionada automaticamente no primeiro quadro da apresentaç�
 Clique na janela do navegador para movimentar para o próximo quadro.
 (veja também: [Apresentar](|filename|play.md)).
 
-[Baixe a apresentação completa](|filename|/presentations/tutorial-layers/tutorial-layers.sozi.html)
+[Baixe a apresentação completa](|filename|/presentations/tutorial-layers/tutorial-layers.pt_br.sozi.html)
 (Clique com o botão da direita no link e escolha *Salvar link como...*).
