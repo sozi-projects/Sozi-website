@@ -23,7 +23,7 @@ Esse documento SVG foi criado no [Inkscape](https://inkscape.org).
 Recomendamos sua instalação antes de seguir no tutorial.
 Antes de criar a apresentação, veremos como os desenhos estão organizados.
 
-Abra `tutorial-layers.svg` pelo Inkscape.
+Abra `tutorial-layers.pt_br.svg` pelo Inkscape.
 
 ![Documento de exemplo no Inkscape](|filename|/images/tutorial-layers/sozi-layers-tutorial-screenshot-01.pt_br.png)
 
@@ -174,7 +174,7 @@ Salvar e exibir a apresentação
 O editor salva a apresentação automaticamente.
 Ainda assim, é possível clicar no botão *Salvar* na barra de ferramentas.
 
-Abra o arquivo `tutorial-layers.sozi.html` em um navegador (browser) de internet.
+Abra o arquivo `tutorial-layers.pt_br.sozi.html` em um navegador (browser) de internet.
 A câmera estára posicionada automaticamente no primeiro quadro da apresentação.
 Clique na janela do navegador para movimentar para o próximo quadro.
 (veja também: [Apresentar](|filename|play.md)).
