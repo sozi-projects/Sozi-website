@@ -18,7 +18,7 @@ Téléchargez et ouvrez le document de base
 -----------------------------------------
 
 Ce tutoriel se base sur un document SVG qui contient les éléments visuels de notre présentation.
-[Téléchargez le document SVG de base](|filename|/presentations/tutorial-layers/tutorial-layers.svg)
+[Téléchargez le document SVG de base](|filename|/presentations/tutorial-layers/tutorial-layers.fr.svg)
 (Cliquez avec le bouton droit sur le lien et choisissez *Enregistrer la cible du lien sous*).
 
 Ce document SVG a été créé avec [Inkscape](https://inkscape.org).
@@ -26,7 +26,7 @@ Nous vous recommandons d'installer Inkscape avant de continuer.
 Avant de commencer à créer la présentation, nous examinerons l'organisation
 des éléments graphiques.
 
-Ouvrez `tutorial-layers.svg` dans Inkscape.
+Ouvrez `tutorial-layers.fr.svg` dans Inkscape.
 
 ![Document de base dans Inkscape](|filename|/images/tutorial-layers/sozi-layers-tutorial-screenshot-01.fr.png)
 
@@ -125,7 +125,7 @@ Assurez-vous que seuls les éléments du calque *Légendes* soient affectés.
 
 ![Zoomez dans le calque Légendes](|filename|/images/tutorial-layers/sozi-layers-tutorial-screenshot-10.fr.png)
 
-Le champ *Id de l'élément à utiliser comme contour* doit contenir "rect-text-matin".
+Le champ *Id de l'élément à utiliser comme contour* doit contenir "rect-texte-matin".
 Appuyez sur les boutons *Ajuster à l'élément*, *Cacher l'élément* et *Rogner*.
 
 Appliquez le même procédé aux vues "Midi", "Soir" et "Nuit".
@@ -181,10 +181,10 @@ Enregistrez et visionnez la présentation
 L'éditeur devrait enregistrer votre présentation automatiquement.
 Si ce n'est pas le cas, vous pouvez toujours appuyer sur le bouton *Enregistrer la présentation* dans la barre d'outils.
 
-Ouvrez le fichier `tutorial-layers.sozi.html` dans un navigateur Web.
+Ouvrez le fichier `tutorial-layers.fr.sozi.html` dans un navigateur Web.
 La caméra est automatiquement positionnée sur la première vue de la présentation.
 Cliquez dans la fenêtre du navigateur web pour passer à la vue suivante.
 (voir aussi: [Jouer une présentation](|filename|play.md)).
 
-[Téléchargez la présentation complète](|filename|/presentations/tutorial-layers/tutorial-layers.sozi.html)
+[Téléchargez la présentation complète](|filename|/presentations/tutorial-layers/tutorial-layers.fr.sozi.html)
 (Cliquez avec le bouton droit sur le lien et choisissez *Enregistrer la cible du lien sous*).
