@@ -6,4 +6,4 @@ Status: hidden
 
 <!-- TODO -->
 
-Cette page n'a pas encore été traduite.
+> Cette page n'a pas encore été traduite.
