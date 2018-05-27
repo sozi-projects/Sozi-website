@@ -52,8 +52,8 @@ that will help align the graphics when creating the Sozi presentation.
 >
 > Make sure that all layers are visible before proceeding to the next section.
 
-Create the frames of the Sozi presentation
-------------------------------------------
+Create the frames of the presentation
+-------------------------------------
 
 Open `tutorial-layers.svg` in the Sozi presentation editor.
 

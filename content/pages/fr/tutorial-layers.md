@@ -53,8 +53,8 @@ qui aideront à aligner les dessins lors de la création de la présentation Soz
 >
 > Assurez-vous que tous les calques sont visibles avant de passer à la section suivante.
 
-Créez les vues de la présentation Sozi
---------------------------------------
+Créez les vues de la présentation
+---------------------------------
 
 Ouvrez `tutorial-layers.svg` dans l'éditeur de présentation Sozi.
 
