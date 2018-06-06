@@ -4,6 +4,7 @@ Lang: en
 Status: hidden
 Author: Guillaume Savaton
 
+* [Reference manual of the presentation editor](|filename|ui.md)
 * [Your first presentation](|filename|tutorial-first.md)
 * [Using layers](|filename|tutorial-layers.md)
 <!--* [Transition effects](|filename|tutorial-transitions.md)-->

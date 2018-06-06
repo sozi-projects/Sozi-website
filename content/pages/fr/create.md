@@ -5,6 +5,7 @@ Translation: true
 Status: hidden
 Author: Guillaume Savaton, David Libralesso
 
+* [Manuel de référence de l'éditeur de présentations](|filename|ui.md)
 * [Votre première présentation](|filename|tutorial-first.md)
 * [Utiliser les calques](|filename|tutorial-layers.md)
 <!--* [Les effets de transition](|filename|tutorial-transitions.md)-->
