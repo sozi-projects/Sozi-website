@@ -5,4 +5,4 @@ Translation: true
 Author: Guillaume Savaton
 Status: hidden
 
-> This page is in construction
+> This page has not been translated yet
