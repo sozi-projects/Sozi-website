@@ -34,6 +34,17 @@ information:
 * *Start playing when entering frame (id)*: the Id of the frame where the media should start playing automatically.
 * *Stop playing when entering frame (id)*: the Id of the frame where the media should stop playing automatically.
 
+Example
+-------
+
+The presentation below plays a video in the second frame and an audio sample in
+the third frame.
+[Download the presentation files](|filename|/presentations/tutorial-media.zip).
+
+<iframe class="sozi" src="|filename|/presentations/tutorial-media/tutorial-media.sozi.html">
+    Your browser cannot display this content.
+</iframe>
+
 Browser support
 ---------------
 
