@@ -1,7 +1,7 @@
 Title: Inserindo apresentações do Sozi em documentos HTML
 Slug: tutorial-embedding
 Lang: pt_br
-Author: Guillaume Savaton
+Authors: Guillaume Savaton
 Translation: true
 Status: hidden
 

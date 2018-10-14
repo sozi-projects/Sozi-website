@@ -3,7 +3,7 @@ Slug: create
 Lang: fr
 Translation: true
 Status: hidden
-Author: Guillaume Savaton, David Libralesso
+Authors: Guillaume Savaton, David Libralesso
 
 * [Manuel de référence de l'éditeur de présentations](|filename|ui.md)
 * [Votre première présentation](|filename|tutorial-first.md)

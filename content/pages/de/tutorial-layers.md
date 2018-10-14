@@ -1,7 +1,7 @@
 Title: Ebenen
 Slug: tutorial-layers
 Lang: de
-Author: Guillaume Savaton
+Authors: Guillaume Savaton
 Translation: true
 Status: hidden
 

@@ -2,7 +2,7 @@ Title: Übersetze die Web Site in Deine Muttersprache
 Slug: translate-web-site
 Lang: de
 Status: hidden
-Author: Guillaume Savaton, Andrej Barth
+Authors: Guillaume Savaton, Andrej Barth
 Translation: true
 
 Die Web Site von Sozi ist eine statische Site und wird mit Hilfe von [Pelican](http://blog.getpelican.com/) generiert.

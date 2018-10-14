@@ -2,7 +2,7 @@ Title: Sozi 10.12 is available
 Date: 2011-01-14
 Slug: release-10.12
 Lang: en
-Author: Guillaume Savaton
+Authors: Guillaume Savaton
 Summary:
     This is a bugfix release.
 

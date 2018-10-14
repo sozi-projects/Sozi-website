@@ -2,7 +2,7 @@ Title: Sozi 11.05 is available
 Date: 2011-05-14
 Slug: release-11.05
 Lang: en
-Author: Guillaume Savaton
+Authors: Guillaume Savaton
 Summary:
     A better table of contents, add videos.
 

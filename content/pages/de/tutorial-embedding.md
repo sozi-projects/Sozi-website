@@ -1,7 +1,7 @@
 Title: Sozi-Dokumente in HTML-Dateien einbetten
 Slug: tutorial-embedding
 Lang: de
-Author: Guillaume Savaton
+Authors: Guillaume Savaton
 Translation: true
 Status: hidden
 

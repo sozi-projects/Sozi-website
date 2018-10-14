@@ -1,7 +1,7 @@
 Title: About Sozi
 Slug: 10-about
 Lang: en
-Author: Guillaume Savaton
+Authors: Guillaume Savaton
 
 Sozi is a zooming presentation editor and player.
 

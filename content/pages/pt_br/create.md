@@ -3,7 +3,7 @@ Slug: create
 Lang: pt_br
 Translation: true
 Status: hidden
-Author: Guillaume Savaton, Marcelo Vaz
+Authors: Guillaume Savaton, Marcelo Vaz
 
 
 * [Sua primeira apresentação](|filename|tutorial-first.md)

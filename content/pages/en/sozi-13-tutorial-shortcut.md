@@ -1,7 +1,7 @@
 Title: Launching Sozi with a keyboard shortcut in Inkscape
 Slug: sozi-13-tutorial-shortcut
 Lang: en
-Author: Guillaume Savaton
+Authors: Guillaume Savaton
 Status: hidden
 
 > This page is part of the documentation for Sozi 13.

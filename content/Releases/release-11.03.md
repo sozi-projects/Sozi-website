@@ -2,7 +2,7 @@ Title: Sozi 11.03 is available
 Date: 2011-03-14
 Slug: release-11.03
 Lang: en
-Author: Guillaume Savaton
+Authors: Guillaume Savaton
 Summary:
     A new document format, a new user interface, and several other new features.
 

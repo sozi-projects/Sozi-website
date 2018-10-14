@@ -2,7 +2,7 @@ Title: Installation
 Slug: install
 Lang: en
 Status: hidden
-Author: Guillaume Savaton
+Authors: Guillaume Savaton
 
   * [Download the latest release](https://github.com/senshu/Sozi/releases/latest)
   * [Download a preview version of the next release](https://drive.google.com/open?id=0ByRUreHgekjMWG9teGM2dE8wck0) (for testers)

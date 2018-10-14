@@ -1,7 +1,7 @@
 Title: Faire un don
 Slug: 70-donate
 Lang: fr
-Author: Guillaume Savaton
+Authors: Guillaume Savaton
 
 Nous acceptons les donations en utilisant les services suivants&nbsp;:
 

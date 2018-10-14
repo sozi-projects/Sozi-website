@@ -3,7 +3,7 @@ Slug: contribute
 Lang: de
 Translation: true
 Status: hidden
-Author: Guillaume Savaton, Andrej Barth
+Authors: Guillaume Savaton, Andrej Barth
 
 > Read this page in English for an up-to-date version.
 

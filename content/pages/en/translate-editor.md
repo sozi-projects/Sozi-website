@@ -2,7 +2,7 @@ Title: Translate the user interface of the editor to your native language
 Slug: translate-editor
 Lang: en
 Status: hidden
-Author: Guillaume Savaton
+Authors: Guillaume Savaton
 
 The localized text for the Sozi editor are defined in *PO* files compatible with
 [GNU gettext](https://www.gnu.org/software/gettext/).

@@ -1,7 +1,7 @@
 Title: Doar
 Slug: 70-donate
 Lang: pt_br
-Author: Guillaume Savaton, Marcelo Vaz Pupo
+Authors: Guillaume Savaton, Marcelo Vaz Pupo
 
 Aceitamos doações usando os seguintes serviços:
 

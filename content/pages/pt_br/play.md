@@ -3,7 +3,7 @@ Slug: play
 Lang: pt_br
 Translation: true
 Status: hidden
-Author: Guillaume Savaton, Marcelo Vaz
+Authors: Guillaume Savaton, Marcelo Vaz
 
 
 Movimentando-se pela apresentação

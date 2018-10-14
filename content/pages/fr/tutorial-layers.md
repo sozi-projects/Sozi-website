@@ -1,7 +1,7 @@
 Title: Utiliser les calques
 Slug: tutorial-layers
 Lang: fr
-Author: Guillaume Savaton, Hervé Julier
+Authors: Guillaume Savaton, Hervé Julier
 Translation: true
 Status: hidden
 

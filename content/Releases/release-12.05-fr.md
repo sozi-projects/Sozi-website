@@ -3,7 +3,7 @@ Date: 2012-05-10
 Slug: release-12.05
 Lang: fr
 Translation: true
-Author: Guillaume Savaton
+Authors: Guillaume Savaton
 Status: draft
 Summary:
 

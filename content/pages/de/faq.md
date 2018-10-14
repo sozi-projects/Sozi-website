@@ -1,7 +1,7 @@
 Title: FAQ: Häufig gestellte Fragen und Antworten
 Slug: faq
 Lang: de
-Author: Guillaume Savaton, Andrej Barth
+Authors: Guillaume Savaton, Andrej Barth
 Translation: true
 Status: hidden
 

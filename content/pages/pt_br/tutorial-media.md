@@ -1,7 +1,7 @@
 Title: Inserindo vídeo e áudio
 Slug: tutorial-media
 Lang: pt_br
-Author: Guillaume Savaton, Marcelo Vaz Pupo
+Authors: Guillaume Savaton, Marcelo Vaz Pupo
 Translation: true
 Status: hidden
 

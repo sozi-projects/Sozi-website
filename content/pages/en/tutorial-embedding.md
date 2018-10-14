@@ -1,7 +1,7 @@
 Title: Embedding Sozi presentations in HTML documents
 Slug: tutorial-embedding
 Lang: en
-Author: Guillaume Savaton
+Authors: Guillaume Savaton
 Status: hidden
 
 To embed a Sozi presentation in a web page, you can use an `<iframe>`

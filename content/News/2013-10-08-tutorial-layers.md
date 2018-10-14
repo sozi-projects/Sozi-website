@@ -2,7 +2,7 @@ Title: Tutorial: using layers
 Date: 2013-10-08
 Slug: 2013-10-08-tutorial-layers
 Lang: en
-Author: Guillaume Savaton
+Authors: Guillaume Savaton
 Summary:
     Support for layers has been added in Sozi 12.09.
     Today, I am pleased to introduce the official Sozi layers tutorial.

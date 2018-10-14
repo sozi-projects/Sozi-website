@@ -2,7 +2,7 @@ Title: Sozi 11.07 is available
 Date: 2011-07-17
 Slug: release-11.07
 Lang: en
-Author: Guillaume Savaton
+Authors: Guillaume Savaton
 Summary:
     More enhancements to the table of contents, rotate the current view.
 

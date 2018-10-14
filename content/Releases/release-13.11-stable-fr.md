@@ -2,7 +2,7 @@ Title: Sozi 13.11 devient la nouvelle version stable
 Date: 2014-04-06
 Slug: release-13.11-stable
 Lang: fr
-Author: Guillaume Savaton
+Authors: Guillaume Savaton
 Summary:
     Après quatre mois, la version de test Sozi 13.11 a mérité de devenir la version stable officielle.
 

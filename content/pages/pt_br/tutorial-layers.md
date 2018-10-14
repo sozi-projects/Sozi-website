@@ -1,7 +1,7 @@
 Title: Usando camadas
 Slug: tutorial-layers
 Lang: pt_br
-Author: Guillaume Savaton, Marcelo Vaz Pupo
+Authors: Guillaume Savaton, Marcelo Vaz Pupo
 Translation: true
 Status: hidden
 

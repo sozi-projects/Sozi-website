@@ -2,7 +2,7 @@ Title: Documentation
 Slug: 20-documentation
 Lang: pt_br
 Translation: true
-Author: Guillaume Savaton
+Authors: Guillaume Savaton
 
 > This page has not been translated yet
 

@@ -2,7 +2,7 @@ Title: Sozi 18.04 est disponible
 Date: 2018-04-09
 Slug: release-18.04
 Lang: fr
-Author: Guillaume Savaton
+Authors: Guillaume Savaton
 Summary:
     Sozi 18.04 apporte quelques nouvelles fonctionnalités et corrige plusieurs bugs.
 

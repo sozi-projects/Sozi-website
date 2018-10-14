@@ -1,7 +1,7 @@
 Title: Améliorer les performances de rendu
 Slug: tutorial-performance
 Lang: fr
-Author: Guillaume Savaton
+Authors: Guillaume Savaton
 Status: hidden
 
 Les présentations Sozi construites à partir de documents SVG complexes

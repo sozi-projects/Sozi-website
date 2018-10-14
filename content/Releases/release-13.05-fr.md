@@ -4,7 +4,7 @@ Slug: release-13.05
 Lang: fr
 Translation: true
 Status: draft
-Author: Guillaume Savaton
+Authors: Guillaume Savaton
 Summary:
 
 <!-- TODO -->

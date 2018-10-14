@@ -2,7 +2,7 @@ Title: Documentation
 Slug: 20-documentation
 Lang: fr
 Translation: true
-Author: Guillaume Savaton
+Authors: Guillaume Savaton
 
 * [Installer Sozi](|filename|install.md)
 * [Créer une présentation](|filename|create.md)

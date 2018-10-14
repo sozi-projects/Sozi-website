@@ -2,7 +2,7 @@ Title: Play
 Slug: play
 Lang: en
 Status: hidden
-Author: Guillaume Savaton
+Authors: Guillaume Savaton
 
 Moving through the presentation
 -------------------------------

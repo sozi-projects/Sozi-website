@@ -2,7 +2,7 @@ Title: Sozi 12.04 is available
 Date: 2012-04-10
 Slug: release-12.04
 Lang: en
-Author: Guillaume Savaton
+Authors: Guillaume Savaton
 Summary:
     A reorganized user interface and a few bug fixes.
 

@@ -1,7 +1,7 @@
 Title: Sua primeira apresentação
 Slug: tutorial-first
 Lang: pt_br
-Author: Guillaume Savaton, Marcelo Vaz Pupo
+Authors: Guillaume Savaton, Marcelo Vaz Pupo
 Translation: true
 Status: hidden
 

@@ -2,7 +2,7 @@ Title: Sozi 17.02 disponível
 Date: 2017-03-25
 Slug: release-17.02
 Lang: pt_br
-Author: Guillaume Savaton, Marcelo Vaz Pupo
+Authors: Guillaume Savaton, Marcelo Vaz Pupo
 Summary:
     Sozi 17.02 é a primeira versão estável depois do Sozi 16.02.
     Essa versão apresenta novos recursos, resolve diversas questões e insere novas traduções.

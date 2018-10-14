@@ -2,7 +2,7 @@ Title: Sozi 13.11 is promoted as the latest stable release
 Date: 2014-04-06
 Slug: release-13.11-stable
 Lang: en
-Author: Guillaume Savaton
+Authors: Guillaume Savaton
 Summary:
     After four months, the release candidate 13.11 has deserved to become the official stable release.
 

@@ -2,7 +2,7 @@ Title: Installer Sozi sous GNU/Linux
 Slug: install-linux
 Lang: fr
 Status: hidden
-Author: Guillaume Savaton, Vincent Garibal
+Authors: Guillaume Savaton, Vincent Garibal
 
 > Cette page fait partie de la documentation de Sozi 13.
 > [Suivez ce lien si vous souhaitez installer une version plus récente](|filename|install.md).

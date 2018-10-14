@@ -1,7 +1,7 @@
 Title: Questões Frequêntes e Solução de Problemas
 Slug: faq
 Lang: pt_br
-Author: Guillaume Savaton, Marcelo Vaz
+Authors: Guillaume Savaton, Marcelo Vaz
 Status: hidden
 
 Como definir uma cor de fundo?

@@ -1,7 +1,7 @@
 Title: Community
 Slug: 60-community
 Lang: en
-Author: Guillaume Savaton
+Authors: Guillaume Savaton
 
 Get support using Sozi, ask and answer questions, exchange tips and best practices, share your creations:
 

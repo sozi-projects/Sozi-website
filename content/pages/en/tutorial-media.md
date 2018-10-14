@@ -1,7 +1,7 @@
 Title: Embedding video and audio
 Slug: tutorial-media
 Lang: en
-Author: Guillaume Savaton
+Authors: Guillaume Savaton
 Status: hidden
 
 You can insert video and audio into a Sozi presentation,

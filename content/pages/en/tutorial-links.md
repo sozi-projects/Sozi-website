@@ -1,7 +1,7 @@
 Title: Frame URLs and hyperlinks
 Slug: tutorial-links
 Lang: en
-Author: Guillaume Savaton
+Authors: Guillaume Savaton
 Status: hidden
 
 In this tutorial, you will learn how to add hyperlinks in Sozi documents

@@ -1,7 +1,7 @@
 Title: Reference manual of the presentation editor
 Slug: ui
 Lang: en
-Author: Guillaume Savaton
+Authors: Guillaume Savaton
 Status: hidden
 
 > This page is in construction

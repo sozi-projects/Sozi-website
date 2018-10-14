@@ -1,7 +1,7 @@
 Title: Convertendo apresentações do Sozi para PDF ou vídeo
 Slug: tutorial-converting
 Lang: pt_br
-Author: Guillaume Savaton, Marcelo Vaz Pupo
+Authors: Guillaume Savaton, Marcelo Vaz Pupo
 Translation: true
 Status: hidden
 

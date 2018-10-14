@@ -2,7 +2,7 @@ Title: Sozi 13.11 is available for testers
 Date: 2013-11-30
 Slug: release-13.11
 Lang: en
-Author: Guillaume Savaton
+Authors: Guillaume Savaton
 Summary:
     Bug fixes and small improvements.
 

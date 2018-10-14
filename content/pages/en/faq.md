@@ -1,7 +1,7 @@
 Title: Frequently Asked Questions and Troubleshooting
 Slug: faq
 Lang: en
-Author: Guillaume Savaton
+Authors: Guillaume Savaton
 Status: hidden
 
 How do I set a background color?

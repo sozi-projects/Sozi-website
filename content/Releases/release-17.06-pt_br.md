@@ -3,7 +3,7 @@ Date: 2017-08-20
 Slug: release-17.06
 Lang: pt_br
 Translation: true
-Author: Guillaume Savaton, Marcelo Vaz Pupo
+Authors: Guillaume Savaton, Marcelo Vaz Pupo
 Summary:
     Sozi 17.06 foi lançado em Junho.
     Apresenta novos recursos, corrigi alguns problemas e adiciona novas traduções.

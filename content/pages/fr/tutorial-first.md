@@ -1,7 +1,7 @@
 Title: Votre première présentation
 Slug: tutorial-first
 Lang: fr
-Author: Guillaume Savaton
+Authors: Guillaume Savaton
 Translation: true
 Status: hidden
 

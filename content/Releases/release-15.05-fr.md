@@ -2,7 +2,7 @@ Title: Sozi 15.05 est disponible pour les testeurs et traducteurs
 Date: 2015-05-15
 Slug: release-15.05
 Lang: fr
-Author: Guillaume Savaton
+Authors: Guillaume Savaton
 Summary:
     Voici la première sortie officielle de Sozi 15.
     Bien qu'il ne s'agisse plus d'un prototype, cette version est

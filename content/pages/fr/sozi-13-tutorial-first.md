@@ -1,7 +1,7 @@
 Title: Votre première présentation
 Slug: sozi-13-tutorial-first
 Lang: fr
-Author: Guillaume Savaton, David Libralesso
+Authors: Guillaume Savaton, David Libralesso
 Translation: true
 Status: hidden
 

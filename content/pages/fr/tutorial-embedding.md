@@ -1,7 +1,7 @@
 Title: Inclure une présentation Sozi dans un document HTML
 Slug: tutorial-embedding
 Lang: fr
-Author: Guillaume Savaton
+Authors: Guillaume Savaton
 Status: hidden
 
 Pour insérer une présentation Sozi dans une page web, vous pouvez

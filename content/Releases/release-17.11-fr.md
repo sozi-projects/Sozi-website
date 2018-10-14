@@ -2,7 +2,7 @@ Title: Sozi 17.11 est disponible
 Date: 2017-11-19
 Slug: release-17.11
 Lang: fr
-Author: Guillaume Savaton
+Authors: Guillaume Savaton
 Summary:
     Sozi 17.11 apporte quelques nouvelles fonctionnalités et corrige plusieurs bugs.
 

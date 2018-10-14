@@ -2,7 +2,7 @@ Title: Traduire le site web dans votre langue
 Slug: translate-web-site
 Lang: fr
 Status: hidden
-Author: Guillaume Savaton, Vincent Garibal
+Authors: Guillaume Savaton, Vincent Garibal
 
 
 Le site web de Sozi est un site statique généré avec [Pelican](http://blog.getpelican.com/).

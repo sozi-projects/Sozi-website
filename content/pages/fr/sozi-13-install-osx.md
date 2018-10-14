@@ -2,7 +2,7 @@ Title: Installer Sozi sous Mac OS X
 Slug: install-osx
 Lang: fr
 Status: hidden
-Author: Guillaume Savaton
+Authors: Guillaume Savaton
 
 > Cette page fait partie de la documentation de Sozi 13.
 > [Suivez ce lien si vous souhaitez installer une version plus récente](|filename|install.md).

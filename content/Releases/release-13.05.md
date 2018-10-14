@@ -2,7 +2,7 @@ Title: Sozi 13.05 is available
 Date: 2013-05-28
 Slug: release-13.05
 Lang: en
-Author: Guillaume Savaton
+Authors: Guillaume Savaton
 Summary:
     In January, I have published a preview release of Sozi with version number 13.01.
     Four months have passed, and I think the official release has been delayed long enough.

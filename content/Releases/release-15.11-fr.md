@@ -2,7 +2,7 @@ Title: Sozi 15.11 est disponible
 Date: 2015-11-21
 Slug: release-15.11
 Lang: fr
-Author: Guillaume Savaton
+Authors: Guillaume Savaton
 Summary:
     Sozi 15 peut désormais être utilisé quotidiennement.
     Cette version corrige plusieurs problèmes et contient de nouvelles traductions.

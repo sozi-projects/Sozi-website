@@ -2,7 +2,7 @@ Title: Sozi 16.02 est disponible
 Date: 2016-02-13
 Slug: release-16.02
 Lang: fr
-Author: Guillaume Savaton
+Authors: Guillaume Savaton
 Summary:
     Sozi 16 est la première version publiée en 2016.
     Elle corrige plusieurs problèmes et contient de nouvelles traductions.

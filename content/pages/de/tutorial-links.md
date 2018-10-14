@@ -1,7 +1,7 @@
 Title: Bild-URLs und Links
 Slug: tutorial-links
 Lang: de
-Author: Guillaume Savaton
+Authors: Guillaume Savaton
 Translation: true
 Status: hidden
 

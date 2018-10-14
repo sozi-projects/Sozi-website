@@ -2,7 +2,7 @@ Title: Community
 Slug: 60-community
 Lang: de
 Translation: true
-Author: Guillaume Savaton
+Authors: Guillaume Savaton
 
 > This page has not been translated yet
 

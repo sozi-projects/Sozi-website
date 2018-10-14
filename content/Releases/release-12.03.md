@@ -2,7 +2,7 @@ Title: Sozi 12.03 is available
 Date: 2012-03-02
 Slug: release-12.03
 Lang: en
-Author: Guillaume Savaton
+Authors: Guillaume Savaton
 Summary:
     Stop a video automatically, add audio and upgrade Sozi easily. This release also fixes a few bugs in the player.
 

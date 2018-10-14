@@ -1,7 +1,7 @@
 Title: Deine erste Präsentation
 Slug: tutorial-first
 Lang: de
-Author: Guillaume Savaton, Andrej Barth
+Authors: Guillaume Savaton, Andrej Barth
 Translation: true
 Status: hidden
 

@@ -3,7 +3,7 @@ Date: 2011-03-14
 Slug: release-11.03
 Lang: fr
 Translation: true
-Author: Guillaume Savaton
+Authors: Guillaume Savaton
 Status: draft
 Summary:
 

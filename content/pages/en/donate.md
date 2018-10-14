@@ -1,7 +1,7 @@
 Title: Donate
 Slug: 70-donate
 Lang: en
-Author: Guillaume Savaton
+Authors: Guillaume Savaton
 
 We accept donations using the following services:
 

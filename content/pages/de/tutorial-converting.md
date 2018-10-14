@@ -1,7 +1,7 @@
 Title: Sozi-Präsentationen als pdf-Datei oder Video exportieren
 Slug: tutorial-converting
 Lang: de
-Author: Guillaume Savaton
+Authors: Guillaume Savaton
 Translation: true
 Status: hidden
 

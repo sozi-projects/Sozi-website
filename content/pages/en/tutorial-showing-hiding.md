@@ -1,7 +1,7 @@
 Title: Showing and hiding objects
 Slug: tutorial-showing-hiding
 Lang: en
-Author: Guillaume Savaton
+Authors: Guillaume Savaton
 Status: draft
 
 > This page is part of the documentation for Sozi 13.

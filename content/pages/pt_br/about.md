@@ -1,7 +1,7 @@
 Title: Sobre o Sozi
 Slug: 10-about
 Lang: pt_br
-Author: Guillaume Savaton, Marcelo Vaz
+Authors: Guillaume Savaton, Marcelo Vaz
 
 Sozi é um editor de apresentações dinâmicas com zoom.
 

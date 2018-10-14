@@ -3,7 +3,7 @@ Slug: play
 Lang: de
 Translation: true
 Status: hidden
-Author: Guillaume Savaton, Andrej Barth
+Authors: Guillaume Savaton, Andrej Barth
 
 Durch die Präsentation navigieren
 ---------------------------------

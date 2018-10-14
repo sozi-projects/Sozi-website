@@ -2,7 +2,7 @@ Title: Sozi 10.11 is available
 Date: 2010-11-22
 Slug: release-10.11
 Lang: en
-Author: Guillaume Savaton
+Authors: Guillaume Savaton
 Summary:
     Enable or disable clipping, create a frame from any SVG element, transition effects, new keyboard actions and bug fixes.
 

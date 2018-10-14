@@ -1,7 +1,7 @@
 Title: Your first presentation
 Slug: tutorial-first
 Lang: en
-Author: Guillaume Savaton
+Authors: Guillaume Savaton
 Status: hidden
 
 

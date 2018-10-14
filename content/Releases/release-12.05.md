@@ -2,7 +2,7 @@ Title: Sozi 12.05 is available
 Date: 2012-05-10
 Slug: release-12.05
 Lang: en
-Author: Guillaume Savaton
+Authors: Guillaume Savaton
 Summary:
     This is a bugfix release for Windows users.
 

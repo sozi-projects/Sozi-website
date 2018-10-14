@@ -1,7 +1,7 @@
 Title: Spenden
 Slug: 70-donate
 Lang: de
-Author: Guillaume Savaton
+Authors: Guillaume Savaton
 
 > This page has not been translated yet
 

@@ -1,7 +1,7 @@
 Title: URL d'une vue et hyperliens
 Slug: tutorial-links
 Lang: fr
-Author: Guillaume Savaton
+Authors: Guillaume Savaton
 Translation: true
 Status: hidden
 

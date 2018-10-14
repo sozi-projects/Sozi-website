@@ -2,7 +2,7 @@ Title: Contribute
 Slug: contribute
 Lang: en
 Status: hidden
-Author: Guillaume Savaton
+Authors: Guillaume Savaton
 
 The source code of Sozi is hosted in the following repositories:
 

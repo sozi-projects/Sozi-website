@@ -2,7 +2,7 @@ Title: A preview of Sozi 14 is available for testers
 Date: 2014-10-11
 Slug: release-14.10
 Lang: en
-Author: Guillaume Savaton
+Authors: Guillaume Savaton
 Summary:
     The new editor for Sozi has been under development for several months.
     Though it is not ready for daily use, you can try it now and tell me what you think.

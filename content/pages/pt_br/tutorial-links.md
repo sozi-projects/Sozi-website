@@ -1,7 +1,7 @@
 Title: URL de quadros e hyperlinks
 Slug: tutorial-links
 Lang: pt_br
-Author: Guillaume Savaton
+Authors: Guillaume Savaton
 Translation: true
 Status: hidden
 

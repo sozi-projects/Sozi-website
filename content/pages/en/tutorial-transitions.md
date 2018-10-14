@@ -1,7 +1,7 @@
 Title: Transition effects
 Slug: tutorial-transitions
 Lang: en
-Author: Guillaume Savaton
+Authors: Guillaume Savaton
 Status: draft
 
 > This page is part of the documentation for Sozi 13.

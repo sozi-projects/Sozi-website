@@ -2,7 +2,7 @@ Title: Installer Sozi sous Windows
 Slug: install-windows
 Lang: fr
 Status: hidden
-Author: Guillaume Savaton, IntraCherche
+Authors: Guillaume Savaton, IntraCherche
 
 > Cette page fait partie de la documentation de Sozi 13.
 > [Suivez ce lien si vous souhaitez installer une version plus récente](|filename|install.md).

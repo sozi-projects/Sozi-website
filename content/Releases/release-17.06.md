@@ -2,7 +2,7 @@ Title: Sozi 17.06 is available
 Date: 2017-08-20
 Slug: release-17.06
 Lang: en
-Author: Guillaume Savaton
+Authors: Guillaume Savaton
 Summary:
     Sozi 17.06 has been released in June.
     It adds a few features, fixes several issues, and adds new translations.

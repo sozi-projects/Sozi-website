@@ -1,7 +1,7 @@
 Title: Improving rendering performance
 Slug: tutorial-performance
 Lang: en
-Author: Guillaume Savaton
+Authors: Guillaume Savaton
 Status: hidden
 
 When playing a Sozi presentation based on a complex SVG document,

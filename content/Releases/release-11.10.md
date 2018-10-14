@@ -2,7 +2,7 @@ Title: Sozi 11.10 is available
 Date: 2011-10-08
 Slug: release-11.10
 Lang: en
-Author: Guillaume Savaton
+Authors: Guillaume Savaton
 Summary:
     A better user interface, smoother animations, video autostart.
 

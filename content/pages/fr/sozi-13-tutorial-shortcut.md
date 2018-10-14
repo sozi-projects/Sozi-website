@@ -1,7 +1,7 @@
 Title: Démarrer Sozi avec un raccourci clavier dans Inkscape
 Slug: sozi-13-tutorial-shortcut
 Lang: fr
-Author: Guillaume Savaton
+Authors: Guillaume Savaton
 Status: hidden
 
 > Cette page fait partie de la documentation de Sozi 13.

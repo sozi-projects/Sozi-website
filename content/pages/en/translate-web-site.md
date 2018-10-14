@@ -2,7 +2,7 @@ Title: Translate the web site to your native language
 Slug: translate-web-site
 Lang: en
 Status: hidden
-Author: Guillaume Savaton
+Authors: Guillaume Savaton
 
 The web site of Sozi is a static site generated with [Pelican](http://blog.getpelican.com/).
 It does not provide an online editor where you could edit, preview and publish your contributions.

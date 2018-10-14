@@ -3,7 +3,7 @@ Slug: contribute
 Lang: fr
 Translation: true
 Status: hidden
-Author: Guillaume Savaton, Vincent Garibal
+Authors: Guillaume Savaton, Vincent Garibal
 
 Le code source de Sozi est disponible dans les dépôts suivants&nbsp;:
 

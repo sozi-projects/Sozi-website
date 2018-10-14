@@ -2,7 +2,7 @@ Title: Sozi 18.01 is available
 Date: 2018-02-04
 Slug: release-18.01
 Lang: en
-Author: Guillaume Savaton
+Authors: Guillaume Savaton
 Summary:
     Sozi 18.01 adds a few features and fixes several issues.
 

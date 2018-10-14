@@ -1,7 +1,7 @@
 Title: Effets de transition
 Slug: tutorial-transitions
 Lang: fr
-Author: Guillaume Savaton, IntraCherche
+Authors: Guillaume Savaton, IntraCherche
 Status: draft
 
 > Cette page fait partie de la documentation de Sozi 13.

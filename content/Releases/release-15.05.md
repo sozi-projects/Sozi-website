@@ -2,7 +2,7 @@ Title: Sozi 15.05 is available for testers and translators
 Date: 2015-05-15
 Slug: release-15.05
 Lang: en
-Author: Guillaume Savaton
+Authors: Guillaume Savaton
 Summary:
     This is the first official preview release of Sozi 15.
     Though it can no longer be considered a prototype, it is still primarily intended for testers.

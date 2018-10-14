@@ -1,7 +1,7 @@
 Title: Melhorando a performance de renderização
 Slug: tutorial-performance
 Lang: pt_br
-Author: Guillaume Savaton, Marcelo Vaz Pupo
+Authors: Guillaume Savaton, Marcelo Vaz Pupo
 Translation: true
 Status: hidden
 

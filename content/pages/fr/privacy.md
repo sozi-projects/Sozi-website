@@ -3,7 +3,7 @@ Slug: privacy
 Lang: fr
 Translation: true
 Status: hidden
-Author: Civilized Discourse Construction Kit, Inc, Guillaume Savaton
+Authors: Civilized Discourse Construction Kit, Inc, Guillaume Savaton
 
 > This page has not been translated yet
 

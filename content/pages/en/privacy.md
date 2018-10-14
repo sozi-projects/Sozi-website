@@ -2,7 +2,7 @@ Title: Privacy policy
 Slug: privacy
 Lang: en
 Status: hidden
-Author: Civilized Discourse Construction Kit, Inc, Guillaume Savaton
+Authors: Civilized Discourse Construction Kit, Inc, Guillaume Savaton
 
 Thank you for visiting the [Sozi community forum](/community) and the [Sozi web demo](/demo).
 We respect and protect the privacy of our users.

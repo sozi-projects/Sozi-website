@@ -1,7 +1,7 @@
 Title: Converting Sozi presentations to PDF or video
 Slug: tutorial-converting
 Lang: en
-Author: Guillaume Savaton
+Authors: Guillaume Savaton
 Status: hidden
 
 `sozi-to-pdf` and `sozi-to-video` are command-line tools that you can use to export a presentation

@@ -1,7 +1,7 @@
 Title: Questions fréquentes et résolution des problèmes
 Slug: faq
 Lang: fr
-Author: Guillaume Savaton
+Authors: Guillaume Savaton
 Status: hidden
 
 Comment définir une couleur de fond ?

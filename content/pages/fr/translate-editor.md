@@ -2,7 +2,7 @@ Title: Traduire l'interface utilisateur de l'éditeur dans votre langue
 Slug: translate-editor
 Lang: fr
 Status: hidden
-Author: Guillaume Savaton
+Authors: Guillaume Savaton
 
 Les traductions du texte affiché dans l'éditeur de présentation sont définies dans des
 fichiers *PO* compatibles avec [GNU gettext](https://www.gnu.org/software/gettext/).

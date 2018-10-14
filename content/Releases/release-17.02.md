@@ -2,7 +2,7 @@ Title: Sozi 17.02 is available
 Date: 2017-03-25
 Slug: release-17.02
 Lang: en
-Author: Guillaume Savaton
+Authors: Guillaume Savaton
 Summary:
     Sozi 17.02 is considered as the new stable release after Sozi 16.02.
     It adds a few features, fixes several issues and adds new translations.

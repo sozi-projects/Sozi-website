@@ -2,7 +2,7 @@ Title: Sozi 10.10 is available
 Date: 2010-10-24
 Slug: release-10.10
 Lang: en
-Author: Guillaume Savaton
+Authors: Guillaume Savaton
 Summary:
     Keyboard actions, default transition effects and looping presentations.
 

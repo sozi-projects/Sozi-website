@@ -3,7 +3,7 @@ Slug: play
 Lang: fr
 Translation: true
 Status: hidden
-Author: Guillaume Savaton, David Libralesso
+Authors: Guillaume Savaton, David Libralesso
 
 
 Naviguer dans une présentation

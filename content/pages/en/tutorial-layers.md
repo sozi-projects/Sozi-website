@@ -1,7 +1,7 @@
 Title: Using layers
 Slug: tutorial-layers
 Lang: en
-Author: Guillaume Savaton
+Authors: Guillaume Savaton
 Status: hidden
 
 

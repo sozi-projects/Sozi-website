@@ -1,7 +1,7 @@
 Title: Über Sozi
 Slug: 10-about
 Lang: de
-Author: Guillaume Savaton, Andrej Barth
+Authors: Guillaume Savaton, Andrej Barth
 Translation: true
 
 Sozi ist ein Editor und Player für animierte Präsentationen.

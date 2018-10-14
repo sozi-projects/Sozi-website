@@ -7,15 +7,8 @@
                 <li><article class="hentry">
                     <header>
                         <h2 class="entry-title"><a href="{{ SITEURL }}/{{ article.url }}" rel="bookmark" title="Permalink to {{ article.title|striptags }}">{{ article.title }}</a></h2>
-                    </header>
-                    <footer class="post-info">
                         <time pubdate>{{ article.locale_date }}</time>
-                        {% if article.author %}
-                            <address class="vcard author">
-                                <a class="url fn" href="{{ SITEURL }}/{{ article.author.url }}">{{ article.author }}</a>
-                            </address>
-                        {% endif %}
-                    </footer><!-- /.post-info -->
+                    </header>
                     <div class="entry-content">
                         {{ article.summary }}
                     </div><!-- /.entry-content -->

@@ -2,7 +2,7 @@ Title: Instale o Sozi no Mac OS X
 Slug: install-osx
 Lang: pt_br
 Status: hidden
-Author: Guillaume Savaton, Marcelo Vaz
+Authors: Guillaume Savaton, Marcelo Vaz
 
 > Esta página faz parte da documentação do Sozi 13.
 > Como estamos no processo de lançar o Sozi 15,

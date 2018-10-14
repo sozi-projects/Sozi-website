@@ -2,7 +2,7 @@ Title: Sozi 13.01 is available for testers
 Date: 2013-01-19
 Slug: release-13.01
 Lang: en
-Author: Guillaume Savaton
+Authors: Guillaume Savaton
 Summary:
     Transition paths, PDF and video export, new translations, bug fixes.
 

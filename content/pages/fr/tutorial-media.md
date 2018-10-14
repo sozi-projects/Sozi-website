@@ -1,7 +1,7 @@
 Title: Inclure une vidéo ou un extrait audio dans une présentation
 Slug: tutorial-media
 Lang: fr
-Author: Guillaume Savaton
+Authors: Guillaume Savaton
 Status: hidden
 
 Vous pouvez insérer de la vidéo et de l'audio dans un présentation Sozi,

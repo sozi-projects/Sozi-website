@@ -3,7 +3,7 @@ Slug: create
 Lang: de
 Translation: true
 Status: hidden
-Author: Guillaume Savaton, Andrej Barth
+Authors: Guillaume Savaton, Andrej Barth
 
 
 * [Deine erste Präsentation](|filename|tutorial-first.md)

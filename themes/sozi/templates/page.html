@@ -11,5 +11,9 @@
         <div class="entry-content">
             {{ page.content }}
         </div><!-- /.entry-content -->
+        <footer>
+            {% import 'authors.html' as authors with context %}
+            {{ authors.authors_for(page) }}
+        </footer>
     </section>
 {% endblock %}
