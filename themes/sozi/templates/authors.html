@@ -1,0 +1,20 @@
+{% macro authors_for(page) %}
+    {% if page.author %}
+        <address class="vcard author">
+            {% if page.lang == 'fr' %}
+                Cette page a été rédigée et traduite par&nbsp;:
+            {% elif page.lang == 'pt_br' %}
+                Esta página foi escrita e traduzida por&nbsp;:
+            {% elif page.lang == 'de' %}
+                Diese Seite wurde geschrieben und übersetzt von&nbsp;:
+            {% else %}
+                This page has been written and translated by&nbsp;:
+            {% endif %}
+            {% set comma = joiner() %}
+            {% for name in page.authors -%}
+                {{ comma() }}
+                <a class="url fn" href="{{ SITEURL }}/{{ name.url }}">{{ name }}</a>
+            {%- endfor %}
+        </address>
+    {% endif %}
+{% endmacro %}
