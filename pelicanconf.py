@@ -27,7 +27,6 @@ SOCIAL = (
     ('Mastodon', 'https://mamot.fr/@senshu'),
     ('Twitter', 'https://twitter.com/senshua'),
     ('Facebook', 'https://www.facebook.com/sozi.project'),
-    ('Google+', 'https://plus.google.com/u/0/+GuillaumeSavaton'),
     # TODO add YouTube
 )
 
@@ -47,3 +46,5 @@ EXTRA_PATH_METADATA = {
 }
 
 DEFAULT_DATE_FORMAT = "%Y-%m-%d"
+
+MD_EXTENSIONS = ["codehilite(css_class=highlight)", "headerid", "extra", "meta"]

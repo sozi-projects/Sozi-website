@@ -19,6 +19,6 @@ Use Sozi 18.04 now!
 
 Sozi 18 can be run either as a standalone desktop application, or as a hosted web application.
 
-* [Install the desktop application](|filename|/pages/fr/install.md).
+* [Install the desktop application](|filename|/pages/en/install.md).
   Choose the zip file corresponding to your platform, extract it and run the `Sozi` executable.
 * [Try the hosted web application](/demo) (requires a Google Drive account for saving documents).

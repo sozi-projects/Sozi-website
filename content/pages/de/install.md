@@ -5,6 +5,10 @@ Translation: true
 Status: hidden
 Authors: Guillaume Savaton, Andrej Barth
 
+> Wenn Sie Sozi nutzen und seine Entwicklung unterstützen möchten,
+> können Sie sich [beteiligen](|filename|contribute.md) oder [spenden](|filename|donate.md).
+
+
 > Read this page in English for an up-to-date version.
 
   * [Download neueste Release](https://github.com/senshu/Sozi/releases/latest)

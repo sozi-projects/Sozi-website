@@ -205,7 +205,7 @@ blockquote {
     background: rgb(255, 230, 128);
     padding: 0.5em 1.5em;
 	box-shadow: rgb(230, 230, 230) 0px 5px 10px 3px;
-	margin: 1em 1em;
+	margin: 1em 0em;
 }
 
 section#content > header {

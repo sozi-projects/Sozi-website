@@ -4,6 +4,9 @@ Lang: en
 Status: hidden
 Authors: Guillaume Savaton
 
+> If you use Sozi and would like to support its development,
+> you can [contribute](|filename|contribute.md) or [make a donation](|filename|donate.md).
+
   * [Download the latest release](https://github.com/senshu/Sozi/releases/latest)
   * [Download a preview version of the next release](https://drive.google.com/open?id=0ByRUreHgekjMWG9teGM2dE8wck0) (for testers)
 

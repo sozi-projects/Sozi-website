@@ -5,6 +5,9 @@ Translation: true
 Status: hidden
 Authors: Guillaume Savaton
 
+> Si vous utilisez Sozi et souhaitez soutenir son développement,
+> vous pouvez [contribuer](|filename|contribute.md) ou [faire un don](|filename|donate.md).
+
   * [Télécharger la dernière version](https://github.com/senshu/Sozi/releases/latest)
   * [Télécharger un aperçu de la prochaine version](https://drive.google.com/open?id=0ByRUreHgekjMWG9teGM2dE8wck0) (pour les testeurs)
 

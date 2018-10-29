@@ -5,6 +5,10 @@ Translation: true
 Status: hidden
 Authors: Guillaume Savaton, Marcelo Vaz
 
+> Se você usa a Sozi e gostaria de apoiar o seu desenvolvimento,
+> você pode [contribuir](|filename|contribute.md) ou [fazer uma doação](|filename|donate.md).
+
+
 > Read this page in English for an up-to-date version.
 
   * [Baixar a última versão](https://github.com/senshu/Sozi/releases/latest)
