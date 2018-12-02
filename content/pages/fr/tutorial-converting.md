@@ -4,8 +4,8 @@ Lang: fr
 Authors: Guillaume Savaton
 Status: hidden
 
-`sozi-to-pdf` et `sozi-to-video` sont des outils en ligne de commande permettant d'exporter une présentation
-vers un document PDF ou une vidéo.
+Sozi-export est un ensemble d'outils en ligne de commande permettant de convertir une
+présentation Sozi en un document PDF, une vidéo ou une présentation PowerPoint.
 Le code source de ces outils est disponible dans le dépôt [Sozi-export](https://github.com/senshu/Sozi-export).
 Ces outils sont développés indépendamment de l'éditeur de présentation.
 Ils ont été testés seulement sous GNU/Linux.
@@ -14,15 +14,18 @@ Ils ont été testés seulement sous GNU/Linux.
 Installation
 ------------
 
-L'outil d'exportation en PDF dépend de [pdfjam](http://www2.warwick.ac.uk/fac/sci/statistics/staff/academic-research/firth/software/pdfjam), un script shell pour manipuler des documents PDF.
-L'outil d'exportation en vidéo repose sur [libav](https://libav.org).
+Sozi-export dépend des logiciels suivants, qui vous devez installer séparément&nbsp;:
+
+* [pdfjam](http://www2.warwick.ac.uk/fac/sci/statistics/staff/academic-research/firth/software/pdfjam), un script shell pour manipuler des documents PDF.
+* [libav](https://libav.org), un ensemble d'outils et une bibliothèque pour manupuler des fichiers multimédia.
+
 Les utilisateurs de distributions basées sur Debian peuvent installer les paquets
-*texlive-extra-utils* et *libav-tools* packages.
+*texlive-extra-utils* et *libav-tools*.
 
     :::bash
     apt-get install texlive-extra-utils libav-tools
 
-Les deux outils sont fournis dans un même paquet NPM.
+Sozi-export est disponible sous la forme d'un paquet NPM.
 Installez [node.js](https://nodejs.org/) 0.10 ou une version ultérieure
 (les utilisateurs de Linux peuvent utiliser les [distributions NodeSource](https://github.com/nodesource/distributions)),
 puis&nbsp;:
@@ -51,6 +54,8 @@ Options:
 
 Les options de largeur, hauteur et résolution déterminent la géométrie de la fenêtre du
 navigateur où la présentation sera rendue.
+Les valeurs par défaut sont adaptées à la génération d'un document pour impression
+sur du papier au format A4.
 Le format et l'orientation du papier définissent le format de page du document PDF final.
 
 L'option `include` est toujours appliquée avant l'option `exclude`.
@@ -77,6 +82,25 @@ Options:
 * `-W`, `--width <number>` La largeur de la vidéo, en pixels (1024 par défaut)
 * `-H`, `--height <number>` La hauteur de la vidéo, en pixels (768 par défaut)
 * `-b`, `--bit-rate <number>` Le débit binaire de la vidéo (2M par défaut)
+
+Convertir une presentation Sozi en présentation PowerPoint
+----------------------------------------------------------
+
+Cet outil crée un document PowerPoint au format PPTX.
+Il accepte un sous-ensemble des options de `sozi-to-pdf`.
+
+    :::bash
+    sozi-to-pptx [options] presentation.sozi.html
+
+Options:
+
+* `-h`, `--help` Afficher de l'aide
+* `-o`, `--output <file>` Le nom du fichier de sortie
+* `-W`, `--width <number>` La largeur de la page (29.7 par défaut)
+* `-H`, `--height <number>` La hauteur de la page (21 par défaut)
+* `-r`, `--resolution <number>` Pixels par unité de hauteur/largeur (72 par défaut)
+* `-i`, `--include <list>` Les vues à inclure ('all' par défaut)
+* `-x`, `--exclude <list>` Les vues à exclure ('none' par défaut)
 
 Problèmes connus et limitations
 -------------------------------
