@@ -9,8 +9,12 @@ Authors: Guillaume Savaton
 > vous pouvez [contribuer](|filename|contribute.md), [faire un don](|filename|donate.md),
 > ou encore [acheter un objet de notre boutique](https://www.spreadshirt.fr/user/Guillaume+Savaton).
 
-  * [Télécharger la dernière version](https://github.com/senshu/Sozi/releases/latest)
-  * [Télécharger un aperçu de la prochaine version](https://drive.google.com/open?id=0ByRUreHgekjMWG9teGM2dE8wck0) (pour les testeurs)
+* [Télécharger la dernière version](https://github.com/senshu/Sozi/releases/latest)
+* [Télécharger un aperçu de la prochaine version](https://drive.google.com/open?id=0ByRUreHgekjMWG9teGM2dE8wck0) (pour les testeurs)
+* [Installation pour GNU/Linux](#installation-pour-gnulinux)
+* [Installation pour Windows](#installation-pour-windows)
+* [Installation pour OS X](#installation-pour-os-x)
+* [Installation à partir d'une image Docker](#installation-a-partir-dune-image-docker)
 
 Installation pour GNU/Linux
 ---------------------------
@@ -25,7 +29,7 @@ de paquets pour Debian, Ubuntu et leurs dérivées.
 Téléchargez le fichier `.deb` correspondant à votre plate-forme (`i386` ou `amd64`),
 ouvrez un terminal et exécutez la commande suivante&nbsp;:
 
-```
+```bash
 sudo dpkg -i sozi_{version}_{arch}.deb
 ```
 
@@ -82,13 +86,65 @@ Vous y trouverez un sous-dossier `Sozi.app` que vous pourrez
 faire glisser dans votre dossier `Applications`.
 Vous pourrez ensuite l'exécuter comme n'importe quelle autre application pour OS X.
 
+Installation à partir d'une image Docker
+----------------------------------------
+
+Sous Linux ou OS X, cette méthode permet d'installer Sozi, Inkscape et les
+[outils de conversion de présentations](|filename|tutorial-converting.md)
+dans un même conteneur Docker.
+
+Après avoir installé Docker, l'installation de Sozi s'effectue à l'aide de la
+commande suivante&nbsp;:
+
+```bash
+docker pull escalope/inkscape-sozi
+```
+
+Dans les exemples ci-dessous, le dossier courant est monté en tant que
+`/foo`.
+
+Pour lancer Inkscape&nbsp;:
+
+```bash
+xhost +172.17.0.1
+
+docker run --user $UID -ti --rm -e DISPLAY=unix$DISPLAY \
+    -v /tmp/.X11-unix:/tmp/.X11-unix -w /foo -v "`pwd`":/foo \
+    escalope/inkscape-sozi:latest \
+    inkscape
+```
+
+Pour exécuter Sozi&nbsp;:
+
+```bash
+xhost +172.17.0.1
+
+docker run --user $UID -ti --rm -e DISPLAY=unix$DISPLAY \
+    -v /tmp/.X11-unix:/tmp/.X11-unix -w /foo -v "`pwd`":/foo \
+    escalope/inkscape-sozi:latest \
+    sozi
+```
+
+Pour convertir une présentation en vidéo&nbsp;:
+
+```bash
+docker run --user $UID -ti --rm \
+    -w /foo -v "`pwd`":/foo \
+    escalope/inkscape-sozi:latest \
+    sozi-to-video ma-presentation.sozi.html
+```
+
+Cette image a été créée par [Jorge Gomez](https://github.com/escalope).
+Elle est hébergée dans [le dépôt inkscape-sozi sur Docker Hub](https://hub.docker.com/r/escalope/inkscape-sozi).
+Le Dockerfile se trouve [dans le dépôt dockerfile-sozi chez GitHub](https://github.com/escalope/dockerfile-sozi).
+
 Sozi 13
 -------
 
 Sozi 13.11 est toujours disponible en cas de besoin, mais cette version n'est plus maintenue.
 
-  * [Télécharger cette version](https://github.com/senshu/Sozi/releases/download/13.11/sozi-release-13.11-30213629.zip)
-  * [Consulter la liste des nouveautés](|filename|/Releases/release-13.11-fr.md)
-  * [Installer Sozi 13 sous GNU/Linux](|filename|sozi-13-install-linux.md)
-  * [Installer Sozi 13 sous Windows](|filename|sozi-13-install-windows.md)
-  * [Installer Sozi 13 sous Mac OS X](|filename|sozi-13-install-osx.md)
+* [Télécharger cette version](https://github.com/senshu/Sozi/releases/download/13.11/sozi-release-13.11-30213629.zip)
+* [Consulter la liste des nouveautés](|filename|/Releases/release-13.11-fr.md)
+* [Installer Sozi 13 sous GNU/Linux](|filename|sozi-13-install-linux.md)
+* [Installer Sozi 13 sous Windows](|filename|sozi-13-install-windows.md)
+* [Installer Sozi 13 sous Mac OS X](|filename|sozi-13-install-osx.md)

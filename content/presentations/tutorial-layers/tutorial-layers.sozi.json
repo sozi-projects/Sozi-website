@@ -1,10 +1,19 @@
 {
   "aspectWidth": 4,
   "aspectHeight": 3,
+  "enableKeyboardZoom": true,
+  "enableKeyboardRotation": true,
+  "enableKeyboardNavigation": true,
+  "enableMouseTranslation": true,
+  "enableMouseZoom": true,
+  "enableMouseRotation": true,
+  "enableMouseNavigation": true,
   "frames": [
     {
       "frameId": "frame8912",
       "title": "Morning",
+      "titleLevel": 0,
+      "notes": "In the <b>morning</b>, the sun is rising.",
       "timeoutMs": 0,
       "timeoutEnable": false,
       "transitionDurationMs": 1000,
@@ -106,9 +115,9 @@
         "layer2": {
           "deltaX": 0,
           "deltaY": 0,
-          "widthFactor": 1,
-          "heightFactor": 1.0000000000000002,
-          "deltaAngle": -1.5530052155583578e-18
+          "widthFactor": 0.9999999999999998,
+          "heightFactor": 1,
+          "deltaAngle": 0
         },
         "layer1": {
           "deltaX": 0,
@@ -129,6 +138,8 @@
     {
       "frameId": "frame6440",
       "title": "Noon",
+      "titleLevel": 0,
+      "notes": "At <b>noon</b>, the sun is high in the sky.",
       "timeoutMs": 0,
       "timeoutEnable": false,
       "transitionDurationMs": 1000,
@@ -176,10 +187,10 @@
         "layer2": {
           "cx": 345.0270080566406,
           "cy": 245.03421020507812,
-          "width": 239.99999238955226,
+          "width": 239.9999923895523,
           "height": 179.9999942921642,
           "opacity": 1,
-          "angle": -29.980157812937406,
+          "angle": -29.98015781293742,
           "clipped": true,
           "clipXOffset": 0,
           "clipYOffset": 0,
@@ -230,8 +241,8 @@
         "layer2": {
           "deltaX": 0,
           "deltaY": 0,
-          "widthFactor": 1.0000000000000002,
-          "heightFactor": 1,
+          "widthFactor": 1,
+          "heightFactor": 0.9999999999999999,
           "deltaAngle": 0
         },
         "layer3": {
@@ -246,6 +257,8 @@
     {
       "frameId": "frame3916",
       "title": "Evening",
+      "titleLevel": 0,
+      "notes": "In the <b>evening</b>, the moon can be seen.",
       "timeoutMs": 0,
       "timeoutEnable": false,
       "transitionDurationMs": 1000,
@@ -293,10 +306,10 @@
         "layer2": {
           "cx": 312.09576416015625,
           "cy": 277.9263000488281,
-          "width": 240.0000039227079,
+          "width": 240.00000392270792,
           "height": 180.0000029420309,
           "opacity": 1,
-          "angle": -59.9515991294893,
+          "angle": -59.951599129489296,
           "clipped": true,
           "clipXOffset": 0,
           "clipYOffset": 0,
@@ -347,8 +360,8 @@
         "layer2": {
           "deltaX": 0,
           "deltaY": 0,
-          "widthFactor": 1.0000000000000002,
-          "heightFactor": 1,
+          "widthFactor": 1,
+          "heightFactor": 0.9999999999999999,
           "deltaAngle": 0
         },
         "layer3": {
@@ -363,6 +376,8 @@
     {
       "frameId": "frame2695",
       "title": "Night",
+      "titleLevel": 0,
+      "notes": "At <b>night</b>, stars shine bright.",
       "timeoutMs": 0,
       "timeoutEnable": false,
       "transitionDurationMs": 1000,
@@ -464,8 +479,8 @@
         "layer2": {
           "deltaX": 0,
           "deltaY": 0,
-          "widthFactor": 1,
-          "heightFactor": 0.9999999999999999,
+          "widthFactor": 0.9999999999999999,
+          "heightFactor": 0.9999999999999997,
           "deltaAngle": 0
         },
         "layer3": {
@@ -491,13 +506,13 @@
     "rect-sky-night"
   ],
   "selectedFrames": [
-    "frame8912",
-    "frame6440",
-    "frame3916",
     "frame2695"
   ],
   "selectedLayers": [
-    "layer2"
+    "layer2",
+    "layer1",
+    "layer3",
+    "__sozi_auto__"
   ],
   "editableLayers": [
     "layer1",
