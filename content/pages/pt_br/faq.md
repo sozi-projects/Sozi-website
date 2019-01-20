@@ -30,24 +30,5 @@ Como definir uma cor de fundo?
 --------------------------------
 
 O Inkscape permite definir uma cor de fundo no ítem *propriedades do desenho*.
-Infelizmente a cor escolhida é visível apenas no Inkscape e em imagens geradas pelo programa.
-A cor escolhida é ignorada pelos browsers de navegação na internet.
 
-Para definir uma cor que será vista no browser, você pode usar o
-editor de XML editor do Inkscape.
-Selecione a raiz `<svg:svg>`, adicione um novo nó elementar `<svg:style>` e um novo nó de texto
-como mostra a figura abaixo:
-
-![Definindo uma cor de fundo no Inkscape](|filename|/images/faq/background.png)
-
-> Substitua `rgb(255, 200, 255)` pela cor que deseja [CSS color](https://developer.mozilla.org/en/docs/Web/CSS/color_value).
-
-Caso prefira usar um editor de texto, abra um documento SVG e adicione o seguinte
-elemento como um elemento flho da raiz `<svg>`:
-
-    :::xml
-    <style>
-        svg {
-            background: rgb(255, 200, 255);
-        }
-    </style>
+![Setting a background color in Inkscape](|filename|/images/faq/background-en.png)

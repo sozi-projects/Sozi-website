@@ -28,27 +28,47 @@ Comment définir une couleur de fond ?
 -------------------------------------
 
 Inkscape permet de définir la couleur de fond de la page dans la boîte
-de dialogue *propriétés du document*.
-Malheureusement, la couleur sélectionnée n'est visible que dans Inkscape
-et dans les images exportées à partir de votre document.
-Elle est ignorée par les navigateurs web.
+de dialogue *propriétés du document*
+(menu *Fichiers* &rarr; *Propriétés du document* &rarr; onglet *Page* &rarr; *Couleur de fond*).
+Vérifiez que la composante Alpha (opacité) de la couleur vaut 255.
 
-Pour définir une couleur de fond qui s'affichera dans un navigateur web,
-vous pouvez utiliser l'éditeur XML intégré à Inkscape.
-Sélectionner l'élément `<svg:svg>` racine, ajoutez-lui un nœud enfant `<svg:style>`
-puis insérez un nœud texte dans ce dernier avec le contenu affiché dans cette capture
-d'écran:
+![Comment définir une couleur de fond dans Inkscape](|filename|/images/faq/background-fr.png)
 
-![Comment définir une couleur de fond dans Inkscape](|filename|/images/faq/background.png)
+Si vous définissez une couleur de fond dans Inkscape, Sozi le détectera
+et produira un document HTML avec la même couleur de fond.
 
-> Remplacez `rgb(255, 200, 255)` par la [couleur CSS](https://developer.mozilla.org/fr/docs/Web/CSS/color_value) de votre choix.
+> Cette propriété est spécifique à Inkscape et est ignorée par les navigateurs
+> web lorsque vous affichez un document SVG seul.
 
-Si vous préférez utiliser un éditeur de texte, ouvrez votre document SVG
-et ajouter l'élément suivant en tant qu'enfant de l'élément `<svg>` racine:
+Une solution générale si vous n'utilisez pas Inkscape, ou si vous voulez que votre
+document SVG s'affiche avec la couleur de fond de votre choix, consiste à ouvrir
+le fichier SVG dans un éditeur de texte et à insérer un élément `<style>`
+dans l'élément racine `<svg>` de la manière suivante&nbsp;:
 
     :::xml
     <style>
         svg {
-            background: rgb(255, 200, 255);
+            background: rgb(160, 180, 220);
+        }
+    </style>
+
+> Remplacez `rgb(160, 180, 220)` par la [couleur CSS](https://developer.mozilla.org/fr/docs/Web/CSS/color_value) de votre choix.
+
+Comment supprimer la ligne pointillée autour d'un lien qui a le focus&nbsp;?
+----------------------------------------------------------------------------
+
+Si votre document contient des liens, vous avez peut-être remarqué qu'après
+avoir cliqué sur l'un d'entre eux, il se retrouve entouré par un rectangle pointillé.
+
+Ce rectangle est ajouté par le navigateur web pour indentifier le lien qui a
+le focus.
+Vous pouvez le supprimer en utilisant une règle CSS.
+Ouvrez votre document SVG dans un éditeur de texte et ajouter l'élément `<style>`
+suivant à l'intérieur de l'élement racine `<svg>`&nbsp;:
+
+    :::xml
+    <style>
+        a:focus {
+        	outline: none;
         }
     </style>

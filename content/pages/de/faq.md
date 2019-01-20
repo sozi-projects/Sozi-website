@@ -27,21 +27,5 @@ Wie setze ich die Hintergrund-Farbe?
 ------------------------------------
 
 Bei Inkscape kannst Du die Hintergrundfarbe in den *Dokumenteneinstellungen* setzen.
-Leider ist diese Farbe nur in Inkscape selbst und in exportierten Grafiken sichtbar.
-Von Webbrowsern wird sie ignoriert.
 
-Um die Hintergrundfarbe so zu setzen, dass sie auch vom Browser dargestellt wird, kannst Du den XML-Editor von Inkscape nutzen.
-Selektiere das Wurzelelement `<svg:svg>`, erstelle ein Kindelement `<svg:style>` und darin einen Textknoten wie im folgenden Bild:
-
-![Setting a background color in Inkscape](|filename|/images/faq/background.png)
-
-> Ersetze `rgb(255, 200, 255)` mit der [Farbe](https://developer.mozilla.org/en/docs/Web/CSS/color_value) Deiner Wahl.
-
-Wenn Du lieber einen Texteditor einsetzt, dann füge damit im svg-Dokument das folgende Element als Kind des Wurzelelements `<svg>` ein:
-
-    :::xml
-    <style>
-        svg {
-            background: rgb(255, 200, 255);
-        }
-    </style>
+![Setting a background color in Inkscape](|filename|/images/faq/background-en.png)

@@ -29,25 +29,46 @@ with the following warning:
 How do I set a background color?
 --------------------------------
 
-Inkscape allows to set a background color in the *document properties* dialog.
-Unfortunately, the chosen color is only visible in Inkscape and in images exported from your document.
-It is ignored by web browsers.
+Inkscape allows to set a background color in the *document properties* dialog
+(*File* menu &rarr; *Document properties* &rarr; *Page* tab &rarr; *Background color*).
+Make sure that the Alpha (opacity) component of the color is set to 255.
 
-To set a background color that will show in a web browser, you can use the
-XML editor provided by Inkscape.
-Select the root `<svg:svg>` element, add an `<svg:style>` child element and a text node
-inside like in the following screenshot:
+![Setting a background color in Inkscape](|filename|/images/faq/background-en.png)
 
-![Setting a background color in Inkscape](|filename|/images/faq/background.png)
+When you set a background color with Inkscape, Sozi will detect it and will
+generate an HTML document with the same background color.
 
-> Replace `rgb(255, 200, 255)` with your preferred [CSS color](https://developer.mozilla.org/en/docs/Web/CSS/color_value).
+> This property is specific to Inkscape and will be ignored by web browsers when
+> you open the SVG document alone.
 
-If you prefer to use a text editor, open your SVG document and add the following
-element as a child of the root `<svg>` element:
+A general solution if you don't use Inkscape, or if you want your SVG document
+to render with the chosen background color, is to open the SVG file in a text
+editor and insert a `<style>` element inside the root `<svg>` element as follows:
 
     :::xml
     <style>
         svg {
-            background: rgb(255, 200, 255);
+            background: rgb(160, 180, 220);
+        }
+    </style>
+
+> Replace `rgb(160, 180, 220)` with your preferred [CSS color](https://developer.mozilla.org/en/docs/Web/CSS/color_value).
+
+How can I remove the dashed outline around a focused hyperlink?
+---------------------------------------------------------------
+
+If your document contains hyperlinks, you may notice that after clicking on
+a link, it gets surrounded by a dashed rectangle.
+
+This rectangle is added by the web browser to identify the link that has the
+focus.
+You can remove it using a CSS rule.
+Open your SVG document in a text editor and add the following `<style>` element
+inside the root `<svg>` element:
+
+    :::xml
+    <style>
+        a:focus {
+        	outline: none;
         }
     </style>
