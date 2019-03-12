@@ -194,5 +194,5 @@ sein sollte, klicken Sie auf den *Save-Button* in der Werkzeugleiste über der Z
 erste Einzelbild. Klicken Sie innerhalb des Browserfensters, um das nächste Bild anzuzeigen. 
 (siehe auch: [Play](|filename|play.md)).
 
-[Laden SIe die ganze Präsentation herunter](|filename|/presentations/tutorial-layers/tutorial-layers.de.sozi.html)
+[Laden Sie die ganze Präsentation herunter](|filename|/presentations/tutorial-layers/tutorial-layers.de.sozi.html)
 (Rechtsklick auf den Link und dann *verlinkten Inhalt speichern unter*).
