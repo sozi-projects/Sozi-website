@@ -1,4 +1,4 @@
-Title: Documentation
+Title: Documentação
 Slug: 20-documentation
 Lang: pt_br
 Translation: true

@@ -1,4 +1,4 @@
-Title: Community
+Title: Comunidade
 Slug: 60-community
 Lang: pt_br
 Translation: true

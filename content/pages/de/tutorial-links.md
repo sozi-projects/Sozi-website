@@ -1,11 +1,11 @@
 Title: Einzelbild URLs und Hyperlinks
 Slug: tutorial-links
-Lang: en
+Lang: de
 Authors: Guillaume Savaton, Alfred Bergkemper
 Status: hidden
 Translation: true
 
-In diesem Tutorial lernen Sie, wie man Hyperlinks in Sozi Dokumente einfügt und wie man 
+In diesem Tutorial lernen Sie, wie man Hyperlinks in Sozi Dokumente einfügt und wie man
 Einzelbilder direkt verlinkt (Querverweise).
 
 Herunterladen und Öffnen der Beispiel-Datei
@@ -32,7 +32,7 @@ Erzeugen Sie fünf Einzelbilder (Frames), wie in den folgenden Screenshots gezei
 ![Frame 3 (Oben rechts)](|filename|/images/tutorial-links/sozi-links-tutorial-screenshot-04.de.png)
 ![Frame 4 (Unten rechts)](|filename|/images/tutorial-links/sozi-links-tutorial-screenshot-05.de.png)
 ![Frame 5 (Unten links)](|filename|/images/tutorial-links/sozi-links-tutorial-screenshot-06.de.png)
-  
+
 Ändern Sie **die IDs** der Einzelbilder wie folgt (Keine Großbuchstaben, keine Leerzeichen):
 
 <table>
@@ -81,8 +81,8 @@ Im Beispiel zeigt die Adresszeile den URL:
 
     file://.../tutorial-links.sozi.html#oben-rechts
 
-Wenn die Präsentation von einem Web-Server geladen wird, wird das erste Element des URLs `http` oder `https` 
-anstelle von `file`. Im URL oben wird der HTML-Name gefolgt von einer Doppelraute (Hash-Zeichen), dann kommt die 
+Wenn die Präsentation von einem Web-Server geladen wird, wird das erste Element des URLs `http` oder `https`
+anstelle von `file`. Im URL oben wird der HTML-Name gefolgt von einer Doppelraute (Hash-Zeichen), dann kommt die
 ID des gerade angezeigten Einzelbildes (`oben-rechts`).
 
 Dadurch ist es möglich, ein Einzelbild einer Online-Präsentation direkt zu verlinken.  
@@ -96,7 +96,7 @@ Hyperlinks in einer Sozi-Präsentation
 > anderen SVG-Editor einfügen.
 
 Öffnen Sie die Datei `tutorial-links.de.svg` in Inkscape.
-Ein Rechtsklick auf den großen Pfeil, der in die linke obere Ecke zeigt, öffnet 
+Ein Rechtsklick auf den großen Pfeil, der in die linke obere Ecke zeigt, öffnet
 das Kontextmenü. Wählen Sie *Verknüpfung erstellen*.
 
 ![Creating a link in Inkscape](|filename|/images/tutorial-links/sozi-links-tutorial-screenshot-08.de.png)
@@ -107,7 +107,7 @@ Um zum Einzelbild *Oben links* zu verlinken, tragen Sie einfach `#oben-links` in
 
 ![Eintrag des href-Attributs eines Links](|filename|/images/tutorial-links/sozi-links-tutorial-screenshot-09.de.png)
 
-Verfahren Sie sinngemäß mit den anderen Einzelbildern: erzeugen Sie für jeden Pfeil einen Link zur 
+Verfahren Sie sinngemäß mit den anderen Einzelbildern: erzeugen Sie für jeden Pfeil einen Link zur
 entsprechenden Einzelbild-ID. Zum Schluss wählen Sie den blauen Kreis und erzeugen dort einen Link nach #home.  
 
 Aktualisieren Sie die Präsentation und spielen Sie sie im Browser
@@ -116,11 +116,11 @@ Aktualisieren Sie die Präsentation und spielen Sie sie im Browser
 *Speichern* Sie die SVG-Datei in InkScape.
 Wechseln Sie zum Sozi-Fenster, um dort die aktualisierte SVG-Datei neu einzulesen (geschieht automatisch).
 
-Öffnen Sie die Datei `tutorial-links.sozi.de.html` mit Ihrem Lieblingsbrowser. 
+Öffnen Sie die Datei `tutorial-links.sozi.de.html` mit Ihrem Lieblingsbrowser.
 Es wird automatisch das erste Einzelbild angezeigt.
-Klicken Sie auf den weißen Hintergrund um zum nächsten Einzelbild zu gelangen 
+Klicken Sie auf den weißen Hintergrund um zum nächsten Einzelbild zu gelangen
 (Siehe auch: [Eine Präsentation abspielen](|filename|play.md))
-oder klicken Sie auf einen der Pfeile, um direkt zum entsprechenden 
+oder klicken Sie auf einen der Pfeile, um direkt zum entsprechenden
 Einzelbild zu springen.
 
 [Laden Sie hier die fertige Präsentation herunter](|filename|/presentations/tutorial-links/tutorial-links.de.sozi.html)

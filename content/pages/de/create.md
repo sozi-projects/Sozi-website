@@ -7,7 +7,7 @@ Authors: Guillaume Savaton, Andrej Barth
 
 
 * [Deine erste Präsentation](|filename|tutorial-first.md)
-* [Ebenen](|filename|tutorial-layers.md)
+* [Der Gebrauch von Ebenen](|filename|tutorial-layers.md)
 <!-- * [Übergänge](|filename|tutorial-transitions.md) -->
 * [Bild-URLs und Links](|filename|tutorial-links.md)
 * [Sozi-Dokumente in HTML-Dateien einbetten](|filename|tutorial-embedding.md)
