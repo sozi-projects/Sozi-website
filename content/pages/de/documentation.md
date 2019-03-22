@@ -1,13 +1,12 @@
 Title: Dokumentation
 Slug: 20-documentation
 Lang: de
+Authors: Guillaume Savaton, Alfred Bergkemper
+Status: hidden
 Translation: true
-Authors: Guillaume Savaton
 
-> This page has not been translated yet
-
-* [Installing Sozi](|filename|install.md)
-* [Creating presentations](|filename|create.md)
-* [Playing presentations](|filename|play.md)
-* [Contributing to the development of Sozi](|filename|contribute.md)
-* [FAQ: Häufig gestellte Fragen und Antworten](|filename|faq.md)
+* [Sozi installieren](|filename|install.md)
+* [Präsentationen erstellen](|filename|create.md)
+* [Präsentationen abspielen](|filename|play.md)
+* [Bei der Weiterentwicklung von Sozi helfen](|filename|contribute.md)
+* [Oft gestellte Fragen (FAQ) und Problemlösungen](|filename|faq.md)

@@ -1,11 +1,11 @@
 Title: Spenden
 Slug: 70-donate
 Lang: de
-Authors: Guillaume Savaton
+Authors: Guillaume Savaton, Alfred Bergkemper
+Status: hidden
+Translation: true
 
-> This page has not been translated yet
-
-We accept donations using the following services:
+Spenden werden gern akzeptiert. Unterstützen Sie uns via:
 
 * [Paypal](https://www.paypal.me/guillaumesavaton)
 * [Flattr](https://flattr.com/submit/auto?fid=4lz3lv&url=http://sozi.baierouge.fr/)
