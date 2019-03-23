@@ -1,12 +1,12 @@
 Title: Community
 Slug: 60-community
 Lang: de
+Authors: Guillaume Savaton, Alfred Bergkemper
+Status: hidden
 Translation: true
-Authors: Guillaume Savaton
 
-> This page has not been translated yet
+Holen Sie sich Unterstützung beim Einsatz von Sozi, stellen und beantworten Sie Fragen, 
+tauschen Sie Tipps und Tricks aus und teilen Sie Ihre Erzeugnisse:
 
-Get support using Sozi, ask and answer questions, exchange tips and best practices, share your creations:
-
-* [Visit the Sozi community forum](/community)
-* [Read our privacy policy](|filename|privacy.md)
+* [Besuchen Sie das Sozi-Forum](/community)
+* [Lesen Sie alles über unsere Datenschutzrichtlinien](|filename|privacy.md)
