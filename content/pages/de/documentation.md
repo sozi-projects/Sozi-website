@@ -2,7 +2,6 @@ Title: Dokumentation
 Slug: 20-documentation
 Lang: de
 Authors: Guillaume Savaton, Alfred Bergkemper
-Status: hidden
 Translation: true
 
 * [Sozi installieren](|filename|install.md)
