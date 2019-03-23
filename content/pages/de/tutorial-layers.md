@@ -39,7 +39,7 @@ Tastenkombination **Strg-Umsch-L** oder Klick auf ›Ebenen‹ im Ebenen-Menü.
 
 Unser Dokument enthält drei Ebenen:
 
-* *Überschriften:*  Die Vordergrundebene mit den Textelementen
+* *Überschriften:*   Die Vordergrundebene mit den Textelementen
 * *Himmel:*           Die Hintergrundebene enthält einen großen blauen Kreis mit Sonne, Mond und Sternen.
 * *Landschaft:*      Die zwischen den beiden anderen liegende Ebene enthält das Bild eines Baumes.
 
@@ -78,7 +78,7 @@ Die Zeitleiste sollte jetzt folgendermaßen aussehen:
 Fügen Sie die Ebene ›Landschaft‹ hinzu (fixed Layer)
 ----------------------------------------------------
 
-Klicken Sie auf *Ebene hinzufügen* und wählen Sie *Landschaft*. KLicken Sie in der Zeitleiste
+Klicken Sie auf *Ebene hinzufügen* und wählen Sie *Landschaft*. Klicken Sie in der Zeitleiste
 auf die Zelle in der Spalte ›Morgen‹ und Zeile ›Landschaft‹. Diese ist damit ausgewählt (blau hinterlegt).
 
 ![Select layer Landscape for frame 1](|filename|/images/tutorial-layers/sozi-layers-tutorial-screenshot-05.de.png)
@@ -96,11 +96,11 @@ Da der Button *Element automatisch auswählen* aktiviert (blau hinterlegt) ist, 
 SVG-Kennung und schlägt automatisch vor, dieses Objekt zur Größenanpassung des ersten 
 Einzelbilds zu verwenden.
 
+![Outline element selection](|filename|/images/tutorial-layers/sozi-layers-tutorial-screenshot-07.de.png)
+
 * klicken Sie auf den Button *An SVG_Element anpassen* und die Ebene ›Landschaft‹ wird automatisch 
   so verschoben und vergrößert, dass das Rechteck maximal groß im Vorschaufeld angezeigt wird.
 * Ein Klick auf *Element verstecken* blendet das Rechteck aus.
-
-![Outline element selection](|filename|/images/tutorial-layers/sozi-layers-tutorial-screenshot-07.de.png)
 
 Direkt unter dem Titel ›Ebene‹ im Einstellungsfenster gibt es den Button *Nicht sichtbare 
 Elemente entfernen*, mit dem man alles außerhalb des Rechtecks verstecken kann. Diese Option 
