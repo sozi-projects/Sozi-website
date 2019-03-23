@@ -1,4 +1,4 @@
-Title: Gemeinschaft
+Title: Community
 Slug: 60-community
 Lang: de
 Translation: true
