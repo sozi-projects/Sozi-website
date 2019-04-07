@@ -26,7 +26,6 @@ LINKS =  (
 SOCIAL = (
     ('Mastodon', 'https://mamot.fr/@senshu'),
     ('Twitter', 'https://twitter.com/senshua'),
-    ('Facebook', 'https://www.facebook.com/sozi.project'),
     # TODO add YouTube
 )
 

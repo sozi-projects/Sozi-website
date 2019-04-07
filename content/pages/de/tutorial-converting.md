@@ -5,10 +5,10 @@ Authors: Guillaume Savaton, Alfred Bergkemper
 Status: hidden
 Translation: true
 
-(**Achtung!** Diese Übersetzung beruht nicht auf praktischen Erfahrungen und kann daher fehlerhaft sein. 
-Im Zweifelsfall vergleichen Sie bitte die Originalseite.)
+> Diese Übersetzung beruht nicht auf praktischen Erfahrungen und kann daher fehlerhaft sein.
+Im Zweifelsfall vergleichen Sie bitte die Originalseite.
 
-Sozi-Export besteht aus einer Reihe von Kommandozeilen-Tools, mit denen man eine Sozi-Präsentation 
+Sozi-Export besteht aus einer Reihe von Kommandozeilen-Tools, mit denen man eine Sozi-Präsentation
 in eine PDF-Datei, ein Video oder in das Powerpoint-Format konvertieren kann.
 Der Quellcode liegt in der [Sozi-export](https://github.com/senshu/Sozi-export)
 Repository.
@@ -68,7 +68,7 @@ Frame-Listen haben folgende Syntax:
 * `all` wählt *alle* Frames der Präsentation aus.
 * `none` wählt *keinen* Frame aus.
 * Eine Komma-separierte Liste von Frame-Nummern oder -bereichen.
-  Ein Bereich hat die Form `erster:letzter` oder `erster:zweiter:letzter` 
+  Ein Bereich hat die Form `erster:letzter` oder `erster:zweiter:letzter`
   wobei `letzter`, `zweiter` und `last` Frame-Nummern sind.
 
 Zum Beispiel: `-i 2,4:6,10:12:18` bezieht die Frames 2, 4, 5, 6, 10, 12, 14, 16, 18 ein.
