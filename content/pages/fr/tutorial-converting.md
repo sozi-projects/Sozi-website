@@ -49,6 +49,7 @@ Options:
 * `-r`, `--resolution <number>` Pixels par unité de hauteur/largeur (72 par défaut)
 * `-p`, `--paper <size>` Un format de papier LaTeX ('a4paper' par défaut)
 * `-P`, `--portrait` Définir l'orientation du papier en portrait (désactivé par défaut)
+* `-c`, `--png-compression <number>` Niveau de compression des fichiers PNG générés (0 à 100, une plus grande valeur implique de plus petits fichiers, 100 par défaut)
 * `-i`, `--include <list>` Les vues à inclure ('all' par défaut)
 * `-x`, `--exclude <list>` Les vues à exclure ('none' par défaut)
 
@@ -82,6 +83,7 @@ Options:
 * `-W`, `--width <number>` La largeur de la vidéo, en pixels (1024 par défaut)
 * `-H`, `--height <number>` La hauteur de la vidéo, en pixels (768 par défaut)
 * `-b`, `--bit-rate <number>` Le débit binaire de la vidéo (2M par défaut)
+* `-c`, `--png-compression <number>` Niveau de compression des fichiers PNG générés (0 à 100, une plus grande valeur implique de plus petits fichiers, 100 par défaut)
 
 Convertir une presentation Sozi en présentation PowerPoint
 ----------------------------------------------------------
@@ -99,6 +101,7 @@ Options:
 * `-W`, `--width <number>` La largeur de la page (29.7 par défaut)
 * `-H`, `--height <number>` La hauteur de la page (21 par défaut)
 * `-r`, `--resolution <number>` Pixels par unité de hauteur/largeur (72 par défaut)
+* `-c`, `--png-compression <number>` Niveau de compression des fichiers PNG générés (0 à 100, une plus grande valeur implique de plus petits fichiers, 100 par défaut)
 * `-i`, `--include <list>` Les vues à inclure ('all' par défaut)
 * `-x`, `--exclude <list>` Les vues à exclure ('none' par défaut)
 
