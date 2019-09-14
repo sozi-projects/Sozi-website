@@ -35,6 +35,17 @@ de fournir les informations suivantes&nbsp;:
 * *Start playing when entering frame (id)*&nbsp;: l'identifiant de la vue où le media doit démarrer automatiquement.
 * *Stop playing when entering frame (id)*&nbsp;: l'identifiant de la vue où le media doit s'arrêter automatiquement.
 
+Exemple
+-------
+
+La présentation ci-dessous joue une vidéo dans la deuxième vue et un extrait audio
+dans la troisième.
+[Télécharger les fichiers de la présentation](|filename|/presentations/tutorial-media.zip).
+
+<iframe class="sozi" src="|filename|/presentations/tutorial-media/tutorial-media.sozi.html">
+    Your browser cannot display this content.
+</iframe>
+
 Prise en charge par les navigateurs
 -----------------------------------
 

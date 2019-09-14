@@ -5,11 +5,11 @@ Translation: true
 Status: hidden
 Authors: Guillaume Savaton, Andrej Barth
 
-Read this page in English for an up-to-date version.
+> Read this page in English for an up-to-date version.
 
-> Wenn Sie Sozi nutzen und seine Entwicklung unterstützen möchten,
-> können Sie sich [beteiligen](|filename|contribute.md), [spenden](|filename|donate.md)
-> oder [kaufen Sie etwas in unserem Online-Shop](https://www.spreadshirt.fr/user/Guillaume+Savaton).
+Wenn Sie Sozi nutzen und seine Entwicklung unterstützen möchten,
+können Sie sich [beteiligen](|filename|contribute.md), [spenden](|filename|donate.md)
+oder [kaufen Sie etwas in unserem Online-Shop](https://www.spreadshirt.fr/user/Guillaume+Savaton).
 
 * [Download neueste Release](https://github.com/senshu/Sozi/releases/latest)
 * [Download Vorschau des kommenden Releases](https://drive.google.com/open?id=0ByRUreHgekjMWG9teGM2dE8wck0) (für Tester)

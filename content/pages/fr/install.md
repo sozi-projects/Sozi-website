@@ -5,9 +5,11 @@ Translation: true
 Status: hidden
 Authors: Guillaume Savaton
 
-> Si vous utilisez Sozi et souhaitez soutenir son développement,
-> vous pouvez [contribuer](|filename|contribute.md), [faire un don](|filename|donate.md),
-> ou encore [acheter un objet de notre boutique](https://www.spreadshirt.fr/user/Guillaume+Savaton).
+Si vous utilisez Sozi et souhaitez soutenir son développement,
+vous pouvez [contribuer](|filename|contribute.md),
+[acheter un objet](https://www.spreadshirt.fr/user/Guillaume+Savaton),
+[m'offrir un café](https://www.buymeacoffee.com/THtbNvnqE),
+ou [faire un don par un autre moyen](|filename|donate.md).
 
 * [Télécharger la dernière version](https://github.com/senshu/Sozi/releases/latest)
 * [Télécharger un aperçu de la prochaine version](https://drive.google.com/open?id=0ByRUreHgekjMWG9teGM2dE8wck0) (pour les testeurs)

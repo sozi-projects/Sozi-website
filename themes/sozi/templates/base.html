@@ -10,12 +10,13 @@
 <head>
     {% block head %}
         <title>{% block title %}{{ SITENAME }}{% endblock title %}</title>
-        <meta charset="utf-8" />
-        <link rel="shortcut icon" href="favicon.ico" />
-        <link rel="stylesheet" type="text/css" href="{{ SITEURL }}/theme/css/{{ CSS_FILE }}" />
+        <meta charset="utf-8">
+        <link rel="shortcut icon" href="favicon.ico">
+        <link rel="stylesheet" type="text/css" href="{{ SITEURL }}/theme/css/{{ CSS_FILE }}">
         {% if FEED_ALL_ATOM %}
-            <link href="{{ SITEURL }}/{{ FEED_ALL_ATOM }}" type="application/atom+xml" rel="alternate" title="{{ SITENAME }} Atom Feed" />
+            <link href="{{ SITEURL }}/{{ FEED_ALL_ATOM }}" type="application/atom+xml" rel="alternate" title="{{ SITENAME }} Atom Feed">
         {% endif %}
+        {% include 'adsense.html' %}
     {% endblock head %}
 </head>
 <body id="index" class="home">
@@ -38,6 +39,8 @@
             {% endfor %}
         </ul>
     </nav><!-- /#menu -->
+
+    {% include 'adsense-block.html' %}
 
     {% block content %}
     {% endblock %}
