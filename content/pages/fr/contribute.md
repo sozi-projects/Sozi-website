@@ -7,7 +7,7 @@ Authors: Guillaume Savaton, Vincent Garibal
 
 Le code source de Sozi est disponible dans les dépôts suivants&nbsp;:
 
-* [L'éditeur de présentations](https://github.com/senshu/Sozi)
+* [L'éditeur de présentations](https://github.com/senshu/Sozi) (consultez également la [documentation du code source](/api/))
 * [L'outil de conversion en PDF et en vidéo](https://github.com/senshu/Sozi-export)
 * [Ce site web](https://github.com/senshu/Sozi-website)
 

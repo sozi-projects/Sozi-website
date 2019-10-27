@@ -6,7 +6,7 @@ Authors: Guillaume Savaton
 
 The source code of Sozi is hosted in the following repositories:
 
-* [The presentation editor](https://github.com/senshu/Sozi)
+* [The presentation editor](https://github.com/senshu/Sozi) (you can also browse the [source code documentation](/api/))
 * [The PDF and video exporter](https://github.com/senshu/Sozi-export)
 * [This web site](https://github.com/senshu/Sozi-website)
 
