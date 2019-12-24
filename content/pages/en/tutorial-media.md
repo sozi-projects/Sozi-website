@@ -39,9 +39,9 @@ Example
 
 The presentation below plays a video in the second frame and an audio sample in
 the third frame.
-[Download the presentation files](|filename|/presentations/tutorial-media.zip).
+[Download the presentation files]({static}/presentations/tutorial-media.zip).
 
-<iframe class="sozi" src="|filename|/presentations/tutorial-media/tutorial-media.sozi.html">
+<iframe class="sozi" src="{static}/presentations/tutorial-media/tutorial-media.sozi.html">
     Your browser cannot display this content.
 </iframe>
 

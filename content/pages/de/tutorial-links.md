@@ -12,7 +12,7 @@ Herunterladen und Öffnen der Beispiel-Datei
 -------------------------------------------
 
 Dieses Tutorial basiert auf einer SVG-Datei, die die einzelnen Elemente unserer Präsentation enthält.
-[Bitte laden Sie die Basis-SVG-Datei](|filename|/presentations/tutorial-links/tutorial-links.de.svg)
+[Bitte laden Sie die Basis-SVG-Datei]({static}/presentations/tutorial-links/tutorial-links.de.svg)
 (Rechtsklick auf den Link und dann *verlinkten Inhalt speichern unter*).
 
 Die Datei wurde mit [Inkscape](https://inkscape.org) erstellt.
@@ -23,15 +23,15 @@ Erzeugen Sie die Einzelbilder der Präsentation
 
 Öffnen Sie `tutorial-links.de.svg` im Sozi-Editor.
 
-![Base document in Sozi](|filename|/images/tutorial-links/sozi-links-tutorial-screenshot-01.de.png)
+![Base document in Sozi]({static}/images/tutorial-links/sozi-links-tutorial-screenshot-01.de.png)
 
 Erzeugen Sie fünf Einzelbilder (Frames), wie in den folgenden Screenshots gezeigt:
 
-![Frame 1 (Home)](|filename|/images/tutorial-links/sozi-links-tutorial-screenshot-02.de.png)
-![Frame 2 (Oben links)](|filename|/images/tutorial-links/sozi-links-tutorial-screenshot-03.de.png)
-![Frame 3 (Oben rechts)](|filename|/images/tutorial-links/sozi-links-tutorial-screenshot-04.de.png)
-![Frame 4 (Unten rechts)](|filename|/images/tutorial-links/sozi-links-tutorial-screenshot-05.de.png)
-![Frame 5 (Unten links)](|filename|/images/tutorial-links/sozi-links-tutorial-screenshot-06.de.png)
+![Frame 1 (Home)]({static}/images/tutorial-links/sozi-links-tutorial-screenshot-02.de.png)
+![Frame 2 (Oben links)]({static}/images/tutorial-links/sozi-links-tutorial-screenshot-03.de.png)
+![Frame 3 (Oben rechts)]({static}/images/tutorial-links/sozi-links-tutorial-screenshot-04.de.png)
+![Frame 4 (Unten rechts)]({static}/images/tutorial-links/sozi-links-tutorial-screenshot-05.de.png)
+![Frame 5 (Unten links)]({static}/images/tutorial-links/sozi-links-tutorial-screenshot-06.de.png)
 
 Ändern Sie **die IDs** der Einzelbilder wie folgt (Keine Großbuchstaben, keine Leerzeichen):
 
@@ -75,7 +75,7 @@ URLs der Einzelbilder
 
 Wenn eine Sozi-Präsentation im Browser geöffnet wird, ändert sich die Adresszeile bei jedem neuen Einzelbild.
 
-![Frame URL in the address bar of a web browser](|filename|/images/tutorial-links/sozi-links-tutorial-screenshot-07.de.png)
+![Frame URL in the address bar of a web browser]({static}/images/tutorial-links/sozi-links-tutorial-screenshot-07.de.png)
 
 Im Beispiel zeigt die Adresszeile den URL:
 
@@ -99,13 +99,13 @@ Hyperlinks in einer Sozi-Präsentation
 Ein Rechtsklick auf den großen Pfeil, der in die linke obere Ecke zeigt, öffnet
 das Kontextmenü. Wählen Sie *Verknüpfung erstellen*.
 
-![Creating a link in Inkscape](|filename|/images/tutorial-links/sozi-links-tutorial-screenshot-08.de.png)
+![Creating a link in Inkscape]({static}/images/tutorial-links/sozi-links-tutorial-screenshot-08.de.png)
 
 Dadurch öffnet sich das Andockfenster *Objekteigenschaften*, in dem Sie den Link eintragen können.
 
 Um zum Einzelbild *Oben links* zu verlinken, tragen Sie einfach `#oben-links` in die Zeile `Href:` ein:
 
-![Eintrag des href-Attributs eines Links](|filename|/images/tutorial-links/sozi-links-tutorial-screenshot-09.de.png)
+![Eintrag des href-Attributs eines Links]({static}/images/tutorial-links/sozi-links-tutorial-screenshot-09.de.png)
 
 Verfahren Sie sinngemäß mit den anderen Einzelbildern: erzeugen Sie für jeden Pfeil einen Link zur
 entsprechenden Einzelbild-ID. Zum Schluss wählen Sie den blauen Kreis und erzeugen dort einen Link nach #home.  
@@ -123,5 +123,5 @@ Klicken Sie auf den weißen Hintergrund um zum nächsten Einzelbild zu gelangen
 oder klicken Sie auf einen der Pfeile, um direkt zum entsprechenden
 Einzelbild zu springen.
 
-[Laden Sie hier die fertige Präsentation herunter](|filename|/presentations/tutorial-links/tutorial-links.de.sozi.html)
+[Laden Sie hier die fertige Präsentation herunter]({static}/presentations/tutorial-links/tutorial-links.de.sozi.html)
 (Rechtsklick auf den Link und dann *verlinkten Inhalt speichern unter*).

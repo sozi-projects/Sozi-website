@@ -18,7 +18,7 @@ Téléchargez et ouvrez le document de base
 -----------------------------------------
 
 Ce tutoriel se base sur un document SVG qui contient les éléments visuels de notre présentation.
-[Téléchargez le document SVG de base](|filename|/presentations/tutorial-layers/tutorial-layers.fr.svg)
+[Téléchargez le document SVG de base]({static}/presentations/tutorial-layers/tutorial-layers.fr.svg)
 (Cliquez avec le bouton droit sur le lien et choisissez *Enregistrer la cible du lien sous*).
 
 Ce document SVG a été créé avec [Inkscape](https://inkscape.org).
@@ -28,7 +28,7 @@ des éléments graphiques.
 
 Ouvrez `tutorial-layers.fr.svg` dans Inkscape.
 
-![Document de base dans Inkscape](|filename|/images/tutorial-layers/sozi-layers-tutorial-screenshot-01.fr.png)
+![Document de base dans Inkscape]({static}/images/tutorial-layers/sozi-layers-tutorial-screenshot-01.fr.png)
 
 Organisation des calques
 ------------------------
@@ -37,7 +37,7 @@ Inkscape permet d'organiser un document en calques.
 Vous pouvez ouvrir le panneau des calques en cliquant sur le bouton *Afficher les calques* dans la barre d'outils,
 ou en choisissant l'option *Calques&hellip;* dans le menu *Calques*.
 
-![Montrer les calques](|filename|/images/tutorial-layers/sozi-layers-tutorial-screenshot-02.fr.png)
+![Montrer les calques]({static}/images/tutorial-layers/sozi-layers-tutorial-screenshot-02.fr.png)
 
 Dans cet exemple, le document contient trois calques&nbsp;:
 
@@ -58,7 +58,7 @@ Créez les vues de la présentation
 
 Ouvrez `tutorial-layers.svg` dans l'éditeur de présentation Sozi.
 
-![Document de base dans Sozi](|filename|/images/tutorial-layers/sozi-layers-tutorial-screenshot-03.fr.png)
+![Document de base dans Sozi]({static}/images/tutorial-layers/sozi-layers-tutorial-screenshot-03.fr.png)
 
 Créez quatre vues à l'aide du bouton *+* dans le panneau du bas représentant la chronologie de la présentation.
 Pour chaque vue, remplissez le champ *Titre* avec les titres suivants&nbsp;:
@@ -70,7 +70,7 @@ Pour chaque vue, remplissez le champ *Titre* avec les titres suivants&nbsp;:
 
 La chronologie devrait ressembler à ceci&nbsp;:
 
-![Chronologie avec 4 vues](|filename|/images/tutorial-layers/sozi-layers-tutorial-screenshot-04.fr.png)
+![Chronologie avec 4 vues]({static}/images/tutorial-layers/sozi-layers-tutorial-screenshot-04.fr.png)
 
 Ajoutez un calque fixe (Paysage)
 --------------------------------
@@ -79,13 +79,13 @@ Appuyez sur le bouton *Ajouter un calque* et choisissez *Paysage*.
 Dans la chronologie, sélectionnez la cellule correspondant à la première vue et au
 calque *Paysage* comme indiqué ci-dessous.
 
-![Sélectionnez le calque Paysage pour la vue 1](|filename|/images/tutorial-layers/sozi-layers-tutorial-screenshot-05.fr.png)
+![Sélectionnez le calque Paysage pour la vue 1]({static}/images/tutorial-layers/sozi-layers-tutorial-screenshot-05.fr.png)
 
 Dans la zone d'aperçu, effectuez un zoom avant (molette de la souris) et déplacez le calque *Paysage*
 jusqu'à ce que le rectangle contenant l'arbre remplisse presque la zone.
 Assurez-vous que seuls les éléments du calque *Paysage* soient affectés.
 
-![Zoom dans le calque Paysage](|filename|/images/tutorial-layers/sozi-layers-tutorial-screenshot-06.fr.png)
+![Zoom dans le calque Paysage]({static}/images/tutorial-layers/sozi-layers-tutorial-screenshot-06.fr.png)
 
 Dans le volet des propriétés à droite, le champ *Id de l'élément à utiliser comme contour* doit contenir
 "rect-paysage".
@@ -98,7 +98,7 @@ rectangle comme contour pour la vue actuelle.
   ajusté de sorte que le rectangle remplisse la zone d'aperçu.
 * Appuyez sur le bouton *Cacher l'élément* pour masquer le rectangle.
 
-![Sélection de l'élément de contour](|filename|/images/tutorial-layers/sozi-layers-tutorial-screenshot-07.fr.png)
+![Sélection de l'élément de contour]({static}/images/tutorial-layers/sozi-layers-tutorial-screenshot-07.fr.png)
 
 Nous souhaitons cacher les éléments situés en-dehors de ce rectangle lorsque du
 visionnage de la présentation, en particulier si la fenêtre du navigateur web a des
@@ -108,7 +108,7 @@ En haut à droite du volet des propriétés, appuyez sur le bouton *Rogner*.
 Nous avons mis en place un calque qui ne bougera pas pendant la présentation.
 Maintenant, créons un calque animé.
 
-![Calque de paysage ajusté](|filename|/images/tutorial-layers/sozi-layers-tutorial-screenshot-08.fr.png)
+![Calque de paysage ajusté]({static}/images/tutorial-layers/sozi-layers-tutorial-screenshot-08.fr.png)
 
 Ajoutez un calque animé (Légendes)
 ----------------------------------
@@ -117,13 +117,13 @@ Appuyez sur le bouton *Ajouter un calque* et choisissez *Légendes*.
 Dans la chronologie, sélectionnez la cellule correspondant à la première vue et au calque
 *Légendes* comme indiqué ci-dessous.
 
-![Sélection du calque Légendes pour la vue 1](|filename|/images/tutorial-layers/sozi-layers-tutorial-screenshot-09.fr.png)
+![Sélection du calque Légendes pour la vue 1]({static}/images/tutorial-layers/sozi-layers-tutorial-screenshot-09.fr.png)
 
 Dans la zone d'aperçu, effectuez un zoom avant (molette de la souris) et déplacez le calque *Légendes*
 jusqu'à ce que le rectangle contenant le texte "Matin" remplisse presque la zone.
 Assurez-vous que seuls les éléments du calque *Légendes* soient affectés.
 
-![Zoomez dans le calque Légendes](|filename|/images/tutorial-layers/sozi-layers-tutorial-screenshot-10.fr.png)
+![Zoomez dans le calque Légendes]({static}/images/tutorial-layers/sozi-layers-tutorial-screenshot-10.fr.png)
 
 Le champ *Id de l'élément à utiliser comme contour* doit contenir "rect-texte-matin".
 Appuyez sur les boutons *Ajuster à l'élément*, *Cacher l'élément* et *Rogner*.
@@ -131,10 +131,10 @@ Appuyez sur les boutons *Ajuster à l'élément*, *Cacher l'élément* et *Rogne
 Appliquez le même procédé aux vues "Midi", "Soir" et "Nuit".
 La zone d'aperçu pour chaque vue doit ressembler à ceci:
 
-![Vue ajustée 1 dans le calque Légendes](|filename|/images/tutorial-layers/sozi-layers-tutorial-screenshot-11.fr.png)
-![Vue ajustée 2 dans le calque Légendes](|filename|/images/tutorial-layers/sozi-layers-tutorial-screenshot-12.fr.png)
-![Vue ajustée 3 dans le calque Légendes](|filename|/images/tutorial-layers/sozi-layers-tutorial-screenshot-13.fr.png)
-![Vue ajustée 4 dans le calque Légendes](|filename|/images/tutorial-layers/sozi-layers-tutorial-screenshot-14.fr.png)
+![Vue ajustée 1 dans le calque Légendes]({static}/images/tutorial-layers/sozi-layers-tutorial-screenshot-11.fr.png)
+![Vue ajustée 2 dans le calque Légendes]({static}/images/tutorial-layers/sozi-layers-tutorial-screenshot-12.fr.png)
+![Vue ajustée 3 dans le calque Légendes]({static}/images/tutorial-layers/sozi-layers-tutorial-screenshot-13.fr.png)
+![Vue ajustée 4 dans le calque Légendes]({static}/images/tutorial-layers/sozi-layers-tutorial-screenshot-14.fr.png)
 
 Ajoutez un calque animé (Ciel)
 ------------------------------
@@ -152,7 +152,7 @@ La ligne *Par défaut* doit disparaître.
 Pour plus de facilité, nous allons cacher les calques *Paysage* et *Légendes*.
 Cliquez sur les icônes "œil" à gauche dans les lignes qui correspondent à ces calques.
 
-![Sélection du calque Ciel pour la vue 1](|filename|/images/tutorial-layers/sozi-layers-tutorial-screenshot-15.fr.png)
+![Sélection du calque Ciel pour la vue 1]({static}/images/tutorial-layers/sozi-layers-tutorial-screenshot-15.fr.png)
 
 > L'icône "œil" permet de masquer un calque dans l'éditeur pendant que vous travaillez sur d'autres calques.
 > Les calques cachés sont toujours visibles lors de la lecture de la présentation.
@@ -170,10 +170,10 @@ Pour chaque vue&nbsp;:
 Affichez les calques *Paysage* et *Légendes* à nouveau.
 La zone d'aperçu devrait ressembler à ceci:
 
-![Vue ajustée 1 dans le calque Ciel](|filename|/images/tutorial-layers/sozi-layers-tutorial-screenshot-16.fr.png)
-![Vue ajustée 2 dans le calque Ciel](|filename|/images/tutorial-layers/sozi-layers-tutorial-screenshot-17.fr.png)
-![Vue ajustée 3 dans le calque Ciel](|filename|/images/tutorial-layers/sozi-layers-tutorial-screenshot-18.fr.png)
-![Vue ajustée 4 dans le calque Ciel](|filename|/images/tutorial-layers/sozi-layers-tutorial-screenshot-19.fr.png)
+![Vue ajustée 1 dans le calque Ciel]({static}/images/tutorial-layers/sozi-layers-tutorial-screenshot-16.fr.png)
+![Vue ajustée 2 dans le calque Ciel]({static}/images/tutorial-layers/sozi-layers-tutorial-screenshot-17.fr.png)
+![Vue ajustée 3 dans le calque Ciel]({static}/images/tutorial-layers/sozi-layers-tutorial-screenshot-18.fr.png)
+![Vue ajustée 4 dans le calque Ciel]({static}/images/tutorial-layers/sozi-layers-tutorial-screenshot-19.fr.png)
 
 Enregistrez et visionnez la présentation
 ----------------------------------------
@@ -186,5 +186,5 @@ La caméra est automatiquement positionnée sur la première vue de la présenta
 Cliquez dans la fenêtre du navigateur web pour passer à la vue suivante.
 (voir aussi: [Jouer une présentation](|filename|play.md)).
 
-[Téléchargez la présentation complète](|filename|/presentations/tutorial-layers/tutorial-layers.fr.sozi.html)
+[Téléchargez la présentation complète]({static}/presentations/tutorial-layers/tutorial-layers.fr.sozi.html)
 (Cliquez avec le bouton droit sur le lien et choisissez *Enregistrer la cible du lien sous*).

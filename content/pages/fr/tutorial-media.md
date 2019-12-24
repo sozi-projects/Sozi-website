@@ -40,9 +40,9 @@ Exemple
 
 La présentation ci-dessous joue une vidéo dans la deuxième vue et un extrait audio
 dans la troisième.
-[Télécharger les fichiers de la présentation](|filename|/presentations/tutorial-media.zip).
+[Télécharger les fichiers de la présentation]({static}/presentations/tutorial-media.zip).
 
-<iframe class="sozi" src="|filename|/presentations/tutorial-media/tutorial-media.sozi.html">
+<iframe class="sozi" src="{static}/presentations/tutorial-media/tutorial-media.sozi.html">
     Your browser cannot display this content.
 </iframe>
 

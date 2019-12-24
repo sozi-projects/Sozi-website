@@ -32,7 +32,7 @@ Inkscape kann die Hintergrundfarbe in den *Dokumenteneinstellungen* festlegen
 (*Datei*-Menü &rarr; *Dokumenteneinstellungen* &rarr; *Seite*-Tab &rarr; *Hintergrundfarbe*).
 Wichtig ist hier, dass der *Alpha-Kanal* (Deckkraft) der Farbe auf 255 eingestellt ist.
 
-![Einstellung der Hintergrundfarbe in Inkscape](|filename|/images/faq/background-de.png)
+![Einstellung der Hintergrundfarbe in Inkscape]({static}/images/faq/background-de.png)
 
 Sozi erkennt eine in Inkscape eingestellte Hintergrundfarbe und erzeugt eine Präsentation 
 mit genau dieser Hintergrundfarbe.

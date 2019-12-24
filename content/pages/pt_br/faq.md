@@ -31,4 +31,4 @@ Como definir uma cor de fundo?
 
 O Inkscape permite definir uma cor de fundo no ítem *propriedades do desenho*.
 
-![Setting a background color in Inkscape](|filename|/images/faq/background-en.png)
+![Setting a background color in Inkscape]({static}/images/faq/background-en.png)

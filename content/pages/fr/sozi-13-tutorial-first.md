@@ -15,10 +15,10 @@ Téléchargez et ouvrez le document d'exemple
 -------------------------------------------
 
 Ce tutoriel se base sur un simple document SVG qui contient les éléments visuels nécessaires à notre présentation.
-[Téléchargez le document SVG de base](|filename|/images/sozi-13-tutorial-first/sozi-tutorial-base.svg) (Bouton droit sur le lien et choisissez *Enregistrer la cible du lien sous*)
+[Téléchargez le document SVG de base]({static}/images/sozi-13-tutorial-first/sozi-tutorial-base.svg) (Bouton droit sur le lien et choisissez *Enregistrer la cible du lien sous*)
 et ouvrez-le dans Inkscape.
 
-![Ouvrir le document SVG dans Inkscape](|filename|/images/sozi-13-tutorial-first/sozi-tutorial-screenshot-01.png)
+![Ouvrir le document SVG dans Inkscape]({static}/images/sozi-13-tutorial-first/sozi-tutorial-screenshot-01.png)
 
 Dessinez les cadres des vues
 ----------------------------
@@ -26,20 +26,20 @@ Dessinez les cadres des vues
 Dessinez un rectangle pour chaque vue de votre présentation.
 Redimensionnez-les ou tournez-les pour définir les cadres de chaque vue.
 
-![Dessinez les cadres des vues](|filename|/images/sozi-13-tutorial-first/sozi-tutorial-screenshot-02.png)
+![Dessinez les cadres des vues]({static}/images/sozi-13-tutorial-first/sozi-tutorial-screenshot-02.png)
 
 Inkscape assigne un identifiant unique à chaque élement du document.
 Ces identifiants sont utilisés par Sozi pour associer les rectangles avec les vues de votre présentation.
 
 Sélectionnez un rectangle, cliquez avec le bouton droit sur un des bords et choisissez *Propriétés de l'object*.
 
-![Afficher les propriétés du rectangle](|filename|/images/sozi-13-tutorial-first/sozi-tutorial-screenshot-03.png)
+![Afficher les propriétés du rectangle]({static}/images/sozi-13-tutorial-first/sozi-tutorial-screenshot-03.png)
 
 L'identifiant du rectangle est affiché dans le champs *Id*.
 Dans l'exemple suivant, Le champ indique `rect3816`, mais cela peut être différent pour vous.
 vous pouvez changer l'identifiant si vous le souhaitez, en faisant attention à ne pas donner le même identifiant à des éléments différents dans le même document.
 
-![L'identifiant d'un rectangle](|filename|/images/sozi-13-tutorial-first/sozi-tutorial-screenshot-04.png)
+![L'identifiant d'un rectangle]({static}/images/sozi-13-tutorial-first/sozi-tutorial-screenshot-04.png)
 
 Ouvrez l'éditeur de présentation
 --------------------------------
@@ -48,12 +48,12 @@ Selectionnez le premier rectangle.
 Puis, dans le menu *Extensions*, cliquez sur *Sozi*
 (voir aussi: [Démarrer Sozi avec un raccourci clavier dans Inkscape](|filename|sozi-13-tutorial-shortcut.md)).
 
-![Ouvrir l'éditeur de présentation](|filename|/images/sozi-13-tutorial-first/sozi-tutorial-screenshot-05.png)
+![Ouvrir l'éditeur de présentation]({static}/images/sozi-13-tutorial-first/sozi-tutorial-screenshot-05.png)
 
 La fenêtre *Sozi* vous permet de créer, modifier et effacer les vues de votre présentation.
 La fenêtre principale d'Inkscape restera inactive tant que la fenêtre de l'éditeur de présentation sera active.
 
-![L'éditeur de présentation](|filename|/images/sozi-13-tutorial-first/sozi-tutorial-screenshot-06.png)
+![L'éditeur de présentation]({static}/images/sozi-13-tutorial-first/sozi-tutorial-screenshot-06.png)
 
 Quand vous démarrez Sozi avec un nouveau document, Sozi est automatiquement installé dans votre document.
 Par la suite, chaque fois que vous réouvrirez Sozi dans le même document, Sozi sera mis à jour en utilisant la dernière version installée sur votre ordinateur.
@@ -73,18 +73,18 @@ Pour lier la vue à un autre rectangle, vous pouvez modifier manuellement le cha
 > Une vue ne peut pas avoir le même Id qu'une autre vue ou qu'un élément SVG du même document.
 > En particulier, c'est une erreur de donner le même Id à une vue et à l'élément SVG qui lui est associé.
 
-![L'éditeur de présentation](|filename|/images/sozi-13-tutorial-first/sozi-tutorial-screenshot-07.png)
+![L'éditeur de présentation]({static}/images/sozi-13-tutorial-first/sozi-tutorial-screenshot-07.png)
 
 Fermez l'éditeur de présentation Sozi en cliquant sur le bouton *OK*.
 Dans la fenêtre principale de Inkscape, sélectionnez les trois autres rectangles (en maintenant enfoncé la touche Majuscule),
 en suivant l'ordre de la présentation.
 
-![L'éditeur de présentation](|filename|/images/sozi-13-tutorial-first/sozi-tutorial-screenshot-08.png)
+![L'éditeur de présentation]({static}/images/sozi-13-tutorial-first/sozi-tutorial-screenshot-08.png)
 
 Ouvrez de nouveau l'éditeur de présentation, et appuyez trois fois sur le bouton *+*.
 Cela va créer trois nouvelles vues en utilisant les trois rectangles sélectionnés.
 
-![L'éditeur de présentation](|filename|/images/sozi-13-tutorial-first/sozi-tutorial-screenshot-09.png)
+![L'éditeur de présentation]({static}/images/sozi-13-tutorial-first/sozi-tutorial-screenshot-09.png)
 
 Donnez un titre à chaque vue et fermez l'éditeur de présentation.
 
@@ -98,4 +98,4 @@ La première vue sera automatiquement chargée.
 Cliquez à l'intérieur de la présentation pour passer à la vue suivante.
 (voir aussi&nbsp;: [Jouer une présentation](|filename|play.md)).
 
-[Télécharger ou jouer la présentation complète](|filename|/images/sozi-13-tutorial-first/sozi-tutorial-full.svg).
+[Télécharger ou jouer la présentation complète]({static}/images/sozi-13-tutorial-first/sozi-tutorial-full.svg).

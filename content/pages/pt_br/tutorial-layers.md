@@ -16,7 +16,7 @@ Baixar e abrir o documento de exemplo
 -------------------------------------
 
 Esse tutorial utiliza um documento SVG (desenho vetorial) que contém alguns elementos para nossa apresentação.
-[Baixe o arquivo SVG](|filename|/presentations/tutorial-layers/tutorial-layers.pt_br.svg)
+[Baixe o arquivo SVG]({static}/presentations/tutorial-layers/tutorial-layers.pt_br.svg)
 (Clique com o botão da direita no link e escolha *Salvar link como...*).
 
 Esse documento SVG foi criado no [Inkscape](https://inkscape.org).
@@ -25,7 +25,7 @@ Antes de criar a apresentação, veremos como os desenhos estão organizados.
 
 Abra `tutorial-layers.pt_br.svg` pelo Inkscape.
 
-![Documento de exemplo no Inkscape](|filename|/images/tutorial-layers/sozi-layers-tutorial-screenshot-01.pt_br.png)
+![Documento de exemplo no Inkscape]({static}/images/tutorial-layers/sozi-layers-tutorial-screenshot-01.pt_br.png)
 
 Organização em camadas
 ---------------------
@@ -34,7 +34,7 @@ Organização em camadas
 Você pode abrir o painel de camadas clicando em *Organize, adicione, exclua camadas* na barra de ferramenta,
 ou clicando no item *Gerenciador de camadas;* no menu *Camada* menu.
 
-![Mostrar camadas](|filename|/images/tutorial-layers/sozi-layers-tutorial-screenshot-02.pt_br.png)
+![Mostrar camadas]({static}/images/tutorial-layers/sozi-layers-tutorial-screenshot-02.pt_br.png)
 
 Nesse exemplo, o documento contém três camadas:
 
@@ -54,7 +54,7 @@ Criação dos quadros da apresentação no Sozi
 
 Abra `tutorial-layers.svg` no editor de apresentação do Sozi.
 
-![Documento de exemplo no Sozi](|filename|/images/tutorial-layers/sozi-layers-tutorial-screenshot-03.pt_br.png)
+![Documento de exemplo no Sozi]({static}/images/tutorial-layers/sozi-layers-tutorial-screenshot-03.pt_br.png)
 
 Adicione quatro quadros usando o botão *+* no painel da linha do tempo.
 Para cada quadro, preencha o campo *Título* com os seguintes títulos:
@@ -66,7 +66,7 @@ Para cada quadro, preencha o campo *Título* com os seguintes títulos:
 
 A linha do tempo deve ficar assim:
 
-![Linha do tempo com quatro quadros](|filename|/images/tutorial-layers/sozi-layers-tutorial-screenshot-04.pt_br.png)
+![Linha do tempo com quatro quadros]({static}/images/tutorial-layers/sozi-layers-tutorial-screenshot-04.pt_br.png)
 
 Adição de uma camada fixa (Paisagem)
 ------------------------------------
@@ -75,13 +75,13 @@ Pressione o botão *Adicionar camada* e escolha *Paisagem*.
 Na linha do tempo, selecione a célula que corresponde ao primeiro quadro
 e a camada *Paisagem* como mostra a figura abaixo.
 
-![Selecione a camada Paisagem para o quadro 1](|filename|/images/tutorial-layers/sozi-layers-tutorial-screenshot-05.pt_br.png)
+![Selecione a camada Paisagem para o quadro 1]({static}/images/tutorial-layers/sozi-layers-tutorial-screenshot-05.pt_br.png)
 
 Na área de visualização, use a rodinha do mouse para dar um zoom e ampliar a camada *Paisagem*
 até que o retângulo com a árvore quase preencha toda a área.
 Tenha certeza de que apenas os elementos da camada *Landcape* sejam movidos.
 
-![Zoom na camada Paisagem](|filename|/images/tutorial-layers/sozi-layers-tutorial-screenshot-06.pt_br.png)
+![Zoom na camada Paisagem]({static}/images/tutorial-layers/sozi-layers-tutorial-screenshot-06.pt_br.png)
 
 No painel de propriedades do lado direito, no campo *Exposição do elemento Id* deve estar escrito
 "rect-landscape".
@@ -93,7 +93,7 @@ esse retângulo como o contorno do quadro corrente.
   ajustada de forma que o retângulo ocupe a área de visualização.
 * Pressione o botão *Ocultar elemento* para ocultar o retângulo.
 
-![Exposição do elemento selecionado](|filename|/images/tutorial-layers/sozi-layers-tutorial-screenshot-07.pt_br.png)
+![Exposição do elemento selecionado]({static}/images/tutorial-layers/sozi-layers-tutorial-screenshot-07.pt_br.png)
 
 Caso a apresentação seja exibida na janela de um navegador de internet com uma proporção de tela diferente,
 será preciso esconder as partes do desenho que ficarem de fora da área visível.
@@ -102,7 +102,7 @@ Para isso, pressione o botão *Cortar* no painel de propriedades.
 Nós configuramos uma camada que não será movimentada ao longo da apresentação.
 Agora, vamos criar a camada que será animada.
 
-![Camada Paisagem ajustada](|filename|/images/tutorial-layers/sozi-layers-tutorial-screenshot-08.pt_br.png)
+![Camada Paisagem ajustada]({static}/images/tutorial-layers/sozi-layers-tutorial-screenshot-08.pt_br.png)
 
 Adição de uma camada de animação (Legendas)
 ----------------------------------------
@@ -111,13 +111,13 @@ Pressione o botão *Adicionar camada* e escolha *Legendas*.
 Na linha do tempo, selecione a célula que corresponde ao primeiro quadro
 e a camada *Legendas* como mostra a figura abaixo.
 
-![Selecione a camada Legendas no quadro 1](|filename|/images/tutorial-layers/sozi-layers-tutorial-screenshot-09.pt_br.png)
+![Selecione a camada Legendas no quadro 1]({static}/images/tutorial-layers/sozi-layers-tutorial-screenshot-09.pt_br.png)
 
 Na área de visualização, dê um zoom (rodinha do mouse) e movimente a camada *Legendas*
 até que o retângulo com o texto "Morning" ocupe quase toda a área.
 Certifique-se de que apenas os elementos da camada *Legendas* sejam movimentados.
 
-![Zoom na camada Legendas](|filename|/images/tutorial-layers/sozi-layers-tutorial-screenshot-10.pt_br.png)
+![Zoom na camada Legendas]({static}/images/tutorial-layers/sozi-layers-tutorial-screenshot-10.pt_br.png)
 
 No campo *Exposição do elemento Id* deve estar escrito "rect-text-morning".
 Pressione os botões *Ajuste tamanho ao elemento*, *Ocultar elemento* e *Cortar*.
@@ -125,10 +125,10 @@ Pressione os botões *Ajuste tamanho ao elemento*, *Ocultar elemento* e *Cortar*
 Repita os mesmos procedimentos aos quadros "Noon", "Evening" e "Night".
 A área de visualização de cada quadro deve ser vista assim:
 
-![Adjusted frame 1 in Captions layer](|filename|/images/tutorial-layers/sozi-layers-tutorial-screenshot-11.pt_br.png)
-![Adjusted frame 2 in Captions layer](|filename|/images/tutorial-layers/sozi-layers-tutorial-screenshot-12.pt_br.png)
-![Adjusted frame 3 in Captions layer](|filename|/images/tutorial-layers/sozi-layers-tutorial-screenshot-13.pt_br.png)
-![Adjusted frame 4 in Captions layer](|filename|/images/tutorial-layers/sozi-layers-tutorial-screenshot-14.pt_br.png)
+![Adjusted frame 1 in Captions layer]({static}/images/tutorial-layers/sozi-layers-tutorial-screenshot-11.pt_br.png)
+![Adjusted frame 2 in Captions layer]({static}/images/tutorial-layers/sozi-layers-tutorial-screenshot-12.pt_br.png)
+![Adjusted frame 3 in Captions layer]({static}/images/tutorial-layers/sozi-layers-tutorial-screenshot-13.pt_br.png)
+![Adjusted frame 4 in Captions layer]({static}/images/tutorial-layers/sozi-layers-tutorial-screenshot-14.pt_br.png)
 
 Adição de uma camada animada (Céu)
 --------------------------------
@@ -146,7 +146,7 @@ A linha *Padrão* irá desaparecer.
 Para facilitar, iremos ocultar as camadas *Paisagem* e *Legendas*.
 Clique no ícone do "olho" que fica a esquerda da linha dessas camadas.
 
-![Select layer Legendas for frame 1](|filename|/images/tutorial-layers/sozi-layers-tutorial-screenshot-15.pt_br.png)
+![Select layer Legendas for frame 1]({static}/images/tutorial-layers/sozi-layers-tutorial-screenshot-15.pt_br.png)
 
 > O ícone do "olho" permite esconder uma camada no editor para facilitar o trabalho com outras camadas.
 > As camadas ocultadas no editor permanecem visíveis quando se exibe a apresentação.
@@ -163,10 +163,10 @@ o retângulo em questão quase ocupe toda a área.
 Tire do modo oculto as camadas *Paisagem* e *Legendas*.
 A área de visualização deve ficar assim:
 
-![Adjusted frame 1 in Sky layer](|filename|/images/tutorial-layers/sozi-layers-tutorial-screenshot-16.pt_br.png)
-![Adjusted frame 2 in Sky layer](|filename|/images/tutorial-layers/sozi-layers-tutorial-screenshot-17.pt_br.png)
-![Adjusted frame 3 in Sky layer](|filename|/images/tutorial-layers/sozi-layers-tutorial-screenshot-18.pt_br.png)
-![Adjusted frame 4 in Sky layer](|filename|/images/tutorial-layers/sozi-layers-tutorial-screenshot-19.pt_br.png)
+![Adjusted frame 1 in Sky layer]({static}/images/tutorial-layers/sozi-layers-tutorial-screenshot-16.pt_br.png)
+![Adjusted frame 2 in Sky layer]({static}/images/tutorial-layers/sozi-layers-tutorial-screenshot-17.pt_br.png)
+![Adjusted frame 3 in Sky layer]({static}/images/tutorial-layers/sozi-layers-tutorial-screenshot-18.pt_br.png)
+![Adjusted frame 4 in Sky layer]({static}/images/tutorial-layers/sozi-layers-tutorial-screenshot-19.pt_br.png)
 
 Salvar e exibir a apresentação
 ------------------------------
@@ -179,5 +179,5 @@ A câmera estára posicionada automaticamente no primeiro quadro da apresentaç�
 Clique na janela do navegador para movimentar para o próximo quadro.
 (veja também: [Apresentar](|filename|play.md)).
 
-[Baixe a apresentação completa](|filename|/presentations/tutorial-layers/tutorial-layers.pt_br.sozi.html)
+[Baixe a apresentação completa]({static}/presentations/tutorial-layers/tutorial-layers.pt_br.sozi.html)
 (Clique com o botão da direita no link e escolha *Salvar link como...*).

@@ -18,7 +18,7 @@ of the `<iframe>` element, or using CSS.
 An example is shown below.
 [Read more about the `<iframe>` element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/iframe).
 
-<iframe class="sozi" src="|filename|/presentations/this-is-not-a-slideshow.sozi.html">
+<iframe class="sozi" src="{static}/presentations/this-is-not-a-slideshow.sozi.html">
     Your browser cannot display this content.
 </iframe>
 
@@ -92,7 +92,7 @@ Press these buttons to move to the previous/next frame:
 <span  id="sozi-first-presentation-title">Loading&hellip;</span>
 <input id="sozi-first-presentation-next" title="Move to the next frame" type="button" value="&rarr;">
 
-<iframe class="sozi" id="sozi-first-presentation" src="|filename|/presentations/tutorial-first/first-presentation.sozi.html">
+<iframe class="sozi" id="sozi-first-presentation" src="{static}/presentations/tutorial-first/first-presentation.sozi.html">
     Your browser cannot display this content.
 </iframe>
 

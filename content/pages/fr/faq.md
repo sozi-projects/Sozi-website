@@ -32,7 +32,7 @@ de dialogue *propriétés du document*
 (menu *Fichiers* &rarr; *Propriétés du document* &rarr; onglet *Page* &rarr; *Couleur de fond*).
 Vérifiez que la composante Alpha (opacité) de la couleur vaut 255.
 
-![Comment définir une couleur de fond dans Inkscape](|filename|/images/faq/background-fr.png)
+![Comment définir une couleur de fond dans Inkscape]({static}/images/faq/background-fr.png)
 
 Si vous définissez une couleur de fond dans Inkscape, Sozi le détectera
 et produira un document HTML avec la même couleur de fond.

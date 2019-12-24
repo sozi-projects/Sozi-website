@@ -4,7 +4,7 @@ from __future__ import unicode_literals
 
 AUTHOR = u'Guillaume Savaton'
 SITENAME = u'Sozi'
-SITEURL = ''
+SITEURL = 'https://sozi.baierouge.fr'
 GITHUB_URL = 'https://github.com/senshu/Sozi'
 PIWIK_URL = 'http://baierouge.fr/piwik'
 PIWIK_SITE = '2'
@@ -35,7 +35,7 @@ DEFAULT_PAGINATION = 10
 RELATIVE_URLS = True
 
 THEME = 'themes/sozi'
-
+    
 ARTICLE_EXCLUDES = ['wiki', 'presentations']
 
 STATIC_PATHS = ['images', 'releases', 'extra/favicon.ico', 'wiki', 'presentations']
@@ -46,4 +46,11 @@ EXTRA_PATH_METADATA = {
 
 DEFAULT_DATE_FORMAT = "%Y-%m-%d"
 
-MD_EXTENSIONS = ["codehilite(css_class=highlight)", "headerid", "extra", "meta"]
+MARKDOWN = {
+    "extension_configs": {
+        "markdown.extensions.codehilite": {"css_class": "highlight"},
+        "markdown.extensions.toc": {},
+        "markdown.extensions.extra": {},
+        "markdown.extensions.meta": {},
+    }
+}

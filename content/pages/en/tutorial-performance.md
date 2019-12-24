@@ -29,7 +29,7 @@ your document, preventing modification and indexing by search engines.
 
 In Inkscape, select all text elements (*Edit* menu / *Find*, or Ctrl-F).
 
-![Find text elements](|filename|/images/tutorial-performance/sozi-tutorial-performance-screenshot-01.png)
+![Find text elements]({static}/images/tutorial-performance/sozi-tutorial-performance-screenshot-01.png)
 
 From the *Path* menu, choose *Object to Path* (Shift-Ctrl-C).
 

@@ -31,7 +31,7 @@ wird verhindert.
 
 Wählen Sie Inkscape alle Text-Element aus (*Edit* menu / *Find*, or Strg-F).
 
-![Text-Elemente finden](|filename|/images/tutorial-performance/sozi-tutorial-performance-screenshot-01.de.png)
+![Text-Elemente finden]({static}/images/tutorial-performance/sozi-tutorial-performance-screenshot-01.de.png)
 
 Wählen Sie *Objekt in Pfad umwandeln* aus dem *Pfad*-Menü (Umschalt-Strg-C).
 

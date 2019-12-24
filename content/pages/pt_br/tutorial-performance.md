@@ -29,7 +29,7 @@ inviabilizando modificações no texto e indexação em motores de busca.
 
 No Inkscape, selecione todos os textos (menu *Editar* / *Encontrar*, ou Ctrl-F).
 
-![Encontre os elementos de texto](|filename|/images/tutorial-performance/sozi-tutorial-performance-screenshot-01.png)
+![Encontre os elementos de texto]({static}/images/tutorial-performance/sozi-tutorial-performance-screenshot-01.png)
 
 A partir do menu *Caminho*, selecione *Converter em caminho* (Shift-Ctrl-C).
 

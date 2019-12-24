@@ -13,11 +13,11 @@ Download and open the base document
 -----------------------------------
 
 This tutorial is based on a simple SVG document that contains the drawing elements of our presentation.
-[Download the base SVG document](|filename|/presentations/tutorial-first/first-presentation.svg)
+[Download the base SVG document]({static}/presentations/tutorial-first/first-presentation.svg)
 (Right-click on the link and choose *Save link target as*).
 Open it with the Sozi presentation editor.
 
-![Open the SVG document with the presentation editor](|filename|/images/tutorial-first/first-presentation-screenshot-01.en.png)
+![Open the SVG document with the presentation editor]({static}/images/tutorial-first/first-presentation-screenshot-01.en.png)
 
 
 Create the first frame of your presentation
@@ -32,7 +32,7 @@ Then, in the preview pane:
 * Position the camera by moving the mouse while holding the left button.
 * Zoom by moving the mouse while holding the left button and the *Alt* key of the keyboard.
 
-![The first frame of the presentation](|filename|/images/tutorial-first/first-presentation-screenshot-02.en.png)
+![The first frame of the presentation]({static}/images/tutorial-first/first-presentation-screenshot-02.en.png)
 
 
 Create three other frames
@@ -46,7 +46,7 @@ Set a title for each frame and move the camera in order to show successively:
 the orange shape (2), the yellow shape (3), and the blue shape (4).
 To rotate, move the mouse while holding the left button and the *Shift* key.
 
-![The second frame of the presentation](|filename|/images/tutorial-first/first-presentation-screenshot-03.en.png)
+![The second frame of the presentation]({static}/images/tutorial-first/first-presentation-screenshot-03.en.png)
 
 
 Save the presentation
@@ -75,5 +75,5 @@ The camera is automatically set to the first frame of the presentation.
 Click inside the browser window to move to the next frame.
 (see also: [Play](|filename|play.md)).
 
-[Download the complete presentation](|filename|/presentations/tutorial-first/first-presentation.sozi.html)
+[Download the complete presentation]({static}/presentations/tutorial-first/first-presentation.sozi.html)
 (Right-click on the link and choose *Save link target as*).

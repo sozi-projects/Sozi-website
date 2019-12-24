@@ -40,9 +40,9 @@ Beispiel
 --------
 
 Die nachfolgende Präsentation spielt ein Video im zweiten und eine Audio-Datei im dritten Frame.
-[Download the presentation files](|filename|/presentations/tutorial-media.zip).
+[Download the presentation files]({static}/presentations/tutorial-media.zip).
 
-<iframe class="sozi" src="|filename|/presentations/tutorial-media/tutorial-media.sozi.html">
+<iframe class="sozi" src="{static}/presentations/tutorial-media/tutorial-media.sozi.html">
     Ihr Browser kann diesen Inhalt nicht anzeigen.
 </iframe>
 

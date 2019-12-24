@@ -33,7 +33,7 @@ Inkscape allows to set a background color in the *document properties* dialog
 (*File* menu &rarr; *Document properties* &rarr; *Page* tab &rarr; *Background color*).
 Make sure that the Alpha (opacity) component of the color is set to 255.
 
-![Setting a background color in Inkscape](|filename|/images/faq/background-en.png)
+![Setting a background color in Inkscape]({static}/images/faq/background-en.png)
 
 When you set a background color with Inkscape, Sozi will detect it and will
 generate an HTML document with the same background color.

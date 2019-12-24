@@ -14,11 +14,11 @@ Lade Deine erste Beispiel-Datei herunter
 ----------------------------------------
 
 Diese Einführung nutzt eine einfache svg-Datei, die die Zeichnung zu unserer Präsentation enthält.
-[Download first-presentation.svg](|filename|/presentations/tutorial-first/first-presentation.svg)
+[Download first-presentation.svg]({static}/presentations/tutorial-first/first-presentation.svg)
 (Rechts-Klick und *Ziel speichern unter…*).
 Öffne die Datei mit dem Sozi-Editor.
 
-![Öffne die svg-Datei mit dem Sozi-Editor](|filename|/images/tutorial-first/first-presentation-screenshot-01.de.png)
+![Öffne die svg-Datei mit dem Sozi-Editor]({static}/images/tutorial-first/first-presentation-screenshot-01.de.png)
 
 
 Erstelle das erste Bild Deiner Präsentation
@@ -33,7 +33,7 @@ Dann, in der Vorschau links:
 * positioniere die Kamera, indem Du die Maus bei gedrückter primärer (linker) Maustaste bewegst.
 * zoome, indem Du die Maus bei gedrückter Maustaste und gedrückter *Alt*-Taste auf der Tastatur bewegst.
 
-![Das erste Bild der Präsentation](|filename|/images/tutorial-first/first-presentation-screenshot-02.de.png)
+![Das erste Bild der Präsentation]({static}/images/tutorial-first/first-presentation-screenshot-02.de.png)
 
 
 Erstelle drei weitere Bilder
@@ -47,7 +47,7 @@ Gib jedem Bild einen Title und stelle die Kamera richtig ein,
 für die orangene (2), die gelbe (3), und die blaue Form (4).
 Zum Rotieren der Kamera bewegst Du die Mause bei gedrückter Maustaste und gedrückter *Shift*-Taste auf der Tastatur.
 
-![Das zweite Bild der Präsentation](|filename|/images/tutorial-first/first-presentation-screenshot-03.de.png)
+![Das zweite Bild der Präsentation]({static}/images/tutorial-first/first-presentation-screenshot-03.de.png)
 
 
 Speichere die Präsentation
@@ -73,5 +73,5 @@ Die Kamera wird automatisch auf das erste Bild gerichtet sein.
 Klicke mit der Maus in das Fenster, um zum nächsten Bild weiterzugehen.
 (siehe auch: [Zeigen](|filename|play.md)).
 
-[Download der kompletten Präsentation](|filename|/presentations/tutorial-first/first-presentation.sozi.html)
+[Download der kompletten Präsentation]({static}/presentations/tutorial-first/first-presentation.sozi.html)
 (Rechts-Klick mit der Maus und *Ziel speichern unter…*).

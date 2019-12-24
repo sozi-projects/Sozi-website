@@ -19,7 +19,7 @@ en utilisant CSS.
 Un exemple est visible ci-dessous.
 [Plus d'informations sur l'élément `<iframe>`](https://developer.mozilla.org/fr/docs/Web/HTML/Element/iframe).
 
-<iframe class="sozi" src="|filename|/presentations/ceci-nest-pas-un-diaporama.sozi.html">
+<iframe class="sozi" src="{static}/presentations/ceci-nest-pas-un-diaporama.sozi.html">
     Votre navigateur ne peut pas afficher ce contenu.
 </iframe>
 
@@ -94,7 +94,7 @@ Pressez ces boutons pour aller à la vue précédente/suivante&nbsp;:
 <span  id="sozi-first-presentation-title">Loading&hellip;</span>
 <input id="sozi-first-presentation-next" title="Move to the next frame" type="button" value="&rarr;">
 
-<iframe class="sozi" id="sozi-first-presentation" src="|filename|/presentations/tutorial-first/first-presentation.sozi.html">
+<iframe class="sozi" id="sozi-first-presentation" src="{static}/presentations/tutorial-first/first-presentation.sozi.html">
     Your browser cannot display this content.
 </iframe>
 

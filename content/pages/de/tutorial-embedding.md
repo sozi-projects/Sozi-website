@@ -18,7 +18,7 @@ Breite und Höhe des Ansichtsbereichs können entweder als Attribute des `<ifram
 oder mittels CSS. Ein Beispiel finden Sie nachstehend.
 [Lesen Sie mehr über `<iframe>` Elemente](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/iframe).
 
-<iframe class="sozi" src="|filename|/presentations/this-is-not-a-slideshow.sozi.html">
+<iframe class="sozi" src="{static}/presentations/this-is-not-a-slideshow.sozi.html">
     Ihr Browser kann diesen Inhalt nicht darstellen.
 </iframe>  
 
@@ -95,7 +95,7 @@ Klicken Sie die Buttons, um das nächste /letzte Bild anzuzeigen:
 <span  id="sozi-first-presentation-title">Loading&hellip;</span>
 <input id="sozi-first-presentation-next" title="Bild zurück" type="button" value="&rarr;">
 
-<iframe class="sozi" id="sozi-first-presentation" src="|filename|/presentations/tutorial-first/first-presentation.sozi.html">
+<iframe class="sozi" id="sozi-first-presentation" src="{static}/presentations/tutorial-first/first-presentation.sozi.html">
     Ihr Browser kann diesen Inhalt nicht darstellen.
 </iframe>
 

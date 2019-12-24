@@ -12,7 +12,7 @@ Téléchargez et ouvrez le document de base
 -----------------------------------------
 
 Ce tutoriel se base sur un simple document SVG qui contient les éléments visuels nécessaires à notre présentation.
-[Téléchargez le document SVG de base](|filename|/presentations/tutorial-links/tutorial-links.svg)
+[Téléchargez le document SVG de base]({static}/presentations/tutorial-links/tutorial-links.svg)
 (Cliquez avec le bouton droit sur le lien et choisissez *Enregistrer la cible du lien sous*).
 
 Ce document SVG a été créé avec [Inkscape](https://inkscape.org).
@@ -23,15 +23,15 @@ Créez les vues de la présentation
 
 Ouvrez `tutorial-links.svg` dans l'éditeur de présentation Sozi.
 
-![Document de base dans Sozi](|filename|/images/tutorial-links/sozi-links-tutorial-screenshot-01.fr.png)
+![Document de base dans Sozi]({static}/images/tutorial-links/sozi-links-tutorial-screenshot-01.fr.png)
 
 Créez cinq vues comme représenté dans les captures d'écran ci-dessous&nbsp;:
 
-![Vue 1 (Accueil)](|filename|/images/tutorial-links/sozi-links-tutorial-screenshot-02.fr.png)
-![Vue 2 (Haut gauche)](|filename|/images/tutorial-links/sozi-links-tutorial-screenshot-03.fr.png)
-![Vue 3 (Haut droite)](|filename|/images/tutorial-links/sozi-links-tutorial-screenshot-04.fr.png)
-![Vue 4 (Bas droite)](|filename|/images/tutorial-links/sozi-links-tutorial-screenshot-05.fr.png)
-![Vue 5 (Bas gauche)](|filename|/images/tutorial-links/sozi-links-tutorial-screenshot-06.fr.png)
+![Vue 1 (Accueil)]({static}/images/tutorial-links/sozi-links-tutorial-screenshot-02.fr.png)
+![Vue 2 (Haut gauche)]({static}/images/tutorial-links/sozi-links-tutorial-screenshot-03.fr.png)
+![Vue 3 (Haut droite)]({static}/images/tutorial-links/sozi-links-tutorial-screenshot-04.fr.png)
+![Vue 4 (Bas droite)]({static}/images/tutorial-links/sozi-links-tutorial-screenshot-05.fr.png)
+![Vue 5 (Bas gauche)]({static}/images/tutorial-links/sozi-links-tutorial-screenshot-06.fr.png)
 
 Éditez les titres des vues et leurs ID de la manière suivante&nbsp;:
 
@@ -77,7 +77,7 @@ URL d'un vue
 Quand un navigateur web affiche une présentation Sozi, le contenu de la barre
 d'adresse change à chaque fois que vous passez d'une vue à une autre.
 
-![URL d'une vue dans la barre d'adresse d'un navigateur web](|filename|/images/tutorial-links/sozi-links-tutorial-screenshot-07.fr.png)
+![URL d'une vue dans la barre d'adresse d'un navigateur web]({static}/images/tutorial-links/sozi-links-tutorial-screenshot-07.fr.png)
 
 Dans l'exemple ci-dessus, la barre d'adresse indique l'URL suivante&nbsp;:
 
@@ -104,7 +104,7 @@ Ouvrez le document `tutorial-links.svg` dans Inkscape.
 Cliquez avec le bouton droit sur la grosse flèche qui pointe vers le haut et vers
 la gauche, puis choisissez *Créer un lien*.
 
-![Créer un lien avec Inkscape](|filename|/images/tutorial-links/sozi-links-tutorial-screenshot-08.fr.png)
+![Créer un lien avec Inkscape]({static}/images/tutorial-links/sozi-links-tutorial-screenshot-08.fr.png)
 
 Cette action ouvre une boîte de dialogue *Attributs de l'objet* où vous pouvez
 éditer les propriétés du lien.
@@ -112,7 +112,7 @@ Cette action ouvre une boîte de dialogue *Attributs de l'objet* où vous pouvez
 Pour créer un lien vers la vue située en haut à gauche, il suffit d'affecter
 la valeur `#haut-gauche` au champ `Href`&nbsp;:
 
-![Édition de l'attribut href d'un lien](|filename|/images/tutorial-links/sozi-links-tutorial-screenshot-09.fr.png)
+![Édition de l'attribut href d'un lien]({static}/images/tutorial-links/sozi-links-tutorial-screenshot-09.fr.png)
 
 Procédez de la même manière pour les autres vues&nbsp;:
 pour chaque flèche, créez un lien vers l'ID de la vue correspondante.
@@ -132,5 +132,5 @@ Cliquez dans le fond blanc de l'image pour passer à la vue suivante.
 (voir aussi: [Jouer une présentation](|filename|play.md))
 ou cliquez sur une des flèches pour aller directement à la vue correspondante.
 
-[Téléchargez la présentation complète](|filename|/presentations/tutorial-links/tutorial-links.fr.sozi.html)
+[Téléchargez la présentation complète]({static}/presentations/tutorial-links/tutorial-links.fr.sozi.html)
 (Cliquez avec le bouton droit sur le lien et choisissez *Enregistrer la cible du lien sous*).

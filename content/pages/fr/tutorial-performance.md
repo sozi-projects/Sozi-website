@@ -32,7 +32,7 @@ Il ne peut plus être indexé par les moteurs de recherche.
 
 Dans Inkscape, sélectionnez tous les éléments textes (menu *Édition*/*Rechercher*, ou Ctrl-F).
 
-![Rechercher les éléments textes](|filename|/images/tutorial-performance/sozi-tutorial-performance-screenshot-01.fr.png)
+![Rechercher les éléments textes]({static}/images/tutorial-performance/sozi-tutorial-performance-screenshot-01.fr.png)
 
 Dans le menu *Chemin*, choisissez *Objet en chemin* (Maj-Ctrl-C).
 
