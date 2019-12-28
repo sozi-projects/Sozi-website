@@ -6,10 +6,10 @@ AUTHOR = u'Guillaume Savaton'
 SITENAME = u'Sozi'
 SITEURL = 'https://sozi.baierouge.fr'
 GITHUB_URL = 'https://github.com/senshu/Sozi'
-PIWIK_URL = 'http://baierouge.fr/piwik'
-PIWIK_SITE = '2'
+# PIWIK_URL = 'http://baierouge.fr/piwik'
+# PIWIK_SITE = '2'
 TIMEZONE = 'Europe/Paris'
-
+KEYWORDS = 'presentation,slideshow,SVG,vector graphics,animation,office software'
 DEFAULT_LANG = u'en'
 
 # Feed generation is usually not desired when developing
@@ -35,7 +35,7 @@ DEFAULT_PAGINATION = 10
 RELATIVE_URLS = True
 
 THEME = 'themes/sozi'
-    
+
 ARTICLE_EXCLUDES = ['wiki', 'presentations']
 
 STATIC_PATHS = ['images', 'releases', 'extra/favicon.ico', 'wiki', 'presentations']
