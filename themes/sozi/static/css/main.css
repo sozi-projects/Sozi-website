@@ -58,8 +58,19 @@ footer {
 #vertical-banner {
     position: absolute;
     left: 0;
-    top: 5em;
-    width: 8em;
+    top: 0.5em;
+    max-width: 8em;
+    max-height: calc(100vh - 1em);
+    border: 1px dashed black;
+}
+
+#ad-indicator {
+    text-align: center;
+    font-family: Iwona, Arial, sans-serif;
+    font-weight: normal;
+    font-size: 80%;
+    color: #444;
+    padding: 0.3em;
 }
 
 /*
