@@ -1,8 +1,7 @@
 Title: Instalação
-Slug: install
+Slug: 20-install
 Lang: pt_br
 Translation: true
-Status: hidden
 Authors: Guillaume Savaton, Marcelo Vaz
 
 > Read this page in English for an up-to-date version.

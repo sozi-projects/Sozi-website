@@ -1,8 +1,7 @@
 Title: Installation
-Slug: install
+Slug: 20-install
 Lang: de
 Translation: true
-Status: hidden
 Authors: Guillaume Savaton, Andrej Barth
 
 > Read this page in English for an up-to-date version.

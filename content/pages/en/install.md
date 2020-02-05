@@ -1,7 +1,6 @@
 Title: Installation
-Slug: install
+Slug: 20-install
 Lang: en
-Status: hidden
 Authors: Guillaume Savaton
 
 If you use Sozi and would like to support its development,
