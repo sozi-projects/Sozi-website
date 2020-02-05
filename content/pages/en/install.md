@@ -3,18 +3,34 @@ Slug: 20-install
 Lang: en
 Authors: Guillaume Savaton
 
-If you use Sozi and would like to support its development,
-you can [contribute](|filename|contribute.md),
-or [buy something](https://www.spreadshirt.fr/user/Guillaume+Savaton),
-[buy me a coffee](https://www.buymeacoffee.com/THtbNvnqE),
-or [make a donation by another mean](|filename|donate.md).
 
-* [Download the latest release](https://github.com/senshu/Sozi/releases/latest)
-* [Download a preview version of the next release](https://drive.google.com/open?id=0ByRUreHgekjMWG9teGM2dE8wck0) (for testers)
-* [Installing for GNU/Linux](#installing-for-gnulinux)
-* [Installing for Windows](#installing-for-windows)
-* [Installing for OS X](#installing-for-os-x)
-* [Installing from a Docker image](#installing-from-a-docker-image)
+
+
+Select your environment and release version
+-------------------------------------------
+
+
+###Installing the latest version (best choice for most users):
+
+* [Installing the latest version for GNU/Linux](#installing-for-gnulinux)
+* [Installing the latest version for Windows](#installing-for-windows)
+* [Installing the latest version for OS X](#installing-for-os-x)
+* [Installing the latest version from a Docker image](#installing-from-a-docker-image)
+
+###Getting alternative releases (for testers or special cases):
+
+* [Installing an older version](#installing-an-older-version)
+* [Installing a preview version of the next release](#installing-a-preview-version) 
+
+
+**Note: If you use Sozi and would like to support its development,**
+**you can [contribute](|filename|contribute.md),**
+**or [buy something](https://www.spreadshirt.fr/user/Guillaume+Savaton),**
+**[buy me a coffee](https://www.buymeacoffee.com/THtbNvnqE),**
+**or [make a donation by another mean](|filename|donate.md).**
+
+
+
 
 Installing for GNU/Linux
 ------------------------
@@ -23,9 +39,11 @@ Installing for GNU/Linux
 > provide very outdated versions of Sozi.
 > You can still install them, but be aware that no documentation or support
 > will be available.
+> Starting from Sozi 18, we provide packages of the Sozi executable
+> for Debian, Ubuntu, and their derivatives which can be found in the 
+> [stable repository](https://github.com/senshu/Sozi/releases/latest){:target="_blank"}.
 
-Starting from Sozi 18, we provide packages of the presentation editor
-for Debian, Ubuntu, and their derivatives.
+
 Download the `.deb` file that corresponds to your platform (`i386` or `amd64`),
 open a terminal and run the following command:
 
@@ -62,9 +80,9 @@ or from the command-line as `sozi` (in lower case).
 Installing for Windows
 ----------------------
 
-Sozi for Windows is only distributed in the form of a zip archive.
-No installer is provided.
-Download one of the following files:
+Sozi for Windows is only distributed in the form of a zip archive, no installer is provided.
+Download one of the following files from the 
+[stable repository](https://github.com/senshu/Sozi/releases/latest){:target="_blank"}:
 
 * `sozi-{version}-windows-ia32.zip` for Windows, 32-bit.
 * `sozi-{version}-windows-ia64.zip` for Windows, 64-bit.
@@ -77,7 +95,8 @@ Installing for OS X
 
 Sozi for OS X is distributed in the form of a zip archive named
 `sozi-{version}-osx-ia64.tgz` (for Sozi 17 or below, the file was named
-`sozi-{version}-darwin-ia64.tgz`).
+`sozi-{version}-darwin-ia64.tgz`), available in the 
+[stable repository](https://github.com/senshu/Sozi/releases/latest){:target="_blank"}.
 
 Extract the archive.
 It will create a folder with the same name, containing a subbolder `Sozi.app`.
@@ -134,8 +153,8 @@ This image has been created by [Jorge Gomez](https://github.com/escalope).
 It is hosted in [the inkscape-sozi Docker Hub repository](https://hub.docker.com/r/escalope/inkscape-sozi).
 The source Dockerfile can be found in [the dockerfile-sozi GitHub repository](https://github.com/escalope/dockerfile-sozi).
 
-Sozi 13
--------
+Installing an older version
+----------------------------
 
 Sozi 13.11 is still available if you need it, but it is no longer maintained:
 
@@ -144,3 +163,11 @@ Sozi 13.11 is still available if you need it, but it is no longer maintained:
 * [Install Sozi 13 on GNU/Linux](|filename|sozi-13-install-linux.md)
 * [Install Sozi 13 on Windows](|filename|sozi-13-install-windows.md)
 * [Install Sozi 13 on Mac OS X](|filename|sozi-13-install-osx.md)
+
+Installing a preview version
+----------------------------
+
+For developpers who would like to view the latest code, it is available in the 
+[preview repository](https://drive.google.com/open?id=0ByRUreHgekjMWG9teGM2dE8wck0){:target="_blank"}.
+
+The code is experimental and should only be used by experienced users.
