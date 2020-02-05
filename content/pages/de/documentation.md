@@ -7,3 +7,4 @@ Translation: true
 * [Präsentationen erstellen](|filename|create.md)
 * [Präsentationen abspielen](|filename|play.md)
 * [Oft gestellte Fragen (FAQ) und Problemlösungen](|filename|faq.md)
+* [Präsentationen demos](https://senshu.github.io/Sozi-demos){:target="_blank"}
