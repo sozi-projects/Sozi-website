@@ -7,5 +7,6 @@ Authors: Guillaume Savaton
 Pour obtenir de l'aide dans l'utilisation de Sozi, poser des questions ou y répondre,
 échanger des astuces et des bonnes pratiques, partager vos créations&nbsp;:
 
+* [Contribuer au développement de Sozi](|filename|contribute.md)
 * [Visit the Sozi community forum](/community)
 * [Read our privacy policy](|filename|privacy.md)
