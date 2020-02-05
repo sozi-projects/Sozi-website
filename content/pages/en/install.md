@@ -43,19 +43,20 @@ Installing for GNU/Linux
 > for Debian, Ubuntu, and their derivatives which can be found in the 
 > [stable repository](https://github.com/senshu/Sozi/releases/latest){:target="_blank"}.
 
-
-Download the `.deb` file that corresponds to your platform (`i386` or `amd64`),
+###Ubuntu derivatives (*buntu, debian, Linux Mint)
+Download the `.deb` file that corresponds to your platform (`i386` or `amd64`) in the 
+[stable repository](https://github.com/senshu/Sozi/releases/latest){:target="_blank"},
 open a terminal and run the following command:
 
 ```bash
 sudo dpkg -i sozi_{version}_{arch}.deb
 ```
-
+###Archlinux
 Archlinux users can install Sozi from the [Archlinux User Repository](https://aur.archlinux.org/packages/sozi).
 
-### Installing from a zip archive
+### Other distribs
 
-In other cases, download the `.tgz` file that corresponds to your platform (`linux-ia32` or `linux-x64`).
+In other cases, download the `.tgz` file that corresponds to your platform (`linux-ia32` or `linux-x64`) in the [stable repository](https://github.com/senshu/Sozi/releases/latest){:target="_blank"}.
 In a terminal, execute the following commands:
 
 ```bash
