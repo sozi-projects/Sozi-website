@@ -4,7 +4,7 @@ Lang: de
 Authors: Guillaume Savaton, Alfred Bergkemper
 Translation: true
 
-###Präsentationen erstellen
+##Präsentationen erstellen
 
 * [Deine erste Präsentation](|filename|tutorial-first.md)
 * [Der Gebrauch von Ebenen](|filename|tutorial-layers.md)
@@ -17,11 +17,11 @@ Translation: true
 * [Die Darstellungsperformance verbessern](|filename|tutorial-performance.md)
 
 
-###Präsentationen abspielen
+##Präsentationen abspielen
 
 * [Präsentationen abspielen](|filename|play.md)
 
-###Andere
+##Andere
 
 * [Oft gestellte Fragen (FAQ) und Problemlösungen](|filename|faq.md)
 * [Präsentationen demos](https://senshu.github.io/Sozi-demos){:target="_blank"}

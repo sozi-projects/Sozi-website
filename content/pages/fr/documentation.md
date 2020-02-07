@@ -4,7 +4,7 @@ Lang: fr
 Translation: true
 Authors: Guillaume Savaton
 
-### Créer une présentation
+## Créer une présentation
 
 * [Manuel de référence de l'éditeur de présentations](|filename|ui.md)
 * [Votre première présentation](|filename|tutorial-first.md)
@@ -17,11 +17,11 @@ Authors: Guillaume Savaton
 * [Convertir les présentations Sozi en PDF ou en vidéo](|filename|tutorial-converting.md)
 * [Améliorer les performances](|filename|tutorial-performance.md)
 
-### Jouer une présentation
+## Jouer une présentation
 
 * [Jouer une presentation](|filename|play.md)
 
-###Autres
+##Autres
 
 * [Foire Aux Questions et résolution des problèmes](|filename|faq.md)
 * [Exemples de présentations](https://senshu.github.io/Sozi-demos){:target="_blank"}

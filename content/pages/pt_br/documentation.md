@@ -6,7 +6,7 @@ Authors: Guillaume Savaton
 
 > This page has not been translated yet
 
-###Creating presentations
+##Creating presentations
 
 * [Sua primeira apresentação](|filename|tutorial-first.md)
 * [Usando camadas](|filename|tutorial-layers.md)
@@ -18,11 +18,11 @@ Authors: Guillaume Savaton
 * [Convertendo apresentações do Sozi para PDF ou vídeo](|filename|tutorial-converting.md)
 * [Melhorando a performance de renderização](|filename|tutorial-performance.md)
 
-###Playing presentations
+##Playing presentations
 
 * [Playing presentations](|filename|play.md)
 * [Questões Frequêntes e Solução de Problemas](|filename|faq.md)
 
-###Others
+##Others
 
 * [Presentations examples](https://senshu.github.io/Sozi-demos){:target="_blank"}
