@@ -4,8 +4,9 @@ Lang: de
 Authors: Guillaume Savaton, Alfred Bergkemper
 Translation: true
 
-##Präsentationen erstellen
+## Präsentationen erstellen
 
+* [Reference manual of the presentation editor](|filename|ui.md)
 * [Deine erste Präsentation](|filename|tutorial-first.md)
 * [Der Gebrauch von Ebenen](|filename|tutorial-layers.md)
 <!-- * [Übergänge](|filename|tutorial-transitions.md) -->
@@ -16,12 +17,11 @@ Translation: true
 * [Sozi-Präsentationen als pdf-Datei oder Video exportieren](|filename|tutorial-converting.md)
 * [Die Darstellungsperformance verbessern](|filename|tutorial-performance.md)
 
-
-##Präsentationen abspielen
+## Präsentationen abspielen
 
 * [Präsentationen abspielen](|filename|play.md)
 
-##Andere
+## Hilfe holen
 
 * [Oft gestellte Fragen (FAQ) und Problemlösungen](|filename|faq.md)
 * [Präsentationen demos](https://senshu.github.io/Sozi-demos){:target="_blank"}

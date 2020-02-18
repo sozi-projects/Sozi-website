@@ -21,7 +21,7 @@ Authors: Guillaume Savaton
 
 * [Jouer une presentation](|filename|play.md)
 
-##Autres
+## Obtenir de l'aide
 
 * [Foire Aux Questions et résolution des problèmes](|filename|faq.md)
 * [Exemples de présentations](https://senshu.github.io/Sozi-demos){:target="_blank"}

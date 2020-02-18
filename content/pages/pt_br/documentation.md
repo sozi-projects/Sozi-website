@@ -4,10 +4,9 @@ Lang: pt_br
 Translation: true
 Authors: Guillaume Savaton
 
-> This page has not been translated yet
+## Criar apresentações
 
-##Creating presentations
-
+* [Reference manual of the presentation editor](|filename|ui.md)
 * [Sua primeira apresentação](|filename|tutorial-first.md)
 * [Usando camadas](|filename|tutorial-layers.md)
 <!-- * [Efeitos de transição](|filename|tutorial-transitions.md) -->
@@ -18,11 +17,11 @@ Authors: Guillaume Savaton
 * [Convertendo apresentações do Sozi para PDF ou vídeo](|filename|tutorial-converting.md)
 * [Melhorando a performance de renderização](|filename|tutorial-performance.md)
 
-##Playing presentations
+## Apresentar
 
-* [Playing presentations](|filename|play.md)
+* [Apresentar](|filename|play.md)
+
+## Others
+
 * [Questões Frequêntes e Solução de Problemas](|filename|faq.md)
-
-##Others
-
-* [Presentations examples](https://senshu.github.io/Sozi-demos){:target="_blank"}
+* [Exemplos de apresentações](https://senshu.github.io/Sozi-demos){:target="_blank"}
