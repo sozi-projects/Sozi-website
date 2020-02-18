@@ -1,36 +1,17 @@
-Title: Installation
+Title: Download and install
 Slug: 20-install
 Lang: en
 Authors: Guillaume Savaton
 
 
-
-
 Select your environment and release version
 -------------------------------------------
 
-
-###Installing the latest version (best choice for most users):
-
-* [Installing the latest version for GNU/Linux](#installing-for-gnulinux)
-* [Installing the latest version for Windows](#installing-for-windows)
-* [Installing the latest version for OS X](#installing-for-os-x)
-* [Installing the latest version from a Docker image](#installing-from-a-docker-image)
-
-###Getting alternative releases (for testers or special cases):
-
-* [Installing an older version](#installing-an-older-version)
-* [Installing a preview version of the next release](#installing-a-preview-version) 
-
-
-**Note: If you use Sozi and would like to support its development,**
-**you can [contribute](|filename|contribute.md),**
-**or [buy something](https://www.spreadshirt.fr/user/Guillaume+Savaton),**
-**[buy me a coffee](https://www.buymeacoffee.com/THtbNvnqE),**
-**or [make a donation by another mean](|filename|donate.md).**
-
-
-
+* [Install the latest release for GNU/Linux](#installing-for-gnulinux)
+* [Install the latest release for Windows](#installing-for-windows)
+* [Install the latest release for OS X](#installing-for-os-x)
+* [Install Sozi from a Docker image](#installing-from-a-docker-image)
+* [Browse all stable and preview releases](https://github.com/senshu/Sozi/releases){:target="_blank"}
 
 Installing for GNU/Linux
 ------------------------
@@ -40,29 +21,47 @@ Installing for GNU/Linux
 > You can still install them, but be aware that no documentation or support
 > will be available.
 > Starting from Sozi 18, we provide packages of the Sozi executable
-> for Debian, Ubuntu, and their derivatives which can be found in the 
-> [stable repository](https://github.com/senshu/Sozi/releases/latest){:target="_blank"}.
+> for Debian, Ubuntu, and their derivatives.
 
-###Ubuntu derivatives (*buntu, debian, Linux Mint)
-Download the `.deb` file that corresponds to your platform (`i386` or `amd64`) in the 
-[stable repository](https://github.com/senshu/Sozi/releases/latest){:target="_blank"},
-open a terminal and run the following command:
+### Debian, Ubuntu and their derivatives
+
+From the [download page for the latest release](https://github.com/senshu/Sozi/releases/latest){:target="_blank"},
+download the `.deb` file that corresponds to your platform (`i386` or `amd64`).
+Open a terminal and run the following command:
 
 ```bash
 sudo dpkg -i sozi_{version}_{arch}.deb
 ```
-###Archlinux
+
+### Fedora, CentOS
+
+We do not provide packages in the RPM format.
+However, Debian packages can be installed using the `alien` utility
+from your distribution.
+
+From the [download page for the latest release](https://github.com/senshu/Sozi/releases/latest){:target="_blank"},
+download the `.deb` file that corresponds to your platform (`i386` or `amd64`).
+Open a terminal and run the following command:
+
+```bash
+sudo alien -i sozi_{version}_{arch}.deb
+```
+
+### Archlinux
+
 Archlinux users can install Sozi from the [Archlinux User Repository](https://aur.archlinux.org/packages/sozi).
 
-### Other distribs
+### Other distributions
 
-In other cases, download the `.tgz` file that corresponds to your platform (`linux-ia32` or `linux-x64`) in the [stable repository](https://github.com/senshu/Sozi/releases/latest){:target="_blank"}.
+From the [download page for the latest release](https://github.com/senshu/Sozi/releases/latest){:target="_blank"},
+download the `.tgz` file that corresponds to your platform (`linux-ia32` or `linux-x64`).
 In a terminal, execute the following commands:
 
 ```bash
 tar xzf Sozi-{version}.tgz
 
 # Install Sozi globally for all users
+
 sudo ./Sozi-{version}/install/install.sh
 
 # Or install Sozi locally in your home folder.
@@ -82,8 +81,8 @@ Installing for Windows
 ----------------------
 
 Sozi for Windows is only distributed in the form of a zip archive, no installer is provided.
-Download one of the following files from the 
-[stable repository](https://github.com/senshu/Sozi/releases/latest){:target="_blank"}:
+From the [download page for the latest release](https://github.com/senshu/Sozi/releases/latest){:target="_blank"},
+download one of the following files:
 
 * `sozi-{version}-windows-ia32.zip` for Windows, 32-bit.
 * `sozi-{version}-windows-ia64.zip` for Windows, 64-bit.
@@ -94,10 +93,9 @@ Then you can run Sozi directly by launching the `Sozi` executable inside that fo
 Installing for OS X
 -------------------
 
-Sozi for OS X is distributed in the form of a zip archive named
-`sozi-{version}-osx-ia64.tgz` (for Sozi 17 or below, the file was named
-`sozi-{version}-darwin-ia64.tgz`), available in the 
-[stable repository](https://github.com/senshu/Sozi/releases/latest){:target="_blank"}.
+Sozi for OS X is distributed in the form of a zip archive.
+From the [download page for the latest release](https://github.com/senshu/Sozi/releases/latest){:target="_blank"},
+download the file `sozi-{version}-osx-ia64.tgz`.
 
 Extract the archive.
 It will create a folder with the same name, containing a subbolder `Sozi.app`.
@@ -153,22 +151,3 @@ docker run --user $UID -ti --rm \
 This image has been created by [Jorge Gomez](https://github.com/escalope).
 It is hosted in [the inkscape-sozi Docker Hub repository](https://hub.docker.com/r/escalope/inkscape-sozi).
 The source Dockerfile can be found in [the dockerfile-sozi GitHub repository](https://github.com/escalope/dockerfile-sozi).
-
-Installing an older version
-----------------------------
-
-Sozi 13.11 is still available if you need it, but it is no longer maintained:
-
-* [Download it](https://github.com/senshu/Sozi/releases/download/13.11/sozi-release-13.11-30213629.zip)
-* [See the release notes](|filename|/Releases/release-13.11.md)
-* [Install Sozi 13 on GNU/Linux](|filename|sozi-13-install-linux.md)
-* [Install Sozi 13 on Windows](|filename|sozi-13-install-windows.md)
-* [Install Sozi 13 on Mac OS X](|filename|sozi-13-install-osx.md)
-
-Installing a preview version
-----------------------------
-
-For developpers who would like to view the latest code, it is available in the 
-[preview repository](https://drive.google.com/open?id=0ByRUreHgekjMWG9teGM2dE8wck0){:target="_blank"}.
-
-The code is experimental and should only be used by experienced users.
