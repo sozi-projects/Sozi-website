@@ -33,19 +33,22 @@ Freed from the obsolete A4 paradigm, you can start being creative using truly pr
 ##Open standards
 
 Sozi uses open standards from A to Z, which is the core of our philosophy. It takes a vector image in the form of an SVG file, 
-and outputs a single html file. This file contains your presentation and can be shared with others, and played in any internet browser without the need to install additional software. 
+and outputs a single HTML file. This html file contains your presentation and can be shared with others, and played in any internet browser without the need to install additional software. 
 
 Because html is a very solid standard, used by bilions of people around the world, it guarantees that your presentation will play smoothly anywhere, and will remain useable anytime in the future.
 
+SVG, in turn, is a free format for vector drawing. We recommend the [Inkscape](https://inkscape.org/){:target="_blank"} software for the edition, free also and available on most platforms.
+
+
 ##Free licence
 
-Sozi is distributed according to the terms of the [Mozilla Public License 2.0](http://www.mozilla.org/MPL/2.0/), meaning you can use, inspect, modify, and share the code freely. 
+Sozi is distributed according to the terms of the [Mozilla Public License 2.0](http://www.mozilla.org/MPL/2.0/){:target="_blank"}, meaning you can use, inspect, modify, and share the code freely. 
 
 No limited-time testing periods or funny hidden features, everything is open. Sozi is still in construction, meaning it improves every day, thanks to the suggestions and contributions of its users.
 
 ##Test Sozi
 
-Now that you know Sozi, you can [install it](|filename|install.md), look at [presentation examples](https://senshu.github.io/Sozi-demos){:target="_blank"}, read the [documentation](|filename|documentation.md), inspect the [source code](https://github.com/senshu/Sozi/releases/latest){:target="_blank"}, or post a question on the [forum](./community){:target="_blank"}.
+Now that you know Sozi, you can [install it](|filename|install.md){:target="_blank"}, look at [presentation examples](https://senshu.github.io/Sozi-demos){:target="_blank"}, read the [documentation](|filename|documentation.md){:target="_blank"}, inspect the [source code](https://github.com/senshu/Sozi/releases/latest){:target="_blank"}, or post a question on the [forum](./community){:target="_blank"}.
 
 Thank you for your interest in Sozi.
 
