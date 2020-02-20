@@ -14,14 +14,16 @@ Authors: Guillaume Savaton
 * [Insérer une présentation Sozi dans une page HTML](|filename|tutorial-embedding.md)
 <!--* [Montrer et cacher des objets](|filename|tutorial-showing-hiding.md)-->
 * [Insérer de l'audio ou une vidéo](|filename|tutorial-media.md)
-* [Convertir les présentations Sozi en PDF ou en vidéo](|filename|tutorial-converting.md)
-* [Améliorer les performances](|filename|tutorial-performance.md)
+
+> Télécharger des [exemples de présentations](https://senshu.github.io/Sozi-demos){:target="_blank"}
 
 ## Jouer une présentation
 
 * [Jouer une presentation](|filename|play.md)
+* [Convertir les présentations Sozi en PDF ou en vidéo](|filename|tutorial-converting.md)
+* [Améliorer les performances](|filename|tutorial-performance.md)
 
 ## Obtenir de l'aide
 
 * [Foire Aux Questions et résolution des problèmes](|filename|faq.md)
-* [Exemples de présentations](https://senshu.github.io/Sozi-demos){:target="_blank"}
+
