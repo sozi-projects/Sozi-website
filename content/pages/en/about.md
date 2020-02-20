@@ -8,7 +8,7 @@ Authors: Guillaume Savaton
 Sozi is a zooming presentation editor and player. Unlike in most presentation applications, a Sozi document is not organised as a slideshow,
 but rather as a poster where the content of your presentation can be freely laid out.
 Playing such a presentation consists in a series of translations, zooms and rotations
-that allow to focus on the elements you want to show.
+that enable to focus on the elements you want to show.
 
 Below is an example of what can be done with Sozi. More examples are shown [here](https://senshu.github.io/Sozi-demos){:target="_blank"}.
 
@@ -37,7 +37,7 @@ and outputs a single HTML file. This html file contains your presentation and ca
 
 Because html is a very solid standard, used by bilions of people around the world, it guarantees that your presentation will play smoothly anywhere, and will remain useable anytime in the future.
 
-SVG, in turn, is a free format for vector drawing. We recommend the [Inkscape](https://inkscape.org/){:target="_blank"} software for the edition, free also and available on most platforms.
+SVG, in turn, is a free format for vector drawing. We recommend the [Inkscape](https://inkscape.org/){:target="_blank"} software for the edition, also free and available on most platforms.
 
 
 ##Free licence
