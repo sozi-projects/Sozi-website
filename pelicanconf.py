@@ -25,7 +25,7 @@ LINKS =  (
 # Social widget
 SOCIAL = (
     ('Mastodon', 'https://mamot.fr/@senshu'),
-    ('Twitter', 'https://twitter.com/senshua'),
+    ('Twitter', 'https://twitter.com/umouvantsillage'),
     # TODO add YouTube
 )
 
