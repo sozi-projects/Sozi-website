@@ -10,5 +10,5 @@ This release fixes the following bugs:
 
 * The camera does not move along a straight line.
 * Inaccurate centering when zooming with the mouse wheel or the "+" and "-" keys.
-* ["Hide" checkbox not checked by default when creating a frame from a rectangle](https://github.com/senshu/Sozi/issues/#issue/22).
+* ["Hide" checkbox not checked by default when creating a frame from a rectangle](https://github.com/sozi-projects/Sozi/issues/#issue/22).
 

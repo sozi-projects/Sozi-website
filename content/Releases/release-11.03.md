@@ -16,11 +16,11 @@ General
 Editor
 ------
 
-* [New user interface to edit multiple frames and reorder them without closing the window](https://github.com/senshu/Sozi/issues/24).
+* [New user interface to edit multiple frames and reorder them without closing the window](https://github.com/sozi-projects/Sozi/issues/24).
 * A single Inkscape extension to install the script and to edit the frames.
-* [Several frames can be created from the same objet](https://github.com/senshu/Sozi/issues/17).
+* [Several frames can be created from the same objet](https://github.com/sozi-projects/Sozi/issues/17).
 
 Player
 ------
 
-* [Up/down keys allow to jump to the previous/next frame with no transition](https://github.com/senshu/Sozi/issues/23).
+* [Up/down keys allow to jump to the previous/next frame with no transition](https://github.com/sozi-projects/Sozi/issues/23).

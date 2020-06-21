@@ -6,7 +6,7 @@ Authors: Guillaume Savaton
 Summary:
     This is a bugfix release for Windows users.
 
-Some users have [reported a problem](https://github.com/senshu/Sozi/issues/120)
+Some users have [reported a problem](https://github.com/sozi-projects/Sozi/issues/120)
 that makes the Inkscape extension unusable on Windows.
 When opening Sozi, an error dialog shows the following message:
 

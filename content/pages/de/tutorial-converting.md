@@ -10,7 +10,7 @@ Im Zweifelsfall vergleichen Sie bitte die Originalseite.
 
 Sozi-Export besteht aus einer Reihe von Kommandozeilen-Tools, mit denen man eine Sozi-Präsentation
 in eine PDF-Datei, ein Video oder in das Powerpoint-Format konvertieren kann.
-Der Quellcode liegt in der [Sozi-export](https://github.com/senshu/Sozi-export)
+Der Quellcode liegt in der [Sozi-export](https://github.com/sozi-projects/Sozi-export)
 Repository.
 
 Diese Tools arbeiten unabhängig vom Präsentations-Editor und sind nur unter GNU/Linux getestet.

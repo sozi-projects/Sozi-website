@@ -30,7 +30,7 @@ Graças ao trabalho de diversos tradutores, Sozi 15.11 está disponbível nos se
 * Português Brasileiro
 
 Caso queira ajudar a traduzir o Sozi para seu idioma, procure por [informações de tradução](|filename|/pages/pt_br/translate-editor.md) neste site.
-Por favor [notifique-nos](https://github.com/senshu/Sozi/issues) caso queira que a gente adicione um arquivo com
+Por favor [notifique-nos](https://github.com/sozi-projects/Sozi/issues) caso queira que a gente adicione um arquivo com
 a tradução completa ou atualize uma já existente.
 
 
@@ -39,12 +39,12 @@ Use Sozi 15.11 agora!
 
 Sozi 15 pode rodar como uma aplicação de desktop autônoma ou como uma aplicação hospedada na web.
 
-* [Baixe a versão para desktop](https://github.com/senshu/Sozi/releases/tag/15.11).
+* [Baixe a versão para desktop](https://github.com/sozi-projects/Sozi/releases/tag/15.11).
   Escolha o arquivo zip correspondente a sua plataforma, extraia ele e rode o arquivo `Sozi` executável.
 * [Conheça a versão para web](/demo) (É preciso uma conta do Google Drive para salvar documentos).
 
 Contribua
 ----------
 
-[Relate problemas](https://github.com/senshu/Sozi/issues) caso encontre bugs
+[Relate problemas](https://github.com/sozi-projects/Sozi/issues) caso encontre bugs
 ou queira sugerir melhorias.

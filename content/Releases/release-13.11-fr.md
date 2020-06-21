@@ -19,7 +19,7 @@ Pour cette raison, cette version de test corrige quelques problèmes et apporte 
 Fonctionnalités générales
 -------------------------
 
-* [Ne pas afficher le titre de certaines vues dans la liste](https://github.com/senshu/Sozi/issues/156)
+* [Ne pas afficher le titre de certaines vues dans la liste](https://github.com/sozi-projects/Sozi/issues/156)
 
 Éditeur
 -------
@@ -33,12 +33,12 @@ sur [la page Launchpad de traduction de Sozi](https://translations.launchpad.net
 Moteur de présentation
 ----------------------
 
-* [Meilleure compatibilité avec les télécommandes de présentation](https://github.com/senshu/Sozi/issues/191)
+* [Meilleure compatibilité avec les télécommandes de présentation](https://github.com/sozi-projects/Sozi/issues/191)
 * Correction d'un problème lié à l'utilisation du clavier lorsqu'une présentation Sozi est insérée dans un document HTML avec une iframe.
 
 Suppléments
 -----------
 
-* [Correction de l'échelle lors de l'export en PDF](https://github.com/senshu/Sozi/issues/195).
-* [Un script pour convertir tous les textes en chemins](https://github.com/senshu/Sozi/issues/129).
+* [Correction de l'échelle lors de l'export en PDF](https://github.com/sozi-projects/Sozi/issues/195).
+* [Un script pour convertir tous les textes en chemins](https://github.com/sozi-projects/Sozi/issues/129).
 

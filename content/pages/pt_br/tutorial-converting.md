@@ -9,7 +9,7 @@ Status: hidden
 
 `sozi-to-pdf` e `sozi-to-video` são ferramentas de comando de linha que podem ser usadas para exportar uma apresentação
 como um único documento PDF ou como um vídeo.
-O código fonte está disponível no repositório [Sozi-export](https://github.com/senshu/Sozi-export).
+O código fonte está disponível no repositório [Sozi-export](https://github.com/sozi-projects/Sozi-export).
 Estas ferramentas funcionam independentemente do editor de apresentação.
 Elas foram testadas apenas em sistemas GNU/Linux.
 

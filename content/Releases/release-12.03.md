@@ -21,14 +21,14 @@ Editor
 Extras
 ------
 
-* [Stop a video automatically when entering a Sozi frame](https://github.com/senshu/Sozi/issues/78).
+* [Stop a video automatically when entering a Sozi frame](https://github.com/sozi-projects/Sozi/issues/78).
 * Audio support.
 * The “Add video” extension uses frame IDs instead of frame numbers
 
 Player
 ------
 
-* Bug fix: [Property "clip" not correctly applied during transitions](https://github.com/senshu/Sozi/issues/81).
-* Bug fix: [Rotate in the direction of the shortest angle during transitions](https://github.com/senshu/Sozi/issues/83).
+* Bug fix: [Property "clip" not correctly applied during transitions](https://github.com/sozi-projects/Sozi/issues/81).
+* Bug fix: [Rotate in the direction of the shortest angle during transitions](https://github.com/sozi-projects/Sozi/issues/83).
 
 

@@ -6,7 +6,7 @@ Status: hidden
 
 Sozi-export is a set of command-line tools that you can use to convert a Sozi presentation
 into a PDF document, a video, or a PowerPoint presentation.
-The source code is available in the [Sozi-export](https://github.com/senshu/Sozi-export)
+The source code is available in the [Sozi-export](https://github.com/sozi-projects/Sozi-export)
 repository.
 These tools are independent from the presentation editor.
 They have been tested only for GNU/Linux.

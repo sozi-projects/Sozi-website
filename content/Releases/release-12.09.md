@@ -13,7 +13,7 @@ See the instructions to [download and install](|filename|/pages/en/install.md) i
 Player
 ------
 
-* Bug fix: [Sozi disables browser keyboard shortcuts](https://github.com/senshu/Sozi/issues/132)
+* Bug fix: [Sozi disables browser keyboard shortcuts](https://github.com/sozi-projects/Sozi/issues/132)
 
 Editor
 ------
@@ -24,11 +24,11 @@ Sozi 12.09 requires Python 2.7 and is known to work in GNU/Linux and Windows.
 * Several frames can be created without closing Sozi.
 * Native language support has been added. Translations are available in the following languages: French, Dutch, Spanish and Brazilian Portuguese.
 * Under the hood: Now using Glade for UI development.
-* Bug fix: [delete frame not working](https://github.com/senshu/Sozi/issues/133)
+* Bug fix: [delete frame not working](https://github.com/sozi-projects/Sozi/issues/133)
 
 Extras
 ------
 
 * A small Inkscape extension in Sozi-extras allows to create hyperlinks in any SVG document.
-* Bug fix: [audio/video playback, automatic start/stop not working](https://github.com/senshu/Sozi/issues/134)
+* Bug fix: [audio/video playback, automatic start/stop not working](https://github.com/sozi-projects/Sozi/issues/134)
 

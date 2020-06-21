@@ -12,7 +12,7 @@ Instalando
 ----------
 
 1. Baixe o arquivo `Sozi-extras-media-[...].zip`
-   a partir da [última versão do Sozi](https://github.com/senshu/Sozi/releases/).
+   a partir da [última versão do Sozi](https://github.com/sozi-projects/Sozi/releases/).
 2. O arquivo zip comtém dois documentos: `sozi_extras_media.inx` and `sozi_extras_media.py`.
    Extraia esses documentos para dentro da pasta de extensão do Inkscape:
     * No GNU/Linux e OS X: `~/.config/inkscape/extensions`,

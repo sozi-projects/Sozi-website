@@ -11,7 +11,7 @@ Select your environment and release version
 * [Install the latest release for Windows](#installing-for-windows)
 * [Install the latest release for OS X](#installing-for-os-x)
 * [Install Sozi from a Docker image](#installing-from-a-docker-image)
-* [Browse all stable and preview releases](https://github.com/senshu/Sozi/releases){:target="_blank"}
+* [Browse all stable and preview releases](https://github.com/sozi-projects/Sozi/releases){:target="_blank"}
 
 Installing for GNU/Linux
 ------------------------
@@ -25,7 +25,7 @@ Installing for GNU/Linux
 
 ### Debian, Ubuntu and their derivatives
 
-From the [download page for the latest release](https://github.com/senshu/Sozi/releases/latest){:target="_blank"},
+From the [download page for the latest release](https://github.com/sozi-projects/Sozi/releases/latest){:target="_blank"},
 download the `.deb` file that corresponds to your platform (`i386` or `amd64`).
 Open a terminal and run the following command:
 
@@ -39,7 +39,7 @@ We do not provide packages in the RPM format.
 However, Debian packages can be installed using the `alien` utility
 from your distribution.
 
-From the [download page for the latest release](https://github.com/senshu/Sozi/releases/latest){:target="_blank"},
+From the [download page for the latest release](https://github.com/sozi-projects/Sozi/releases/latest){:target="_blank"},
 download the `.deb` file that corresponds to your platform (`i386` or `amd64`).
 Open a terminal and run the following command:
 
@@ -53,12 +53,12 @@ Archlinux users can install Sozi from the [Archlinux User Repository](https://au
 
 ### Other distributions
 
-From the [download page for the latest release](https://github.com/senshu/Sozi/releases/latest){:target="_blank"},
-download the `.tgz` file that corresponds to your platform (`linux-ia32` or `linux-x64`).
+From the [download page for the latest release](https://github.com/sozi-projects/Sozi/releases/latest){:target="_blank"},
+download the `.tar.xz` file that corresponds to your platform (`linux-ia32` or `linux-x64`).
 In a terminal, execute the following commands:
 
 ```bash
-tar xzf Sozi-{version}.tgz
+tar xJf Sozi-{version}.tar.xz
 
 # Install Sozi globally for all users
 
@@ -81,11 +81,14 @@ Installing for Windows
 ----------------------
 
 Sozi for Windows is only distributed in the form of a zip archive, no installer is provided.
-From the [download page for the latest release](https://github.com/senshu/Sozi/releases/latest){:target="_blank"},
+From the [download page for the latest release](https://github.com/sozi-projects/Sozi/releases/latest){:target="_blank"},
 download one of the following files:
 
 * `sozi-{version}-windows-ia32.zip` for Windows, 32-bit.
 * `sozi-{version}-windows-ia64.zip` for Windows, 64-bit.
+
+Several tools are available to extract this archive.
+If unsure, you can use [7-Zip](https://www.7-zip.org/).
 
 Extracting the archive will create a folder with the same name.
 Then you can run Sozi directly by launching the `Sozi` executable inside that folder.
@@ -93,12 +96,14 @@ Then you can run Sozi directly by launching the `Sozi` executable inside that fo
 Installing for OS X
 -------------------
 
-Sozi for OS X is distributed in the form of a zip archive.
-From the [download page for the latest release](https://github.com/senshu/Sozi/releases/latest){:target="_blank"},
-download the file `sozi-{version}-osx-ia64.tgz`.
+Sozi for OS X is distributed in the form of a "tar.xz" archive.
+From the [download page for the latest release](https://github.com/sozi-projects/Sozi/releases/latest){:target="_blank"},
+download the file `sozi-{version}-osx-ia64.tar.xz`.
 
-Extract the archive.
-It will create a folder with the same name, containing a subbolder `Sozi.app`.
+Several tools are available to extract this archive.
+If unsure, you can use [The Unarchiver](https://theunarchiver.com/).
+
+Extracting the archive will create a folder with the same name, containing a subbolder `Sozi.app`.
 Drag `Sozi.app` to your `Applications` folder and execute it like any other
 OS X application.
 

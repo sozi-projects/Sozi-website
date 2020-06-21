@@ -6,11 +6,11 @@ Authors: Guillaume Savaton
 Summary:
     After one year, Sozi 19.04 is out with a new presenter console and performance fixes.
 
-The first [request for a presenter mode](https://github.com/senshu/Sozi/issues/211)
+The first [request for a presenter mode](https://github.com/sozi-projects/Sozi/issues/211)
 in Sozi was made in 2014.
 At least two implementations were proposed, one by Kai Wegner as a separate
 application called [catchi](https://github.com/kai-wegner/catchi),
-and another by roggan87, [as a modified version of the existing Sozi player](https://github.com/senshu/Sozi/pull/325).
+and another by roggan87, [as a modified version of the existing Sozi player](https://github.com/sozi-projects/Sozi/pull/325).
 
 Sozi 19.04 is a trade-off between both approaches.
 It reuses some code written by roggan87, but the presenter console is kept outside
@@ -45,7 +45,7 @@ Additional changes since Sozi 18.04
 * A bug in the player showed a scrollbar on the left of the presentation
   when the frame list did not fit in the browser window.
 
-[Install Sozi 19.04 now!](|filename|/pages/en/install.md).
+[Install Sozi 19.04 now!](|filename|/pages/en/install.md)
 
 About Sozi-export
 -----------------

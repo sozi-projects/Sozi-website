@@ -27,7 +27,7 @@ Infelizmente, a maioria das traduções não estão em dia, então se você não
 francês ou esperanto, pode ser que encontre textos não traduzidos na interface do usuário.
 
 Se quer ajudar a traduzir o Sozi para seu idioma, você encontrará [instruções para a tradução](|filename|/pages/pt_br/translate-editor.md) aqui no site.
-Por favor [abra um chamado](https://github.com/senshu/Sozi/issues) caso queira que adicionemos um arquivo com a tradução completa
+Por favor [abra um chamado](https://github.com/sozi-projects/Sozi/issues) caso queira que adicionemos um arquivo com a tradução completa
 ou atualizar alguma já existente.
 
 
@@ -36,12 +36,12 @@ Use Sozi 17.06 agora!
 
 Sozi 17 pode ser usado no desktop como um aplicativo independente ou também como um software hospedado diretamente na internet.
 
-* [Baixar a versão para desktop](https://github.com/senshu/Sozi/releases/tag/17.06).
+* [Baixar a versão para desktop](https://github.com/sozi-projects/Sozi/releases/tag/17.06).
   Escolha o arquivo zip correspondente a sua plataforma, extraia-o e clique no arquivo executável `Sozi`.
 * [Experimente Sozi via internet](/demo) (é preciso uma conta no Google Drive para salvar os arquivos).
 
 Contribua
 ----------
 
-[Abra um chamado](https://github.com/senshu/Sozi/issues) caso encontre problemas, bugs
+[Abra um chamado](https://github.com/sozi-projects/Sozi/issues) caso encontre problemas, bugs
 ou queira sugerir melhoramentos.

@@ -123,11 +123,11 @@ to your platform and click the "Download" button at the top of the screen).
 Contribute
 ----------
 
-[Report issues](https://github.com/senshu/Sozi/issues) if you find bugs
+[Report issues](https://github.com/sozi-projects/Sozi/issues) if you find bugs
 or want to suggest improvements.
 Please indicate clearly that you are using Sozi 14.
 
 Help is needed to implement additional cloud storage backends in the hosted app.
 Google Drive is provided as a proof of concept, but we must support alternatives.
 The source code is available in the `dev` branch of the repository.
-See the files named `sozi.editor.backend.*.js` [in the `js` folder](https://github.com/senshu/Sozi/tree/dev/js).
+See the files named `sozi.editor.backend.*.js` [in the `js` folder](https://github.com/sozi-projects/Sozi/tree/dev/js).

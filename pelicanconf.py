@@ -5,7 +5,7 @@ from __future__ import unicode_literals
 AUTHOR = u'Guillaume Savaton'
 SITENAME = u'Sozi'
 SITEURL = 'https://sozi.baierouge.fr'
-GITHUB_URL = 'https://github.com/senshu/Sozi'
+GITHUB_URL = 'https://github.com/sozi-projects/Sozi'
 # PIWIK_URL = 'http://baierouge.fr/piwik'
 # PIWIK_SITE = '2'
 TIMEZONE = 'Europe/Paris'

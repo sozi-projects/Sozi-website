@@ -3092,7 +3092,7 @@ namespace(this, &quot;sozi.player&quot;, function (exports, window) {
         exports.startFromIndex(sozi.location.getFrameIndex());
 
         // Hack to fix the blank screen bug in Chrome/Chromium
-        // See https://github.com/senshu/Sozi/issues/109
+        // See https://github.com/sozi-projects/Sozi/issues/109
         window.setTimeout(viewPort.bind(viewPort.update), 1);
         
         sozi.events.fire(&quot;sozi.player.ready&quot;);

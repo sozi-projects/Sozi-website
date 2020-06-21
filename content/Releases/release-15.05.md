@@ -88,14 +88,14 @@ Try Sozi 15 now!
 
 Sozi 15 can be run either as a standalone desktop application, or as a hosted web application.
 
-* [Download the desktop version](https://github.com/senshu/Sozi/releases/tag/15.05-preview).
+* [Download the desktop version](https://github.com/sozi-projects/Sozi/releases/tag/15.05-preview).
   Choose the zip file corresponding to your platform, extract it and run the `Sozi` executable.
 * [Try the hosted web application](/demo) (requires a Google Drive account for saving documents).
 
 Contribute
 ----------
 
-[Report issues](https://github.com/senshu/Sozi/issues) if you find bugs
+[Report issues](https://github.com/sozi-projects/Sozi/issues) if you find bugs
 or want to suggest improvements.
 Please indicate clearly that you are using Sozi 15.
 

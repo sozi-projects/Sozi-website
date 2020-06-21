@@ -24,4 +24,4 @@ Authors: Guillaume Savaton
 ## Obtenir de l'aide
 
 * [Foire Aux Questions et résolution des problèmes](|filename|faq.md)
-* [Exemples de présentations](https://senshu.github.io/Sozi-demos){:target="_blank"}
+* [Exemples de présentations](https://sozi-projects.github.io/Sozi-demos){:target="_blank"}

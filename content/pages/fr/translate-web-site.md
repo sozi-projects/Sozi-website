@@ -9,16 +9,16 @@ Le site web de Sozi est un site statique généré avec [Pelican](http://blog.ge
 Il ne fournit pas d'éditeur en ligne où vous pourriez éditer, prévisualiser et publier vos contributions.
 
 Les fichiers source du site sont des fichiers texte utilisant la syntaxe [Markdown](http://daringfireball.net/projects/markdown/syntax).
-Ces fichiers sont hébergés dans le [dépôt Sozi-website chez GitHub](https://github.com/senshu/Sozi-website),
-dans le dossier [content/](https://github.com/senshu/Sozi-website/tree/master/content).
-Le dossier [content/pages/](https://github.com/senshu/Sozi-website/tree/master/content/pages) contient
+Ces fichiers sont hébergés dans le [dépôt Sozi-website chez GitHub](https://github.com/sozi-projects/Sozi-website),
+dans le dossier [content/](https://github.com/sozi-projects/Sozi-website/tree/master/content).
+Le dossier [content/pages/](https://github.com/sozi-projects/Sozi-website/tree/master/content/pages) contient
 la documentation de Sozi.
 Il est divisé en sous-dossiers pour chaque langue (`en` pour l'anglais, `fr` pour le français, etc.)
 contenant les fichiers Markdown.
 
 Pour commencer à traduire, nous recommendons de suivre les étapes suivantes :
 
-1. [Forker le dépôt](https://github.com/senshu/Sozi-website/fork).
+1. [Forker le dépôt](https://github.com/sozi-projects/Sozi-website/fork).
 2. Ajouter un sous-répertoire pour votre langue dans `content/pages/`, s'il n'existe pas déjà.
 3. Si vous voulez traduire une page, trouvez la version originale en langue anglaise dans le répertoire `en` et créez un nouveau fichier avec le même nom dans votre répertoire.
 4. Éditez le nouveau fichier.

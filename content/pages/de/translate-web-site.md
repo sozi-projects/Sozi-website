@@ -9,14 +9,14 @@ Die Web Site von Sozi ist eine statische Site und wird mit Hilfe von [Pelican](h
 Sie hat keinen Online-Editor.
 
 Die Quelldateien der Site sind Text-Dateien in einfacher [Markdown](http://daringfireball.net/projects/markdown/syntax)-Syntax.
-Diese Dateien liegen im [Repository der Sozi-website auf GitHub](https://github.com/senshu/Sozi-website), im Verzeichnis
-[content/](https://github.com/senshu/Sozi-website/tree/master/content).
-Im Verzeichnis [content/pages/](https://github.com/senshu/Sozi-website/tree/master/content/pages) liegt die Dokumentation von Sozi.
+Diese Dateien liegen im [Repository der Sozi-website auf GitHub](https://github.com/sozi-projects/Sozi-website), im Verzeichnis
+[content/](https://github.com/sozi-projects/Sozi-website/tree/master/content).
+Im Verzeichnis [content/pages/](https://github.com/sozi-projects/Sozi-website/tree/master/content/pages) liegt die Dokumentation von Sozi.
 Die jeweiligen Markdown-Sprachdateien liegen in Unterverzeichnissen &ndash; `en` für Englisch, `de` für Deutsch usw).
 
 Wenn Du mit dem Übersetzen beginnen möchtest, dann empfehlen wir die folgende Vorgehensweise:
 
-1. [Fork das Repository](https://github.com/senshu/Sozi-website/fork).
+1. [Fork das Repository](https://github.com/sozi-projects/Sozi-website/fork).
 2. Erstelle ein Unterverzeichnis für Deine Sprache in `content/pages/`, falls dieses noch nicht existiert.
 3. Finde die Seite, die Du übersetzen möchtest im `en`-Verzeichnis und kopiere sie mit dem gleichen Namen ins Verzeichnis mit Deiner Sprache.
 4. Übersetze die Seite.

@@ -19,5 +19,5 @@ Translations have been updated for several languages.
 Hyperlinks to Sozi frames should now work as expected in most browsers.
 
 For developers and testers, the build system is now based on [SCons](http://www.scons.org/).
-Building instructions are provided in the [README](https://github.com/senshu/Sozi/blob/master/README.md) file
-at [the root of the source tree](https://github.com/senshu/Sozi).
+Building instructions are provided in the [README](https://github.com/sozi-projects/Sozi/blob/master/README.md) file
+at [the root of the source tree](https://github.com/sozi-projects/Sozi).

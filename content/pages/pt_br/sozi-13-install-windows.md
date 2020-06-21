@@ -27,7 +27,7 @@ Escolha o instalador *all-in-one* para Python 2.7 e Windows 32-bit (win32).
 5. Copie a pasta `C:\Python27` para dentro de `C:\Program Files\Inkscape`
 6. Renomeie a pasta `C:\Program Files\Inkscape\python` para `C:\Program Files\Inkscape\python26`
 7. Renomeie a pasta `C:\Program Files\Inkscape\Python27` para `C:\Program Files\Inkscape\python`
-8. [Baixar Sozi](https://github.com/senshu/Sozi/releases/download/13.11/sozi-release-13.11-30213629.zip)
+8. [Baixar Sozi](https://github.com/sozi-projects/Sozi/releases/download/13.11/sozi-release-13.11-30213629.zip)
 9. Descompacte o arquivo `sozi-release-[...].zip`.
 Uma pasta será criada com o nome `archive sozi-release-[...]`.
 Copie o conteúdo dessa pasta para dentro de `C:\Program Files\Inkscape\share\extensions`

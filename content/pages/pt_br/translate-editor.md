@@ -14,7 +14,7 @@ Usando a interface web em Weblate
 Crie uma conta em [Weblate](https://hosted.weblate.org)
 e entre na [página de tradução do Sozi](https://hosted.weblate.org/projects/sozi/translations/).
 É possível traduzir diretamente dessa página.
-Quando finalizar seu trabalho, por favor [abra um novo chamado](https://github.com/senshu/Sozi/issues)
+Quando finalizar seu trabalho, por favor [abra um novo chamado](https://github.com/sozi-projects/Sozi/issues)
 para que a nova tradução seja adicionada na próxima versão a ser lançada.
 
 > Mesmo que 100% da tradução esteja realizada, nós não podemos
@@ -28,7 +28,7 @@ para que a nova tradução seja adicionada na próxima versão a ser lançada.
 Editar diretamente nos arquivos PO
 -----------------------------
 
-Crie uma bifurcação (Fork) no [repositório fonte do Sozi no GitHub](https://github.com/senshu/Sozi).
+Crie uma bifurcação (Fork) no [repositório fonte do Sozi no GitHub](https://github.com/sozi-projects/Sozi).
 Os arquivos *PO* relativos ao Sozi podem ser encontrados na pasta `locales`.
 
 Arquivos *PO* podem ser editados em qualquer editor de texto ou um editor específico para tradução como

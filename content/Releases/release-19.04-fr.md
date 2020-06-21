@@ -6,11 +6,11 @@ Authors: Guillaume Savaton
 Summary:
     Après un an, Sozi 19.04 est sorti. Il propose un nouveau mode *présentateur* et des améliorations de performances.
 
-La première [demande pour un mode présentateur](https://github.com/senshu/Sozi/issues/211)
+La première [demande pour un mode présentateur](https://github.com/sozi-projects/Sozi/issues/211)
 dans Sozi a été formulée en 2014.
 Au moins deux implémentation on été proposées, l'une par Kai Wegner, sous la forme
 d'une application séparée appelée [catchi](https://github.com/kai-wegner/catchi),
-l'autre par roggan87, [comme une modification du logiciel de visionnage existant](https://github.com/senshu/Sozi/pull/325).
+l'autre par roggan87, [comme une modification du logiciel de visionnage existant](https://github.com/sozi-projects/Sozi/pull/325).
 
 Sozi 19.04 est un compromis entre les deux approches.
 Il réutilise du code écrit par roggan87, mais la console du présentateur reste

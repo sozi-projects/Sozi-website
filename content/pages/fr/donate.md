@@ -16,4 +16,4 @@ Les dons sont acceptés par l'intermédiaire des services suivants&nbsp;:
 * [Paypal](https://www.paypal.me/guillaumesavaton)
 * [Bountysource](https://www.bountysource.com/teams/sozi)
 * [Flattr](https://flattr.com/submit/auto?fid=4lz3lv&url=http://sozi.baierouge.fr/)
-* [Liberapay](https://liberapay.com/senshu/donate)
+* [Liberapay](https://liberapay.com/aumouvantsillage/donate)

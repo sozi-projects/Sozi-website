@@ -11,7 +11,7 @@ This release comes with the following new features:
 Player
 ------
 
-* [Press key "T" to show/hide the table of contents](https://github.com/senshu/Sozi/issues/29).
+* [Press key "T" to show/hide the table of contents](https://github.com/sozi-projects/Sozi/issues/29).
 * Better usability of the table of contents.
 * Customizable style for the table of contents.
 

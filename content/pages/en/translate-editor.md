@@ -14,7 +14,7 @@ Using the web front-end at Weblate
 Create an account at [Weblate](https://hosted.weblate.org)
 and visit the [translation page for Sozi](https://hosted.weblate.org/projects/sozi/translations/).
 You can start translating immediately.
-When your work is finished, please [open a new issue](https://github.com/senshu/Sozi/issues)
+When your work is finished, please [open a new issue](https://github.com/sozi-projects/Sozi/issues)
 to request the translation to be added to the next release.
 
 > Even when 100% of the strings are marked as translated, we cannot
@@ -28,7 +28,7 @@ to request the translation to be added to the next release.
 Editing the PO files directly
 -----------------------------
 
-Fork the [source repository of Sozi at GitHub](https://github.com/senshu/Sozi).
+Fork the [source repository of Sozi at GitHub](https://github.com/sozi-projects/Sozi).
 The *PO* files for Sozi can be found in the `locales` folder.
 
 *PO* files can be edited using a general-purpose text editor or a translation editor such as

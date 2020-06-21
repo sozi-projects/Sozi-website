@@ -11,7 +11,7 @@ Choisissez votre environnement et version
 * [Installer la dernière version pour Windows](#installation-pour-windows)
 * [Installer la dernière version pour OS X](#installation-pour-os-x)
 * [Installer Sozi à partir d'une image Docker](#installation-a-partir-dune-image-docker)
-* [Parcourir la liste des versions stables et des versions de test](https://github.com/senshu/Sozi/releases){:target="_blank"}
+* [Parcourir la liste des versions stables et des versions de test](https://github.com/sozi-projects/Sozi/releases){:target="_blank"}
 
 Installation pour GNU/Linux
 ---------------------------
@@ -25,7 +25,7 @@ Installation pour GNU/Linux
 
 ### Debian, Ubuntu et leurs variantes
 
-À partir de la [page des téléchargements pour la version la plus récente de Sozi](https://github.com/senshu/Sozi/releases/latest){:target="_blank"},
+À partir de la [page des téléchargements pour la version la plus récente de Sozi](https://github.com/sozi-projects/Sozi/releases/latest){:target="_blank"},
 téléchargez le fichier `.deb` correspondant à votre plate-forme (`i386` ou `amd64`).
 Ouvrez un terminal et exécutez la commande suivante&nbsp;:
 
@@ -39,7 +39,7 @@ Nous ne fournissons pas de paquets au format RPM.
 Cependant, les paquets Debian peuvent s'installer à l'aide
 de l'utilitaire `alien` disponible dans votre distribution.
 
-À partir de la [page des téléchargements pour la version la plus récente de Sozi](https://github.com/senshu/Sozi/releases/latest){:target="_blank"},
+À partir de la [page des téléchargements pour la version la plus récente de Sozi](https://github.com/sozi-projects/Sozi/releases/latest){:target="_blank"},
 téléchargez le fichier `.deb` correspondant à votre plate-forme (`i386` ou `amd64`).
 Ouvrez un terminal et exécutez la commande suivante&nbsp;:
 
@@ -53,12 +53,12 @@ Les utilisateurs d'Archlinux peuvent installer Sozi depuis l'[Archlinux User Rep
 
 ### Autres distributions
 
-À partir de la [page des téléchargements pour la version la plus récente de Sozi](https://github.com/senshu/Sozi/releases/latest){:target="_blank"},
+À partir de la [page des téléchargements pour la version la plus récente de Sozi](https://github.com/sozi-projects/Sozi/releases/latest){:target="_blank"},
 téléchargez le fichier `.tgz` correspondant à votre plate-forme (`linux-ia32` ou `linux-x64`).
 Dans un terminal, exécutez les commandes suivantes&nbsp;:
 
 ```bash
-tar xzf Sozi-{version}.tgz
+tar xJf Sozi-{version}.tar.xz
 
 # Installer Sozi globalement pour tous les utilisateurs
 
@@ -80,11 +80,14 @@ Installation pour Windows
 -------------------------
 
 Sozi pour Windows est distribué uniquement sous la forme d'une archive zip, aucun programme d'installation n'est fourni.
-À partir de la [page des téléchargements pour la version la plus récente de Sozi](https://github.com/senshu/Sozi/releases/latest){:target="_blank"},
+À partir de la [page des téléchargements pour la version la plus récente de Sozi](https://github.com/sozi-projects/Sozi/releases/latest){:target="_blank"},
 téléchargez l'un des fichiers suivants&nbsp;:
 
 * `sozi-{version}-windows-ia32.zip` pour Windows, 32 bits.
 * `sozi-{version}-windows-ia64.zip` pour Windows, 64 bits.
+
+Il existe différents logiciels pour extraire cette archive.
+Dans le doute, vous pouvez utiliser [7-Zip](https://www.7-zip.org/).
 
 En procédant à l'extraction de cette archive, vous verrez apparaître un dossier
 portant le même nom.
@@ -93,9 +96,12 @@ Vous pouvez alors démarrer Sozi en ouvrant l'exécutable `Sozi` situé dans ce 
 Installation pour OS X
 ----------------------
 
-Sozi pour OS X est distribué sous la forme d'une archive zip.
-À partir de la [page des téléchargements pour la version la plus récente de Sozi](https://github.com/senshu/Sozi/releases/latest){:target="_blank"},
-téléchargez le fichier `sozi-{version}-osx-ia64.tgz`.
+Sozi pour OS X est distribué sous la forme d'une archive au format "tar.xz".
+À partir de la [page des téléchargements pour la version la plus récente de Sozi](https://github.com/sozi-projects/Sozi/releases/latest){:target="_blank"},
+téléchargez le fichier `sozi-{version}-osx-ia64.tar.xz`.
+
+Il existe différents logiciels pour extraire cette archive.
+Dans le doute, vous pouvez utiliser [The Unarchiver](https://theunarchiver.com/).
 
 En procédant à l'extraction de cette archive, vous verrez apparaître un dossier
 portant le même nom.

@@ -14,7 +14,7 @@ Compared to the previous release 13.05, Sozi 13.11 fixes a few bug and comes wit
 General
 -------
 
-* [Hide frames from the table of contents](https://github.com/senshu/Sozi/issues/156)
+* [Hide frames from the table of contents](https://github.com/sozi-projects/Sozi/issues/156)
 
 Editor
 ------
@@ -28,12 +28,12 @@ translations at [the Launchpad translation page for Sozi](https://translations.l
 Player
 ------
 
-* [Better compatibility with wireless presenters](https://github.com/senshu/Sozi/issues/191)
+* [Better compatibility with wireless presenters](https://github.com/sozi-projects/Sozi/issues/191)
 * Bug fix: correct keyboard actions when a Sozi presentation is embedded in an HTML document using an iframe.
 
 Extras
 ------
 
-* Bug fix: [Scaling when exporting to PDF](https://github.com/senshu/Sozi/issues/195).
-* [A script to convert all texts to paths](https://github.com/senshu/Sozi/issues/129).
+* Bug fix: [Scaling when exporting to PDF](https://github.com/sozi-projects/Sozi/issues/195).
+* [A script to convert all texts to paths](https://github.com/sozi-projects/Sozi/issues/129).
 

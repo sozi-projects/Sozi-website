@@ -6,15 +6,15 @@ Authors: Guillaume Savaton
 
 The source code of Sozi is hosted in the following repositories:
 
-* [The presentation editor](https://github.com/senshu/Sozi) (you can also browse the [source code documentation](/api/))
-* [The PDF and video exporter](https://github.com/senshu/Sozi-export)
-* [This web site](https://github.com/senshu/Sozi-website)
+* [The presentation editor](https://github.com/sozi-projects/Sozi) (you can also browse the [source code documentation](/api/))
+* [The PDF and video exporter](https://github.com/sozi-projects/Sozi-export)
+* [This web site](https://github.com/sozi-projects/Sozi-website)
 
 Even if you are not a programmer, there are several other ways you can contribute to Sozi:
 
-* [Report issues about the presentation editor](https://github.com/senshu/Sozi/issues)
-* [Report issues about the presentation exporter](https://github.com/senshu/Sozi-export/issues)
-* [Report issues about this web site](https://github.com/senshu/Sozi-website/issues)
+* [Report issues about the presentation editor](https://github.com/sozi-projects/Sozi/issues)
+* [Report issues about the presentation exporter](https://github.com/sozi-projects/Sozi-export/issues)
+* [Report issues about this web site](https://github.com/sozi-projects/Sozi-website/issues)
 * [Translate the user interface of the editor to your native language](|filename|translate-editor.md)
 * [Translate the web site to your native language](|filename|translate-web-site.md)
 * [Help others at the Sozi community forum](/community)

@@ -15,7 +15,7 @@ Sozi is now available in six languages!
 General
 -------
 
-* [A transition can follow a path](https://github.com/senshu/Sozi/issues/8).
+* [A transition can follow a path](https://github.com/sozi-projects/Sozi/issues/8).
 
 Editor
 ------
@@ -28,14 +28,14 @@ translations at [the Launchpad translation page for Sozi](https://translations.l
 
 Player
 ------
-* Bug fix: [Different forward and backward durations](https://github.com/senshu/Sozi/issues/148).
-* Bug fix: [Prevent dragging when clicking](https://github.com/senshu/Sozi/issues/52).
-* Bug fix: [Sozi presentations broken in recent versions of Chrome](https://github.com/senshu/Sozi/issues/167).
+* Bug fix: [Different forward and backward durations](https://github.com/sozi-projects/Sozi/issues/148).
+* Bug fix: [Prevent dragging when clicking](https://github.com/sozi-projects/Sozi/issues/52).
+* Bug fix: [Sozi presentations broken in recent versions of Chrome](https://github.com/sozi-projects/Sozi/issues/167).
 
 Extras
 ------
 
-* [Export a presentation to PDF (experimental)](https://github.com/senshu/Sozi/issues/14).
-* [Export a presentation to a video](https://github.com/senshu/Sozi/issues/15).
-* [Modify or remove existing hyperlinks](https://github.com/senshu/Sozi/issues/147).
+* [Export a presentation to PDF (experimental)](https://github.com/sozi-projects/Sozi/issues/14).
+* [Export a presentation to a video](https://github.com/sozi-projects/Sozi/issues/15).
+* [Modify or remove existing hyperlinks](https://github.com/sozi-projects/Sozi/issues/147).
 

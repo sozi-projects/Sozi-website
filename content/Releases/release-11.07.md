@@ -8,7 +8,7 @@ Summary:
 
 This release adds the following features to the player:
 
-* [Keybindings and mouse actions for rotating the current view](https://github.com/senshu/Sozi/issues/50).
+* [Keybindings and mouse actions for rotating the current view](https://github.com/sozi-projects/Sozi/issues/50).
 * Animated frame list.
 * Current frame title highlighted in the frame list.
 

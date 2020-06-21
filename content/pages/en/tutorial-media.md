@@ -11,7 +11,7 @@ Installing
 ----------
 
 1. Download the `Sozi-extras-media-[...].zip`
-   from the [latest release of Sozi](https://github.com/senshu/Sozi/releases/).
+   from the [latest release of Sozi](https://github.com/sozi-projects/Sozi/releases/).
 2. The zip archive contains two files: `sozi_extras_media.inx` and `sozi_extras_media.py`.
    Extract them to the Inkscape extensions folder:
     * for Linux and OS X: `~/.config/inkscape/extensions`,

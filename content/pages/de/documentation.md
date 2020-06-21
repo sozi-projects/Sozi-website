@@ -24,4 +24,4 @@ Translation: true
 ## Hilfe holen
 
 * [Oft gestellte Fragen (FAQ) und Problemlösungen](|filename|faq.md)
-* [Präsentationen demos](https://senshu.github.io/Sozi-demos){:target="_blank"}
+* [Präsentationen demos](https://sozi-projects.github.io/Sozi-demos){:target="_blank"}

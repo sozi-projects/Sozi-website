@@ -93,7 +93,7 @@ Essayez Sozi 15 dès maintenant&nbsp;!
 
 Sozi 15 peut se présente sous deux formes&nbsp;:
 
-* [Une application native que vous pouvez installer sur votre ordinateur](https://github.com/senshu/Sozi/releases/tag/15.05-preview).
+* [Une application native que vous pouvez installer sur votre ordinateur](https://github.com/sozi-projects/Sozi/releases/tag/15.05-preview).
   Choisissez le fichier zip correspondant à votre plate-forme, décompressez-le et lancez l'exécutable `Sozi`.
 * [Une application web que vous pouvez exécuter dans votre navigateur](/demo)
   (nécessite un compte Google Drive pour enregistrer vos présentations).
@@ -101,7 +101,7 @@ Sozi 15 peut se présente sous deux formes&nbsp;:
 Contribuez
 ----------
 
-[Signalez les problèmes](https://github.com/senshu/Sozi/issues) que vous rencontrez
+[Signalez les problèmes](https://github.com/sozi-projects/Sozi/issues) que vous rencontrez
 ou proposez des améliorations.
 Merci d'indiquer clairement que vous utilisez Sozi 15.
 
