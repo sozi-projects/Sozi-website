@@ -5,6 +5,11 @@ Authors: Guillaume Savaton, Marcelo Vaz Pupo
 Translation: true
 Status: hidden
 
+> Sozi-export is now considered obsolete.
+> Since Sozi 21.02, the conversion tool has been integrated into the presentation editor.
+>
+> Documentation for this new feature will be available soon.
+
 > Read this page in English for an up-to-date version.
 
 `sozi-to-pdf` e `sozi-to-video` são ferramentas de comando de linha que podem ser usadas para exportar uma apresentação

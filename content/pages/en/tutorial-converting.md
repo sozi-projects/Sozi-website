@@ -4,6 +4,11 @@ Lang: en
 Authors: Guillaume Savaton
 Status: hidden
 
+> Sozi-export is now considered obsolete.
+> Since Sozi 21.02, the conversion tool has been integrated into the presentation editor.
+>
+> Documentation for this new feature will be available soon.
+
 Sozi-export is a set of command-line tools that you can use to convert a Sozi presentation
 into a PDF document, a video, or a PowerPoint presentation.
 The source code is available in the [Sozi-export](https://github.com/sozi-projects/Sozi-export)

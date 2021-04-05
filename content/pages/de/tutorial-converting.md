@@ -5,6 +5,11 @@ Authors: Guillaume Savaton, Alfred Bergkemper
 Status: hidden
 Translation: true
 
+> Sozi-export is now considered obsolete.
+> Since Sozi 21.02, the conversion tool has been integrated into the presentation editor.
+>
+> Documentation for this new feature will be available soon.
+
 > Diese Übersetzung beruht nicht auf praktischen Erfahrungen und kann daher fehlerhaft sein.
 Im Zweifelsfall vergleichen Sie bitte die Originalseite.
 
