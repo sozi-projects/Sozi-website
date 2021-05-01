@@ -55,8 +55,6 @@ videos or printable documents.
 These tools are based on PhantomJS, a headless browser engine that is no longer
 maintained.
 As a consequence, Sozi-export has become unusable on several platforms.
-See [this conversation](https://sozi.baierouge.fr/community/d/79-sozi-to-pdf-failing-with-file-argument-must-be-of-type-string)
-for details.
 As far as we know, there is no easy fix to make it work again in the short term.
 
 Until this is solved, the [Docker image](https://hub.docker.com/r/escalope/inkscape-sozi)

@@ -17,7 +17,7 @@ Even if you are not a programmer, there are several other ways you can contribut
 * [Report issues about this web site](https://github.com/sozi-projects/Sozi-website/issues)
 * [Translate the user interface of the editor to your native language](|filename|translate-editor.md)
 * [Translate the web site to your native language](|filename|translate-web-site.md)
-* [Help others at the Sozi community forum](/community)
+* [Help others at the Sozi users forum](https://github.com/sozi-projects/Sozi/discussions)
 
 List of contributors
 --------------------

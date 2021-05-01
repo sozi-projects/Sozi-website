@@ -7,7 +7,7 @@ Authors: Civilized Discourse Construction Kit, Inc, Guillaume Savaton
 
 > This page has not been translated yet
 
-Thank you for visiting the [Sozi community forum](/community) and the [Sozi web demo](/demo).
+Thank you for visiting the [Sozi users forum](https://github.com/sozi-projects/Sozi/discussions) and the [Sozi web demo](/demo).
 We respect and protect the privacy of our users.
 This privacy policy tells you how we collect and use information.
 

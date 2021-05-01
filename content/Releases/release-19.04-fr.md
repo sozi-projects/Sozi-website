@@ -59,8 +59,6 @@ présentations Sozi en vidéos ou en documents imprimables.
 Ces outils reposent sur PhantomJS, un moteur de navigateur web qui n'est plus
 maintenu.
 Pour cette raison, Sozi-export est devenu inutilisable sur plusieurs plates-formes.
-Consultez [cette conversation](https://sozi.baierouge.fr/community/d/79-sozi-to-pdf-failing-with-file-argument-must-be-of-type-string)
-pour plus de détails.
 À notre connaissance, il n'existe pas de moyen simple de corriger ce problème
 à court terme.
 

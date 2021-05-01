@@ -14,7 +14,7 @@ piloter les animations, réagir aux actions de l'utilisateur.
 Si vous observez que des éléments du document ne sont pas affichés correctement, le problème se trouve probablement dans votre logiciel de dessin ou dans votre navigateur web.
 
 > Merci de ne pas signaler ce type de problèmes, à moins que vous n'ayez de très bonnes raisons de croire qu'il s'agit d'un bug dans Sozi.
-> En cas de doute, vous pouvez demander de l'aide au [forum de la communauté Sozi](/community).
+> En cas de doute, vous pouvez demander de l'aide au [forum de la communauté Sozi](https://github.com/sozi-projects/Sozi/discussions).
 
 Plusieurs utilisateurs ont signalé des problèmes d'affichage lorsque leurs documents SVG contiennent
 des éléments de texte qui s'adaptent automatiquement à une certaine forme (par exemple un rectangle).

@@ -16,7 +16,7 @@ the issue is likely to come from either your SVG editor or your web browser.
 
 > Please do not send us bug reports on this topic unless you have strong reasons
 > to believe that the bug is in Sozi. If unsure, you can ask for advice on the
-> [Sozi community forum](/community).
+> [Sozi users forum](https://github.com/sozi-projects/Sozi/discussions).
 
 Several users have reported issues when their SVG document contains
 *flowed text*, i.e. text that fits automatically to a given shape (a rectangle in Inkscape).

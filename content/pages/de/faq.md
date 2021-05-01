@@ -14,7 +14,7 @@ Sozi kümmert sich nur um den *Ablauf der Präsentation*, um die Logik: geometri
 Wenn Grafiken nicht oder nicht richtig dargestellt werden, dann liegt das sehr wahrscheinlich am svg-Editor oder am Web Browser.
 
 > Bitte schicke uns keine Fehlermeldungen zu diesem Thema, es sei denn, Du hast sehr guten Grund zu der Annahme, das der Fehler in Sozi liegt.
-> Wenn Du Dir nicht sicher bist, kannst Du in der [Sozi community forum](/community) nachfragen.
+> Wenn Du Dir nicht sicher bist, kannst Du in der [Sozi users forum](https://github.com/sozi-projects/Sozi/discussions) nachfragen.
 
 Einige Nutzer haben von Problemen berichtet, wenn ihre svg-Dokumente *Fließtext* enthalten.
 Das meint Text, der automatisch in einer gewählten Form (einem Rechteck in Inkscape) fließt.

@@ -14,7 +14,7 @@ Over the years, while many users, including myself, were expecting new features 
 writing code has often felt like a better use of my time than writing documentation.
 
 Today, I realize that the documentation for Sozi needs to be updated and reorganized.
-I usually feel that some questions on the community forum would be easier to answer
+I usually feel that some questions on the users forum would be easier to answer
 if there was a real Sozi user guide available.
 For this reason, I have started a complete rewrite of the documentation in the form of an online book.
 I have also reserved a specific domain name for this book: [http://sozi.guide](http://sozi.guide)

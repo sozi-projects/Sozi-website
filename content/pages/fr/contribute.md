@@ -18,7 +18,7 @@ Même si vous n'êtes pas un programmeur, il y a plusieurs autres manières de c
 * [Signaler les problèmes relatifs à ce site site](https://github.com/sozi-projects/Sozi-website/issues)
 * [Traduire l'interface utilisateur de l'éditeur dans votre langue](|filename|translate-editor.md)
 * [Traduire le site web dans votre langue](|filename|translate-web-site.md)
-* [Aider les autres utilisateurs via le forum de la communauté](/community)
+* [Aider les autres utilisateurs via le forum de la communauté](https://github.com/sozi-projects/Sozi/discussions)
 
 Liste des contributeurs
 -----------------------

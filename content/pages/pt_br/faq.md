@@ -16,7 +16,7 @@ o problema provavelmente deve ser do editor de SVG ou do browser.
 
 > Por favor não nos informe problemas relacionados a esse tópico a não ser que tenha fortes
 > razões para acreditar que o problema está no Sozi.
-> Caso não tenha certeza, procure conselhos no [grupo de discussão de usuários do Sozi](/community).
+> Caso não tenha certeza, procure conselhos no [grupo de discussão de usuários do Sozi](https://github.com/sozi-projects/Sozi/discussions).
 
 Diversas pessoas têm informado problemas quando o documento SVG contém
 *fluir em molde*, isto é, um texto que acompanha certo objeto (um retângulo, p.ex) no Inkscape.
