@@ -68,17 +68,23 @@ Actions directes sur le canevas
         <th>Déplacement</th>
         <th>Zoom avant / arrière</th>
         <th>Rotation gauche / droite</th>
+        <th>Afficher tout</th>
+        <th>Restaurer la vue courant</th>
     </tr>
     <tr>
         <th>Souris</th>
         <td>Glisser avec le bouton gauche</td>
-        <td>Molette avant / arrière</td>
-        <td>Majuscule + Molette avant / arrière</td>
+        <td>Molette<br>avant / arrière</td>
+        <td>Maj. + Molette<br>avant / arrière</td>
+        <td></td>
+        <td></td>
     </tr>
     <tr>
         <th>Clavier</th>
         <td></td>
         <td>+ / -</td>
         <td>r / R</td>
+        <td>a, A</td>
+        <td>=</td>
     </tr>
 </table>

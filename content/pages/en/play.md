@@ -65,17 +65,23 @@ Direct actions on the canvas
         <th>Move</th>
         <th>Zoom in / out</th>
         <th>Rotate left / right</th>
+        <th>View all</th>
+        <th>Restore current frame</th>
     </tr>
     <tr>
         <th>Mouse</th>
         <td>Drag with left button</td>
-        <td>Mouse wheel forward / backward</td>
-        <td>Shift + Mouse wheel forward / backward</td>
+        <td>Mouse wheel<br>forward / backward</td>
+        <td>Shift + Mouse wheel<br>forward / backward</td>
+        <td></td>
+        <td></td>
     </tr>
     <tr>
         <th>Keyboard</th>
         <td></td>
         <td>+ / -</td>
         <td>r / R</td>
+        <td>a, A</td>
+        <td>=</td>
     </tr>
 </table>

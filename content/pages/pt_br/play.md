@@ -64,17 +64,23 @@ Ações diretas na tela
         <th>Mover</th>
         <th>Mais / menos zoom</th>
         <th>Rotacionar esquerda / direita</th>
+        <th>View all</th>
+        <th>Restore current frame</th>
     </tr>
     <tr>
         <th>Mouse</th>
         <td>Arrastar com o botão esquerdo</td>
-        <td>Roda do mouse pra frente / pra trás</td>
-        <td>Shift + Roda do mouse pra frente / pra trás</td>
+        <td>Roda do mouse<br>pra frente / pra trás</td>
+        <td>Shift + Roda do mouse<br>pra frente / pra trás</td>
+        <td></td>
+        <td></td>
     </tr>
     <tr>
         <th>Teclado</th>
         <td></td>
         <td>+ / -</td>
         <td>r / R</td>
+        <td>a, A</td>
+        <td>=</td>
     </tr>
 </table>

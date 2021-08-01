@@ -62,17 +62,23 @@ Direkte Möglichkeiten auf dem Bild
         <th>Verschieben</th>
         <th>Hinein- und Herauszoomen</th>
         <th>Links, rechts drehen</th>
+        <th>View all</th>
+        <th>Restore current frame</th>
     </tr>
     <tr>
         <th>Maus</th>
         <td>Ziehe mit gedrückter primärer Maustaste</td>
-        <td>Mausrad nach vorne/zurück</td>
-        <td><code>Shift</code>-Taste + Mausrad nach vorne/zurück</td>
+        <td>Mausrad nach<br>vorne/zurück</td>
+        <td>Shift-Taste + Mausrad nach<br>vorne/zurück</td>
+        <td></td>
+        <td></td>
     </tr>
     <tr>
         <th>Tastatur</th>
         <td></td>
         <td>+ / -</td>
         <td>r / R</td>
+        <td>a, A</td>
+        <td>=</td>
     </tr>
 </table>
