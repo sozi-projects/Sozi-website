@@ -1,6 +1,6 @@
 Title: À paraître : Le guide de l'utilisateur de Sozi
-Date: 2021-04-05
-Slug: 2021-04-05-sozi-guide
+Date: 2021-11-05
+Slug: 2021-11-05-sozi-guide
 Lang: fr
 Authors: Guillaume Savaton
 Summary:
@@ -21,5 +21,9 @@ trouveraient plus facilement une réponse si un véritable guide d'utilisation d
 Pour cette raison, j'ai commencé une réécriture complète de la documentation sous la forme d'un livre en ligne.
 J'ai aussi réservé un nouveau nom de domaine pour ce livre : [http://sozi.guide](http://sozi.guide)
 
-Comme Sozi, ce livre sera publié sous une licence libre et à un prix raisonnable :
-"payez ce que vous voulez". J'espère que vous le trouverez utile et divertissant.
+Comme Sozi, ce livre sera publié sous une licence libre, sans publicité et
+sans obligation de paiment. J'espère que vous le trouverez utile et divertissant.
+
+> Vous pouvez m'aider à dédier du temps pour travailler sur ce livre
+> en [participant à la campagne de financement participatif](https://gofund.me/2f2b11db)
+> ou en [faisant un don via un autre service](pages/70-donate.html).

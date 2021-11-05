@@ -1,6 +1,6 @@
 Title: Announcing the Sozi Guide
-Date: 2021-04-05
-Slug: 2021-04-05-sozi-guide
+Date: 2021-11-05
+Slug: 2021-11-05-sozi-guide
 Lang: en
 Authors: Guillaume Savaton
 Summary:
@@ -19,5 +19,9 @@ if there was a real Sozi user guide available.
 For this reason, I have started a complete rewrite of the documentation in the form of an online book.
 I have also reserved a specific domain name for this book: [http://sozi.guide](http://sozi.guide)
 
-Like Sozi, the book will be published under a free license, and at a reasonable price:
-"pay what you want". I hope you find it useful and entertaining.
+Like Sozi, the book will be published under a free license, with no ads and no paywall.
+I hope you find it useful and entertaining.
+
+> You can help me dedicate some time to work on this book
+> by [participating in the fundraising campaign](https://gofund.me/2f2b11db)
+> or by [donating via another service](pages/70-donate.html).
