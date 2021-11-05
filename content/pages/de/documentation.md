@@ -4,6 +4,13 @@ Lang: de
 Authors: Guillaume Savaton, Alfred Bergkemper
 Translation: true
 
+> A complete rewrite of the documentation is under way.
+> It will take the form of an online book available at: [http://sozi.guide](http://sozi.guide)
+>
+> You can help me dedicate some time to work on this book
+> by [participating in the fundraising campaign](https://gofund.me/2f2b11db)
+> or by [donating via another service](|filename|donate.md).
+
 ## Präsentationen erstellen
 
 * [Reference manual of the presentation editor](|filename|ui.md)

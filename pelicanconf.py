@@ -38,7 +38,7 @@ THEME = 'themes/sozi'
 
 ARTICLE_EXCLUDES = ['wiki', 'presentations']
 
-STATIC_PATHS = ['images', 'releases', 'extra/favicon.ico', 'wiki', 'presentations']
+STATIC_PATHS = ['images', 'Releases', 'extra/favicon.ico', 'wiki', 'presentations']
 
 EXTRA_PATH_METADATA = {
     'extra/favicon.ico': {'path': 'favicon.ico'}
