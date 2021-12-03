@@ -33,18 +33,14 @@ Open a terminal and run the following command:
 sudo dpkg -i sozi_{version}_{arch}.deb
 ```
 
-### Fedora, CentOS
-
-We do not provide packages in the RPM format.
-However, Debian packages can be installed using the `alien` utility
-from your distribution.
+### Fedora, CentOS Stream
 
 From the [download page for the latest release](https://github.com/sozi-projects/Sozi/releases/latest){:target="_blank"},
-download the `.deb` file that corresponds to your platform (`i386` or `amd64`).
+download the `.rpm` file that corresponds to your platform (`i386` or `amd64`).
 Open a terminal and run the following command:
 
 ```bash
-sudo alien -i sozi_{version}_{arch}.deb
+sudo rpm -i sozi_{version}_{arch}.rpm
 ```
 
 ### Archlinux
