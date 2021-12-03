@@ -40,7 +40,7 @@ téléchargez le fichier `.rpm` correspondant à votre plate-forme (`i386` ou `a
 Ouvrez un terminal et exécutez la commande suivante&nbsp;:
 
 ```bash
-sudo rpm -i sozi_{version}_{arch}.rpm
+sudo rpm -i sozi-{version}.{arch}.rpm
 ```
 
 ### Archlinux
