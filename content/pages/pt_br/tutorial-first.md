@@ -5,6 +5,15 @@ Authors: Guillaume Savaton, Marcelo Vaz Pupo
 Translation: true
 Status: hidden
 
+> An updated version of this tutorial is available in the [Sozi Guide](http://sozi.guide).
+> Follow these links to read it: [in English](http://sozi.guide/en/first-presentation.html),
+> or [in French](http://sozi.guide/fr/premiere-presentation.html).
+>
+> The [Sozi Guide](http://sozi.guide) is a new user manual for Sozi, currently in the process of writing and translating.
+> You can help me dedicate some time to work on this book by
+> [participating in the ongoing fundraising campaign](https://gofund.me/2f2b11db)
+> or by [donating via another service](|filename|donate.md).
+
 Esse tutorial apresenta as principais características do Sozi.
 Você irá aprender como criar os quadros da sua apresentação e efetivamente usá-la em um navegador de internet.
 
@@ -61,10 +70,10 @@ Ao salvar a apresentação, o editor atualiza os seguintes arquivos:
 
 * `first-presentation.sozi.json` contém dos dados da apresentação. Esse arquivo é utilizado
   pelo editor de apresentação. Ele deve permanecer na mesma pasta do arquivo SVG e ter, necessariamente, o mesmo nome.
-* `first-presentation.sozi.html` contém a apresentação completa. É possível exibí-la em um navegador de internet 
+* `first-presentation.sozi.html` contém a apresentação completa. É possível exibí-la em um navegador de internet
 para realizar a apresentação.
 
-Caso queira compartilhar sua apresentação com outras pessoas basta enviar o 
+Caso queira compartilhar sua apresentação com outras pessoas basta enviar o
 arquivo que tem a extensão `.sozi.html`.
 
 
