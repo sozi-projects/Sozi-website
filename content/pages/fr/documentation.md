@@ -7,9 +7,7 @@ Authors: Guillaume Savaton
 > Une réécriture complète de la documentation est en cours.
 > Elle prendra la forme d'un livre en ligne disponible à l'adresse&nbsp;: [http://sozi.guide](http://sozi.guide)
 >
-> Vous pouvez m'aider à dédier du temps pour travailler sur ce livre
-> en [participant à la campagne de financement participatif](https://gofund.me/2f2b11db)
-> ou en [faisant un don via un autre service](|filename|donate.md).
+> Vous pouvez m'aider à dédier du temps pour travailler sur ce livre en [faisant un don](|filename|donate.md).
 
 ## Créer une présentation
 

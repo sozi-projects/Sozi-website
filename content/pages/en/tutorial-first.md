@@ -9,9 +9,7 @@ Status: hidden
 > Follow this link to read it: [First presentation: show off your Big Ideas](http://sozi.guide/en/first-presentation.html).
 >
 > The [Sozi Guide](http://sozi.guide) is a new user manual for Sozi, currently in the process of writing and translating.
-> You can help me dedicate some time to work on this book by
-> [participating in the ongoing fundraising campaign](https://gofund.me/2f2b11db)
-> or by [donating via another service](|filename|donate.md).
+> You can help me dedicate some time to work on this book by [making a donation](|filename|donate.md).
 
 This tutorial will introduce the basic features of Sozi.
 You will learn how to create frames and play the presentation in a web browser.

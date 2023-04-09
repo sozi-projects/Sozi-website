@@ -10,9 +10,7 @@ Status: hidden
 > or [in French](http://sozi.guide/fr/premiere-presentation.html).
 >
 > The [Sozi Guide](http://sozi.guide) is a new user manual for Sozi, currently in the process of writing and translating.
-> You can help me dedicate some time to work on this book by
-> [participating in the ongoing fundraising campaign](https://gofund.me/2f2b11db)
-> or by [donating via another service](|filename|donate.md).
+> You can help me dedicate some time to work on this book by [making a donation](|filename|donate.md).
 
 Dieses Tutorial beschreibt die wichtigsten Features von Sozi.
 Du wirst lernen, die einzelnen Bilder zu erstellen und die Präsentation in einem Browser abzuspielen.

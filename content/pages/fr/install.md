@@ -8,9 +8,7 @@ Authors: Guillaume Savaton
 > Suivez ce lien pour la consulter : [Installation des logiciels](http://sozi.guide/fr/installation.html).
 >
 > Le [Guide de Sozi](http://sozi.guide) est un nouveau manuel d'utilisation de Sozi en cours de rédaction.
-> Vous pouvez m'aider à dédier du temps pour travailler sur ce livre
-> en [participant à la campagne de financement participatif](https://gofund.me/2f2b11db)
-> ou en [faisant un don via un autre service](|filename|donate.md).
+> Vous pouvez m'aider à dédier du temps pour travailler sur ce livre en [faisant un don](|filename|donate.md).
 
 Choisissez votre environnement et version
 ------------------------------------------

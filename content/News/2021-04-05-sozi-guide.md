@@ -22,6 +22,4 @@ I have also reserved a specific domain name for this book: [http://sozi.guide](h
 Like Sozi, the book will be published under a free license, with no ads and no paywall.
 I hope you find it useful and entertaining.
 
-> You can help me dedicate some time to work on this book
-> by [participating in the fundraising campaign](https://gofund.me/2f2b11db)
-> or by [donating via another service](pages/70-donate.html).
+> You can help me dedicate some time to work on this book by [making a donation](pages/70-donate.html).

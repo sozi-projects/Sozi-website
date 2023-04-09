@@ -24,6 +24,4 @@ J'ai aussi réservé un nouveau nom de domaine pour ce livre : [http://sozi.guid
 Comme Sozi, ce livre sera publié sous une licence libre, sans publicité et
 sans obligation de paiment. J'espère que vous le trouverez utile et divertissant.
 
-> Vous pouvez m'aider à dédier du temps pour travailler sur ce livre
-> en [participant à la campagne de financement participatif](https://gofund.me/2f2b11db)
-> ou en [faisant un don via un autre service](pages/70-donate.html).
+> Vous pouvez m'aider à dédier du temps pour travailler sur ce livre en [faisant un don](pages/70-donate.html).

@@ -4,8 +4,8 @@ Building the website of Sozi
 Install the build tools
 -----------------------
 
-    sudo apt-get install python-pip
-    sudo pip install pelican Markdown
+    sudo apt install python-pip
+    pip3 install pelican Markdown
 
 Build
 -----
